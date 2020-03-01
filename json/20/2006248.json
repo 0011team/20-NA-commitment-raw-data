@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006248",
+  "title": "[2006248] 국토의 계획 및 이용에 관한 법률 일부개정법률안(임종성의원 등 13인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2006248",
+    "2017-03-17",
+    "임종성의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','CFB67191-DC70-8446-E02C-F910EE7E82EE','0');",
+  "proposers": [
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이훈",
+      "party": "더불어민주당",
+      "name_cn": "李薰"
+    },
+    {
+      "name_kr": "전현희",
+      "party": "더불어민주당",
+      "name_cn": "全賢姬"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "최인호",
+      "party": "더불어민주당",
+      "name_cn": "崔仁昊"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  구(舊) 「도시계획법」 제4조에 대해 헌법재판소의 헌법불합치(97헌바26) 결정 이후 「국토의 계획 및 이용에 관한 법률」제48조는 도시ㆍ군계획시설결정의 유효기간을 20년으로 설정하고 있음.\n  그러나 도시ㆍ군계획시설의 부지가 국공유지인 경우에는 해당 토지에 대한 사적 이용권이나 재산권의 침해 가능성이 작아 이를 실효 대상에서 제외함으로써 향후 기반시설의 확보를 용이하게 하려는 것임(제48조제1항 단서 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-03-17",
+  "decision_date": "2020-01-09",
+  "link_id": "PRC_B1M7S0Z3S1S7H1T4M1G5L1C8C6L0Z5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

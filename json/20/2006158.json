@@ -1,0 +1,115 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006158",
+  "title": "[2006158] 상법 일부개정법률안(박준영의원 등 18인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2006158",
+    "2017-03-14",
+    "박준영의원 등 18인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','BD2538BD-A0D4-AB50-EA38-7228F6097C99','0');",
+  "proposers": [
+    {
+      "name_kr": "박준영",
+      "party": "국민의당",
+      "name_cn": "朴晙瑩"
+    },
+    {
+      "name_kr": "권은희",
+      "party": "국민의당",
+      "name_cn": "權垠希"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김성식",
+      "party": "국민의당",
+      "name_cn": "金成植"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "국민의당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "국민의당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "국민의당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "천정배",
+      "party": "국민의당",
+      "name_cn": "千正培"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법에는 회사의 이사에 대한 인원과 임기에 관한 규정만 있고, 자격에 관한 명문 규정은 없음.\n  ‘명목회사’ 또는 ‘가상회사’라 부르는 페이퍼컴퍼니(paper company)는 실질적으로는 자회사를 통해 영업활동을 하는 등 회사의 기능을 수행하고 있지만, 물리적 실체가 없는 서류형태로만 존재하는 회사로,  절세로 위장하여 탈세 또는 비자금 조성 등의 편법으로 이용되고 있어서 사회적 문제가 되고 있음. \n  특히 이 회사는 자연인이 아닌 법인이 이사가 되는 것을 제한하고 있지 않는 점에서 페이퍼컴퍼니의 이사가 1인 법인인 경우에는 불법행위책임을 져야할 주체가 존재하지 않아 피해가 발생할 우려가 있다는 지적이 있음.\n  이에 1인 이사의 자격제한 및 법률행위 효력을 규정함으로써 페이퍼컴퍼니의 불법적인 행위를 규제하고자 함(안 제383조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-03-14",
+  "decision_date": null,
+  "link_id": "PRC_H1K7N0A3X1Q4D1B7Z3U5W2M8T8T1K2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

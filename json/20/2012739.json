@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012739",
+  "title": "[2012739] 하천법 일부개정법률안(박덕흠의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2012739",
+    "2018-03-29",
+    "박덕흠의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제358회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','798F1ACF-6C36-E3C7-A3C6-1A0EC87EFB5F','0');",
+  "proposers": [
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "자유한국당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "자유한국당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "바른미래당",
+      "name_cn": "李鶴宰"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "자유한국당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  홍수관리구역은 당초 하천을 보전하고 홍수로 인한 피해를 예방하기 위하여 필요한 토지를 결정하는 취지와 다르게 과도한 행위제한으로 인한 민원이 발생하고 있고, 토지보상 등 일정한 권원의 취득이 없는 과도한 행위제한으로 인해 사유재산권 침해의 우려가 있어 공작물의 신축 또는 개축, 토지의 굴착？성토 등 토지 형질변경, 죽목의 재식 규정 중 더 이상 하천관리청의 규제가 불필요하여 사문화되고 하천환경에 영향이 없는 죽목의 재식 부분을 허가사항에서 제외하여 국민 불편을 완화하고자 함(안 제38조제1항제3호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-29",
+  "decision_date": "2018-07-26",
+  "link_id": "PRC_T1X8G0D3D2Z9S1E2N1Y2R5Y4W7N2B9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001752",
+  "title": "[2001752] 해양환경관리법 일부개정법률안(이종배의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2001752",
+    "2016-08-23",
+    "이종배의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제345회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C3D6BE53-330D-AEF6-E09C-046987316B11','0');",
+  "proposers": [
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "새누리당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김기선",
+      "party": "새누리당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "새누리당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "새누리당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김재경",
+      "party": "새누리당",
+      "name_cn": "金在庚"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "새누리당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "새누리당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "조원진",
+      "party": "새누리당",
+      "name_cn": "趙源震"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "새누리당",
+      "name_cn": "朱豪英"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 해양시설의 소유자로 하여금 해양수산부령으로 정하는 신고내용 및 절차에 따라 해양시설의 신고를 하도록 규정하고 있으나, 변경신고에 대하여는 특별한 규정을 두고 있지 않음.\n  이에 해양시설의 신고사항 중 중요한 사항의 변경이 있는 경우에는 변경신고를 하도록 하여 해양시설의 안전관리를 통한 해양오염 방지에 만전을 기하려는 것임(안 제33조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-23",
+  "decision_date": "2016-12-08",
+  "link_id": "PRC_X1G6H0K8S2F3Y1P3P2K6F2P4S5R2F1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

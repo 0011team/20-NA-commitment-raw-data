@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010976",
+  "title": "[2010976] 국방위원장(김영우) 사임의 건(김영우의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2010976",
+    "2017-12-22",
+    "김영우의원",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','58FAF3CC-E490-9AA4-7D70-D2CEC96CDF80','0');",
+  "proposers": [
+    {
+      "name_kr": "김영우",
+      "party": "자유한국당",
+      "name_cn": "金榮宇"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-22",
+  "decision_date": "2017-12-29",
+  "link_id": "PRC_L1G7C1X2H2J2T1R3X3S7D0X4H7X0E1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

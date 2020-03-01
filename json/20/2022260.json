@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022260",
+  "title": "[2022260] 국회법 일부개정법률안(신동근의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022260",
+    "2019-08-30",
+    "신동근의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제370회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','531047D9-4858-8FB0-2F8B-0A8DE61D68C5','0');",
+  "proposers": [
+    {
+      "name_kr": "신동근",
+      "party": "더불어민주당",
+      "name_cn": "申東根"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "김영춘",
+      "party": "더불어민주당",
+      "name_cn": "金榮春"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "남인순",
+      "party": "더불어민주당",
+      "name_cn": "南仁順"
+    },
+    {
+      "name_kr": "송갑석",
+      "party": "더불어민주당",
+      "name_cn": "宋甲錫"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "윤일규",
+      "party": "더불어민주당",
+      "name_cn": "尹一逵"
+    },
+    {
+      "name_kr": "이상헌",
+      "party": "더불어민주당",
+      "name_cn": "李相憲"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 국회의원의 품위유지의 의무를 규정하고 있음에도 국회의원의 욕설파문 등으로 사건사고가 끊이질 않고 있음.\n  이에 품위를 해치는 행위로 타인에 대한 욕설 등 모욕적인 언행을 명시함으로써 국회의원의 품위유지 의무를 강화하려는 것임(안 제25조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-08-30",
+  "decision_date": null,
+  "link_id": "PRC_V1V9T0Z8R3T0B1L5Z2Q0P1F7O4Q8V1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

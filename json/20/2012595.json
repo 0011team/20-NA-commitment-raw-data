@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012595",
+  "title": "[2012595] 소비자기본법 일부개정법률안(신용현의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2012595",
+    "2018-03-22",
+    "신용현의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제358회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','4BA35B83-363F-0BEA-6476-DDE1FA14D7CD','0');",
+  "proposers": [
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "바른미래당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "박경미",
+      "party": "더불어민주당",
+      "name_cn": "朴炅美"
+    },
+    {
+      "name_kr": "서형수",
+      "party": "더불어민주당",
+      "name_cn": "徐炯洙"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "오세정",
+      "party": "바른미래당",
+      "name_cn": "吳世正"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "바른미래당",
+      "name_cn": "鄭雲天"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른미래당",
+      "name_cn": "河泰慶"
+    },
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 사업자에게 물품등에 대한 정보를 소비자에게 성실하고 정확하게 제공할 책무를 부여하고 있으나, 소비자가 물품을 구매한 이후에 부품을 교체하거나 소프트웨어를 업그레이드하는 등의 경우 이와 관련한 정보를 제공할 책무는 부여하고 있지 않아 소비자피해의 발생이 우려됨.\n  이에 사업자가 이미 공급한 물품등의 부품·구성품·소프트웨어 등의 변경에 따른 성능·품질의 향상·변경·저하 가능성에 관한 정보도 소비자에게 성실하고 정확하게 제공하도록 함으로써 소비자의 알 권리를 보다 두텁게 보호하려는 것임(안 제19조제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-22",
+  "decision_date": null,
+  "link_id": "PRC_U1L8E0X3L2K2P1Z0P2Y0Q3E4M8Q3X4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

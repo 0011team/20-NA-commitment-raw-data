@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015846",
+  "title": "[2015846] 조세특례제한법 일부개정법률안(오제세의원 등 12인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2015846",
+    "2018-10-04",
+    "오제세의원 등 12인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7D0FD59E-E85B-D9B5-15D4-B7B6CB97B809','0');",
+  "proposers": [
+    {
+      "name_kr": "오제세",
+      "party": "더불어민주당",
+      "name_cn": "吳濟世"
+    },
+    {
+      "name_kr": "강길부",
+      "party": "무소속",
+      "name_cn": "姜吉夫"
+    },
+    {
+      "name_kr": "강병원",
+      "party": "더불어민주당",
+      "name_cn": "姜炳遠"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "이상돈",
+      "party": "바른미래당",
+      "name_cn": "李相敦"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "바른미래당",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "무소속",
+      "name_cn": "鄭泰沃"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 창업자가 해당 사업과 관련하여 금융기관으로부터 융자를 받기 위하여 작성하는 서류의 인지세를 창업 후 2년간 면제하고 있으나, 동 특례는 2018년 말로 일몰될 예정임.\n  그러나 초기 비용으로 인해 창업 후 1∼2년 이내 발생 가능성이 높은 죽음의 계곡(Death-Valley)을 극복하지 못하고 많은 창업기업이 시장에서 퇴출되고 있는 상황에서, 창업을 활성화하기 위한 정책적 지원을 지속할 필요가 있음.\n  이에 창업자에 대한 인지세 면제 특례를 2021년 12월 31일까지 3년간 연장함으로써, 창업 활성화에 기여하려는 것임(안 제116조제2항제3호의2 신설 등).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-04",
+  "decision_date": "2018-12-08",
+  "link_id": "PRC_I1E8S1R0J0Q4T0D9Z4E5W5B4X2G4D8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

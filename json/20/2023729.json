@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023729",
+  "title": "[2023729] 병역법 일부개정법률안(서청원의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023729",
+    "2019-11-12",
+    "서청원의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C69E1ADF-77AE-D104-1992-77AF9DD2A1F5','0');",
+  "proposers": [
+    {
+      "name_kr": "서청원",
+      "party": "무소속",
+      "name_cn": "徐淸源"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "자유한국당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "백승주",
+      "party": "자유한국당",
+      "name_cn": "白承周"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "자유한국당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "조원진",
+      "party": "우리공화당",
+      "name_cn": "趙源震"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n  군은 인력 부족을 해결하기 위하여 2022년까지 군무원을 1만 7천명 증원하는 국방인력구조 개편(안)을 추진하는 상황임. 그런데, 사회복무요원의 경우, 적체가 심각하여 올해 무려 1만 1,457명의 사회복무요원이 대거 소집 해제되는 상황이 발생하는 등 형평성문제가 제기되고 있는 실정임.\n  이에 현행 병역법상 사회복무요원의 업무 분야에 군부대의 사회서비스업무 및 행정업무 등의 지원업무를 추가하여 군의 인력부족 문제와 사회복무요원의 적체 문제를 동시에 해소하고자 하는 것임. (안 제26조 제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-11-12",
+  "decision_date": null,
+  "link_id": "PRC_L1M9C1L1X1S2O1P0O1S3U4X8I5V7Y6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

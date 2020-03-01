@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003933",
+  "title": "[2003933] 국회의원(김도읍) 징계안(심재권의원) 입법예고중",
+  "current_status": "심사대상제외",
+  "reception_info": [
+    "2003933",
+    "2016-11-29",
+    "심재권의원",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','885125C8-2B45-A0F0-655B-A56680E59512','0');",
+  "proposers": [
+    {
+      "name_kr": "심재권",
+      "party": "더불어민주당",
+      "name_cn": "沈載權"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-29",
+  "decision_date": "2019-03-08",
+  "link_id": "PRC_J1B6C1R1K2J9L1W4O0S9Y1T1L1P8Q9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,235 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012472",
+  "title": "[2012472] 남북정상회담 및 북미정상회담의 성공적 개최와 한반도의 항구적 평화 및 남북공동번영을 위한 결의안(김두관의원 등 42인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2012472",
+    "2018-03-14",
+    "김두관의원 등 42인",
+    "의안원문",
+    "제20대 (2016~2020) 제358회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','3616CE18-D463-F3BD-8E16-D7F9E3AA5126','0');",
+  "proposers": [
+    {
+      "name_kr": "김두관",
+      "party": "더불어민주당",
+      "name_cn": "金斗官"
+    },
+    {
+      "name_kr": "강병원",
+      "party": "더불어민주당",
+      "name_cn": "姜炳遠"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "김한정",
+      "party": "더불어민주당",
+      "name_cn": "金漢正"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "문희상",
+      "party": "더불어민주당",
+      "name_cn": "文喜相"
+    },
+    {
+      "name_kr": "박경미",
+      "party": "더불어민주당",
+      "name_cn": "朴炅美"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "더불어민주당",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "손혜원",
+      "party": "더불어민주당",
+      "name_cn": "孫惠園"
+    },
+    {
+      "name_kr": "신동근",
+      "party": "더불어민주당",
+      "name_cn": "申東根"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "심기준",
+      "party": "더불어민주당",
+      "name_cn": "沈基俊"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "어기구",
+      "party": "더불어민주당",
+      "name_cn": "魚基龜"
+    },
+    {
+      "name_kr": "오영훈",
+      "party": "더불어민주당",
+      "name_cn": "吳怜勳"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "민주평화당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "유은혜",
+      "party": "더불어민주당",
+      "name_cn": "兪銀惠"
+    },
+    {
+      "name_kr": "이수혁",
+      "party": "더불어민주당",
+      "name_cn": "李秀赫"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "무소속",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "이훈",
+      "party": "더불어민주당",
+      "name_cn": "李薰"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "전해철",
+      "party": "더불어민주당",
+      "name_cn": "全海澈"
+    },
+    {
+      "name_kr": "조정식",
+      "party": "더불어민주당",
+      "name_cn": "趙正湜"
+    },
+    {
+      "name_kr": "천정배",
+      "party": "민주평화당",
+      "name_cn": "千正培"
+    },
+    {
+      "name_kr": "최운열",
+      "party": "더불어민주당",
+      "name_cn": "崔運烈"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-14",
+  "decision_date": null,
+  "link_id": "PRC_V1H8R0B3U1R4E1P6H1O2Y4P7K7A0H7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

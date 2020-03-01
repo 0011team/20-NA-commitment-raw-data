@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023970",
+  "title": "[2023970] 통신비밀보호법 일부개정법률안(심재철의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023970",
+    "2019-11-27",
+    "심재철의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','96F7DA1C-2486-0198-AF01-7CA52036D50C','0');",
+  "proposers": [
+    {
+      "name_kr": "심재철",
+      "party": "자유한국당",
+      "name_cn": "沈在哲"
+    },
+    {
+      "name_kr": "강석호",
+      "party": "자유한국당",
+      "name_cn": "姜碩鎬"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "자유한국당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "박대출",
+      "party": "자유한국당",
+      "name_cn": "朴大出"
+    },
+    {
+      "name_kr": "여상규",
+      "party": "자유한국당",
+      "name_cn": "余尙奎"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "유기준",
+      "party": "자유한국당",
+      "name_cn": "兪奇濬"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "자유한국당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정용기",
+      "party": "자유한국당",
+      "name_cn": "鄭容起"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  법문 표현은 일반 국민이 쉽게 읽고 이해하여 잘 준수할 수 있도록 해야 하며 국민의 올바른 언어생활의 본보기가 되어야 함. 그런데 여전히 우리 법문에는 일반 국민이 쉽게 이해하기 어려운 표현이 많이 남아 있음. 특히 일본식 용어는 국민의 일상적인 언어생활과는 거리가 있으며, 사회문화적인 관점에서도 일본식 용어가 법문에 남아 있는 것은 적절하지 않음.\n  이에 일본식 용어인 ‘당해’를 이해하기 쉬운 우리말 ‘해당’으로 변경하려 함(안 제3조제1항, 제6조제4항, 제9조제3항, 제13조제5항·제7항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-11-27",
+  "decision_date": null,
+  "link_id": "PRC_G1R9J1G1H2N7G1W6Z2H0U0Y6O9S6J0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

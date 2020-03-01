@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015640",
+  "title": "[2015640] 관광진흥법 일부개정법률안(정병국의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2015640",
+    "2018-09-19",
+    "정병국의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','478AD305-6A7C-4166-BBE3-E6BA7FA864DD','0');",
+  "proposers": [
+    {
+      "name_kr": "정병국",
+      "party": "바른미래당",
+      "name_cn": "鄭柄國"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金成泰"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "바른미래당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "바른미래당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "이태규",
+      "party": "바른미래당",
+      "name_cn": "李泰珪"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "바른미래당",
+      "name_cn": "李鶴宰"
+    },
+    {
+      "name_kr": "이혜훈",
+      "party": "바른미래당",
+      "name_cn": "李惠薰"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "바른미래당",
+      "name_cn": "鄭雲天"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 대형 놀이공원, 워터파크 등의 이용객이 증가하면서 과도한 이용객 수에 따른 안전사고의 위험성이 커지고 있음. 현행법에 따라 유원시설업으로 허가를 받는 시설은 대규모의 인원이 한꺼번에 밀집하는 만큼 이용객의 안전을 위하여 최대 수용인원의 추계, 이용객 현황 관리가 중요함.\n  이에 현행법에 따른 대형 유원시설업의 입구 또는 홈페이지에 해당 시설의 일일 최대 수용인원과 실시간 이용객 수를 게시하도록 하여, 이용객의 선택 기준을 확대하고 이용객의 안전을 위한 시설 관리에 기여하고자 함(안 제34조제3항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-09-19",
+  "decision_date": null,
+  "link_id": "PRC_H1L8F0R9M1U9J1J7P3S9M0S4E8A4R1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

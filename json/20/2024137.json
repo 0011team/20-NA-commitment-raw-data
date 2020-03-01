@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2024137",
+  "title": "[2024137] 고등교육법 일부개정법률안(강효상의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2024137",
+    "2019-12-02",
+    "강효상의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','31960CD5-62BC-D245-513A-264C9C7D9CDC','0');",
+  "proposers": [
+    {
+      "name_kr": "강효상",
+      "party": "자유한국당",
+      "name_cn": "姜孝祥"
+    },
+    {
+      "name_kr": "곽상도",
+      "party": "자유한국당",
+      "name_cn": "郭尙道"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金成泰"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "자유한국당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "유재중",
+      "party": "자유한국당",
+      "name_cn": "柳在仲"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이장우",
+      "party": "자유한국당",
+      "name_cn": "李莊雨"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "정양석",
+      "party": "자유한국당",
+      "name_cn": "鄭亮碩"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법령에 따르면 국가 외의 자가 학교를 설립하려는 경우에는 교육부장관의 인가를 받도록 하고 있음.\n  그런데 최근 학령인구 감소와 같은 교육환경 변화로 학교의 경영 여건이 악화되면서 학교의 본질인 교육보다는 수익성 확보에 초점을 맞추는 학교가 증가하거나, 재무건전성이 부실한 학교에 대한 지원을 위하여 막대한 국가예산이 투입되는 경우가 있어 이에 대한 문제의식이 생겨나고 있음.\n  이에 교육부장관이 학교설립의 인가를 하는 경우 학교를 설립하려는 자의 재무건전성을 고려하여 인가를 할 수 있도록 법적 근거를 마련하고자 함(안 제4조제2항 후단 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-12-02",
+  "decision_date": null,
+  "link_id": "PRC_D1T9U1V2T0Y2A1E5K4U3J5A2D0B1V3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

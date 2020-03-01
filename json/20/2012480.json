@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012480",
+  "title": "[2012480] 원자력안전법 일부개정법률안(손금주의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2012480",
+    "2018-03-15",
+    "손금주의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제358회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','1950F81A-CEAD-3BA0-CF47-30C6E94D5E1C','0');",
+  "proposers": [
+    {
+      "name_kr": "손금주",
+      "party": "무소속",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "남인순",
+      "party": "더불어민주당",
+      "name_cn": "南仁順"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "무소속",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "천정배",
+      "party": "민주평화당",
+      "name_cn": "千正培"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  2017년 고리1호기의 영구정지를 시작으로 원전 해체를 위한 기술개발이 진행되고 있음.\n  원전해체의 경험·관련 기술을 확보하고 있는 미국, 일본, 독일 등과 달리 상업용 원전 해체 경험이 전무한 우리나라의 경우 향후 다수의 원전 해체를 앞두고 기술개발과 더불어 관련 법 정비가 요구되는 상황임.\n  특히 원자력 안전에 대한 국민의 관심이 높은 만큼 원전 해체에 대한 투명한 정보공개와 국민 참여가 필수적임.\n  이에 원전의 해체 계획부터 과정, 완료 단계를 국민에게 투명하게 공개하고 참여할 수 있도록 해 국민의 신뢰 하에 해체과정을 진행할 수 있도록 하려는 것임(안 제103조의2제2항 신설, 제103조의2제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-15",
+  "decision_date": null,
+  "link_id": "PRC_U1X8J0O3L1Z5H1Z0Z3O6B4F8J5B5Y8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

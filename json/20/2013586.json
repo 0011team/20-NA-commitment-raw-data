@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013586",
+  "title": "[2013586] 위치정보의 보호 및 이용 등에 관한 법률 일부개정법률안(김영호의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2013586",
+    "2018-05-15",
+    "김영호의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제360회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','BEE91FFE-063E-1924-3880-2F28EE5AEF2A','0');",
+  "proposers": [
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "권미혁",
+      "party": "더불어민주당",
+      "name_cn": "權美赫"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "남인순",
+      "party": "더불어민주당",
+      "name_cn": "南仁順"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "심재권",
+      "party": "더불어민주당",
+      "name_cn": "沈載權"
+    },
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 급박한 위험으로부터 생명·신체를 보호하기 위한 경우에 한하여 긴급구조기관이나 경찰관서가 위치정보사업자로부터 개인위치정보를 제공받을 수 있도록 제한하고 있음.\n  그런데 보이스피싱 등으로 인하여 개인의 재산에 대한 급박한 위험이 있더라도 긴급구조기관이나 경찰관서가 개인위치정보를 제공받을 수 없어 피해를 막기 어렵다는 지적이 제기되고 있음.\n  이에 생명·신체뿐만 아니라 개인의 재산에 급박한 위험이 있는 경우에도 긴급구조기관이나 경찰관서가 개인위치정보를 제공받을 수 있도록 하여 개인의 재산을 위험으로부터 보호하려는 것임(안 제29조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-05-15",
+  "decision_date": null,
+  "link_id": "PRC_G1R8T0Z5X1U5Z1B7Q4Z9M4M7S1N7R2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

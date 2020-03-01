@@ -1,0 +1,40 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003410",
+  "title": "[2003410] 대한민국 정부와 일본 정부 간의 군사정보보호협정 체결 협의 중단 촉구 결의안(우상호의원 등 3인 외 159인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2003410",
+    "2016-11-09",
+    "우상호의원 등 3인 외 159인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','AA0AA89B-3D0A-066E-C22E-C49C5B4F70F7','0');",
+  "proposers": [
+    {
+      "name_kr": "우상호",
+      "party": "더불어민주당",
+      "name_cn": "禹相虎"
+    },
+    {
+      "name_kr": "노회찬",
+      "party": "정의당",
+      "name_cn": "魯會燦"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "국민의당",
+      "name_cn": "朴智元"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-09",
+  "decision_date": null,
+  "link_id": "PRC_X1Z6W1G1L0I9X1T3A5H5O0C5U3Z5P5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

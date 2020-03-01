@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003394",
+  "title": "[2003394] 가족관계의 등록 등에 관한 법률 일부개정법률안(김영진의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2003394",
+    "2016-11-08",
+    "김영진의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FF777613-3FCB-6695-55A9-57A64DF21470','0');",
+  "proposers": [
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "서형수",
+      "party": "더불어민주당",
+      "name_cn": "徐炯洙"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "이종걸",
+      "party": "더불어민주당",
+      "name_cn": "李鍾杰"
+    },
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "최명길",
+      "party": "더불어민주당",
+      "name_cn": "崔明吉"
+    },
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  헌법재판소는 현행법 제14조에 대하여 형제자매가 개인정보가 수록된 가족관계등록법상 각종 증명서를 본인의 동의 없이도 발급받을 수 있도록 하는 것은 개인정보자기결정권을 침해해 헌법에 위반된다는 이유로 위헌결정을 선고하였음(2016.6.30.선고, 2015헌마924 결정).\n  이에 증명서교부 청구권자에서 형제자매를 삭제하여 증명서 교부청구권자의 범위를 필요 최소한도로 한정함으로써 개인정보자기결정권을 강화하려는 것임(안 제14조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-08",
+  "decision_date": "2017-09-28",
+  "link_id": "PRC_Z1Y6F1Y1C0F8U1S6C4D8D2A7R3R5U4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

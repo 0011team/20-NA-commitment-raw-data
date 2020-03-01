@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016523",
+  "title": "[2016523] 선박안전법 일부개정법률안(김성찬의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2016523",
+    "2018-11-13",
+    "김성찬의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F4B3F11B-A4E9-B472-6608-A4C67BBBE45E','0');",
+  "proposers": [
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김영춘",
+      "party": "더불어민주당",
+      "name_cn": "金榮春"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박완수",
+      "party": "자유한국당",
+      "name_cn": "朴完洙"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 선박 항해 중 화물의 이동에 따른 해양사고 등을 방지하기 위하여 화물적재고박지침서를 마련하여 해양수산부장관의 승인을 받도록 규정하고 있으나, 이를 위반한 경우 처벌 조항이 없어 실효성을 확보하기 어려운 바, 처벌 조항을 신설하려는 것임(안 제83조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-11-13",
+  "decision_date": "2019-08-02",
+  "link_id": "PRC_Y1Y8Z1V1U1Q3D1L5N1N2F4L6S9Y3S6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

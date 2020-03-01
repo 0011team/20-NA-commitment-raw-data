@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020245",
+  "title": "[2020245] 전자금융거래법 일부개정법률안(이언주의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020245",
+    "2019-05-08",
+    "이언주의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C4BF923F-BC6B-76CA-8E6E-250D9A7C595A','0');",
+  "proposers": [
+    {
+      "name_kr": "이언주",
+      "party": "무소속",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "권은희",
+      "party": "바른미래당",
+      "name_cn": "權垠希"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김영우",
+      "party": "자유한국당",
+      "name_cn": "金榮宇"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "바른미래당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "정병국",
+      "party": "바른미래당",
+      "name_cn": "鄭柄國"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른미래당",
+      "name_cn": "河泰慶"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  정부는 투자자 보호를 위해 모든 형태의 암호통화 ICO를 금지한다는 방침을 발표한 바 있으나, 이는 투자자 보호의 실효성이 크지 않은 반면 해외에서의 ICO를 통한 국내 자본의 해외 유출 및 암호통화 관련 산업 위축에 따른 주도권 상실 등의 우려가 제기되고 있음.\n  이에 일정 요건을 갖추어 허가를 받은 암호통화취급업자가 금융위원회에 신고하는 경우 ICO를 허용하고 암호통화 관련 기술에 관한 국제협력 추진을 위한 근거를 마련하는 한편, 암호통화 취급업무에 대하여 감독 및 검사를 실시하고 시세조종행위, 시장질서 교란행위 등을 금지함으로써 투자자의 보호와 암호통화 산업의 육성 및 발전을 함께 도모하려는 것임(안 제2조제23호부터 제25호까지, 제5장, 제47조의2 신설 등).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-08",
+  "decision_date": null,
+  "link_id": "PRC_E1H9S0V5I0P8S1J5O3X8X1H1F5G5P6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

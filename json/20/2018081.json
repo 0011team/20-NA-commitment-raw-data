@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018081",
+  "title": "[2018081] 주택법 일부개정법률안(백승주의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018081",
+    "2019-01-08",
+    "백승주의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제365회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B6F9564B-02D9-725F-24C4-EDAE72B8F437','0');",
+  "proposers": [
+    {
+      "name_kr": "백승주",
+      "party": "자유한국당",
+      "name_cn": "白承周"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "자유한국당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "유민봉",
+      "party": "자유한국당",
+      "name_cn": "庾敏鳳"
+    },
+    {
+      "name_kr": "이정현",
+      "party": "무소속",
+      "name_cn": "李貞鉉"
+    },
+    {
+      "name_kr": "최교일",
+      "party": "자유한국당",
+      "name_cn": "崔敎一"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    },
+    {
+      "name_kr": "홍철호",
+      "party": "자유한국당",
+      "name_cn": "洪哲鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 분양가심사위원회의 위원이 주택의 분양가격 제한 등에 관한 사항 등을 심의할 때에는 신의와 성실로써 공정하게 심사하도록 하고, 이를 위반하여 고의로 잘못된 심사를 한 자는 2년 이하의 징역 ‘1천만원 이하’의 벌금에 처하도록 하고 있음.\n  그러나, 형벌기능이 약하여 범죄의 예방 및 재범의 방지가 반감될 수 있으므로 그 실효성을 유지하기 위하여 형벌 기준을 상향하고 현실화하여 형벌로서의 기능을 회복시키는 한편 범죄억지력을 확보하려는 것임(안 제103조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-01-08",
+  "decision_date": null,
+  "link_id": "PRC_D1A9W0N1I0I8C1P0O5S7B4Q0E0A9X3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

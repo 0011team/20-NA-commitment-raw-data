@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019308",
+  "title": "[2019308] 도로교통법 일부개정법률안(이채익의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2019308",
+    "2019-03-20",
+    "이채익의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제367회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EFB0C75E-D26E-5446-F952-10518FDF1AC9','0');",
+  "proposers": [
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "김영우",
+      "party": "자유한국당",
+      "name_cn": "金榮宇"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "자유한국당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "박완수",
+      "party": "자유한국당",
+      "name_cn": "朴完洙"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "자유한국당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "유민봉",
+      "party": "자유한국당",
+      "name_cn": "庾敏鳳"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "자유한국당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "최교일",
+      "party": "자유한국당",
+      "name_cn": "崔敎一"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "자유한국당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 자동차의 고장 등 부득이한 사정이 있는 경우를 제외하고는 갓길 주행이 금지되고 있음. 그러나 차량의 지속적인 증가에 따른 교통정체로 사회적 비용이 지속적으로 증가되고 있음.\n  이에 따라 정부에서도 부처 간 협의를 통해 교통의 원활한 흐름을 유도하기 위하여 제한적 조건에서 갓길의 차량 통행을 허용하는 방안을 검토하고 있음.\n  이에 현행법에 차량정체 시 경찰공무원의 신호 또는 지시에 따라 갓길 통행이 허용될 수 있도록 규정함으로써 도로에서 차량이 원활하게 통행할 수 있는 방안을 마련하고자 함(안 제60조제1항 단서).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-03-20",
+  "decision_date": "2019-12-10",
+  "link_id": "PRC_X1X9K0X3P2F0L1U0Q4E9R3W1L8K6I2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004404",
+  "title": "[2004404] 방송문화진흥회법 일부개정법률안(박용진의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004404",
+    "2016-12-15",
+    "박용진의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FFD9964A-F164-BE60-2BB5-20DAE415FB7F','0');",
+  "proposers": [
+    {
+      "name_kr": "박용진",
+      "party": "더불어민주당",
+      "name_cn": "朴用鎭"
+    },
+    {
+      "name_kr": "강병원",
+      "party": "더불어민주당",
+      "name_cn": "姜炳遠"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김영주",
+      "party": "더불어민주당",
+      "name_cn": "金榮珠"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "심상정",
+      "party": "정의당",
+      "name_cn": "沈相정"
+    },
+    {
+      "name_kr": "이종걸",
+      "party": "더불어민주당",
+      "name_cn": "李鍾杰"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "이학영",
+      "party": "더불어민주당",
+      "name_cn": "李學永"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 임원의 결격사유에 대해서는 규정하고 있으나 임원의 적극적 자격요건에 대해서는 아무런 규정이 없음.\n  이로 인해 방송이나 언론에 대한 전문지식이나 경력이 없는 사람이 임원으로 임명되는 일명 낙하산논란이 계속되고 있음.\n  이에 임원의 자격요건을 규정함으로써 방송이나 언론에 대한 전문지식이나 경력을 갖춘 사람만이 임원으로 선임될 수 있도록 하여 방송문화진흥회가 설립목적에 맞게 민주적이며 공정하고 건전한 방송문화의 진흥과 공공복지 향상에 이바지하도록 하고자 하는 것임(안 제8조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-15",
+  "decision_date": null,
+  "link_id": "PRC_J1F6Q1P2J1U5Y1R7K4A5M3A6O3J6G6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

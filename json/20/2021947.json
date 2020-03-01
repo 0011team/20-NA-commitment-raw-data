@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021947",
+  "title": "[2021947] 지방세법 일부개정법률안(이종배의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021947",
+    "2019-08-13",
+    "이종배의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제370회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','370876F4-79E8-E937-371D-B86CA5F3FFB7','0');",
+  "proposers": [
+    {
+      "name_kr": "이종배",
+      "party": "자유한국당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "자유한국당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 발전용수에 대한 지역자원시설세의 세율은 발전에 이용된 물 10㎥당 2원임. \n  그러나 1999년 물 10㎥당 1원인 세율을 2원으로 인상한 후 20년 동안 세율이 인상되지 않아 물가상승률 등을 고려하였을 때 해당 지방자치단체가 걷는 지역자원시설세는 실질적으로 감소하여 댐 주변지역 주민의 피해를 보상하기에 부족하다는 지적이 제기되고 있음.\n  이에 발전용수에 대한 지역자원시설세의 세율을 물 10㎥당 2원에서 3원으로 인상하려는 것임(안 제146조제1항제1호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-08-13",
+  "decision_date": null,
+  "link_id": "PRC_C1R9L0S8Z1F3I1O0G1P3R3K2V3C8I7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

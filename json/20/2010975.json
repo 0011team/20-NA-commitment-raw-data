@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010975",
+  "title": "[2010975] 정무위원장(이진복) 사임의 건(이진복의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2010975",
+    "2017-12-22",
+    "이진복의원",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7862B446-E00B-8DD1-DF8B-71015224AF65','0');",
+  "proposers": [
+    {
+      "name_kr": "이진복",
+      "party": "자유한국당",
+      "name_cn": "李珍福"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-22",
+  "decision_date": "2017-12-29",
+  "link_id": "PRC_N1N7S1E2N2T2N1A3Q3H6E2J4O5B6K6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

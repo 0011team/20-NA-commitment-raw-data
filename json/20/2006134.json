@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006134",
+  "title": "[2006134] 대한민국의 사드배치에 대한 중국의 보복행위 중단 촉구 결의안(윤영석의원 등 12인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2006134",
+    "2017-03-13",
+    "윤영석의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','46A3D965-9333-38C5-5AED-E91B5D13ED76','0');",
+  "proposers": [
+    {
+      "name_kr": "윤영석",
+      "party": "자유한국당",
+      "name_cn": "尹永碩"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "박완수",
+      "party": "자유한국당",
+      "name_cn": "朴完洙"
+    },
+    {
+      "name_kr": "서청원",
+      "party": "자유한국당",
+      "name_cn": "徐淸源"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "유기준",
+      "party": "자유한국당",
+      "name_cn": "兪奇濬"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "자유한국당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "이주영",
+      "party": "자유한국당",
+      "name_cn": "李柱榮"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "조훈현",
+      "party": "자유한국당",
+      "name_cn": "曺薰鉉"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "자유한국당",
+      "name_cn": "崔炅煥"
+    },
+    {
+      "name_kr": "홍문종",
+      "party": "자유한국당",
+      "name_cn": "洪文鐘"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-03-13",
+  "decision_date": "2017-03-30",
+  "link_id": "PRC_E1T7D0G3R1K3Q1Y7S2D0H2L9O9C3Y0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

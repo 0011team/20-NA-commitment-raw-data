@@ -1,0 +1,24 @@
+{
+  "assembly_id": 20,
+  "bill_id": "ZZ20027",
+  "title": "[ZZ20027] 2017년도 법률안 국회제출계획(정부) 입법예고중",
+  "current_status": "접수",
+  "reception_info": [
+    "ZZ20027",
+    "2017-01-25",
+    "정부",
+    "의안원문",
+    "제20대 (2016~2020) 제348회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','4D1A2923-C0E7-4CE9-3FA0-5A94FD7D1B6F','0');",
+  "proposers": [],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-01-25",
+  "decision_date": null,
+  "link_id": "ARC_M1M7J0G1C2N5F1V0D2W7A2H9C5U7A5",
+  "proposer_type": "정부",
+  "status": "처리"
+}

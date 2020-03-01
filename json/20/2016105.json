@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016105",
+  "title": "[2016105] 국회법 일부개정법률안(김병욱의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2016105",
+    "2018-10-29",
+    "김병욱의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D2785A0A-98AC-1AB1-D71E-31B3ABDD91D5','0');",
+  "proposers": [
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "강병원",
+      "party": "더불어민주당",
+      "name_cn": "姜炳遠"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 위원회 회의장 또는 국정감사 장소에 고양이, 구렁이, 쥐 등 동물을 반입하는 경우가 있는데, 이에 대하여 회의 목적과 직접적인 관계가 없는 동물을 시연 또는 정치적 이벤트에 활용하여 동물에 대한 생명권을 경시하고 있다는 지적이 있음.\n  이에 회의장에 동물을 반입하지 못하도록 함으로써 동물에 대한 생명권을 보호하려는 것임(안 제148조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-29",
+  "decision_date": null,
+  "link_id": "PRC_D1T8O1H0B2K9Z1I3D2M6K1G0L6E5T5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

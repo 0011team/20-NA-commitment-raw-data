@@ -1,0 +1,24 @@
+{
+  "assembly_id": 20,
+  "bill_id": "ZZ20004",
+  "title": "[ZZ20004] 2016년도 법률안 국회제출 수정계획(정부) 입법예고중",
+  "current_status": "접수",
+  "reception_info": [
+    "ZZ20004",
+    "2016-06-13",
+    "정부",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F2558E41-8F80-9688-605D-17F3F4371994','0');",
+  "proposers": [],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-13",
+  "decision_date": null,
+  "link_id": "PRC_T1A6U0C6S1X3O1Z5V3C9R3U9H0V4B5",
+  "proposer_type": "정부",
+  "status": "처리"
+}

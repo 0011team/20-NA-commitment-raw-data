@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2007409",
+  "title": "[2007409] 민사소송법 일부개정법률안(나경원의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2007409",
+    "2017-06-15",
+    "나경원의원 등 10인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제351회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','BCF08DE6-3420-7632-B3EE-8389886D420D','0');",
+  "proposers": [
+    {
+      "name_kr": "나경원",
+      "party": "자유한국당",
+      "name_cn": "羅卿瑗"
+    },
+    {
+      "name_kr": "강효상",
+      "party": "자유한국당",
+      "name_cn": "姜孝祥"
+    },
+    {
+      "name_kr": "권성동",
+      "party": "자유한국당",
+      "name_cn": "權性東"
+    },
+    {
+      "name_kr": "권은희",
+      "party": "국민의당",
+      "name_cn": "權垠希"
+    },
+    {
+      "name_kr": "김정훈",
+      "party": "자유한국당",
+      "name_cn": "金正薰"
+    },
+    {
+      "name_kr": "김종석",
+      "party": "자유한국당",
+      "name_cn": "金鍾奭"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "이주영",
+      "party": "자유한국당",
+      "name_cn": "李柱榮"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 「민법」상의 행위능력을 갖는 자는 소송능력을 갖기 때문에(제51조) 민사재판절차상 원칙적으로 변호사를 소송대리인으로 선임할 것을 강제하고 있지 않음.\n  그러나 현실적인 소송능력과 변론능력은 「민법」상 행위능력과는 다르고 소송기술이나 경제력에 따라 소송 결과가 달라질 가능성이 높다는 지적이 있음.\n  이에 공정하고 정당한 민사재판제도의 정착을 위하여 법률심인 상고심절차에 필수적인 변호사 대리인 선임을 강제하고 변호사를 선임할 자력(資力)이 없는 당사자를 위한 국선대리인 제도를 도입하고자 함(안 제424조의2 및 제424조의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-06-15",
+  "decision_date": null,
+  "link_id": "PRC_G1B7H0Q6Y1R5F1A5T5X6N3M7B2L2U0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

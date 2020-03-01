@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010787",
+  "title": "[2010787] 파견근로자보호 등에 관한 법률 일부개정법률안(임이자의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2010787",
+    "2017-12-12",
+    "임이자의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','BA78D694-2702-F645-73A1-CDFC8CA5E862','0');",
+  "proposers": [
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "곽상도",
+      "party": "자유한국당",
+      "name_cn": "郭尙道"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍문종",
+      "party": "자유한국당",
+      "name_cn": "洪文鐘"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 근로자의 총파견기간이 2년을 초과하면 사용사업주가 해당 파견근로자를 직접 고용하도록 하고 있어 사용사업주가 이를 원하지 않는 경우 근로자파견계약을 종료하게 됨. \n  이로 인하여 업무상 재해로 요양하여야 하는 파견근로자가 파견계약 종료를 우려하여 치유되지 않은 상태에서 업무에 복귀하는 경우가 발생함.  \n  이에 파견근로자가 업무상 재해로 요양하는 기간은 파견기간에 산입되지 않도록 하여 치유에 필요한 요양을 할 수 있도록 하려는 것임(안 제6조제5항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-12",
+  "decision_date": null,
+  "link_id": "PRC_I1L7Z1U2Z1G2A1O5O5S6G0Z5J4Z9C7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021537",
+  "title": "[2021537] 교통안전법 일부개정법률안(이정미의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021537",
+    "2019-07-18",
+    "이정미의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','35DCA317-DE2D-AADA-5D6F-AEDFF05BAD99','0');",
+  "proposers": [
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "김종훈",
+      "party": "민중당",
+      "name_cn": "金鍾勳"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "바른미래당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "심상정",
+      "party": "정의당",
+      "name_cn": "沈相정"
+    },
+    {
+      "name_kr": "여영국",
+      "party": "정의당",
+      "name_cn": "余永國"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "이상돈",
+      "party": "바른미래당",
+      "name_cn": "李相敦"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 어린이 축구교실 통학버스 차량의 과속으로 탑승하였던 어린이가 사망하는 사고가 발생하여 어린이통학버스의 안전운행에 대한 대책이 요구되고 있음.\n  그런데 현행법은 여객자동차 운송사업자와 화물자동차 운송사업자가 운행하는 차량에 대해서만 과속, 급감속 등을 기록할 수 있는 운행기록장치를 의무적으로 장착하도록 하여, 무상으로 운행하는 어린이통학버스 차량에는 운행기록장치가 의무적으로 장착되고 있지 않음.\n  이에 운행기록장치 의무 장착 대상자에 「도로교통법」 제52조에 따라 어린이통학버스를 무상으로 운영하는 자를 추가하여 어린이통학버스의 안전운행을 확보하려는 것임(안 제9조제2항제3호 및 제55조제1항제3호 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-07-18",
+  "decision_date": null,
+  "link_id": "PRC_P1Q9D0K7P1W8F1O4N3R5C1N6Y4B7S7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

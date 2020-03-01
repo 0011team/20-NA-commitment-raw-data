@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003703",
+  "title": "[2003703] 한국은행법 일부개정법률안(설훈의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2003703",
+    "2016-11-17",
+    "설훈의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','812728D0-D4BB-EBCD-C594-2FBB62C5BFF3','0');",
+  "proposers": [
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김병관",
+      "party": "더불어민주당",
+      "name_cn": "金炳官"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "변재일",
+      "party": "더불어민주당",
+      "name_cn": "卞在一"
+    },
+    {
+      "name_kr": "원혜영",
+      "party": "더불어민주당",
+      "name_cn": "元惠榮"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "무소속",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "전현희",
+      "party": "더불어민주당",
+      "name_cn": "全賢姬"
+    },
+    {
+      "name_kr": "홍익표",
+      "party": "더불어민주당",
+      "name_cn": "洪翼杓"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현재 기획재정부차관과 금융위원회 부위원장이 금융통화위원회에 열석하여 정부의 입장을 설명할 수 있도록 하고 있으나, 이러한 열석발언권을 행사하는 경우 기준금리 결정과 같은 금융통화위원회 결정 사항에 대하여 정부의 영향력이 행사될 우려가 있고, 이는 한국은행의 독립성 침해로 나타날 우려가 있음. 이에 기획재정부차관과 금융위원회 부위원장의 열석발언권 행사를 금융통화위원회가 요청하는 경우로 제한함으로써 한국은행의 독립성을 강화하려는 것임(안 제91조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-17",
+  "decision_date": null,
+  "link_id": "PRC_H1J6L1P1U1K7T2Q0I3V0I2K3P3X5F6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

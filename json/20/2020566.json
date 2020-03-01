@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020566",
+  "title": "[2020566] 도로교통법 일부개정법률안(주광덕의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020566",
+    "2019-05-22",
+    "주광덕의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','6E8FA09B-0D7B-D81A-AEEC-4708A80C96C0','0');",
+  "proposers": [
+    {
+      "name_kr": "주광덕",
+      "party": "자유한국당",
+      "name_cn": "朱光德"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "김진태",
+      "party": "자유한국당",
+      "name_cn": "金鎭台"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "신상진",
+      "party": "자유한국당",
+      "name_cn": "申相珍"
+    },
+    {
+      "name_kr": "윤한홍",
+      "party": "자유한국당",
+      "name_cn": "尹漢洪"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 버스 정류지와 주변 10미터 이내에서는 다른 자동차의 주정차를 금지하고 있음.\n  그런데 택시의 경우 택시 승차대(택시여객자동차의 정류지임을 표시하는 기둥이나 표지판 또는 선이 설치된 곳)를 다른 자동차가 점유할 경우 택시가 정차할 수 없어 운전자 간 다툼이 발생하거나 택시 승객이 원활하게 택시를 승하차할 수 없어 개선이 필요한 상황임.\n  이에 택시 승차대 및 주변 일정 구간(5미터) 내에 자동차의 주정차를 금지하도록 규정함으로써 도로에서 운전자 간 갈등을 완화하고, 원활한 택시 승하차를 도모하려는 것임(안 제32조제4호의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-22",
+  "decision_date": null,
+  "link_id": "PRC_I1G9Y0F5E2C2X1R5Y4S0U0D0D3V9D3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

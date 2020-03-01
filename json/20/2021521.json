@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021521",
+  "title": "[2021521] 국회법 일부개정법률안(김광수의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021521",
+    "2019-07-17",
+    "김광수의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','14772238-4FD2-CBEA-8414-B0D516AF63B8','0');",
+  "proposers": [
+    {
+      "name_kr": "김광수",
+      "party": "민주평화당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "민주평화당",
+      "name_cn": "朴智元"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "민주평화당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "민주평화당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "민주평화당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "민주평화당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현재 국회의원에게는 수당과 특별활동비 등이 지급되고 있는데, 현행법은 국회의원이 의장의 허가나 결석신고서 제출 없이 무단결석한 경우에 특별활동비만 결석한 일수에 따라 감액하도록 규정하고 있음.\n  그런데, 특별활동비만 결석 일수에 따라 감액하는 것은 국회 출석이 국회의원의 기본 의무임을 감안할 때, 그 제재 수준이 너무 낮고, 국회의원의 회의 참석을 유도하는 데도 한계가 있다는 지적이 있음.\n  이에 국회의원이 무단결석한 경우, 특별활동비뿐만 아니라 수당에 대해서도 감액하도록 규정함으로써 국회의원에 대해 무노동 무임금 원칙을 적용하려는 것임(안 제32조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-07-17",
+  "decision_date": null,
+  "link_id": "PRC_D1Z9C0T7D1U7O1U3X4B8S1T6S0D4I2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

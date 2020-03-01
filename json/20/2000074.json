@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000074",
+  "title": "[2000074] 화재예방, 소방시설 설치·유지 및 안전관리에 관한 법률 일부개정법률안(박순자의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2000074",
+    "2016-06-01",
+    "박순자의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제342회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B12BBFD2-1377-968F-1C23-889531FFE7DD','0');",
+  "proposers": [
+    {
+      "name_kr": "박순자",
+      "party": "새누리당",
+      "name_cn": "朴順子"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "새누리당",
+      "name_cn": "金聖泰"
+    },
+    {
+      "name_kr": "김학용",
+      "party": "새누리당",
+      "name_cn": "金學容"
+    },
+    {
+      "name_kr": "박대출",
+      "party": "새누리당",
+      "name_cn": "朴大出"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "새누리당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "박찬우",
+      "party": "새누리당",
+      "name_cn": "朴贊佑"
+    },
+    {
+      "name_kr": "신상진",
+      "party": "새누리당",
+      "name_cn": "申相珍"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "새누리당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "이종구",
+      "party": "새누리당",
+      "name_cn": "李鍾九"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "새누리당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "새누리당",
+      "name_cn": "鄭甲潤"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 특정소방대상물의 관계인은 일정 규모·용도 등에 해당하는 특정소방대상물에 자동화재탐지설비를 설치하도록 하고 있음.\n  그러나 화재발생 시 자동화재탐지설비가 화재를 감지하고 음향장치 등을 통하여 건물 내에 화재발생을 알리더라도 상주하는 사람이 없을 경우 화재발생을 파악하기가 곤란한 기술적 한계가 있음.\n  이에 자동화재탐지설비가 화재를 감지하면 특정소방대상물 관계인 등에게 화재신호를 통신망을 통하여 통보하는 기능을 갖추게 하여 화재에 신속히 대응할 수 있도록 하고자 함(안 제9조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-01",
+  "decision_date": null,
+  "link_id": "PRC_W1X6H0Z6P0Y1G2N0Y3D5T0L3N8L9K2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

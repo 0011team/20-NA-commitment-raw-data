@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014736",
+  "title": "[2014736] 保安觀察法 일부개정법률안(황주홍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014736",
+    "2018-08-03",
+    "황주홍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제362회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','118AE52D-6586-B710-146A-87BFC80F52E9','0');",
+  "proposers": [
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "민주평화당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "바른미래당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "바른미래당",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "민주평화당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  사회 전반적으로 한글전용의 문자생활이 일반화된 현 상황에서 한자로 된 법률은 법률에 대한 국민의 접근성 및 이해도를 저해하는 요소로 작용함.\n  따라서 국민이 법률을 보다 쉽게 이해할 수 있도록 법 문장을 원칙적으로 한글로 적고, 어려운 용어를 쉬운 용어로 정비하는 최근 몇 년간의 법률안 개정작업에 맞추어, 일본식 용어인 ‘지득한’ 및 ‘게기된’을 쉬운 우리말로 바꾸고 이 법의 한자를 한글로 변경하려는 것임(안 제1조부터 제27조까지).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-08-03",
+  "decision_date": null,
+  "link_id": "PRC_A1H8F0W8G0O3R1D7E1F5Y2J3Y8W3E7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

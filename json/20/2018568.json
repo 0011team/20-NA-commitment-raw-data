@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018568",
+  "title": "[2018568] 주택법 일부개정법률안(정동영의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018568",
+    "2019-02-11",
+    "정동영의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','6ED37F07-009A-152D-05A7-0B319A127F85','0');",
+  "proposers": [
+    {
+      "name_kr": "정동영",
+      "party": "민주평화당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "민주평화당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "박주현",
+      "party": "바른미래당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "민주평화당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "민주평화당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "민주평화당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  라돈은 세계보건기구(WHO) 산하 국제암연구소(IARC, International Agency for Research on Cancer)가 발암성 1급으로 등록한 천연 방사성 물질로서, 국립환경과학원은 우리나라 폐암 사망자의 12.6%가 실내 라돈으로 인해 폐암이 발병한 것으로 발표한 바 있음.\n  최근 라돈침대 파동 등으로 라돈이 방출되는 건축자재의 사용을 제한해야 한다는 사회적 요구가 높아지고 있으나, 라돈의 경우 방출량을 측정하기 어렵고 측정조건에 따라 방출량의 편차가 심한 경향이 있으므로, 라돈 방출에 직접적인 영향을 미치는 물질인 라듐이 일정 기준 이상 함유된 건축자재를 사용할 수 없도록 할 필요가 있는 상황임.\n  이에 시공자는 대통령령으로 정하는 기준을 초과하는 라듐이 함유된 콘크리트 제품, 건설용 석제품 등 국토교통부령으로 정하는 건축자재를 사용하지 못하도록 함으로써 국민이 건강하고 쾌적한 환경에서 생활할 수 있도록 하려는 것임(안 제38조의2 및 제104조제5호의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-02-11",
+  "decision_date": null,
+  "link_id": "PRC_Z1C9O0G2M1F1X1W7W5P8A5U6S1O0C8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

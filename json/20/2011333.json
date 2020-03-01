@@ -1,0 +1,100 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011333",
+  "title": "[2011333] 국회에서의 증언·감정 등에 관한 법률 일부개정법률안(박주민의원 등 15인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2011333",
+    "2018-01-10",
+    "박주민의원 등 15인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','BA07E248-1F75-0973-1523-B418C144CC99','0');",
+  "proposers": [
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "김경수",
+      "party": "더불어민주당",
+      "name_cn": "金慶洙"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "심기준",
+      "party": "더불어민주당",
+      "name_cn": "沈基俊"
+    },
+    {
+      "name_kr": "원혜영",
+      "party": "더불어민주당",
+      "name_cn": "元惠榮"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "이혜훈",
+      "party": "바른정당",
+      "name_cn": "李惠薰"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "국민의당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "추미애",
+      "party": "더불어민주당",
+      "name_cn": "秋美愛"
+    },
+    {
+      "name_kr": "표창원",
+      "party": "더불어민주당",
+      "name_cn": "表蒼園"
+    },
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 위증의 죄를 범한 자에 대하여 서류등을 요구하였거나 증인·감정인등을 조사한 본회의 또는 위원회의 의장 또는 위원장의 명의로 고발하도록 하고 있는데, 이에 따르면 특별위원회의 활동기간이 종료된 후에 밝혀진 위증에 대해서는 처벌하기 어려운 상황임.\n  이에 위증의 죄에 관하여는 특별위원회의 활동이 종료된 후에도 의원이 10명 이상의 연서에 의하여 고발할 수 있게 하려는 것임(안 제15조제2항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-01-10",
+  "decision_date": null,
+  "link_id": "PRC_K1J8L0Y1X1E0I0M9W5D3P2E4H4B5J3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

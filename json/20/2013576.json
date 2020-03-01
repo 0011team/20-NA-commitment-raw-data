@@ -1,0 +1,190 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013576",
+  "title": "[2013576] 국가재정법 일부개정법률안(김성식의원 등 33인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2013576",
+    "2018-05-15",
+    "김성식의원 등 33인",
+    "의안원문",
+    "제20대 (2016~2020) 제360회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','486E6F91-724F-B4DB-9B58-6761BD0B5EE2','0');",
+  "proposers": [
+    {
+      "name_kr": "김성식",
+      "party": "바른미래당",
+      "name_cn": "金成植"
+    },
+    {
+      "name_kr": "권은희",
+      "party": "바른미래당",
+      "name_cn": "權垠希"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "바른미래당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "자유한국당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "민주평화당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김세연",
+      "party": "자유한국당",
+      "name_cn": "金世淵"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "바른미래당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "바른미래당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "바른미래당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "손금주",
+      "party": "무소속",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "신상진",
+      "party": "자유한국당",
+      "name_cn": "申相珍"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "오제세",
+      "party": "더불어민주당",
+      "name_cn": "吳濟世"
+    },
+    {
+      "name_kr": "원혜영",
+      "party": "더불어민주당",
+      "name_cn": "元惠榮"
+    },
+    {
+      "name_kr": "유승민",
+      "party": "바른미래당",
+      "name_cn": "劉承旼"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "바른미래당",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "자유한국당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "이태규",
+      "party": "바른미래당",
+      "name_cn": "李泰珪"
+    },
+    {
+      "name_kr": "정병국",
+      "party": "바른미래당",
+      "name_cn": "鄭柄國"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "바른미래당",
+      "name_cn": "鄭雲天"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "민주평화당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "천정배",
+      "party": "민주평화당",
+      "name_cn": "千正培"
+    },
+    {
+      "name_kr": "최교일",
+      "party": "자유한국당",
+      "name_cn": "崔敎一"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른미래당",
+      "name_cn": "河泰慶"
+    },
+    {
+      "name_kr": "황영철",
+      "party": "자유한국당",
+      "name_cn": "黃永哲"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행 「사회보장기본법」은 국가가 사회보장제도의 안정적인 운영을 위하여 중장기 사회보장 재정추계를 격년으로 실시하고 이를 공표하도록 하고 있으며, 사회보장의 재정추계 및 재원조달 방안을 심의·조정하기 위하여 사회보장위원회를 두고 있음.\n  그러나 동법에 따른 재정추계의 목적은 복지의 사각지대 해소 등 사회보장의 혜택을 강화하기 위한 것으로, 각 사회보장제도의 지속가능성을 점검하는 데에는 한계가 있음.\n  이에 기획재정부로 하여금 국민연금·국민건강보험 등 주요 사회보장제도에 대한 재정추계를 격년으로 실시하여 지속가능성을 점검하고 이를 공표하도록 함으로써 국가의 건전한 재정운용에 이바지하려는 것임(안 제87조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-05-15",
+  "decision_date": null,
+  "link_id": "PRC_G1C8E0F5A1Y5Y1M0Y5W9U1E4Y8J9A0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

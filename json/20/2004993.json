@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004993",
+  "title": "[2004993] 국회법 일부개정법률안(이재정의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004993",
+    "2017-01-06",
+    "이재정의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A5BEA3D5-058A-C587-ED65-C50B6783DBBE','0');",
+  "proposers": [
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "윤호중",
+      "party": "더불어민주당",
+      "name_cn": "尹昊重"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "이학영",
+      "party": "더불어민주당",
+      "name_cn": "李學永"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 현직 대통령에 대한 탄핵소추 여부를 결정하는 엄중하고 역사적인 표결에서 납득하기 어려운 무효표가 발생함에 따라 국민을 대표하는 의원이 소중한 한표를 제대로 행사하지 못했다는 점에서 논란이 일고 있음.\n  이러한 논란을 방지하고 국민을 대표하는 의원의 소중한 한표를 제대로 행사하도록 하기 위하여 찬성·반대를 결정하는 투표용지에는 찬성과 반대의 양란을 두어야 하며, 의원이 투표용지에 찬성·반대의 선택을 하는 표를 할 때에는 “○”표를 하도록 하려는 것임(안 제112조제10항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-01-06",
+  "decision_date": null,
+  "link_id": "PRC_H1B7B0G1C0W6E1K4Y1D6C1H6N9Z1H4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

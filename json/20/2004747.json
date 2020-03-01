@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004747",
+  "title": "[2004747] 공인회계사법 일부개정법률안(김도읍의원 등 10인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2004747",
+    "2016-12-29",
+    "김도읍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B3BC6EE8-9C85-E281-11A8-2A852BEFC44C','0');",
+  "proposers": [
+    {
+      "name_kr": "김도읍",
+      "party": "새누리당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "새누리당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "새누리당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "박찬우",
+      "party": "새누리당",
+      "name_cn": "朴贊佑"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "새누리당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "새누리당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "새누리당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "전희경",
+      "party": "새누리당",
+      "name_cn": "全希卿"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "새누리당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "새누리당",
+      "name_cn": "趙慶泰"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  공인회계사의 업무는 고도의 객관성과 공정성이 요구되며 부당이득의 발생에 대해서도 일반인에 비해 보다 주의를 기울여야 할 것임. 그런데 현행법은 공인회계사가 명의대여금지 등을 위반하더하도 「공인회계사법」 위반에 따른 범죄 수익 등에 대해서는 임의적 규정인 「형법」에 따라 몰수ㆍ추징을 할 수 있도록 하고 있으나 법관의 재량에 따라 몰수ㆍ추징 여부가 결정되므로 범죄 수익의 철저한 박탈에 한계를 지니고 있음.\n  이에 공인회계사의 직무 위반에 따른 부당이득에 대해 필요적 몰수ㆍ추징 규정을 두어 직무의 공정성을 기하려는 것임(안 제55조 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-29",
+  "decision_date": "2018-01-30",
+  "link_id": "PRC_H1X6Y1X2B2U9S1S5X4G0J0L5B6D5X9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

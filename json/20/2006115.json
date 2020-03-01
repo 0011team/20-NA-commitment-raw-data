@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006115",
+  "title": "[2006115] 소비자기본법 일부개정법률안(김도읍의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2006115",
+    "2017-03-10",
+    "김도읍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','1927A2C7-7818-F1E6-4A9B-F5C0F82043B7','0');",
+  "proposers": [
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "이만희",
+      "party": "자유한국당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "자유한국당",
+      "name_cn": "池尙昱"
+    }
+  ],
+  "summaries": [
+    "\n현행법에서는 소비자분쟁조정위원회로 하여금 분쟁 조정이 신청된 날부터 30일 이내에 그 분쟁의 조정을 마치도록 하면서, 부득이한 사정이 있는 경우 그 기간을 연장할 수 있도록 규정하고 있음.\n  그런데 분쟁조정제도는 대안적 분쟁해결의 한 방법으로서 당사자 간의 신속한 분쟁 해결을 위한 장치라는 점에서 조정의 연장에 대한 요건을 명확히 할 필요가 있음.\n  이에 분쟁조정의 연장에 대하여 명확한 사유를 정하도록 함으로써 분쟁조정제도의 신속성과 실효성을 확보하는데 기여하고자 함(안 제66조제2항 및 제68조제7항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-03-10",
+  "decision_date": "2017-09-28",
+  "link_id": "PRC_D1M7C0A3V1Y0P1W5R5I1F2P0V8Q3P4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

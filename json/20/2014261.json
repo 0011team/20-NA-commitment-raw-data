@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014261",
+  "title": "[2014261] 형사소송법 일부개정법률안(함진규의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014261",
+    "2018-07-06",
+    "함진규의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제361회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7050BF7F-4C87-E7AD-0E1D-27B773DF86E9','0');",
+  "proposers": [
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "자유한국당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金成泰"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이완영",
+      "party": "자유한국당",
+      "name_cn": "李完永"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 과잉 압수ㆍ수색을 방지하고자 ‘범죄수사에 필요한 때 해당 사건과 관계가 있다고 인정할 수 있는 것에 한해서만’ 압수ㆍ수색을 할 수 있도록 엄격히 제한하고 있음.\n  그런데 혐의사실 입증을 위한 수사기관의 무분별한 압수ㆍ수색으로 피의자의 프라이버시권 등 기본권이 침해되는 사례가 종종 발생하면서 과도한 압수ㆍ수색을 제한하기 위해 압수 대상물을 최소화하는 등의 조치가 필요하다는 지적이 있음.\n  이에 압수의 범위를 해당 사건과 직접적으로 관계가 있다고 인정할 수 있는 것으로 한정함으로써 피의자의 주거와 사생활 및 재산권의 침해를 최소화하려는 것임(안 제106조 및 제215조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-07-06",
+  "decision_date": null,
+  "link_id": "PRC_W1N8H0I7U0Q6Z1O6I3K8O2N3I0Q7U5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

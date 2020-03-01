@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009465",
+  "title": "[2009465] 공직선거법 일부개정법률안(박완수의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2009465",
+    "2017-09-18",
+    "박완수의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','27197E69-B59D-E607-CA8A-0ED1D4502EB8','0');",
+  "proposers": [
+    {
+      "name_kr": "박완수",
+      "party": "자유한국당",
+      "name_cn": "朴完洙"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "곽상도",
+      "party": "자유한국당",
+      "name_cn": "郭尙道"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "자유한국당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "이은재",
+      "party": "자유한국당",
+      "name_cn": "李恩宰"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "자유한국당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "정종섭",
+      "party": "자유한국당",
+      "name_cn": "鄭宗燮"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 정당의 공직선거 후보자 추천 절차는 민주적이어야 한다고 하고 있을 뿐, 구체적인 절차는 규정하고 있지 않음.\n  이에 각 정당은 당헌 및 당규에서 정하는 바에 따라 당내 경선 등을 통하여 공직선거 후보자를 결정하고 있으나, 후보자 추천을 둘러싼 갈등 및 이견으로 그 선정 절차가 지연됨에 따라 후보자 등록 수일 전까지도 공직선거 후보자를 확정하지 못하는 경우가 빈번히 발생하고 있음.\n  따라서 정당의 후보자 추천 절차는 선거일 전 60일까지 완료되도록 규정함으로써, 정당이 공직선거 후보자를 조속히 확정할 수 있도록 하려는 것임(안 제47조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-18",
+  "decision_date": null,
+  "link_id": "PRC_V1V7C0A9I1I8K1I6Q1E7C1Q8N1E8Q8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

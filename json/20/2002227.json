@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002227",
+  "title": "[2002227] 형사소송법 일부개정법률안(황주홍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2002227",
+    "2016-09-08",
+    "황주홍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9D18E249-CF62-BEC9-56C5-CEE1E5ECB9B8','0');",
+  "proposers": [
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "국민의당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "더불어민주당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행 형사소송법상 재정신청은 결정이 있을 때까지는 취소할 수 있으며, 취소한 경우에는 다시 재정신청을 할 수 없도록 규정하고 있어서 재정신청을 취소한 자의 귀책사유 없이 제3자의 강요나 협박 또는 사기 등으로 재정신청을 취소한 경우에도 다시 재정신청을 할 수 없도록 하고 있기 때문에 불합리한 측면이 있음. \n  따라서 강요나 협박 또는 사기 등으로 재정신청을 취소한 경우에는 예외적으로 다시 재정신청을 할 수 있도록 개정할 필요가 있음(안 제264조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-09-08",
+  "decision_date": null,
+  "link_id": "PRC_A1I6V0X9L0I8F1O6A0E9J4P6R5Q0D8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

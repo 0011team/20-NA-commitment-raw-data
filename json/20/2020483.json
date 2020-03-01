@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020483",
+  "title": "[2020483] 법관징계법 일부개정법률안(김도읍의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020483",
+    "2019-05-17",
+    "김도읍의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E2451435-14A9-FCB9-3C39-AD572CAD6774','0');",
+  "proposers": [
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김기선",
+      "party": "자유한국당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "자유한국당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "송언석",
+      "party": "자유한국당",
+      "name_cn": "宋彦錫"
+    },
+    {
+      "name_kr": "윤한홍",
+      "party": "자유한국당",
+      "name_cn": "尹漢洪"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "자유한국당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 법관징계위원회의 징계심의는 공개하지 아니하도록 규정하고 있음.\n  그러나 최근 성범죄 등 법관의 비위행위가 지속적으로 증가함에 따라 법관에 대한 국민의 신뢰는 물론 사법부 전체에 대한 국민의 신뢰도가 하락하고 있음에도 징계심의 내용이 비공개라는 명목으로 솜방망이 징계에 그치고 있다는 지적이 있음.\n  이에 징계심의를 공개하도록 함으로써 법관의 징계에 대한 투명성 제고를 통하여 국민의 사법부 신뢰도를 회복하고자 함(안 제13조제4항 및 제5항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-17",
+  "decision_date": null,
+  "link_id": "PRC_U1I9C0E5Z1P7Q1T3K1U6E5E3D1H8R0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

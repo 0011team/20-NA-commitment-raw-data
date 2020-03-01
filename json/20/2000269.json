@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000269",
+  "title": "[2000269] 교통안전법 일부개정법률안(주승용의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2000269",
+    "2016-06-15",
+    "주승용의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','65A65F8C-25FF-DA8B-484C-3CEFAACCD0B6','0');",
+  "proposers": [
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "국민의당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "박준영",
+      "party": "국민의당",
+      "name_cn": "朴晙瑩"
+    },
+    {
+      "name_kr": "변재일",
+      "party": "더불어민주당",
+      "name_cn": "卞在一"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  법치국가에서의 법 문장은 일반 국민이 쉽게 읽고 이해함으로써 그 법을 잘 준수할 수 있도록 알기 쉽게 규정되어 국민의 올바른 언어생활을 위한 본보기가 되어야 함에도 불구하고 우리의 법 문장에는 여전히 일반 국민이 쉽게 이해하기 어려운 법률용어 표현이 많이 남아 있음.\n  특히, 일본식 표현은 국민의 일상적인 언어생활과는 거리가 있고, 역사·문화적으로도 일제의 잔재가 법문 속에 남아 있는 것은 적절하지 않은 모습이라 할 것임.\n  이에 법제처에서도 정비대상 용어로 선정한 일본식 표현인 ‘시달’을 보다 알기 쉬운 우리말 표현인 ‘지시를 전달’로 개정하려는 것임(안 제17조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-15",
+  "decision_date": "2016-12-29",
+  "link_id": "PRC_J1P6T0K6V1N5F1S7Q2A9T0K0R5Z8H8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

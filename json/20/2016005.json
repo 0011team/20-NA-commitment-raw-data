@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016005",
+  "title": "[2016005] 복권 및 복권기금법 일부개정법률안(이명수의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2016005",
+    "2018-10-18",
+    "이명수의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D7A588EB-97CB-DBC3-AFD9-B1C50972C2DD','0');",
+  "proposers": [
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "강석진",
+      "party": "자유한국당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김용태",
+      "party": "자유한국당",
+      "name_cn": "金容兌"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "자유한국당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "오제세",
+      "party": "더불어민주당",
+      "name_cn": "吳濟世"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법 제23조제3항제5호는 복권기금을 대통령령으로 정하는 공익사업에 사용할 수 있도록 하고 있으나, 복권기금 또한 국민의 부담으로 조성된 재원이라는 점에서 그 용도를 포괄적으로 시행령으로 위임하는 것은 기금 배분의 합리성과 투명성 측면에서 적절하지 않음.\n  이에 개정안은 복권기금의 용도를 법률에서 명확하게 열거하면서, 현행법에서 규정하고 있는 소외계층에 대한 복지사업 등 외에 공공보건의료사업, 농가소득지원사업, 대한적십자사의 구호사업 등 정책적으로 시급하고 중요한 공익사업들을 추가하려는 것임(안 제23조제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-18",
+  "decision_date": null,
+  "link_id": "PRC_F1T8Q1L0J1R8F1E4U1R9X2F6Z7K3D8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

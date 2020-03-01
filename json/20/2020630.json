@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020630",
+  "title": "[2020630] 노인복지법 일부개정법률안(정춘숙의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020630",
+    "2019-05-24",
+    "정춘숙의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A223DB8A-A63F-B7CD-4F7D-A9EB7600CA3F','0');",
+  "proposers": [
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "맹성규",
+      "party": "더불어민주당",
+      "name_cn": "孟聖奎"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "서형수",
+      "party": "더불어민주당",
+      "name_cn": "徐炯洙"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "조정식",
+      "party": "더불어민주당",
+      "name_cn": "趙正湜"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 노인복지주택의 입소자격자를 60세 이상의 노인으로 하고, 입소자격자의 배우자나 입소자격자가 부양을 책임지고 있는 19세 미만의 자녀？손자녀는 입소자격자와 함께 입소할 수 있도록 규정하고 있음.\n  그런데 함께 입소한 자녀？손자녀가 자립이 곤란한 정도의 장애가 있는 경우 19세 이상이 되어도 부양을 책임지는 입소자격자와 함께 거주할 필요성이 있다는 주장이 제기됨.\n  이에 입소자격자와 함께 노인복지주택에 입소할 수 있는 대상에 보건복지부령으로 정하는 장애로 인하여 입소자격자가 부양을 책임지고 있는 19세 이상의 자녀？손자녀를 추가하려는 것임(안 제33조의2제1항제3호 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-24",
+  "decision_date": null,
+  "link_id": "PRC_Z1L9M0I5S2P4H1X5A5J0M3U8Y6R9A2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

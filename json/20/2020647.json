@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020647",
+  "title": "[2020647] 게임산업진흥에 관한 법률 일부개정법률안(이동섭의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020647",
+    "2019-05-27",
+    "이동섭의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FAADEB10-3EFD-B3EF-5B57-4C1A20D843D1','0');",
+  "proposers": [
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "권은희",
+      "party": "바른미래당",
+      "name_cn": "權垠希"
+    },
+    {
+      "name_kr": "신동근",
+      "party": "더불어민주당",
+      "name_cn": "申東根"
+    },
+    {
+      "name_kr": "윤일규",
+      "party": "더불어민주당",
+      "name_cn": "尹一逵"
+    },
+    {
+      "name_kr": "이상헌",
+      "party": "더불어민주당",
+      "name_cn": "李相憲"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "바른미래당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른미래당",
+      "name_cn": "河泰慶"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  프로그래밍화된 데이터를 기반으로 만들어진 게임의 특성상 게임서비스 제공 중 오류 등으로 인한 게임 장애가 발생하여 이용자가 피해를 입는 사례가 다수 있음.  \n  그러나 게임이용자들이 이에 대해 의견 개진이나 불만을 제기하더라도 게임사에서는 이용자들에게 합당한 대응과 만족할만한 대처를 하지 않는 경우가 지속해서 발생하고 있음. \n  이에 게임물 관련사업자는 게임 오류로 인해 게임물 이용자로부터 제기되는 정당한 불만을 즉시 처리하도록 하고, 즉시 처리하기 곤란한 경우에는 게임물 이용자에게 그 사유와 처리일정을 알리도록 하여 게임이용자의 권익을 보호하고자 함(안 제14조제2항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-27",
+  "decision_date": null,
+  "link_id": "PRC_P1B9Z0L5A2B7L1O5Y4G8E0Q8V3K6N3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

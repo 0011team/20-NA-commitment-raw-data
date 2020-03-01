@@ -1,0 +1,95 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009050",
+  "title": "[2009050] 상법 일부개정법률안(정성호의원 등 14인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2009050",
+    "2017-09-04",
+    "정성호의원 등 14인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EA2C80FA-DE40-8133-8C6C-1D8E81DB6A43','0');",
+  "proposers": [
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "남인순",
+      "party": "더불어민주당",
+      "name_cn": "南仁順"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "박용진",
+      "party": "더불어민주당",
+      "name_cn": "朴用鎭"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "박찬대",
+      "party": "더불어민주당",
+      "name_cn": "朴贊大"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "제윤경",
+      "party": "더불어민주당",
+      "name_cn": "諸閏景"
+    },
+    {
+      "name_kr": "표창원",
+      "party": "더불어민주당",
+      "name_cn": "表蒼園"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 주식을 발행한 때에 주주명부에 주주의 인적사항에 관하여 주주의 성명과 주소를 기재할 수 있도록 하고 있음. \n  그러나 많은 사람들이 다수의 업무와 연락을 우편이 아닌 전화로 하고 있는 점, 거소의 변경이 잦을 수 있는 점 등을 감안하면 위 통지가 실질적으로 주주에게 닿을 가능성이 많지 않다는 점에 대한 지적이 제기되고 있음.\n  따라서 주주명부에 주주의 인적사항에 관하여 주주의 성명, 주소 및 전화번호를 기재하도록 하여 회사의 주주에 대한 통지가 실질적으로 이루어지도록 하고자 하는 것임(안 제352조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-04",
+  "decision_date": null,
+  "link_id": "PRC_Q1Y7L0D9F0O4P1A6I1Z4K0O0N6I1F9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

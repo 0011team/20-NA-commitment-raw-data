@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014289",
+  "title": "[2014289] 근로기준법 일부개정법률안(한정애의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014289",
+    "2018-07-09",
+    "한정애의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제361회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E753B321-55F4-311F-B544-91C8184DE559','0');",
+  "proposers": [
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "권미혁",
+      "party": "더불어민주당",
+      "name_cn": "權美赫"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "진선미",
+      "party": "더불어민주당",
+      "name_cn": "陳善美"
+    },
+    {
+      "name_kr": "홍의락",
+      "party": "더불어민주당",
+      "name_cn": "洪宜洛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 사업이 여러 차례의 도급에 따라 행하여질 때 하수급인이 직상 수급인의 귀책사유로 임금을 지급하지 못하는 경우 그 직상 수급인과 연대하여 임금 지급의 책임을 지도록 하고 있음.\n  그러나 도급이 한 차례 행하여지는 경우에 대하여는 명시적으로 정하고 있지 않아 도급인에게 연대책임을 부과할 수 있는지에 대한 해석상 논란이 있을 수 있음.\n  이에 도급이 한 차례 행하여지는 경우 도급인의 귀책사유로 근로자에게 임금을 지급하지 못하면 도급인이 그 수급인과 연대하여 임금 지급의 책임을 지도록 명확히 규정하려는 것임(안 제44조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-07-09",
+  "decision_date": null,
+  "link_id": "PRC_M1E8C0M7Q0S9B1J5U3M4P3K8C7K6T8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

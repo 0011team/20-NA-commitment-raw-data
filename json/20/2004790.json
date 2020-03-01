@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004790",
+  "title": "[2004790] 은행법 일부개정법률안(정재호의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004790",
+    "2016-12-29",
+    "정재호의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','3F998130-8599-F400-0BC3-CE3FE611F17F','0');",
+  "proposers": [
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김영주",
+      "party": "더불어민주당",
+      "name_cn": "金榮珠"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이종걸",
+      "party": "더불어민주당",
+      "name_cn": "李鍾杰"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 은행이 은행상품에 대해 광고를 하는 경우 은행의 명칭, 은행상품의 내용, 거래 조건 등이 포함되도록 하는 등의 내용을 정하고 있음. \n  그러나 은행이 전화나 문자메시지를 통해 은행상품에 대한 광고를 하면서 광고에 대한 규제를 지키지 않아 소비자에게 불편을 끼치는 경우가 발생하고 있음.\n  이에 은행이 전화를 이용하여 은행상품에 대한 광고를 하려는 경우 광고에 사용할 전화번호를 금융위원회에 신고하도록 하여 불법 광고를 근절하고 금융 소비자의 건전한 금융생활에 기여하려는 것임(안 제52조의3제4항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-29",
+  "decision_date": null,
+  "link_id": "PRC_W1S6Q1I2K2B9F1Y8Y1K1T2A6U2F1T0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

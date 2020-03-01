@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008245",
+  "title": "[2008245] 주거급여법 일부개정법률안(조정식의원 등 11인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2008245",
+    "2017-07-27",
+    "조정식의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제352회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A638811F-78AF-5160-2125-128B36753025','0');",
+  "proposers": [
+    {
+      "name_kr": "조정식",
+      "party": "더불어민주당",
+      "name_cn": "趙正湜"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "국민의당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "전현희",
+      "party": "더불어민주당",
+      "name_cn": "全賢姬"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  벌금형은 징역형과 함께 형사처벌의 대표적 수단으로써 누구나 인정할 수 있는 공정성과 합리성을 지니고 있어야 함.\n  이에 벌금액을 국민권익위원회의 권고안 및 국회사무처 법제예규의 기준인 징역 1년당 1천만원의 비율로 개정함으로써 벌금형을 현실화하고, 형벌로서의 기능을 회복시켜 일반인에 대한 범죄억지력을 확보하려는 것임(안 제21조 및 제23조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-07-27",
+  "decision_date": "2017-11-09",
+  "link_id": "PRC_R1S7P0X7W2O7E1Q7B4Q4U1T4S5L4F8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

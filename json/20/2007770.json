@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2007770",
+  "title": "[2007770] 독점규제 및 공정거래에 관한 법률 일부개정법률안(윤상직의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2007770",
+    "2017-07-04",
+    "윤상직의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제352회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','6C905302-E4F8-4A15-3C75-0D3D02D97D25','0');",
+  "proposers": [
+    {
+      "name_kr": "윤상직",
+      "party": "자유한국당",
+      "name_cn": "尹相直"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "박완수",
+      "party": "자유한국당",
+      "name_cn": "朴完洙"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "윤영석",
+      "party": "자유한국당",
+      "name_cn": "尹永碩"
+    },
+    {
+      "name_kr": "윤한홍",
+      "party": "자유한국당",
+      "name_cn": "尹漢洪"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "주광덕",
+      "party": "자유한국당",
+      "name_cn": "朱光德"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 시장지배적 지위 남용, 부당한 공동행위, 불공정거래행위 등 이 법 위반행위에 대하여 시정조치, 과징금 및 벌칙 규정을 두고 있음.\n  그런데 과징금이라는 경제적 제재 수단 외에 형사처벌 규정을 두는 것은 기업의 자유로운 경제활동을 위축시킨다는 지적이 있음.\n  이에 부당한 공동행위를 제외한 이 법 위반행위에 대해서는 벌칙 규정을 삭제하여 기업의 자유롭고 공정한 경제활동을 장려하려는 것임(안 제66조 및 제67조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-07-04",
+  "decision_date": null,
+  "link_id": "PRC_P1J7G0H7D0E4I1J4E1Y6Y3P4U5D9Z0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

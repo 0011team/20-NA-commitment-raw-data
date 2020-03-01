@@ -1,0 +1,100 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000568",
+  "title": "[2000568] 국민건강증진법 일부개정법률안(윤소하의원 등 15인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2000568",
+    "2016-06-30",
+    "윤소하의원 등 15인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','BB14380A-9EAF-8BBB-0C24-81773510A7FF','0');",
+  "proposers": [
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김영춘",
+      "party": "더불어민주당",
+      "name_cn": "金榮春"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "노회찬",
+      "party": "정의당",
+      "name_cn": "魯會燦"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "심상정",
+      "party": "정의당",
+      "name_cn": "沈相정"
+    },
+    {
+      "name_kr": "양승조",
+      "party": "더불어민주당",
+      "name_cn": "梁承晁"
+    },
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    },
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "최인호",
+      "party": "더불어민주당",
+      "name_cn": "崔仁昊"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  국민건강보험재정의 안정성 확보를 위하여 현행 「국민건강보험법」은 「국민건강증진법」에서 정하는 바에 따라 국민건강증진기금에서 자금을 지원받을 수 있도록 하고 있으나, 기금의 지원 기한을 2017년까지 하고 있어, 향후 고령화와 저출산으로 인한 의료비 증가로 인해 건강보험재정의 안정성이 불분명해질 가능성이 있음. \n 이에 국민건강증진기금의 지원 시한을 2017년까지로 제한한 한시적 지원 기한에 대한 특례 조항을 폐지하고, 지원 문구를 명료화 하고자 함(안 법률 제6619호 국민건강증진법 일부개정법률 부칙 제2항)\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-30",
+  "decision_date": "2017-03-30",
+  "link_id": "PRC_W1V6M0A6Y3F0R1Z0M3C5M0C7W9F2C3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

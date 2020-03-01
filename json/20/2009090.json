@@ -1,0 +1,105 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009090",
+  "title": "[2009090] 전자금융거래법 일부개정법률안(이동섭의원 등 16인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2009090",
+    "2017-09-05",
+    "이동섭의원 등 16인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C998ED0D-703B-8C87-A031-D4DBB1D9C7F5','0');",
+  "proposers": [
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "문희상",
+      "party": "더불어민주당",
+      "name_cn": "文喜相"
+    },
+    {
+      "name_kr": "박주현",
+      "party": "국민의당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "박준영",
+      "party": "국민의당",
+      "name_cn": "朴晙瑩"
+    },
+    {
+      "name_kr": "송기석",
+      "party": "국민의당",
+      "name_cn": "宋基錫"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "국민의당",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "국민의당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "국민의당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n  현행법에서는 선불전자지급수단에 기록된 잔액이 100분의 20 미만의 범위에서 일정비율 이하인 경우 선불전자지급수단에 기록된 잔액의 전부를 지급한다는 내용을 약관에 포함시켜야 한다고 정하고 있음.\n  그러나 선불전자지급수단을 화폐의 대용수단으로 사용하는 비율이 높아지고 있는 현실에서 국민의 금융편의를 위해 잔액의 전부를 지급할 수 있는 선불전자지급수단의 한도를 높일 필요가 있음. \n  이에 선불전자지급수단에 기록된 잔액이 100분의 40 이하인 경우 선불전자지급수단에 기록된 잔액의 전부를 지급한다는 내용을 약관에 포함시키도록 하여 전자금융거래의 편의를 높이고자 함(안 제19조제2항제3호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-05",
+  "decision_date": null,
+  "link_id": "PRC_V1M7S0S9U0R5O1D5O5T5L1I4N1B1I2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

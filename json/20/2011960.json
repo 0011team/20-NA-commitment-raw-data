@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011960",
+  "title": "[2011960] 은행법 일부개정법률안(김성원의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2011960",
+    "2018-02-13",
+    "김성원의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제356회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','DADEC76F-12F9-216B-A866-367D210CAF38','0');",
+  "proposers": [
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金成泰"
+    },
+    {
+      "name_kr": "김한표",
+      "party": "자유한국당",
+      "name_cn": "金漢杓"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "자유한국당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 은행이 여신거래와 관련하여 차주의 의사에 반하여 예금 가입 등을 강요하는 등의 행위를 불공정영업행위로 규정하여 금지하고 이를 위반하는 경우 시정명령이나 영업정지 등의 행정처분 대상으로 하고 있음.\n  그런데 은행의 불건전 영업행위가 지속적으로 반복되고 있는 것으로 나타나 반복적 위법행위에 대한 처분 수위를 상향할 필요성이 제기되고 있음.\n  이에 은행이 이 법의 위반 행위로 1년에 3회 이상 시정명령, 영업정지 등의 행정처분 대상이 된 경우 영업의 전부정지 명령 또는 인가 취소의 대상이 되도록 하여 은행의 위법행위를 근절하고 신용질서 유지에 기여하려는 것임(안 제53조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-02-13",
+  "decision_date": null,
+  "link_id": "PRC_Q1H8L0X2I1Z3Z1B8S2I9O2K4F9H4C3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

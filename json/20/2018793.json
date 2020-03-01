@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018793",
+  "title": "[2018793] 승강기시설 안전관리법 일부개정법률안(임재훈의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018793",
+    "2019-02-22",
+    "임재훈의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','CD63AAAA-03FA-9ED7-CF75-69A2DA14D47D','0');",
+  "proposers": [
+    {
+      "name_kr": "임재훈",
+      "party": "바른미래당",
+      "name_cn": "林哉勳"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "바른미래당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "바른미래당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "바른미래당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  승강기의 유지관리를 위한 사업자 선정기준이 마련되어 있지 않아 시장에서는 “유지관리업체 선정이 최저가로 이루어지고 해당 유지관리업자는 고가의 부품교체 등을 통하여 경영손실을 만회하는 등 승강기 유지관리시장이 다소 불투명하게 운영되고 있음.\n 또 승강기의 유지관리가 제조사에게 기술과 부품을 공급받는 등의 이유로 제조사의 영향이 크기 때문에 유지관리업자 선정에 투명성과 공정성을 보장하기 어려움.\n 이에 승강기의 유지관리업자의 선정을 전자입찰방식으로 하도록 하고 유지관리업자는 승강기안전종합정보망에 도급계약 내용을 입력하도록 하여 현행 제도의 운영상에 나타난 미비점을 개선ㆍ보완하려 함(제41조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-02-22",
+  "decision_date": null,
+  "link_id": "PRC_Y1C9R0S2Q2O2K1E7S2Y3H5E5C5A3I6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

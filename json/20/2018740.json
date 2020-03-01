@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018740",
+  "title": "[2018740] 공직선거법 일부개정법률안(이인영의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018740",
+    "2019-02-21",
+    "이인영의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0D68A87E-CF3F-464D-4BD6-89D67A3E2071','0');",
+  "proposers": [
+    {
+      "name_kr": "이인영",
+      "party": "더불어민주당",
+      "name_cn": "李仁榮"
+    },
+    {
+      "name_kr": "권미혁",
+      "party": "더불어민주당",
+      "name_cn": "權美赫"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "추미애",
+      "party": "더불어민주당",
+      "name_cn": "秋美愛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 예비후보자의 배우자(배우자가 없는 경우 예비후보자가 지정한 1명)와 직계존비속은 예비후보자의 선거운동을 위하여 명함을 직접 주거나 예비후보자에 대한 지지를 호소할 수 있도록 하고 있음.\n  그런데 예비후보자가 미혼인 경우 또는 예비후보자의 직계존비속이 없거나 직계비속이 어린 경우에는 상대적으로 선거운동에 불이익을 받아 선거운동 기회의 형평성 문제가 제기될 수 있음.\n  이에 예비후보자 간에 형평성 문제가 제기될 수 있는 배우자나 직계존비속을 삭제하고, 예비후보자가 그와 함께 다니는 사람 중에서 지정한 1명을 4명으로 확대하려는 것임(안 제60조의3제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-02-21",
+  "decision_date": null,
+  "link_id": "PRC_E1S9W0O2A2J1V1B5F5N5B3H9Y3M8Z4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

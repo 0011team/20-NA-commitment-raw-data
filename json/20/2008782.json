@@ -1,0 +1,24 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008782",
+  "title": "[2008782] 전파법 일부개정법률안(정부) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2008782",
+    "2017-08-28",
+    "정부",
+    "의안원문",
+    "제20대 (2016~2020) 제353회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','090ED5E9-8CE0-280E-7019-6DC47971CB53','0');",
+  "proposers": [],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  국민생활 및 기업활동과 밀접하게 관련되어 있는 인가 민원의 처리절차를 법령에서 명확하게 규정함으로써 관련 민원의 투명하고 신속한 처리와 일선 행정기관의 적극행정을 유도하기 위하여, \n  시설자가 사업을 양도하면서 그 사업과 관련된 무선국을 양도한 경우의 양수인 등에 대한 지위승계 인가의 신청을 받은 경우 7일 이내에 인가 여부를 신청인에게 통지하도록 하고, 그 기간 내에 인가 여부나 처리기간의 연장을 통지하지 아니한 경우에는 인가를 한 것으로 간주(看做)하는 제도를 도입하려는 것임.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-08-28",
+  "decision_date": "2018-01-30",
+  "link_id": "ARC_F1L7L0W8G2Z8D1H6O0X2R5K6J3Q5G4",
+  "proposer_type": "정부",
+  "status": "처리"
+}

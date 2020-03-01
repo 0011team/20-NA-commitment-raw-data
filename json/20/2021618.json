@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021618",
+  "title": "[2021618] 국회에서의 증언·감정 등에 관한 법률 일부개정법률안(박대출의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021618",
+    "2019-07-24",
+    "박대출의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5B87EE77-5BBA-BFFA-E444-6F48F6BB9CDE','0');",
+  "proposers": [
+    {
+      "name_kr": "박대출",
+      "party": "자유한국당",
+      "name_cn": "朴大出"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "백승주",
+      "party": "자유한국당",
+      "name_cn": "白承周"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "심재철",
+      "party": "자유한국당",
+      "name_cn": "沈在哲"
+    },
+    {
+      "name_kr": "유재중",
+      "party": "자유한국당",
+      "name_cn": "柳在仲"
+    },
+    {
+      "name_kr": "윤상직",
+      "party": "자유한국당",
+      "name_cn": "尹相直"
+    },
+    {
+      "name_kr": "윤재옥",
+      "party": "자유한국당",
+      "name_cn": "尹在玉"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 한 공직후보자의 인사청문회 과정에서 관련 회사가 자료제출을 요구받은 협찬사에 자료제출을 하지 못하도록 종용했다는 의혹이 일면서 논란이 되었음.\n  현행법은 국정감사, 국정조사, 인사청문회 등의 과정에서 자료제출 요구를 별다른 사유 없이 거부하거나 거짓 제출하는 경우, 증인·감정인·참고인의 출석을 방해하는 경우 등에 대해 처벌할 수 있도록 규정하고 있음. 그러나 서류제출을 방해하는 자에 대한 처벌규정은 마련되어 있지 않은 실정임.\n  이에 국회 보고 또는 서류제출을 방해한 자에 대해서도 처벌조항을 마련하여 인사청문 제도의 실효성을 높이고자 하는 것임(안 제12조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-07-24",
+  "decision_date": null,
+  "link_id": "PRC_T1T9L0T7Z2A4Q1L3T2W0B4A9C6K9K6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

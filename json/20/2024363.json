@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2024363",
+  "title": "[2024363] 환경정책기본법 일부개정법률안(한정애의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2024363",
+    "2019-12-26",
+    "한정애의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제373회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','66747AE0-638E-F42C-635E-C9F65E02369D','0');",
+  "proposers": [
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "김성수",
+      "party": "더불어민주당",
+      "name_cn": "金聖洙"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "더불어민주당",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "송갑석",
+      "party": "더불어민주당",
+      "name_cn": "宋甲錫"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "우상호",
+      "party": "더불어민주당",
+      "name_cn": "禹相虎"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "정은혜",
+      "party": "더불어민주당",
+      "name_cn": "鄭恩惠"
+    },
+    {
+      "name_kr": "홍익표",
+      "party": "더불어민주당",
+      "name_cn": "洪翼杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  「온실가스 배출권의 할당 및 거래에 관한 법률」에 따라 배출권의 유상할당이 이루어지면서 수입이 발생하고 있으나 그 세입 처리의 근거가 명확하지 않음. 이에 환경개선특별회계의 세입으로 명시하는 규정을 신설하여 세입 처리를 명확히 하고자 함(안 제46조제20호의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-12-26",
+  "decision_date": null,
+  "link_id": "PRC_K1W9W1M2A2Z6A1Q5X5P3H2Q7D9S1V1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

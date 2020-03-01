@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010225",
+  "title": "[2010225] 교섭단체 정책연구위원 임용 등에 관한 규칙 일부개정규칙안(박홍근의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2010225",
+    "2017-11-17",
+    "박홍근의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','545B3B5D-BF0E-953C-9451-2BE19A80A051','0');",
+  "proposers": [
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김병관",
+      "party": "더불어민주당",
+      "name_cn": "金炳官"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "이석현",
+      "party": "더불어민주당",
+      "name_cn": "李錫玄"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    },
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-11-17",
+  "decision_date": null,
+  "link_id": "PRC_Q1S7J1Z1K1V7D1I6S2I2J1A1H3I9W9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008963",
+  "title": "[2008963] 사립학교법 일부개정법률안(박경미의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2008963",
+    "2017-09-01",
+    "박경미의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','438AFEAD-AE6E-89DC-0A6C-BD78B9AFA6AC','0');",
+  "proposers": [
+    {
+      "name_kr": "박경미",
+      "party": "더불어민주당",
+      "name_cn": "朴炅美"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "김태년",
+      "party": "더불어민주당",
+      "name_cn": "金太年"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "손혜원",
+      "party": "더불어민주당",
+      "name_cn": "孫惠園"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "유은혜",
+      "party": "더불어민주당",
+      "name_cn": "兪銀惠"
+    },
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행 「사립학교법」 제35조(잔여재산의 귀속)는 학교법인이 해산되었을 경우 그 잔여재산을 학교법인이나 기타 교육사업을 경영하는 자에게 귀속하게 하여 사립학교 교육에 재투자하게 하고 있음. 그러나 동 조항은 폐교 시(강제 및 자진폐교 포함) 이해관계가 있는 학교법인을 잔여재산의 귀속자로 정하였을 경우, 감사처분 횡령액 등을 회수할 수 없기에, 감사처분을 면책하고자 악용될 소지가 있음. \n  이에 학교법인이 해산한 경우 잔여재산의 처분 시 횡령 및 회계부정으로 인한 감사처분금액을 국고 등으로 귀속시키고자 하는 것임(안 제35조제1항 단서 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-01",
+  "decision_date": "2018-12-27",
+  "link_id": "PRC_I1B7D0X9V0K1K1P5M1M4C4U7K6Q7I4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

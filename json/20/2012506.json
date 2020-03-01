@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012506",
+  "title": "[2012506] 전파법 일부개정법률안(이명수의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2012506",
+    "2018-03-16",
+    "이명수의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제358회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','AF05C31D-76C6-B73B-F6E3-283422598FAF','0');",
+  "proposers": [
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "권석창",
+      "party": "자유한국당",
+      "name_cn": "權錫昌"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "자유한국당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "자유한국당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "유의동",
+      "party": "바른미래당",
+      "name_cn": "兪義東"
+    },
+    {
+      "name_kr": "윤한홍",
+      "party": "자유한국당",
+      "name_cn": "尹漢洪"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  정부조직법 개정으로 인해 기존 미래창조과학부가 과학기술정보통신부로 부처명이 변경되었고 부칙에서 개정하도록 하였음. 그러나 현행법 제44조의5는 개정조항에서 누락되어 현행법에 여전히 “미래창조과학부장관”이라고 되어 있어 국민들에게 혼란을 줄 우려가 있음.\n  이에 “미래창조과학부장관”을 “과학기술정보통신부장관”으로 개정하여 국민들의 혼란을 없애고자 함(안 제44조의5).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-16",
+  "decision_date": "2019-11-19",
+  "link_id": "PRC_Z1Q8V0U3I1P6D1M7B2P8R1Y2I3E1Q9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

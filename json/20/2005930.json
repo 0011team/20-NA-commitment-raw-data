@@ -1,0 +1,45 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005930",
+  "title": "[2005930] 원자력안전위원회 위원장(김용환) 사퇴 촉구 결의안(윤종오의원 등 4인 외 37인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005930",
+    "2017-03-02",
+    "윤종오의원 등 4인 외 37인",
+    "의안원문",
+    "제20대 (2016~2020) 제349회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C1446958-4905-24EE-211D-EFFF5832D73C','0');",
+  "proposers": [
+    {
+      "name_kr": "윤종오",
+      "party": "무소속",
+      "name_cn": "尹鍾五"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-03-02",
+  "decision_date": null,
+  "link_id": "PRC_Q1F7N0F3Q0V2Y1O4I2J2Y2B0A6R5C3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000543",
+  "title": "[2000543] 정치자금법 일부개정법률안(김태년의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2000543",
+    "2016-06-28",
+    "김태년의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5ABAE780-CDF1-AFD6-F2A4-77784EC2BE94','0');",
+  "proposers": [
+    {
+      "name_kr": "김태년",
+      "party": "더불어민주당",
+      "name_cn": "金太年"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "박경미",
+      "party": "더불어민주당",
+      "name_cn": "朴炅美"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "더불어민주당",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "이학영",
+      "party": "더불어민주당",
+      "name_cn": "李學永"
+    },
+    {
+      "name_kr": "이해찬",
+      "party": "무소속",
+      "name_cn": "李海瓚"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 \n\n  국회의원지역선거구 또는 구·시·군마다 ‘지역당’을 설치하는 내용의 정당법 개정안에 따라 관련 조문을 함께 정리하고자함.\n\n\n주요내용\n\n  지역당 설치에 따라 회계처리 의무를 규정함.\n\n\n참고사항\n\n  이 법률안은 김태년의원이 대표발의한 「공직선거법 일부개정법률안」(의안번호 제539호) 및 「정당법 일부개정법률안」(의안번호 제544호)의 의결을 전제로 하는 것이므로 같은 법률안이 의결되지 아니하거나 수정의결되는 경우에는 이에 맞추어 조정되어야 할 것임.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-28",
+  "decision_date": null,
+  "link_id": "PRC_F1A6L0X6M2K8Y1W7Q5J0A0Y6X9D7I2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

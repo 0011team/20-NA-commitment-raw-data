@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2007920",
+  "title": "[2007920] 농업협동조합법 일부개정법률안(이개호의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2007920",
+    "2017-07-11",
+    "이개호의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제352회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5682C1F9-1163-ACAC-477C-4BAA79F002DF','0');",
+  "proposers": [
+    {
+      "name_kr": "이개호",
+      "party": "더불어민주당",
+      "name_cn": "李介昊"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이종걸",
+      "party": "더불어민주당",
+      "name_cn": "李鍾杰"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 지역농협, 지역축협, 중앙회 등은 신용사업 관련 공공단체의 업무 대리, 공공단체가 위탁하는 사업의 수행, 공공단체로부터의 자금 차입 등을 할 수 있다고 규정하고 있음.\n  그런데 공공단체의 범위가 규정되어 있지 않아 지역농협 등의 업무범위가 명확하지 않은 문제점이 있음.\n  이에 공익목적을 수행하기 위하여 법률에 따라 설치된 법인 또는 단체로서 대통령령으로 정하는 법인 또는 단체를 공공단체로 정의함으로써 불명확함을 해소하려는 것임(안 제2조제5호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-07-11",
+  "decision_date": null,
+  "link_id": "PRC_X1B7A0F7F1J1H1Y4O4M5Y5Y2H1W9G6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

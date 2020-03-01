@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021985",
+  "title": "[2021985] 선원법 일부개정법률안(김현권의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2021985",
+    "2019-08-14",
+    "김현권의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제370회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','1D6CA097-C93D-C785-93BD-AAD5A785BEBA','0');",
+  "proposers": [
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김성환",
+      "party": "더불어민주당",
+      "name_cn": "金星煥"
+    },
+    {
+      "name_kr": "김정호",
+      "party": "더불어민주당",
+      "name_cn": "金禎鎬"
+    },
+    {
+      "name_kr": "박완주",
+      "party": "더불어민주당",
+      "name_cn": "朴完柱"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "민주평화당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "윤호중",
+      "party": "더불어민주당",
+      "name_cn": "尹昊重"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n   LNG 추진선 등 IGF Code(가스 또는 저인화점 연료를 사용하는 선박의 안전에 대한 국제기준)가 적용되는 국적선이 발주됨에 따라「선원의 훈련·자격증명 및 당직근무의 기준에 관한 국제협약(1978)」에 따른  IGF Code가 적용된 선박에 승선하는 선원에 대한 자격 제도를 국내법에 반영할 필요가 있음. 이를 위하여 대상선박 및 세부 자격요건을 하위법령으로 정할 수 있도록 법적근거를 마련하려는 것임(안 제64조제6항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-08-14",
+  "decision_date": "2020-01-09",
+  "link_id": "PRC_T1O9E0E8A1Y4S1P7O5E7C2L2U8K0H6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

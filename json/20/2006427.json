@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006427",
+  "title": "[2006427] 가축전염병 예방법 일부개정법률안(이은권의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2006427",
+    "2017-03-28",
+    "이은권의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','8D2A163B-BC1C-39AB-C67F-60CD76606666','0');",
+  "proposers": [
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "자유한국당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "자유한국당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "정병국",
+      "party": "바른정당",
+      "name_cn": "鄭柄國"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "바른정당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법은 가축 매몰지에 대한 발굴 금지기간을 3년으로 정하고, 시장·군수·구청장이 주변환경에 영향을 미칠 우려가 있다고 판단하는 경우 2년의 범위에서 기간을 연장할 수 있도록 규정하고 있음.\n  그런데 가축 매몰지 발굴 금지 기간의 연장은 토지 소유자의 재산권 행사와 직결될 수 있는 문제로 연장이 허용되는 예외적인 경우를 구체적으로 정할 필요성이 있음.\n  이에 농림축산식품부장관과 환경부장관이 주변환경에 미칠 영향 등을 고려하여 가축 매몰지에 대한 발굴 금지 기간의 연장사유를 공동으로 정하여 고시하도록 하려는 것임(안 제24조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-03-28",
+  "decision_date": "2017-09-28",
+  "link_id": "PRC_X1Z7Q0E3Z2E8X1T5C0G3X0E7V6X8M8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

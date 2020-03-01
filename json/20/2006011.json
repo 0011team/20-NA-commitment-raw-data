@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006011",
+  "title": "[2006011] 헌법재판소법 일부개정법률안(정성호의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2006011",
+    "2017-03-06",
+    "정성호의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','26F504B8-958D-9873-F901-EF145950E110','0');",
+  "proposers": [
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김영춘",
+      "party": "더불어민주당",
+      "name_cn": "金榮春"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "박용진",
+      "party": "더불어민주당",
+      "name_cn": "朴用鎭"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "국민의당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "이해찬",
+      "party": "더불어민주당",
+      "name_cn": "李海瓚"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "최인호",
+      "party": "더불어민주당",
+      "name_cn": "崔仁昊"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법 제38조는 위헌법률, 탄핵, 정당해산, 권한쟁의, 헌법소원의 심판기간에 대해 일괄적으로 180일 이내에 종국결정의 선고를 하도록 규정하고 있음.\n  그러나 탄핵심판, 특히 대통령에 대한 탄핵 심판의 경우 선고가 지연될수록 국정공백 기간이 늘어나고 이에 따라 정치적 혼란이 가중될 수 있으므로 최단 시일 내에 결정을 내려야 할 필요가 있음.\n  이에 따라 대통령에 대한 탄핵심판 선고기한을 현행 180일에서 90일로 단축함으로써 국정공백을 최소화하고 정치적 불확실성을 해소하려는 것임(안 제38조제2항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-03-06",
+  "decision_date": null,
+  "link_id": "PRC_W1Z7C0Y3E0O6L1Q9S4U7V2S9Q7P5R3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

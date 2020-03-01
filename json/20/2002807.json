@@ -1,0 +1,125 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002807",
+  "title": "[2002807] 국회의원(김민기) 징계안(염동열의원 등 20인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2002807",
+    "2016-10-21",
+    "염동열의원 등 20인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FEA3223A-FDDC-E61E-B949-4660E40F4AC8','0');",
+  "proposers": [
+    {
+      "name_kr": "염동열",
+      "party": "새누리당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "강길부",
+      "party": "새누리당",
+      "name_cn": "姜吉夫"
+    },
+    {
+      "name_kr": "권석창",
+      "party": "새누리당",
+      "name_cn": "權錫昌"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "새누리당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "새누리당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "새누리당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "새누리당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "새누리당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "새누리당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "새누리당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "이만희",
+      "party": "새누리당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "새누리당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "새누리당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이은재",
+      "party": "새누리당",
+      "name_cn": "李恩宰"
+    },
+    {
+      "name_kr": "이정현",
+      "party": "새누리당",
+      "name_cn": "李貞鉉"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "새누리당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "전희경",
+      "party": "새누리당",
+      "name_cn": "全希卿"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "새누리당",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "새누리당",
+      "name_cn": "池尙昱"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-10-21",
+  "decision_date": null,
+  "link_id": "PRC_M1Q6Z1J0T2S1I1G6Z4I4A0Q7K2N9N9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

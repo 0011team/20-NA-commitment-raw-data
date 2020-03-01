@@ -1,0 +1,121 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013117",
+  "title": "[2013117] 도시공원 및 녹지 등에 관한 법률 일부개정법률안(김석기의원 등 12인) 입법예고중",
+  "current_status": "철회",
+  "reception_info": [
+    "2013117",
+    "2018-04-18",
+    "김석기의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제359회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0E6FBEF3-94D4-3149-1685-3272EE670A21','0');",
+  "proposers": [
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "자유한국당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "자유한국당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "자유한국당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  전통사찰은 문화재와 같이 국가 법률에 의해 지정·관리되고 있으며, 도시공원의 가치 증대에 기여하고 있음.\n  그러나 전통사찰은 문화재와 달리 도시공원 또는 녹지에 관한 도시·군관리계획을 결정하는 경우에 「전통사찰의 보존 및 지원에 관한 법률」에 따른다는 특례가 규정되어 있지 않아 법 적용 간의 혼란이 발생한다는 지적이 있음.\n  이에 전통사찰에 대한 특례를 규정하여 「전통사찰의 보존 및 지원에 관한 법률」에 따르도록 함으로써 법 적용의 혼란가능성을 배제하고자 함(안 제48조의3 신설).\n"
+  ],
+  "withdrawers": [
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "자유한국당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    }
+  ],
+  "proposed_date": "2018-04-18",
+  "decision_date": "2018-05-21",
+  "link_id": "PRC_M1H8K0V4H1B8C1C3G4H8V5E2H7B0L3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021584",
+  "title": "[2021584] 한국마사회법 일부개정법률안(정운천의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021584",
+    "2019-07-22",
+    "정운천의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','165C4449-5291-0AA4-F41E-94F973BC68E6','0');",
+  "proposers": [
+    {
+      "name_kr": "정운천",
+      "party": "바른미래당",
+      "name_cn": "鄭雲天"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "여상규",
+      "party": "자유한국당",
+      "name_cn": "余尙奎"
+    },
+    {
+      "name_kr": "염동열",
+      "party": "자유한국당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "정병국",
+      "party": "바른미래당",
+      "name_cn": "鄭柄國"
+    },
+    {
+      "name_kr": "주광덕",
+      "party": "자유한국당",
+      "name_cn": "朱光德"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 출주할 말의 경주능력을 일시적으로 높이거나 줄이는 약물, 약제, 그 밖의 물질을 사용한 자를 7년 이하의 징역 또는 7천만원 이하의 벌금에 처하도록 하고 있음.\n  2017년부터 공정한 경마를 위하여 한국마사회에서 기수에 대해서도 도핑검사를 시행하고 있으나, 경주 성적을 조작하기 위하여 기수에게 약물 등을 사용한 경우에는 처벌규정이 없으므로 출주할 기수의 경주능력을 일시적 또는 비정상적으로 높이거나 줄이는 약물, 약제, 그 밖의 물질을 사용한 자를 처벌하는 규정을 신설하려는 것임(안 제50조제1항제4호의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-07-22",
+  "decision_date": null,
+  "link_id": "PRC_Q1E9X0J7V2S2D1R5Q1Q2Q3E7M5I9D0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

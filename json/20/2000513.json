@@ -1,0 +1,305 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000513",
+  "title": "[2000513] 형사소송법 일부개정법률안(인재근의원 등 56인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2000513",
+    "2016-06-27",
+    "인재근의원 등 56인",
+    "의안원문\n비용추계서 미첨부 사유서",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','8736002F-5E29-9463-1DD5-12D136AF44F1','0');",
+  "proposers": [
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김두관",
+      "party": "더불어민주당",
+      "name_cn": "金斗官"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "김영춘",
+      "party": "더불어민주당",
+      "name_cn": "金榮春"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "김태년",
+      "party": "더불어민주당",
+      "name_cn": "金太年"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "김현미",
+      "party": "더불어민주당",
+      "name_cn": "金賢美"
+    },
+    {
+      "name_kr": "도종환",
+      "party": "더불어민주당",
+      "name_cn": "都鐘煥"
+    },
+    {
+      "name_kr": "문미옥",
+      "party": "더불어민주당",
+      "name_cn": "文美玉"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "박경미",
+      "party": "더불어민주당",
+      "name_cn": "朴炅美"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박완주",
+      "party": "더불어민주당",
+      "name_cn": "朴完柱"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "국민의당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "송영길",
+      "party": "더불어민주당",
+      "name_cn": "宋永吉"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "심상정",
+      "party": "정의당",
+      "name_cn": "沈相정"
+    },
+    {
+      "name_kr": "양승조",
+      "party": "더불어민주당",
+      "name_cn": "梁承晁"
+    },
+    {
+      "name_kr": "오영훈",
+      "party": "더불어민주당",
+      "name_cn": "吳怜勳"
+    },
+    {
+      "name_kr": "우상호",
+      "party": "더불어민주당",
+      "name_cn": "禹相虎"
+    },
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "국민의당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "유은혜",
+      "party": "더불어민주당",
+      "name_cn": "兪銀惠"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "윤호중",
+      "party": "더불어민주당",
+      "name_cn": "尹昊重"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이개호",
+      "party": "더불어민주당",
+      "name_cn": "李介昊"
+    },
+    {
+      "name_kr": "이인영",
+      "party": "더불어민주당",
+      "name_cn": "李仁榮"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "이해찬",
+      "party": "무소속",
+      "name_cn": "李海瓚"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "국민의당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    },
+    {
+      "name_kr": "제윤경",
+      "party": "더불어민주당",
+      "name_cn": "諸閏景"
+    },
+    {
+      "name_kr": "진선미",
+      "party": "더불어민주당",
+      "name_cn": "陳善美"
+    },
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    },
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    },
+    {
+      "name_kr": "홍의락",
+      "party": "무소속",
+      "name_cn": "洪宜洛"
+    },
+    {
+      "name_kr": "홍익표",
+      "party": "더불어민주당",
+      "name_cn": "洪翼杓"
+    },
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  새로운 수사기법의 발전으로 공소시효의 필요성이 적어지고 있고, 공소시효가 지났다는 이유만으로 중대·강력 범죄를 처벌하지 않는 것은 사회 정의에 반한다는 문제제기가 계속되고 있음.\n  근래 이에 따라 사회적으로 공소시효 폐지의 공감대가 형성된 13세 미만의 사람에 대한 성폭력범죄에 대한 공소시효가 없어졌고, 살인죄에 대한 공소시효가 없어졌음. \n  이러한 범죄들의 죄질과 비교해 볼 때, 헌법상 금지하고 있는 “고문” 범죄의 공소시효도 폐지할 필요가 있으므로 고문에 대한 처벌 규정인 「형법」 제125조의 공소시효를 없애려는 것임(안 제253조의2).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-27",
+  "decision_date": null,
+  "link_id": "PRC_R1K6Q0B6A2C7Y1F7G4X1M5Y7N3J2J1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

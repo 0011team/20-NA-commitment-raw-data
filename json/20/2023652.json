@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023652",
+  "title": "[2023652] 병역법 일부개정법률안(민홍철의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023652",
+    "2019-11-07",
+    "민홍철의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E13CF3FD-B568-EF33-C41B-017A9BD78A87','0');",
+  "proposers": [
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "김정호",
+      "party": "더불어민주당",
+      "name_cn": "金禎鎬"
+    },
+    {
+      "name_kr": "김진표",
+      "party": "더불어민주당",
+      "name_cn": "金振杓"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "서삼석",
+      "party": "더불어민주당",
+      "name_cn": "徐參錫"
+    },
+    {
+      "name_kr": "송갑석",
+      "party": "더불어민주당",
+      "name_cn": "宋甲錫"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "무소속",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이개호",
+      "party": "더불어민주당",
+      "name_cn": "李介昊"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "무소속",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이종걸",
+      "party": "더불어민주당",
+      "name_cn": "李鍾杰"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현재 직업군인의 경우 「국가공무원법」 및  「공무원 후생복지에 관한 규정」에 따라 군 단체보험 제도가 시행되고 있음.\n  하지만 직업군인이 아닌 현역병 및 상근예비역에 대해서는 실손의료보험과 관련하여 군 단체보험에 대한 법적 근거가 없어 훈련 중 발생하는 부상 등에 대하여 민간병원에서 치료를 받는데 있어서 비용적 부담이 크다는 문제가 있음.\n  이에 현역병 및 상근예비역에 대해서도 상해보험 및 실손의료보험 등에 관한 단체보험의 법적 근거를 마련하고자 함(안 제75조의3제2항 및 제3항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-11-07",
+  "decision_date": null,
+  "link_id": "PRC_U1E9F1V1M0Y7L1F5G3R6E4Z0Q9N7W9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019972",
+  "title": "[2019972] 집회 및 시위에 관한 법률 일부개정법률안(정인화의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2019972",
+    "2019-04-23",
+    "정인화의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','10C54314-9102-49C8-9D25-C1BB5A8BADAE','0');",
+  "proposers": [
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "민주평화당",
+      "name_cn": "朴智元"
+    },
+    {
+      "name_kr": "오영훈",
+      "party": "더불어민주당",
+      "name_cn": "吳怜勳"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "민주평화당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "민주평화당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "민주평화당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 집회나 시위를 시작하기 720시간 전부터 48시간 전에 관할경찰관서장에게 신고서를 제출하도록 규정하고 있으나, 이에 대해 헌법재판소는 긴급집회(미리계획되었고 주최자도 있으나 법이 요구하는 기간 내에 신고를 할 수 없는 옥외집회 및 시위)의 경우에는 신고 가능성이 존재하는 즉시 신고하여야 하는 것으로 해석하고 있음.\n  이에 성질상 현행법에서 요구하는 기간 내에 신고를 할 수 없는 옥외집회 및 시위의 경우에는 그 신고가 가능한 때에 즉시 신고하도록 하여 법 문언을 명확히 하려는 것임(안 제6조제2항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-04-23",
+  "decision_date": null,
+  "link_id": "PRC_B1T9V0V4K2J3I1S4P2M1S4R7X4W2B3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,171 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015041",
+  "title": "[2015041] 국가인권위원회법 일부개정법률안(정성호의원 등 18인) 입법예고중",
+  "current_status": "철회",
+  "reception_info": [
+    "2015041",
+    "2018-08-24",
+    "정성호의원 등 18인",
+    "의안원문",
+    "제20대 (2016~2020) 제363회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5A8B2248-3583-A8B6-0FC3-A3E626EE3DD8','0');",
+  "proposers": [
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "금태섭",
+      "party": "더불어민주당",
+      "name_cn": "琴泰燮"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "오제세",
+      "party": "더불어민주당",
+      "name_cn": "吳濟世"
+    },
+    {
+      "name_kr": "유승희",
+      "party": "더불어민주당",
+      "name_cn": "兪承希"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "민주평화당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "바른미래당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "표창원",
+      "party": "더불어민주당",
+      "name_cn": "表蒼園"
+    },
+    {
+      "name_kr": "홍익표",
+      "party": "더불어민주당",
+      "name_cn": "洪翼杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  모든 사람이 인권의식을 함양하여 민주시민으로서 인간다운 삶을 누릴 수 있도록 함과 동시에 국제사회에서 인권선진국으로서의 위상을 높이기 위해 「인권교육지원법안」을 제정하면서 중복되는 내용을 삭제하고자 함(안 제26조제2항 및 제3항 삭제).\n\n\n참고사항\n\n  이 법률안은 정성호의원이 대표발의한 「인권교육지원법안」(의안번호 제15040호)의 의결을 전제로 하는 것이므로 같은 법률안이 의결되지 아니하거나 수정의결되는 경우에는 이에 맞추어 조정되어야 할 것임.\n"
+  ],
+  "withdrawers": [
+    {
+      "name_kr": "금태섭",
+      "party": "더불어민주당",
+      "name_cn": "琴泰燮"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "오제세",
+      "party": "더불어민주당",
+      "name_cn": "吳濟世"
+    },
+    {
+      "name_kr": "유승희",
+      "party": "더불어민주당",
+      "name_cn": "兪承希"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    }
+  ],
+  "proposed_date": "2018-08-24",
+  "decision_date": "2018-10-01",
+  "link_id": "PRC_H1H8J0V8R2D4T1N8P2B7V4R5Q7Z0C0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

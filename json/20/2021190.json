@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021190",
+  "title": "[2021190] 행정안전위원장(인재근) 사임의 건(인재근의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2021190",
+    "2019-06-28",
+    "인재근의원",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E9D75738-F235-83FC-AE61-866397329BEC','0');",
+  "proposers": [
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-06-28",
+  "decision_date": "2019-06-28",
+  "link_id": "PRC_J1E9Q0V6U2Y8U1H2U0T4N4T2D6T2C3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

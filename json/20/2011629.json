@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011629",
+  "title": "[2011629] 형사소송법 일부개정법률안(유기준의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2011629",
+    "2018-01-30",
+    "유기준의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제356회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5BFDD4E7-0897-EA56-5936-B97B5A183E2D','0');",
+  "proposers": [
+    {
+      "name_kr": "유기준",
+      "party": "자유한국당",
+      "name_cn": "兪奇濬"
+    },
+    {
+      "name_kr": "권석창",
+      "party": "자유한국당",
+      "name_cn": "權錫昌"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金成泰"
+    },
+    {
+      "name_kr": "윤상직",
+      "party": "자유한국당",
+      "name_cn": "尹相直"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "자유한국당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "자유한국당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  우리 헌법 제12조제4항은 피의자 등의 체포ㆍ구속 시 ‘변호인의 조력을 받을 권리’를 규정하고 있음. 변호인의 조력을 충분히 받기 위해서는 의뢰인이 변호인에게 비밀을 털어놓더라도 변호인이 그 비밀을 유지할 것이라는 신뢰가 보장되어야 하며, 의뢰인과 변호인 간 법률자문을 목적으로 비밀리에 이루어진 의사교환 내용은 보호되어야 할 필요가 있음.\n  이에 변호인과 피고인 간의 비밀 의사교환 내용이 변호인이나 피고인의 의사에 기하지 아니하고 공개된 경우 증거능력이 없게 함으로써 국민의 기본적 권리를 보호하고 피고인이 변호인의 조력을 충분히 받을 수 있도록 하려는 것임(안 제308조의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-01-30",
+  "decision_date": null,
+  "link_id": "PRC_G1U8F0T1H3D0K1Z1A2X9Y1Y6E4U2K5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

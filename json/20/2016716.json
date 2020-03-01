@@ -1,0 +1,126 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016716",
+  "title": "[2016716] 공공주택 특별법 일부개정법률안(김병관의원 등 10인) 입법예고중",
+  "current_status": "철회",
+  "reception_info": [
+    "2016716",
+    "2018-11-21",
+    "김병관의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','87264A9C-A2DE-0F14-AE37-29DBD0BD5C08','0');",
+  "proposers": [
+    {
+      "name_kr": "김병관",
+      "party": "더불어민주당",
+      "name_cn": "金炳官"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "윤호중",
+      "party": "더불어민주당",
+      "name_cn": "尹昊重"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 주택가격이 급등한 지역에 공급된 공공건설임대주택의 분양전환가격이 높은 수준으로 산정되어 분양전환에 따른 임차인의 경제적 부담이 커지고 있음.\n  이와 관련하여, 높은 분양전환 가격으로 인해 분양전환을 받기 어려운 임차인의 주거불안을 해소하기 위해서는 임대의무기간이 경과한 후에도 일정기간 동안 임차인의 거주를 보장해야 한다는 의견이 제시되고 있음.\n  이에 우선 분양전환 대상자가 공공건설임대주택을 건설한 공공주택사업자에게 8년 이내의 기간에서 임대 연장을 요청할 수 있도록 하여 임차인의 주거안정에 기여하는 것임(안 제50조의4 신설).\n"
+  ],
+  "withdrawers": [
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "고용진"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김병관",
+      "party": "더불어민주당",
+      "name_cn": "金炳官"
+    },
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "윤호중",
+      "party": "더불어민주당",
+      "name_cn": "尹昊重"
+    }
+  ],
+  "proposed_date": "2018-11-21",
+  "decision_date": "2019-01-04",
+  "link_id": "PRC_I1F8M1D1G2J1Q1U8I1K3V2F3Y8A1R6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

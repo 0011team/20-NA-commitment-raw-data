@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009123",
+  "title": "[2009123] 의료 해외진출 및 외국인환자 유치 지원에 관한 법률 일부개정법률안(이명수의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2009123",
+    "2017-09-06",
+    "이명수의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9F58E64B-D66C-852C-F82B-F45432F7FB74','0');",
+  "proposers": [
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "권석창",
+      "party": "자유한국당",
+      "name_cn": "權錫昌"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "바른정당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "이정현",
+      "party": "무소속",
+      "name_cn": "李貞鉉"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "자유한국당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법 제15조제1항제4호에 “「항공법」 제2조제7호에 따른 공항 중 국제항공노선이 개설된 공항”으로 규정되어 있으나, 「항공법」은 현재 폐지된 상태임. 그러나 여전히 폐지된 법률명이 규정되어 있어 국민들에게 혼란을 줄 우려가 있음.\n  따라서 “「항공법」”을 “「공항시설법」”으로 개정하여 혼란을 없애고자 함(안 제15조제1항제4호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-06",
+  "decision_date": "2018-08-30",
+  "link_id": "PRC_Y1W7T0P9W0D6V1A6U5W2S3M2W1H4O1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

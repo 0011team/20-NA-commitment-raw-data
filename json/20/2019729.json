@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019729",
+  "title": "[2019729] 지방세특례제한법 일부개정법률안(정인화의원 등 12인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2019729",
+    "2019-04-10",
+    "정인화의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B310201A-5F6D-06EB-BB0E-CF3CD5179663','0');",
+  "proposers": [
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "민주평화당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "민주평화당",
+      "name_cn": "朴智元"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "민주평화당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "민주평화당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "민주평화당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "민주평화당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "자유한국당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 신혼부부가 생애최초로 주택을 구입할 경우 취득세의 50%를 경감해주도록 하고 있으나, 동 제도는 2019년 말로 일몰이 도래될 예정임.\n  그러나 최근 부동산 가격의 급등으로 생애최초 주택 구입 시기가 늦어지고 신혼부부의 주거 여건이 점차 악화되고 있는 상황임을 고려할 때 신혼부부의 주거안정을 위한 세제지원을 지속할 필요성이 있음.\n  이에 신혼부부에 대한 취득세 경감 규정을 2022년 12월 31일까지 3년 연장함으로써 신혼부부의 주거 여건 개선과 경제적 안정을 도모하려는 것임(안 제36조의2제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-04-10",
+  "decision_date": "2020-01-09",
+  "link_id": "PRC_A1X9J0T4K1X0A1H5B5K5I0U6V8K8K8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

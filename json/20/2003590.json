@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003590",
+  "title": "[2003590] 고용보험법 일부개정법률안(김철민의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2003590",
+    "2016-11-15",
+    "김철민의원 등 11인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','CFD252D6-9E2D-EDA5-E551-287FD38F33D2','0');",
+  "proposers": [
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "전해철",
+      "party": "더불어민주당",
+      "name_cn": "全海澈"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 국회 입법조사처의 부정수급 관련 자료에 따르면 지난 해 실업급여 부정수급액은 2013년 117억 원, 2014년 130억 원에서 148억 원으로 계속해서 증가하는 추세에 있으며 부정수급자 수도 21,493명에 달하는 것으로 나타나고 있어 이에 대한 대책 마련이 필요함.\n  이에 고용노동부장관으로 하여금 실업급여 부정수급 실태를 조사하고 그 결과를 공표하게 함으로써 정확한 통계에 근거한 부정수급 방지대책을 수립하여 부정수급이 발생하지 않도록 하려는 것임(안 제61조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-15",
+  "decision_date": null,
+  "link_id": "PRC_V1K6G1S1P1M5S1E7F1M5S3C5N1A3Y1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

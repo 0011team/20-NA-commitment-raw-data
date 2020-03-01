@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020198",
+  "title": "[2020198] 국가균형발전 특별법 일부개정법률안(이원욱의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020198",
+    "2019-05-03",
+    "이원욱의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','AB3B87CE-BA58-0861-22CF-95EB61D1C7F2','0');",
+  "proposers": [
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "김병관",
+      "party": "더불어민주당",
+      "name_cn": "金炳官"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    },
+    {
+      "name_kr": "이상민",
+      "party": "더불어민주당",
+      "name_cn": "李相珉"
+    },
+    {
+      "name_kr": "이훈",
+      "party": "더불어민주당",
+      "name_cn": "李薰"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "정세균",
+      "party": "더불어민주당",
+      "name_cn": "丁世均"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 정부가 국가균형발전을 촉진하기 위하여 부문별 발전계획안과 시·도 발전계획을 기초로 하여 5년을 단위로 하는 국가균형발전 5개년계획을 수립하도록 하고 있음.\n  그런데 해당 계획을 수립한 후 국회 소관 상임위원회에 제출하도록 하는 규정은 없어, 국회에서 이를 빠르게 확인하고 대응하는 데에 문제가 발생한다는 지적이 있음.\n  이에 국가균형발전 5개년계획을 수립한 때에는 이를 국회 소관 상임위원회에 제출하도록 하려는 것임(안 제4조제5항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-03",
+  "decision_date": null,
+  "link_id": "PRC_S1D9M0V5C0M3T1X7E4V2A0R8V6P1M8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

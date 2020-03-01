@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021813",
+  "title": "[2021813] 인사청문회법 일부개정법률안(이종배의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021813",
+    "2019-08-01",
+    "이종배의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제370회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','21961C21-46E2-F2B2-A4CE-FFC9B7524562','0');",
+  "proposers": [
+    {
+      "name_kr": "이종배",
+      "party": "자유한국당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "자유한국당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "유민봉",
+      "party": "자유한국당",
+      "name_cn": "庾敏鳳"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "자유한국당",
+      "name_cn": "朱豪英"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현재 청와대는 국회에 공직후보자에 대한 임명동의 또는 인사청문을 요청하기 전에 해당 후보자의 적격성을 사전적으로 검증한 사항을 제출하지 않아 해당 후보자 추천에 대한 검증이 제대로 이루어지지 않고 있다는 지적이 있음.\n  이에 대통령？대통령당선인이 공직후보자에 대한 임명동의 또는 인사청문을 요청하는 경우 해당 후보자에 대하여 사전적으로 검증한 사항에 관한 증빙서류를 함께 제출하도록 함으로써 최소한의 적재적소 후보자를 인 사 검증할 수 있도록 하려는 것임(안 제5조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-08-01",
+  "decision_date": null,
+  "link_id": "PRC_Q1C9J0A8I0D1F1T4A3R6G2E7T3O5D8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

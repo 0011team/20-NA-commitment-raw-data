@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019066",
+  "title": "[2019066] 대기환경보전법 일부개정법률안(문진국의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2019066",
+    "2019-03-08",
+    "문진국의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제367회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','3BB7645D-3E6A-9D65-2D17-D0F8393320DB','0');",
+  "proposers": [
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김용태",
+      "party": "자유한국당",
+      "name_cn": "金容兌"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "자유한국당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "바른미래당",
+      "name_cn": "鄭雲天"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  미세먼지 생성물질인 질소산화물의 주요 배출원이 가정용보일러 등임에도 불구하고 현행법에는 이를 규제할 수 있는 근거가 없음.\n  이에 대통령령으로 정하는 규모 이상의 공동주택을 신축하려는 자는 환경부령으로 정하는 질소산화물 배출 기준에 적합한 보일러를 설치하도록 의무화함으로써 미세먼지 발생을 억제하려는 것임(안 제45조의4 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-03-08",
+  "decision_date": null,
+  "link_id": "PRC_D1C9F0Y3X0A8V1C8N0L3D1D0H4J2Z0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

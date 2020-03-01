@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009420",
+  "title": "[2009420] 국회의원(손혜원) 징계안(정우택의원 외 104인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2009420",
+    "2017-09-15",
+    "정우택의원 외 104인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7AE319C7-0494-EA88-40DC-776B03CA5240','0');",
+  "proposers": [
+    {
+      "name_kr": "정우택",
+      "party": "자유한국당",
+      "name_cn": "鄭宇澤"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-15",
+  "decision_date": null,
+  "link_id": "PRC_A1B7V0F9Z1N5V1B5R4F7U5Y4D9O7I8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020784",
+  "title": "[2020784] 노동조합 및 노동관계조정법 일부개정법률안(신보라의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020784",
+    "2019-06-03",
+    "신보라의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','3B920AE1-090F-7055-8215-FA48BBBE4FA3','0');",
+  "proposers": [
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "강석진",
+      "party": "자유한국당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "강효상",
+      "party": "자유한국당",
+      "name_cn": "姜孝祥"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "자유한국당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "자유한국당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "박대출",
+      "party": "자유한국당",
+      "name_cn": "朴大出"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "자유한국당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "정양석",
+      "party": "자유한국당",
+      "name_cn": "鄭亮碩"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 노동조합의 쟁의행위는 그 목적·방법 및 절차에 있어서 법령과 그 밖의 사회질서에 따라 행해져야 함에도 불구하고 폭력이나 파괴행위 등 적법하지 않은 형태의 쟁의행위가 반복적으로 발생하고 있어 실효성 있는 대책이 요구되고 있음.\n  이에 노동조합이 폭력이나 파괴행위 등 이 법을 위반하는 형태로 3회 이상 쟁의행위를 한 경우 행정관청이 노동위원회의 의결을 받아 해산할 수 있도록 함으로써 적법하지 않은 형태의 쟁의행위를 방지하려는 것임(안 제28조제1항제5호 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-06-03",
+  "decision_date": null,
+  "link_id": "PRC_H1T9I0D6A0T3T1S5Y3P2Q5U8K9E4L3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

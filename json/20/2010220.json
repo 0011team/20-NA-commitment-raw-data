@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010220",
+  "title": "[2010220] 변호사시험법 일부개정법률안(이재정의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2010220",
+    "2017-11-17",
+    "이재정의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7D4B375B-A7C4-7B18-9F3D-87EBEE275777','0');",
+  "proposers": [
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "윤호중",
+      "party": "더불어민주당",
+      "name_cn": "尹昊重"
+    },
+    {
+      "name_kr": "이학영",
+      "party": "더불어민주당",
+      "name_cn": "李學永"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    },
+    {
+      "name_kr": "진선미",
+      "party": "더불어민주당",
+      "name_cn": "陳善美"
+    },
+    {
+      "name_kr": "표창원",
+      "party": "더불어민주당",
+      "name_cn": "表蒼園"
+    },
+    {
+      "name_kr": "홍익표",
+      "party": "더불어민주당",
+      "name_cn": "洪翼杓"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n  현행법은 변호사시험을 법학전문대학원의 석사학위 취득 후 5년 내에 5회만 응시할 수 있도록 하면서, 병역의무를 이행하는 경우에는 그 이행기간을 5년의 응시기간에 산입하지 않도록 하고 있음.\n  그런데 여성이 임신이나 출산을 한 경우도 여성의 출산 및 모성보호를 위해 병역의무의 이행과 같이 응시기회 제한의 예외를 인정할 필요가 있음.\n  따라서 법학전문대학원 석사학위 취득 후 임신이나 출산으로 시험에 응시하지 못한 경우 기간이 도과한 이후라도 1회에 한하여 시험에 응시할 수 있도록 하려는 것임(안 제7조제3항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-11-17",
+  "decision_date": null,
+  "link_id": "PRC_V1E7I1R1D1E7T1M5L0Q8Y4N4N2F6S3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

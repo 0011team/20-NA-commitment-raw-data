@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000128",
+  "title": "[2000128] 저출산고령사회대책특별위원회 구성결의안(김학용의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2000128",
+    "2016-06-07",
+    "김학용의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C539F204-3A59-AD7A-F058-AF1D3712D3D5','0');",
+  "proposers": [
+    {
+      "name_kr": "김학용",
+      "party": "새누리당",
+      "name_cn": "金學容"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "새누리당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "권성동",
+      "party": "새누리당",
+      "name_cn": "權性東"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "새누리당",
+      "name_cn": "金聖泰"
+    },
+    {
+      "name_kr": "김종석",
+      "party": "새누리당",
+      "name_cn": "金鍾奭"
+    },
+    {
+      "name_kr": "박순자",
+      "party": "새누리당",
+      "name_cn": "朴順子"
+    },
+    {
+      "name_kr": "서형수",
+      "party": "더불어민주당",
+      "name_cn": "徐炯洙"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "새누리당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "이주영",
+      "party": "새누리당",
+      "name_cn": "李柱榮"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "새누리당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "한선교",
+      "party": "새누리당",
+      "name_cn": "韓善敎"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "새누리당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-07",
+  "decision_date": null,
+  "link_id": "PRC_P1B6X0R6I0Y7M1O8P0K7H1E8L5W3L0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

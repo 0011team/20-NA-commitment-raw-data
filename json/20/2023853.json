@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023853",
+  "title": "[2023853] 국회예산정책처법 일부개정법률안(김승희의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023853",
+    "2019-11-15",
+    "김승희의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B687C483-DDB3-59E5-AE09-693F475BE38B','0');",
+  "proposers": [
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "자유한국당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "자유한국당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "이만희",
+      "party": "자유한국당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  국회예산정책처의 조사·분석 결과가 해당 사항의 조사·분석을 요구한 위원회 또는 국회의원에게만 제공되고 일반적으로 공개되지 아니하고 있음. 이에 따라 동일 자료에 대해서 조사·분석을 중복적으로 요구하거나 해당 자료를 업무에 활용하지 못하는 등 비효율이 발생하고 있음.\n  이에 해당 위원회 또는 국회의원이 동의한 경우 조사·분석 내용 또는 자료를 원칙적으로 공개할 수 있도록 함으로써 조사·분석 결과의 활용도를 높이고자함 다만, 처장이 국가안보 등의 상유를 이유로 국회규칙에 따라 예외적으로 비공개할 수 있음(안 제8조의 2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-11-15",
+  "decision_date": null,
+  "link_id": "PRC_J1N9Q1G1R1M5U1J7A3R4A3K7E3P9Z7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

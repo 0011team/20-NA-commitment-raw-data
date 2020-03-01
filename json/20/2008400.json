@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008400",
+  "title": "[2008400] 지적재조사에 관한 특별법 일부개정법률안(김중로의원 등 10인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2008400",
+    "2017-08-04",
+    "김중로의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제352회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A85E539C-534E-60E1-00E1-3D52F858C551','0');",
+  "proposers": [
+    {
+      "name_kr": "김중로",
+      "party": "국민의당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "박준영",
+      "party": "국민의당",
+      "name_cn": "朴晙瑩"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "국민의당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 사업지구란 지적재조사사업을 시행하기 위하여 지정고시되는 지구, 즉 지적재조사사업이 시행되는 사업지구를 의미함. 그러나 현행법에서는 구체적인 ‘지적재조사지구’의 명칭이 아닌 단순한 ‘사업지구’의 명칭으로 규정함으로써 타법의 사업지구와 혼돈할 가능성이 있으며 명확성의 원칙에도 위반될 수 있다는 지적이 제기됨.\n  이에 현행법상 ‘사업지구’를 ‘지적재조사지구’로 개정함으로써 혼돈을 방지하고 보다 명확하게 규정하고자 함(안 제2조제3호 등).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-08-04",
+  "decision_date": "2019-11-19",
+  "link_id": "PRC_Q1K7J0B8D0S4S1T7T2C4R3N7D8P7T7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020732",
+  "title": "[2020732] 세무사법 일부개정법률안(유승희의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020732",
+    "2019-05-31",
+    "유승희의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A13EF188-46A9-8E4C-E207-CDF7CB87F86B','0');",
+  "proposers": [
+    {
+      "name_kr": "유승희",
+      "party": "더불어민주당",
+      "name_cn": "兪承希"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "바른미래당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "심기준",
+      "party": "더불어민주당",
+      "name_cn": "沈基俊"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "민주평화당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이석현",
+      "party": "더불어민주당",
+      "name_cn": "李錫玄"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 대위 이상의 경리병과 장교로서 10년 이상 군의 경리 업무를 담당한 경력이 있는 자에 대하여 세무사 자격시험 제1차 시험을 면제하고 있으나, 2012년 12월 18일「군인사법」개정으로 경리병과의 명칭이 재정병과로 변경되었으므로, 이를 반영하고자 함(안 제5조의2제1항제4호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-31",
+  "decision_date": null,
+  "link_id": "PRC_V1Z9G0G5H3D1L1G0V4X2D3R7H3E1K2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

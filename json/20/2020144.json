@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020144",
+  "title": "[2020144] 국정감사 및 조사에 관한 법률 일부개정법률안(이정현의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020144",
+    "2019-05-02",
+    "이정현의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','43C609D0-896E-CF4D-B281-4BE88DD524D0','0');",
+  "proposers": [
+    {
+      "name_kr": "이정현",
+      "party": "무소속",
+      "name_cn": "李貞鉉"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "심재철",
+      "party": "자유한국당",
+      "name_cn": "沈在哲"
+    },
+    {
+      "name_kr": "유민봉",
+      "party": "자유한국당",
+      "name_cn": "庾敏鳳"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "자유한국당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  「국회법」에서 국정감사나 국정조사와 관련하여 정부 등에 서류제출을 요구할 수 있는 요건에 개별 의원도 포함시킴에 따라 국정감사 및 조사에 관한 방법을 규정한 이 법을 보완하려는 것임(안 제10조제2항 신설 등).\n\n\n참고사항\n\n  이 법률안은 이정현의원이 대표발의한 「국회법 일부개정법률안」(의안번호 제20145호) 및 「국회에서의 증언？감정 등에 관한 법률 일부개정법률안」(의안번호 제20146호)의 의결을 전제로 하는 것이므로 같은 법률안이 의결되지 아니하거나 수정의결 되는 경우에는 이에 맞추어 조정되어야 할 것임.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-02",
+  "decision_date": null,
+  "link_id": "PRC_R1L9L0G5N0H2U1Y4A3H3A4U0Z1P7O0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

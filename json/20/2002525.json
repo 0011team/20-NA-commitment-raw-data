@@ -1,0 +1,185 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002525",
+  "title": "[2002525] 전기사업법 일부개정법률안(박완주의원 등 32인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2002525",
+    "2016-09-29",
+    "박완주의원 등 32인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5A2E5B17-0243-0479-AB01-144A2F6C11B2','0');",
+  "proposers": [
+    {
+      "name_kr": "박완주",
+      "party": "더불어민주당",
+      "name_cn": "朴完柱"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "금태섭",
+      "party": "더불어민주당",
+      "name_cn": "琴泰燮"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "새누리당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "김한정",
+      "party": "더불어민주당",
+      "name_cn": "金漢正"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "도종환",
+      "party": "더불어민주당",
+      "name_cn": "都鐘煥"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "새누리당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "양승조",
+      "party": "더불어민주당",
+      "name_cn": "梁承晁"
+    },
+    {
+      "name_kr": "어기구",
+      "party": "더불어민주당",
+      "name_cn": "魚基龜"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이개호",
+      "party": "더불어민주당",
+      "name_cn": "李介昊"
+    },
+    {
+      "name_kr": "이만희",
+      "party": "새누리당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "이완영",
+      "party": "새누리당",
+      "name_cn": "李完永"
+    },
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "진선미",
+      "party": "더불어민주당",
+      "name_cn": "陳善美"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "새누리당",
+      "name_cn": "洪文杓"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법은 전기요금의 감면 및 할인근거를 법률에 규정하지 않고 ‘전기공급약관’을 통해 규정하고 있으나, 할인의 대상이 되는 전기사용자의 범위를 보다 명확하고 일반 사용자가 용이하게 파악할 수 있도록 법률에 규정할 필요가 있음.\n  이에 현재 한국전력이 ‘기본공급약관’에서 규정하고 있는 감면규정을 법제화하고, 논란이 있었던 교육용 전기요금의 할인을 명백히 규정하며, 특히 최근 식량주권에 있어 중요성을 더해가고 있는 쌀 산업을 위해 쌀의 수매 및 판매 역할을 하는 미곡종합처리장은 농사용 전기요금 적용이 필수적인바, 농업인의 실질적 이익 제고를 위한 감면규정을 추가로 마련할 필요가 있음(안 제17조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-09-29",
+  "decision_date": null,
+  "link_id": "PRC_I1P6Q0T9X2V9P1N4T5T1K2P0H8J8L5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

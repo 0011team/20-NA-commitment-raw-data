@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014421",
+  "title": "[2014421] 제헌절 공휴일 재지정 촉구 결의안(이찬열의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014421",
+    "2018-07-16",
+    "이찬열의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제362회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','8E6245D1-5821-39AD-EE55-FA94D268AAA6','0');",
+  "proposers": [
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "바른미래당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "민주평화당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-07-16",
+  "decision_date": null,
+  "link_id": "PRC_S1L8T0K7N1P6A0S9B3B9J0M3M7T6M8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

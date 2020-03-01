@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2024241",
+  "title": "[2024241] 방조제 관리법 일부개정법률안(이만희의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2024241",
+    "2019-12-10",
+    "이만희의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B9FCC68F-1E36-256A-ACCE-2D44F23CB096','0');",
+  "proposers": [
+    {
+      "name_kr": "이만희",
+      "party": "자유한국당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "백승주",
+      "party": "자유한국당",
+      "name_cn": "白承周"
+    },
+    {
+      "name_kr": "송언석",
+      "party": "자유한국당",
+      "name_cn": "宋彦錫"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "자유한국당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "이장우",
+      "party": "자유한국당",
+      "name_cn": "李莊雨"
+    },
+    {
+      "name_kr": "정용기",
+      "party": "자유한국당",
+      "name_cn": "鄭容起"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  현행법에 따라 농림축산식품부장관 또는 지방자치단체의 장은 천재지변이나 그 밖의 긴급한 사태로 국가나 지방자치단체가 관리하는 관리방조제의 위험을 방지하거나 재해를 복구하기 위하여 인근 주민에게 노무의 제공을 요청하거나 물건 등을 사용하는 행위 등을 요청할수 있도록 규정하고 있음.\n  그러나 응급조치에 대응하기 위하여 인근 주민에게 노무의 제공을 요청하도록 하는 것은 노무의 제공 범위가 명확하지 않은 측면이 있으므로 응급조치에 종사하도록 범위를 명확히 하려는 것임(안 제10조제1호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-12-10",
+  "decision_date": null,
+  "link_id": "PRC_U1E9P1M2W1R0M1G7R1C7U2T6P8K6A5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003691",
+  "title": "[2003691] 통신비밀보호법 일부개정법률안(황주홍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2003691",
+    "2016-11-17",
+    "황주홍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5638C25E-5F9A-E43C-D941-8A9F0B42BC31','0');",
+  "proposers": [
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "국민의당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "새누리당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이종걸",
+      "party": "더불어민주당",
+      "name_cn": "李鍾杰"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "무소속",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    }
+  ],
+  "summaries": [
+    "\n현행법은 전기통신의 감청을 하거나 공개되지 아니한 타인간의 대화를 녹음 또는 청취한 자와 이에 따라 지득한 통신 또는 대화의 내용을 공개하거나 누설한 자를 동일하게 1년 이상 10년 이하의 징역과 5년 이하의 자격정지에 처하도록 하고 있음.\n  그러나 공개되지 아니한 타인간의 대화를 녹음 또는 청취하는 것보다 이를 공개하거나 누설하는 것이 그 위법성이 더 중하여 가중처벌할 필요가 있으므로, 통신 또는 대화의 내용을 공개하거나 누설한 자를 그 죄에 정한 형의 장기 및 단기의 2분의 1까지 가중하여 처벌하려는 것임(안 제16조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-17",
+  "decision_date": null,
+  "link_id": "PRC_C1Z6U1T1C1I7A1U7Q4N9I3E5B8H4O0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,24 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013749",
+  "title": "[2013749] 국회의원(권성동) 체포동의안(정부) 입법예고중",
+  "current_status": "접수",
+  "reception_info": [
+    "2013749",
+    "2018-05-25",
+    "정부",
+    "의안원문",
+    "제20대 (2016~2020) 제360회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9F31B74A-7399-DF3F-0C27-F1E1D4856AED','0');",
+  "proposers": [],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-05-25",
+  "decision_date": null,
+  "link_id": "PRC_R1J8S0V5Q2E5C1U1R1V8S1W3J0E1V4",
+  "proposer_type": "정부",
+  "status": "처리"
+}

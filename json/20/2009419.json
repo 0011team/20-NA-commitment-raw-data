@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009419",
+  "title": "[2009419] 국회의원(소병훈) 징계안(정우택의원 외 104인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2009419",
+    "2017-09-15",
+    "정우택의원 외 104인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','CCD0D8C1-44BE-DD47-0579-6073454CDD1A','0');",
+  "proposers": [
+    {
+      "name_kr": "정우택",
+      "party": "자유한국당",
+      "name_cn": "鄭宇澤"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-15",
+  "decision_date": null,
+  "link_id": "PRC_Y1L7G0S9A1U5M1P5Y4M7F2O0D5R2C8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

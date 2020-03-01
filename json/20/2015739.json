@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015739",
+  "title": "[2015739] 국회의원(오세정) 사직의 건(오세정의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2015739",
+    "2018-09-21",
+    "오세정의원",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E26C0E74-AC95-2CED-F905-3053D08E7810','0');",
+  "proposers": [
+    {
+      "name_kr": "오세정",
+      "party": "바른미래당",
+      "name_cn": "吳世正"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-09-21",
+  "decision_date": "2018-10-01",
+  "link_id": "PRC_N1P8Q0K9G2U1Q1X7M4M7L5C1M1D6B0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

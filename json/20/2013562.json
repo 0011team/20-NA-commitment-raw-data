@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013562",
+  "title": "[2013562] 국회법 일부개정법률안(이석현의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2013562",
+    "2018-05-14",
+    "이석현의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제360회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FE5F4101-6BE6-B384-4D39-6A6EDA3E7233','0');",
+  "proposers": [
+    {
+      "name_kr": "이석현",
+      "party": "더불어민주당",
+      "name_cn": "李錫玄"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "손혜원",
+      "party": "더불어민주당",
+      "name_cn": "孫惠園"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "유은혜",
+      "party": "더불어민주당",
+      "name_cn": "兪銀惠"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 공직선거후보자 등록을 위하여 국회의원을 사직하는 경우 의결로 사직서를 처리하되, 폐회 중에는 국회의장이 허가할 수 있도록 함.\n  그러나 회기 중이라 해도, 교섭단체 간 의사일정에 합의하지 못해  사직서 처리가 되지 않는 경우, 해당 지역 구민의 참정권을 그만큼 박탈하게 되는 것임. \n 이에 공직선거후보자 등록을 위하여 국회의원 사직을 하는 경우는 의장이 허가할 수 있도록 재량을 부여하여 국민의 참정권을 빈틈없이 보장하려는 것임(안 제135조제1항 단서).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-05-14",
+  "decision_date": null,
+  "link_id": "PRC_O1O8Q0I5P1T4M1Q4T0E3P4V9D8W4J5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

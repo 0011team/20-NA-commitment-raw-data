@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000832",
+  "title": "[2000832] 중소기업기술 보호 지원에 관한 법률 일부개정법률안(조경태의원 등 11인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2000832",
+    "2016-07-12",
+    "조경태의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','36DD1230-D1C9-381C-8C50-5FF0821CEA18','0');",
+  "proposers": [
+    {
+      "name_kr": "조경태",
+      "party": "새누리당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "새누리당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "새누리당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "새누리당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "박주현",
+      "party": "국민의당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "유재중",
+      "party": "새누리당",
+      "name_cn": "柳在仲"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "새누리당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "새누리당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "새누리당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    }
+  ],
+  "summaries": [
+    "\n중소기업기술 보호를 통해 중소기업청에서 기술침해현황 실태 조사를 하도록 되어 있지만 실태조사가 제대로 선행되지 못하고 미흡한 실정임.\n  실태조사를 매년 실시하도록 의무화하고 시행령에 있는 실태조사 대상을 법률로 규정하여 중소기업기술보호 관련 실태조사가 제대로 이루어지도록 하려는 것임\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-12",
+  "decision_date": "2016-11-17",
+  "link_id": "PRC_I1A6C0B7D1H2E1Z5E5G6Y1I7W4Y1T3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

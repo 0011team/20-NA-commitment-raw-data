@@ -1,0 +1,24 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010777",
+  "title": "[2010777] 국회의원(최경환) 체포동의안(정부) 입법예고중",
+  "current_status": "접수",
+  "reception_info": [
+    "2010777",
+    "2017-12-12",
+    "정부",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5F07C803-D32E-487C-BCCD-B5EB964767D1','0');",
+  "proposers": [],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-12",
+  "decision_date": null,
+  "link_id": "PRC_H1D7E1Q2M1J2G1I3U4G2T1P6V8R1G6",
+  "proposer_type": "정부",
+  "status": "처리"
+}

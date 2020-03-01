@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010724",
+  "title": "[2010724] 조달사업에 관한 법률 일부개정법률안(이혜훈의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2010724",
+    "2017-12-08",
+    "이혜훈의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5BB5B5DF-5F77-6ABB-523E-39115739C4B6','0');",
+  "proposers": [
+    {
+      "name_kr": "이혜훈",
+      "party": "바른정당",
+      "name_cn": "李惠薰"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "자유한국당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "바른정당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "윤영석",
+      "party": "자유한국당",
+      "name_cn": "尹永碩"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "자유한국당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "바른정당",
+      "name_cn": "鄭雲天"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "바른정당",
+      "name_cn": "池尙昱"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른정당",
+      "name_cn": "河泰慶"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  조달청에서는 조달물자의 품질관리를 위하여 전문검사기관에 납품검사를 위탁하고, 검사업무의 위탁 및 수탁기관의 관리·감독 등의 필요한 사항은 조달청장이 정하여 운영하고 있음.\n  따라서 전문검사기관의 부정한 행위 등 중대한 검사업무 위반사항이 발생하는 경우「조달물자 전문기관 업무규정」(조달청장 고시)에 따라 지정 취소 등 불이익 행정처분을 하고 있으나 이는 모법이 위임한 한계를 초과할 소지가 매우 큼.\n  이에 수탁기관(전문검사기관)에 대한 지정 및 지정 취소 등 처분 근거를 법률에 반영함으로써 전문검사기관 관리·감독에 대한 법적 근거를 명확히 하려는 것임(안 제7조제6항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-08",
+  "decision_date": null,
+  "link_id": "PRC_Z1T7L1H2V0L8A1Y5L2G3B0S8T8G2M5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

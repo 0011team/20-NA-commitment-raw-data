@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022604",
+  "title": "[2022604] 정부조직법 일부개정법률안(김민기의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022604",
+    "2019-09-23",
+    "김민기의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0BD1C9B4-6A4A-1F3F-60E4-C339F6EDABAE','0');",
+  "proposers": [
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "심기준",
+      "party": "더불어민주당",
+      "name_cn": "沈基俊"
+    },
+    {
+      "name_kr": "홍의락",
+      "party": "더불어민주당",
+      "name_cn": "洪宜洛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 특허？실용신안？디자인 및 상표에 관한 사무와 이에 대한 심사？심판사무를 관장하기 위하여 산업통상자원부장관 소속으로 특허청을 두고 있음.\n  그런데 특허청은 특허 뿐 아니라 상표？디자인？영업비밀 등 지식재산 전반에 대한 업무를 담당하는 주무부처임에도 특허청으로 기관명을 한정하고 있어 업무범위를 포괄하는 기관명으로 변경할 필요가 있음.\n  이에 특허청을 지식재산혁신청으로 기관명을 변경함으로써 지식재산 주무부처로서의 대표성을 명확히 하려는 것임(안 제37조제4항 및 제5항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-09-23",
+  "decision_date": null,
+  "link_id": "PRC_N1H9B0U9B2L3K1B4U3R1R0O0E4C1O6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012778",
+  "title": "[2012778] 건축법 일부개정법률안(황희의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2012778",
+    "2018-03-29",
+    "황희의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제358회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','70917525-8502-BD66-A281-C843744A8871','0');",
+  "proposers": [
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "문희상",
+      "party": "더불어민주당",
+      "name_cn": "文喜相"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "송기헌",
+      "party": "더불어민주당",
+      "name_cn": "宋基憲"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "심재권",
+      "party": "더불어민주당",
+      "name_cn": "沈載權"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법령은 건축물의 안전·위생 및 방화 등을 위하여 의료시설의 경우 요양병원과 정신병원 또는 6층 이상의 의료시설의 경우 배연(排煙)설비를 하도록 규정하고 있음.\n  그러나 최근 5층 병원인 밀양 세종병원에서의 화재 사건과 같이 의료시설 등의 경우 배연설비의 부재가 대규모의 인명피해를 일으킬 수 있는 가능성이 높음.\n  이에 의료시설 등 대통령령으로 정하는 용도의 건축물에는 배연설비를 설치하도록 규정함으로써 화재 발생 시 대규모 인명피해를 방지하려는 것임(안 제63조의2 등).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-29",
+  "decision_date": "2019-04-05",
+  "link_id": "PRC_D1J8B0U3B2L9W1E8Y3M7L1O4S8S3T6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

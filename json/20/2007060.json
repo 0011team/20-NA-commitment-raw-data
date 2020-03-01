@@ -1,0 +1,24 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2007060",
+  "title": "[2007060] 제351회국회(임시회) 회기결정의 건(의장) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2007060",
+    "2017-05-29",
+    "의장",
+    "의안원문",
+    "제20대 (2016~2020) 제351회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','BE35DAB2-723D-C309-465D-B8831A0EEA45','0');",
+  "proposers": [],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-05-29",
+  "decision_date": "2017-05-29",
+  "link_id": "PRC_C1M7G0Y5K2E9A1U3L0C2I4O7K2V2M5",
+  "proposer_type": "의장",
+  "status": "처리"
+}

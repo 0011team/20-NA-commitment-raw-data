@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003579",
+  "title": "[2003579] 국회법 일부개정법률안(윤소하의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2003579",
+    "2016-11-15",
+    "윤소하의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','41EAA08B-2806-DE81-608C-C0BDA5592BFE','0');",
+  "proposers": [
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "김현미",
+      "party": "더불어민주당",
+      "name_cn": "金賢美"
+    },
+    {
+      "name_kr": "노회찬",
+      "party": "정의당",
+      "name_cn": "魯會燦"
+    },
+    {
+      "name_kr": "심상정",
+      "party": "정의당",
+      "name_cn": "沈相정"
+    },
+    {
+      "name_kr": "양승조",
+      "party": "더불어민주당",
+      "name_cn": "梁承晁"
+    },
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  행정부의 국정 운영을 감시？견제하는 것은 입법부인 국회의 중요한 권한이자 역할이나, 최근 증인 또는 참고인 등으로 출석요구를 하고자 하나 현행법상 본회의 또는 위원회의 의결을 거쳐야 하기에 의원 또는 위원 간 합의가 이루어지지 아니하는 경우에는 출석요구가 원천적으로 불가한 사례가 발생하고 있는 실정임.\n  이에 국회의 증인？감정인 또는 참고인의 출석 요구 요건을 완화하기 위하여 현행 본회의 또는 위원회의 의결 외에 재적의원 또는 재적위원 3분의 1 이상의 요구를 추가하려는 것임(안 제129조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-15",
+  "decision_date": null,
+  "link_id": "PRC_L1O6T1X1J1Q5U1O4U1Q7U5K1J6A1W0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

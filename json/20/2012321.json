@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012321",
+  "title": "[2012321] 공유수면 관리 및 매립에 관한 법률 일부개정법률안(설훈의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2012321",
+    "2018-03-06",
+    "설훈의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제357회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','61221A16-4C8A-2149-FFEC-AFC18E0362A2','0');",
+  "proposers": [
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "문희상",
+      "party": "더불어민주당",
+      "name_cn": "文喜相"
+    },
+    {
+      "name_kr": "변재일",
+      "party": "더불어민주당",
+      "name_cn": "卞在一"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "심재권",
+      "party": "더불어민주당",
+      "name_cn": "沈載權"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "전현희",
+      "party": "더불어민주당",
+      "name_cn": "全賢姬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 해양수산부장관은 매립예정지별 매립계획을 포함하여 매립기본계획을 수립하고, 매립기본계획을 수립하였을 때에는 그 내용을 고시 및 관계 중앙행정기관의 장과 관계 시？도지사 또는 특별자치시장에게 알리고 있음.\n  그러나 매립기본계획의 국회 제출 규정 등이 없어 국회의 권한이 제한된다는 문제점이 있음.\n  이에 매립기본계획을 소관 상임위원회에 제출하도록 함으로써 국회의 기능을 제고하고자 하는 것임(안 제26조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-06",
+  "decision_date": "2018-12-07",
+  "link_id": "PRC_M1O8H0X3S0N6Y1M5T0G2O5H5R9O7D4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

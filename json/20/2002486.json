@@ -1,0 +1,36 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002486",
+  "title": "[2002486] 국회의원(정세균) 징계안(정진석의원 외 128인) 입법예고중",
+  "current_status": "철회",
+  "reception_info": [
+    "2002486",
+    "2016-09-27",
+    "정진석의원 외 128인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E302BCB4-15A0-5797-F09D-73AD319C09B3','0');",
+  "proposers": [
+    {
+      "name_kr": "정진석",
+      "party": "새누리당",
+      "name_cn": "鄭鎭碩"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [
+    {
+      "name_kr": "정진석",
+      "party": "새누리당",
+      "name_cn": "鄭鎭碩"
+    }
+  ],
+  "proposed_date": "2016-09-27",
+  "decision_date": "2016-12-28",
+  "link_id": "PRC_V1F6K0G9L2R7R1H6D4F7G5E6P6S0Y3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

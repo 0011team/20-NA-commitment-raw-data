@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008926",
+  "title": "[2008926] 에너지이용 합리화법 일부개정법률안(조경태의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2008926",
+    "2017-09-01",
+    "조경태의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C6586863-FFB4-B422-3D51-C5FB314336DE','0');",
+  "proposers": [
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "박준영",
+      "party": "국민의당",
+      "name_cn": "朴晙瑩"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "정병국",
+      "party": "바른정당",
+      "name_cn": "鄭柄國"
+    },
+    {
+      "name_kr": "최교일",
+      "party": "자유한국당",
+      "name_cn": "崔敎一"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 검사대상기기의 안전관리, 위해방지 및 에너지이용 효율 관리를 위하여 검사대상기기설치자에게 검사대상기기조종자를 선임하도록 하고 있음.\n  그런데 검사대상기기조종자 제도를 도입한 주된 취지가 기기의 안전관리 및 위해방지 등에 있음에 비추어 볼 때 ‘검사대상기기조종자’란 현행 명칭은 다소 부적합한 측면이 있음.\n  이에 ‘검사대상기기조종자’를 ‘검사대상기기관리자’로 명칭을 변경하여 안전관리 의식을 제고하고, 업무에 대한 자긍심을 고취하려는 것임(안 제40조, 제65조, 제69조 및 제75조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-01",
+  "decision_date": "2018-03-30",
+  "link_id": "PRC_V1I7Y0F9C0V1B1N1L0L5H4Y9Z8I2F3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

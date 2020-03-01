@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019644",
+  "title": "[2019644] 주택임대차보호법 일부개정법률안(윤후덕의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2019644",
+    "2019-04-05",
+    "윤후덕의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제367회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','CD8D0E01-2189-1D14-7F14-4450CFCB61A6','0');",
+  "proposers": [
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "금태섭",
+      "party": "더불어민주당",
+      "name_cn": "琴泰燮"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "남인순",
+      "party": "더불어민주당",
+      "name_cn": "南仁順"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "이규희",
+      "party": "더불어민주당",
+      "name_cn": "李揆熙"
+    },
+    {
+      "name_kr": "이수혁",
+      "party": "더불어민주당",
+      "name_cn": "李秀赫"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n 최근 은행들이 임대인들의 채무 상환 연체를 이유로 임차주택에 대하여 경매를 실시함으로써 이를 예측하지 못하여 피해를 보는 임차인들이 늘어나고 있음. 은행은 주택을 담보로 대출을 해준 경우 해당 주택의 1순위 채권자여서 경매를 실시하더라도 손실이 거의 없어 쉽게 경매를 실시하는 경향이 있음. \n 이에 임차주택을 담보로 임대인에게 대출을 한 자는 임대인이 채무의 상환을 연체한 경우나 담보권의 실행을 위하여 임차주택의 경매를 신청한 경우에는 임차주택의 임차인에게 그 사실을 알리도록 함으로써 임차인이 이에 대응할 수 있도록 하려는 것임(안 제3조의7 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-04-05",
+  "decision_date": null,
+  "link_id": "PRC_S1M9U0P4Q0W5S1O7F2H2B3H7T1C3D4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

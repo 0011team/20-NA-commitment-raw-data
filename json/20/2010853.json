@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010853",
+  "title": "[2010853] 암관리법 일부개정법률안(강석진의원 등 10인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2010853",
+    "2017-12-15",
+    "강석진의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','2085B2A0-D1B6-6056-8AD2-FE29E5CCEE0D','0');",
+  "proposers": [
+    {
+      "name_kr": "강석진",
+      "party": "자유한국당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "자유한국당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "자유한국당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "이완영",
+      "party": "자유한국당",
+      "name_cn": "李完永"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "주광덕",
+      "party": "자유한국당",
+      "name_cn": "朱光德"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "바른정당",
+      "name_cn": "池尙昱"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 암에 관한 전문적인 연구와 암환자의 진료 등을 위하여 국립암센터를 설립·운영하도록 규정하면서, 암센터 임원의 결격사유는 법률이 아닌 암센터의 정관에서 정하고 있음.\n  이와 관련하여 유사 입법례인 「국립중앙의료원의 설립 및 운영에 관한 법률」에서는 임원의 결격사유를 법률에서 규정하고 있고, 임원의 결격사유는 암센터의 운영과 관련한 중요한 사항임을 감안할 때 이를 법률에 규정하는 것이 바람직하다는 의견이 있음.\n  이에 국립암센터 정관에 규정된 임원의 결격사유를 법률로 상향하려는 것임(안 제31조제8항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-15",
+  "decision_date": "2018-11-23",
+  "link_id": "PRC_J1E7M1Y2J1F5C1P3A4R6H0A1O2M9U6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

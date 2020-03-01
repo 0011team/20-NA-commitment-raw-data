@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001331",
+  "title": "[2001331] 수산자원관리법 일부개정법률안(정인화의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2001331",
+    "2016-08-01",
+    "정인화의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제344회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','515C476C-3BFA-83EE-FC45-ED986D96EB98','0');",
+  "proposers": [
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이개호",
+      "party": "더불어민주당",
+      "name_cn": "李介昊"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "더불어민주당",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  「유엔해양법협약」은 취수한 해수를 발전소의 발전과정에서 폐열을 흡수하는 냉각수로 사용하여 수온이 상승된 상태로 배출하는 발전소 온배수를 해양오염원으로 분류하고 있으며 발전소의 온배수 배출은 해수의 온도변화를 일으키는 등 해양생태계를 교란시켜 어업생산성에 부정적인 영향을 미칠 수 있음.\n  이에 현행법상 해양환경개선사업 등 수산자원조성사업에 필요한 투자재원을 확보하기 위한 조성금의 부과대상에 발전소 온배수를 해양에 배출하는 발전사업자를 포함하여 온배수 배출량에 따라 수산자원조성금을 부과할 수 있도록 함으로써 수산자원조성사업에 필요한 투자재원을 확충하려는 것임(안 제44조제1항 및 제4항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-01",
+  "decision_date": null,
+  "link_id": "PRC_U1L6I0L8Q0X1A1R7D1J2N1M9U5Q1O0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

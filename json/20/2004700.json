@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004700",
+  "title": "[2004700] 국회 원전안전특별위원회 구성 촉구 결의안(추혜선의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004700",
+    "2016-12-29",
+    "추혜선의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7233DE3C-0B36-2D44-5F36-25BF23CA3BBB','0');",
+  "proposers": [
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "국민의당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "노회찬",
+      "party": "정의당",
+      "name_cn": "魯會燦"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박용진",
+      "party": "더불어민주당",
+      "name_cn": "朴用鎭"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "심상정",
+      "party": "정의당",
+      "name_cn": "沈相정"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "윤종오",
+      "party": "무소속",
+      "name_cn": "尹鍾五"
+    },
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "최명길",
+      "party": "더불어민주당",
+      "name_cn": "崔明吉"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-29",
+  "decision_date": null,
+  "link_id": "PRC_P1B6D1O2F2H9N1L0I4D6P2N3V7R2Q5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

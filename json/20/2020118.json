@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020118",
+  "title": "[2020118] 가족관계의 등록 등에 관한 법률 일부개정법률안(박완수의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020118",
+    "2019-05-01",
+    "박완수의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','91ABDF72-0186-08D5-AE1C-63C5BD64C89D','0');",
+  "proposers": [
+    {
+      "name_kr": "박완수",
+      "party": "자유한국당",
+      "name_cn": "朴完洙"
+    },
+    {
+      "name_kr": "권성동",
+      "party": "자유한국당",
+      "name_cn": "權性東"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "박대출",
+      "party": "자유한국당",
+      "name_cn": "朴大出"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "자유한국당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "윤영석",
+      "party": "자유한국당",
+      "name_cn": "尹永碩"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "자유한국당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "조원진",
+      "party": "대한애국당",
+      "name_cn": "趙源震"
+    },
+    {
+      "name_kr": "홍철호",
+      "party": "자유한국당",
+      "name_cn": "洪哲鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 개명하고자 하는 사람은 주소지를 관할하는 가정법원의 허가를 받아 신고하도록 하고 있을 뿐, 개명을 하는 데 있어 특별한 법률상의 제한사유를 규정하고 있지 않음. 그 결과 강력범죄를 저지른 경력이 있는 자들이 신분세탁 및 추가범행 도모를 위하여 개명 제도를 악용할 소지가 있으므로, 특정 강력범죄를 저지른 자에 대하여는 가정법원이 개명을 허가할 수 없도록 명시할 필요가 있음.\n  이에 개명허가를 신청한 사람에게 「특정강력범죄의 처벌에 관한 특례법」 제2조의 어느 하나에 해당하는 범죄경력이 있는 경우에는 개명허가 자체를 금지하려는 것임(안 제99조제1항 후단 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-01",
+  "decision_date": null,
+  "link_id": "PRC_K1Q9U0T5A0M1U1E6Q4Z1R2C9F5O7H7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

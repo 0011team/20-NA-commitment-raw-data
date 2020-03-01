@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005764",
+  "title": "[2005764] 공직선거법 일부개정법률안(김관영의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005764",
+    "2017-02-23",
+    "김관영의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제349회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9C72806C-3A6F-A4AC-0C3D-CC7DF8BA41E0','0');",
+  "proposers": [
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "국민의당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "박준영",
+      "party": "국민의당",
+      "name_cn": "朴晙瑩"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이종걸",
+      "party": "더불어민주당",
+      "name_cn": "李鍾杰"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  대통령 선거에 후보자 검증 절차는 국민의 알권리 차원에서 보다 확대될 필요가 있다는 지적이 지속적으로 있어왔음. \n  특히 현행 공직선거법상 5인 이상의 국회의원을 가진 정당이나, 전국단위 선거에서 3%이상의 득표를 한 정당의 후보 등을 모두 포함하는 TV토론의 경우, 다수의 후보자가 토론자로 참석하게 돼 3회에 불과한 현행 대선후보자 TV토론회만으로는 후보자들의 자질과 정책 등을 충분히 검증하기에 부족한 상황임. \n  이에 현행 공직선거법상 3회로 규정돼 있는 대통령후보자들의 TV토론회를 5회로 확대해 후보자 검증과정에서 국민들의 알권리를 보다 충실히 보장하고자 함.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-02-23",
+  "decision_date": null,
+  "link_id": "PRC_C1N7H0O2C2B3T1M7A2F4T2X7Y5W9J4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

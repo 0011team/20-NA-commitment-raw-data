@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2007054",
+  "title": "[2007054] 윤리특별위원장(백재현) 사임의 건(백재현의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2007054",
+    "2017-05-29",
+    "백재현의원",
+    "의안원문",
+    "제20대 (2016~2020) 제351회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9933D278-CB64-A05A-C4F3-45AC57F9DE48','0');",
+  "proposers": [
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-05-29",
+  "decision_date": "2017-05-29",
+  "link_id": "PRC_V1O7K0C5Y2Z9M0N9J5N3B1O6B6J3K9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

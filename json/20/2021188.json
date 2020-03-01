@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021188",
+  "title": "[2021188] 국회운영위원장(홍영표) 사임의 건(홍영표의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2021188",
+    "2019-06-28",
+    "홍영표의원",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','16E13020-376E-99C5-FE63-E92F220A8B8B','0');",
+  "proposers": [
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-06-28",
+  "decision_date": "2019-06-28",
+  "link_id": "PRC_W1J9Z0K6B2N8M1A2O0B3F3U0W7E8E6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

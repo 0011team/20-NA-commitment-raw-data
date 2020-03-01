@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021198",
+  "title": "[2021198] 공중화장실 등에 관한 법률 일부개정법률안(이규희의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021198",
+    "2019-06-28",
+    "이규희의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','66D393E6-07D2-3245-4926-310264E58A0F','0');",
+  "proposers": [
+    {
+      "name_kr": "이규희",
+      "party": "더불어민주당",
+      "name_cn": "李揆熙"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김영춘",
+      "party": "더불어민주당",
+      "name_cn": "金榮春"
+    },
+    {
+      "name_kr": "송갑석",
+      "party": "더불어민주당",
+      "name_cn": "宋甲錫"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "윤일규",
+      "party": "더불어민주당",
+      "name_cn": "尹一逵"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  「공중화장실 등에 관한 법률」에 따라 공중화장실은 공공이 필요에 따라 사용하기 위해 개방되어야 함에도, 공중화장실이 설치된 장소나 시설을 소유하거나 관리하는 관리자가 이용자를 한정할 목적으로 잠금장치를 별도로 설치하여 사용의 제한을 두는 경우가 있어 법에 취지에 어긋남. 하지만, 현행법에는 잠금 장치를 두어 사용자를 제한할 경우에도 이에 대한 제재를 가할 법적 근거가 없어 처벌조항을 두기 위함(안 제8조제3항 및 제21조제2항제2호 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-06-28",
+  "decision_date": null,
+  "link_id": "PRC_T1L9K0I6N2Y8P1U4Z5B3T4K8G8Z8A7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

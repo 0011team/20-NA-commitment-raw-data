@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021374",
+  "title": "[2021374] 국가균형발전 특별법 일부개정법률안(박범계의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021374",
+    "2019-07-08",
+    "박범계의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0C4700FC-5374-6C98-0232-AE6A11D20632','0');",
+  "proposers": [
+    {
+      "name_kr": "박범계",
+      "party": "더불어민주당",
+      "name_cn": "朴範界"
+    },
+    {
+      "name_kr": "김두관",
+      "party": "더불어민주당",
+      "name_cn": "金斗官"
+    },
+    {
+      "name_kr": "김정호",
+      "party": "더불어민주당",
+      "name_cn": "金禎鎬"
+    },
+    {
+      "name_kr": "박병석",
+      "party": "더불어민주당",
+      "name_cn": "朴炳錫"
+    },
+    {
+      "name_kr": "송갑석",
+      "party": "더불어민주당",
+      "name_cn": "宋甲錫"
+    },
+    {
+      "name_kr": "심기준",
+      "party": "더불어민주당",
+      "name_cn": "沈基俊"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이후삼",
+      "party": "더불어민주당",
+      "name_cn": "李厚三"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 균형발전위원회의 위원은 당연직위원과 위촉위원으로 구성되는데, 이 중 당연직위원에는 기획재정부장관을 비롯한 13개 부처의 장관이 위원으로 포함되어 있음.\n  그런데 13개 부처의 장관 중 고용노동부장관은 명시되어 있지 않음. 국가균형발전정책 추진 시 지역 일자리 창출 및 지역 인력 양성 등 지역의 고용정책도 충분히 논의하여야 함.\n  이에 당연직위원에 고용노동부장관를 추가하여 국가균형발전시책 추진 시 일자리정책을 포함한 보다 폭 넓은 의견수렴이 가능하도록 하고자 함(안 제23조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-07-08",
+  "decision_date": null,
+  "link_id": "PRC_A1L9K0O7W0E8E1N4V3F3A1Q1H4V2U8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

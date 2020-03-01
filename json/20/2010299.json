@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010299",
+  "title": "[2010299] 수도법 일부개정법률안(황주홍의원 등 10인) 입법예고중",
+  "current_status": "폐기",
+  "reception_info": [
+    "2010299",
+    "2017-11-21",
+    "황주홍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','276BBB30-07C1-16FE-B111-57A7A6F77295','0');",
+  "proposers": [
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "송기석",
+      "party": "국민의당",
+      "name_cn": "宋基錫"
+    },
+    {
+      "name_kr": "오세정",
+      "party": "국민의당",
+      "name_cn": "吳世正"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "국민의당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "국민의당",
+      "name_cn": "李燦烈"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 일반수도사업자에게 정수시설의 효율적인 운영·관리를 위하여 정수시설운영관리사를 배치하여 관리하도록 하고 있음. \n  그러나 정수시설운영관리사가 여행·질병 등의 사유로 일시적인 직무 수행을 할 수 없는 경우 그 직무를 대행할 자가 없어 사고 예방 및 사고 초기 대응 시 업무의 공백이 발생할 수 있다는 우려가 제기되고 있음. \n  이에 일반수도사업자에게 정수시설운영관리사가 여행, 질병 등의 사유로 일시적인 직무 수행을 할 수 없는 경우 대리자를 지정, 그 직무를 대행하도록 하려는 것임(안 제21조제8항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-11-21",
+  "decision_date": "2018-04-07",
+  "link_id": "PRC_V1W7D1O1I2T1L1V8S0H2M5B2B0S7B8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006767",
+  "title": "[2006767] 국회의원(안철수) 사직의 건(안철수의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2006767",
+    "2017-04-17",
+    "안철수의원",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','2435F445-32AA-0606-6553-90F74F9D8801','0');",
+  "proposers": [
+    {
+      "name_kr": "안철수",
+      "party": "국민의당",
+      "name_cn": "安哲秀"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-04-17",
+  "decision_date": "2017-04-17",
+  "link_id": "PRC_J1I7E0T4Q1O7J1T0G4B7M3M3Y8F1L8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

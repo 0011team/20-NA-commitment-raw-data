@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009216",
+  "title": "[2009216] 공직선거법 일부개정법률안(박병석의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2009216",
+    "2017-09-08",
+    "박병석의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C5989708-6EE4-2D80-D102-68849A599B27','0');",
+  "proposers": [
+    {
+      "name_kr": "박병석",
+      "party": "더불어민주당",
+      "name_cn": "朴炳錫"
+    },
+    {
+      "name_kr": "금태섭",
+      "party": "더불어민주당",
+      "name_cn": "琴泰燮"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "손금주",
+      "party": "국민의당",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    },
+    {
+      "name_kr": "표창원",
+      "party": "더불어민주당",
+      "name_cn": "表蒼園"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 선거공영제의 일환으로 정당에 선거보조금을 지급하며, 대통령선거, 비례대표국회의원선거 및 비례대표지방의원선거에서 정당이 지출한 선거비용을 보전해 주고 있음.\n  하지만 선거가 끝나면 이미 지급한 선거보조금에 대해서도 보전을 하고 있어, 중복보전의 문제가 제기됨. \n  이에 정당에 선거비용 보전금액을 지급하는 때에는 해당 정당에 이미 지급된 선거보조금에 해당하는 금액만큼 감액하여 지급하도록 함(안 제122조의2제1항 단서 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-08",
+  "decision_date": null,
+  "link_id": "PRC_G1R7S0I9Y0M8T1I7N4L5U1L2N1X8M6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

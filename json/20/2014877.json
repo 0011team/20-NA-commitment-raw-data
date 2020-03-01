@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014877",
+  "title": "[2014877] 검찰청법 일부개정법률안(김삼화의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014877",
+    "2018-08-14",
+    "김삼화의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제362회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C294D937-A819-E80F-5EC1-D4752000F8E8','0');",
+  "proposers": [
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "바른미래당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "바른미래당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "바른미래당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "바른미래당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "바른미래당",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른미래당",
+      "name_cn": "河泰慶"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 검찰인사위원회 구성에 관하여 학식과 덕망이 있고 각계 전문분야에서 경험이 풍부한 사람으로서 변호사 자격을 갖지 아니한 사람 2명을 위촉하도록 규정하고 있으나, 「법원조직법」이 규정하는 법관인사위원회 구성과는 달리 2명 중 여성 1명을 포함하도록 의무 규정을 두고 있지 않음.\n  이에 공정하고 양성평등적인 검찰 인사를 실현하기 위하여는 학식과 덕망이 있고 각계 전문분야에서 경험이 풍부한 사람으로서 변호사 자격을 갖지 아니한 사람 2명 중 반드시 여성 1명을 포함하도록 의무화하려는 것임(안 제35조제3항제5호 후단 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-08-14",
+  "decision_date": null,
+  "link_id": "PRC_I1C8X0E8D1F4A1J6W2H3M2X5H3B3S0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

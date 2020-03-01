@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016501",
+  "title": "[2016501] 선박안전법 일부개정법률안(김성찬의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2016501",
+    "2018-11-12",
+    "김성찬의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','637E51E5-9758-02F8-1C2B-19C155ACB78D','0');",
+  "proposers": [
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김영춘",
+      "party": "더불어민주당",
+      "name_cn": "金榮春"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박완수",
+      "party": "자유한국당",
+      "name_cn": "朴完洙"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 선박으로 위험물을 적재·운송 및 저장하고자 하는 경우 그 방법의 적합성에 대한 검사·승인 업무를 전문기관에서 대행할 수 있도록 하고 있음. 그러나, 대행기관에서 직접 검사를 수행하는 위험물 검사원의 자격기준, 직무, 해임 등에 대해서는 법률에서 규정하고 있지 않아 이를 마련하고자 함(안 제77조의2 및 제78조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-11-12",
+  "decision_date": "2019-08-02",
+  "link_id": "PRC_P1Z8G1J1F1W2B1B5T5T9Y0F1S9O7X5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

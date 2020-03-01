@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004382",
+  "title": "[2004382] 약사법 일부개정법률안(양승조의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2004382",
+    "2016-12-14",
+    "양승조의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A059F252-E3D9-5567-3425-CEE3ABA61698','0');",
+  "proposers": [
+    {
+      "name_kr": "양승조",
+      "party": "더불어민주당",
+      "name_cn": "梁承晁"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "이개호",
+      "party": "더불어민주당",
+      "name_cn": "李介昊"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "무소속",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 약사(藥事) 관리를 엄격하기 위해 처방전, 조제기록부 등 기록을 일정 기간 이상 보존·보관하도록 의무화하고 있으나, 천재지변 등 관리자의 책임 없는 사유로 기록이 멸실된 경우 면책될 수 있는 근거 규정이 없어 관리자가 부당한 제재처분을 받을 수 있다는 지적이 있음. \n  이에 진료기록부 등 각종 기록이 천재지변 등 불가항력의 사유로 멸실된 경우 해당 기록의 보존·보관의무자의 책임을 면제할 수 있는 법적 근거를 마련하여 책임주의 원칙을 확보하려는 것임(안 제85조의4).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-14",
+  "decision_date": "2018-05-28",
+  "link_id": "PRC_G1O6Z1C2E1T4J1L7A0S0F4I1D9G3Z3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

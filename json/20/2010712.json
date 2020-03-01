@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010712",
+  "title": "[2010712] 국회법 일부개정법률안(김중로의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2010712",
+    "2017-12-08",
+    "김중로의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','AEFB31FC-177D-A00D-930C-33738F37EAB2','0');",
+  "proposers": [
+    {
+      "name_kr": "김중로",
+      "party": "국민의당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "국민의당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 국회의원은 국무총리 또는 국무위원의 직 이외의 다른 직을 겸할 수 없다고 규정하고 있어, 국회의원이 국무총리 또는 국무위원을 겸직할 수 있게 하고 있음.\n  그러나 국무총리 또는 국무위원으로서의 공무를 수행하면서도 국회의원의 권한을 행사하는 것이 타당한가에 대해서는 논란이 되어 왔음. 특히 행정부를 견제하여야 하는 입법부에 속한 국회의원이 행정기관의 장관직을 수행하는 것에 대해서 비판이 제기됨.\n  이에 국회의원이 국무총리 또는 국무위원의 직을 겸직할 수 없게 함으로써, 국무총리 또는 국무위원이 그 직에 전념할 수 있게 하려는 것임(안 제29조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-08",
+  "decision_date": null,
+  "link_id": "PRC_L1I7W1S2I0P8K1A3R3A6H2J3R5E9E4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

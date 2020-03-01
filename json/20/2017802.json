@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2017802",
+  "title": "[2017802] 국민투표법 일부개정법률안(최도자의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2017802",
+    "2018-12-27",
+    "최도자의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제365회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','2DF62FC2-ED5E-B3AD-77ED-97F152892CE6','0');",
+  "proposers": [
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "바른미래당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "임재훈",
+      "party": "바른미래당",
+      "name_cn": "林哉勳"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "바른미래당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "추미애",
+      "party": "더불어민주당",
+      "name_cn": "秋美愛"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  현행법은 맹인(盲人) 기타 신체의 불구(不具)로 인하여 자신이 기표를 할 수 없는 투표인은 그 가족 또는 본인이 지정한 사람 2인을 동반하여 투표를 원조(援助)하게 할 수 있도록 하고 있음.\n  그런데 장애인 등 사회적 약자를 배려하기 위한 취지에도 불구하고, 맹인, 불구 등 부정적 인식을 주는 차별적인 용어가 쓰이고 있으며, 물품이나 돈 등으로 도와준다는 의미를 가지고 있는 원조(援助)가 투표를 도와주는 용어로 쓰이고 있음.\n  이에 용어 정비 차원에서 차별적인 용어 및 쓰임새가 적절하지 않은 용어를 순화하려는 것임(안 제59조제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-12-27",
+  "decision_date": null,
+  "link_id": "PRC_Z1M8A1O2G2G7C1S6X2J9T4M8K8E2B3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

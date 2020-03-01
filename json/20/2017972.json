@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2017972",
+  "title": "[2017972] 농어업재해대책법 일부개정법률안(이만희의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2017972",
+    "2018-12-31",
+    "이만희의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제365회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9C74746D-3BF2-93A8-4EAA-A5ABDD7DF7FC','0');",
+  "proposers": [
+    {
+      "name_kr": "이만희",
+      "party": "자유한국당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "강석진",
+      "party": "자유한국당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "자유한국당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "송언석",
+      "party": "자유한국당",
+      "name_cn": "宋彦錫"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "자유한국당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "자유한국당",
+      "name_cn": "李喆圭"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 재해복구를 위하여 필요한 경우 재해를 입은 농가와 어가에 복구자금의 일부를 복구 전에 미리 지원하고, 이에 대하여 「재난 및 안전관리 기본법」을 준용하도록 하여 선지급금은 복구여부와 관계없이 지급하고 정산하지 않도록 하고 있음.\n  그런데 수년에 걸친 복구를 필요로 하는 재해의 경우에는 사실상 폐업할 수밖에 없고, 이 경우 복구비를 상향하는 지원이 필요하나,  이러한 피해를 입은 농가의 생계 안정 등을 위한 법적 지원의 근거가 미비한 실정임.\n  이에 재해를 입은 농가가 원상복구를 하지 아니하고 폐업을 하는 경우 폐업지원금을 지급할 수 있는 근거를 마련하려는 것임(안 제4조제2항제10호 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-12-31",
+  "decision_date": null,
+  "link_id": "PRC_X1N8B1W2N3Z1H1A7O5F4W3P0H2T5I1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

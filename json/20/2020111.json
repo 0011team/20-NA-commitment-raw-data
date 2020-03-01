@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020111",
+  "title": "[2020111] 물가안정에 관한 법률 일부개정법률안(이철규의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020111",
+    "2019-05-01",
+    "이철규의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','78C21607-072E-7A6B-BBFE-EFCF67AED7E7','0');",
+  "proposers": [
+    {
+      "name_kr": "이철규",
+      "party": "자유한국당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "권성동",
+      "party": "자유한국당",
+      "name_cn": "權性東"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김진태",
+      "party": "자유한국당",
+      "name_cn": "金鎭台"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "염동열",
+      "party": "자유한국당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "이은재",
+      "party": "자유한국당",
+      "name_cn": "李恩宰"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "바른미래당",
+      "name_cn": "鄭雲天"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  벌금형은 징역형과 함께 형사처벌의 대표적 수단으로써, 그 공정성 및 실효성 확보를 위해서는 벌금형 부과 당시의 소득 및 경제 여건 을 반영하고 징역형에 상응하는 수준으로 벌금액을 책정하여야 할 것임. \n  그러나 현행법 제28조는 자료의 목적 외 이용 시 2년 이하의 징역 또는 1천만원 이하의 벌금에 처하고 있는바, 동 벌칙 조항의 벌금형은 1995년에 마지막으로 개정된 것으로 현재의 화폐가치 및 다른 벌칙 조항의 벌금형과의 형평성 등을 고려할 때 징역형에 비하여 과소한 수준이므로 이에 대한 정비가 필요함.\n  이에 징역 1년당 벌금 1천만원이 상응되도록 벌금형을 현실화하여 형벌로서의 실효성을 확보하고자 함(안 제28조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-01",
+  "decision_date": null,
+  "link_id": "PRC_Z1Q9E0E5B0M1Q1Z5B0F5N2L9Y5F3S1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

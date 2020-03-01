@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001810",
+  "title": "[2001810] 산림보호법 일부개정법률안(황주홍의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2001810",
+    "2016-08-25",
+    "황주홍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제345회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0BCFAB48-70A1-5D9B-6D0C-7DA3C1ACBD30','0');",
+  "proposers": [
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "더불어민주당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 산림 또는 산림인접지역에서 담배를 피우거나 담배꽁초를 버리는 행위를 금지하면서, 야영이 허가된 야영장 등에서는 이를 허용하고 있음.\n  그러나 야영장 등은 가족 단위의 방문객이 많이 찾는 곳으로 흡연으로 인한 피해가 영유아를 포함한 방문객들에게까지 미치고 이에 따른 방문객의 고충과 민원이 빈발하고 있음. \n  이에 야영이 허가된 야영장 등 대통령령으로 정하는 지역에서 흡연을 금지하여 산림휴양시설을 찾는 일반 국민의 건강과 권리를 보호하려는 것임(안 제34조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-25",
+  "decision_date": "2016-12-08",
+  "link_id": "PRC_P1W6Q0E8M2Y5Q1O6A2B0W3R6H3R4C2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

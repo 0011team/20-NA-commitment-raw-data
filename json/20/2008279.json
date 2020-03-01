@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008279",
+  "title": "[2008279] 동물보호법 일부개정법률안(한정애의원 등 10인) 입법예고중",
+  "current_status": "폐기",
+  "reception_info": [
+    "2008279",
+    "2017-07-28",
+    "한정애의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제352회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F76290B5-19AD-5F69-7C52-FE4395465C1D','0');",
+  "proposers": [
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    },
+    {
+      "name_kr": "강병원",
+      "party": "더불어민주당",
+      "name_cn": "姜炳遠"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "변재일",
+      "party": "더불어민주당",
+      "name_cn": "卞在一"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 반려동물을 키우는 사람들의 증가로 반려동물 의료분야 규모가 커지고 있고 그에 따라 동물혈액에 대한 수요도 늘고 있음. 그런데 현행법상 동물혈액을 취급하는 업종에 대한 법적 근거가 마련되어 있지 않아 동물보호 및 공중위생상 관리사각지대로 지적되고 있음.\n  이에 동물혈액을 취급하는 업종에 대한 법적 근거를 마련해 일정 기준 이상의 시설 및 인력 등을 갖추어 운영하도록 하고, 동물혈액나눔 문화의 활성화를 위해 정부로 하여금 동물혈액나눔사업을 권장 및 지원할 수 있도록 하려는 것임.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-07-28",
+  "decision_date": "2017-12-16",
+  "link_id": "PRC_X1R7O0J7F2W8J1L7P4R0I3M0T5P8P6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

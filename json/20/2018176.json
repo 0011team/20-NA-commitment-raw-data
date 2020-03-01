@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018176",
+  "title": "[2018176] 국세기본법 일부개정법률안(이상민의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018176",
+    "2019-01-15",
+    "이상민의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제365회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','ABEF22CE-91F2-F1D1-BFAF-6D7D73AFA0B0','0');",
+  "proposers": [
+    {
+      "name_kr": "이상민",
+      "party": "더불어민주당",
+      "name_cn": "李相珉"
+    },
+    {
+      "name_kr": "김두관",
+      "party": "더불어민주당",
+      "name_cn": "金斗官"
+    },
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "오제세",
+      "party": "더불어민주당",
+      "name_cn": "吳濟世"
+    },
+    {
+      "name_kr": "유승희",
+      "party": "더불어민주당",
+      "name_cn": "兪承希"
+    },
+    {
+      "name_kr": "이종걸",
+      "party": "더불어민주당",
+      "name_cn": "李鍾杰"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현재 국세를 신용카드로 납부하는 경우 납부세액의 1.0%에 해당하는 수수료를 해당 납세자가 부담하여야 하기 때문에 국세를 신용카드로 납부하는 납세자는 현금으로 납부하는 납세자에 비하여 추가적인 부담을 지게 되어 형평성이 저해되는 문제도 발생하고 있으며, 납부수수료를 면제하고 있는 지방세와의 형평성문제도 야기되고 있음.\n  따라서 국세를 신용카드로 납부하는 경우 납세자에게 부담시키고 있는 수수료를 국가가 부담하도록 하는 것임(안 제46조의2제3항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-01-15",
+  "decision_date": null,
+  "link_id": "PRC_Q1F9L0F1J1S5M1N0Z1E0F4N3J0Q1H3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

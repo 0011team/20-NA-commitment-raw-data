@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023164",
+  "title": "[2023164] 수도법 일부개정법률안(강효상의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023164",
+    "2019-10-29",
+    "강효상의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','15F5FC88-D2C5-9966-40E9-DFC901D4384D','0');",
+  "proposers": [
+    {
+      "name_kr": "강효상",
+      "party": "자유한국당",
+      "name_cn": "姜孝祥"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "바른미래당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "윤한홍",
+      "party": "자유한국당",
+      "name_cn": "尹漢洪"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "한선교",
+      "party": "자유한국당",
+      "name_cn": "韓善敎"
+    }
+  ],
+  "summaries": [
+    "\n제안이유\n\n  최근 발생한 일련의 붉은 수돗물 사태 등으로 먹는 수돗물에 대하여 국민의 불신이 높아지고 있음.\n  현재 현행법에 근거하여 설립된 한국상하수도협회의 산하 조직인 수돗물홍보협의회에서 3년마다 수돗물 먹는 실태조사를 자체적으로 실시하고 있으나, 해당 실태조사로는 국민의 불안을 불식시키기에는 부족하다는 의견이 있음.\n  이에 환경부장관이 3년마다 수돗물 음용 실태조사를 실시하여야 한다는 법적근거를 명시적으로 마련하여 먹는 수돗물 실태에 대한 환경부장관의 책임을 제고하고 국민의 불안을 해소시키려는 것임(안 제29조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-29",
+  "decision_date": null,
+  "link_id": "PRC_R1Y9I1P0U2T9B1B5M0S8W4R2J6V8V6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

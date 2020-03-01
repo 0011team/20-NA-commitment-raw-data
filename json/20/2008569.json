@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008569",
+  "title": "[2008569] 의료기기법 일부개정법률안(양승조의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2008569",
+    "2017-08-17",
+    "양승조의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제352회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D39AD34B-6541-0EC0-B7DC-3A087A3BEFF2','0');",
+  "proposers": [
+    {
+      "name_kr": "양승조",
+      "party": "더불어민주당",
+      "name_cn": "梁承晁"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "이학영",
+      "party": "더불어민주당",
+      "name_cn": "李學永"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행 의료기기법에서는 마약이나 그 밖의 유독물질의 중독자를 의료기기 제조업의 결격사유로 규정하고 있음.\n  하지만 그 밖의 유독물질의 범위가 모호하고 광범위함에 따라 실무적으로 관리·감독을 하는데 있어 어려움을 겪고 있는 상황. \n  이에 법적으로 그 대상을 명확히 규정하여 법적 명확성을 확보하기 위하여 “마약이나 그 밖의 유독물질의 중독자” 를 약사법의 경우와 마찬가지로 “마약·대마·향정신성의약품 중독자” 로 개정하고자 함.(안 제6조제1항제3호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-08-17",
+  "decision_date": "2018-02-20",
+  "link_id": "PRC_D1M7F0W8H1J7I1O6Y2L3G2D9Q8L6O4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

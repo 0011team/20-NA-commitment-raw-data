@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021426",
+  "title": "[2021426] 지방세법 일부개정법률안(전혜숙의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021426",
+    "2019-07-11",
+    "전혜숙의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','CAF4F537-42F5-FCCE-5477-4AFF7700A424','0');",
+  "proposers": [
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "박병석",
+      "party": "더불어민주당",
+      "name_cn": "朴炳錫"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "원혜영",
+      "party": "더불어민주당",
+      "name_cn": "元惠榮"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "전현희",
+      "party": "더불어민주당",
+      "name_cn": "全賢姬"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현재 공시가격 인상에 따른 재산세 세부담의 급격한 인상을 완화하기 위해 세부담 상한제를 운영하고 있으나, 최근 공시가격 인상율이 예년에 비해 높아 투기 목적으로 주택을 보유했다고 보기 어렵고, 담세력이 상대력으로 약한 1주택 장기보유 고령가구에 대한 추가적인 배려가 요구되고 있어, 이들의 세부담을 한시적으로나마 완화할 필요가 있음.\n  이에, 1주택을 10년 이상 보유한 65세 이상 고령가구에 대해 세부담 상한 특례를 도입하여 2022년까지 전년 대비 세부담 상승폭을 제한하고자 함(안 제122조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-07-11",
+  "decision_date": null,
+  "link_id": "PRC_S1G9L0M7Y1T1H1T5N0Y1X5B9M9S7M1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018689",
+  "title": "[2018689] 국회법 일부개정법률안(박명재의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018689",
+    "2019-02-19",
+    "박명재의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','BA5B27BF-177B-DDB8-805D-4C20E7A4AC42','0');",
+  "proposers": [
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "금태섭",
+      "party": "더불어민주당",
+      "name_cn": "琴泰燮"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "자유한국당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "이태규",
+      "party": "바른미래당",
+      "name_cn": "李泰珪"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "조훈현",
+      "party": "자유한국당",
+      "name_cn": "曺薰鉉"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 국회의원 징계와 관련하여 징계대상자 보고와 징계 요구는 그 사유가 발생한 날 또는 징계대상자가 있는 것을 알게 된 날부터 10일 이내에 하도록 규정하고 있음.\n  그러나 언론 등을 통해 국회의원의 윤리성 문제가 제기될 경우 그 기간이 촉박하여 사실 여부 등을 정확하게 확인하지 못해 징계 요구를 하지 못하고 있다는 지적이 있음.\n  이에 징계대상자 보고와 징계 요구의 시한을 1개월로 연장하여 현행 규정의 문제점을 보완하려는 것임(안 제157조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-02-19",
+  "decision_date": null,
+  "link_id": "PRC_D1R9J0W2D1Q9V1B4Z0L1H3F2P9W7Y2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

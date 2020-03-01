@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015904",
+  "title": "[2015904] 부가가치세법 일부개정법률안(박명재의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2015904",
+    "2018-10-08",
+    "박명재의원 등 10인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C24A62B6-AD1A-204C-571D-769447CBC32B','0');",
+  "proposers": [
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "강석호",
+      "party": "자유한국당",
+      "name_cn": "姜碩鎬"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "자유한국당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 부가세는 일부 생활필수품에 대해서는 면제되고 있으며, 공공요금 중에 수도요금에도 부가세가 면제되고 있음.\n  최근 계속되는 폭염과 이상고온 현상으로 복지사각지대에 놓인 저소득층의 생명과 건강이 위협받고 있으며, 전기요금 걱정에 냉방기기를 제대로 사용하지 못하는 국민을 위해 전기료를 한시 감면하는 등 전기가 국민의 건강과 생활에 직결된 생필품이라고 인식되고 있음.\n  이에 국민의 건강과 생명에 직결된 기본적인 복지인 주택용 전기에 부가가치세를 면제하고자 함(안 제26조제1항제2호의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-08",
+  "decision_date": null,
+  "link_id": "PRC_X1D8D1C0C0L8Y1S3L3N8T3R6K2K8T1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019191",
+  "title": "[2019191] 관광진흥법 일부개정법률안(김영호의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2019191",
+    "2019-03-13",
+    "김영호의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제367회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E6BE345B-84A2-3F15-3619-457468672B58','0');",
+  "proposers": [
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "더불어민주당",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    },
+    {
+      "name_kr": "윤준호",
+      "party": "더불어민주당",
+      "name_cn": "尹俊晧"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "최재성",
+      "party": "더불어민주당",
+      "name_cn": "崔宰誠"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 카지노사업자 등의 준수사항으로 내국인을 입장하게 하는 행위를 금지하고 있으며, 이 내국인의 범위에서 「해외이주법」 제2조에 따른 해외이주자는 제외하고 있음. 그런데, 이렇게 해외이주자를 제외하는 것은 내국인 출입을 금지하려는 외국인 전용 카지노의 설립 취지와 맞지 않는다는 지적이 있음.\n  이에 내국인의 범위에서 해외이주자를 제외하고 있는 내용을 삭제함으로써 이들을 내국인의 범위에 포함하여 외국인 전용 카지노의 설립 취지에 맞도록 운영하려는 것임(안 제28조제1항제4호 및 제29조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-03-13",
+  "decision_date": null,
+  "link_id": "PRC_F1P9I0R3I1H3G1H6I4Q5X5O6D2K8G6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

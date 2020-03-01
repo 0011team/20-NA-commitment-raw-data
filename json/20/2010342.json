@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010342",
+  "title": "[2010342] 해외 건설인의 날 제정 촉구 결의안(김성태의원 등 11인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2010342",
+    "2017-11-22",
+    "김성태의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B9AD4769-8E7D-8E10-4657-DEA7D55E9A70','0');",
+  "proposers": [
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金聖泰"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박완수",
+      "party": "자유한국당",
+      "name_cn": "朴完洙"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "자유한국당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "바른정당",
+      "name_cn": "李鶴宰"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "정용기",
+      "party": "자유한국당",
+      "name_cn": "鄭容起"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "자유한국당",
+      "name_cn": "朱豪英"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-11-22",
+  "decision_date": "2018-07-26",
+  "link_id": "PRC_Z1Q7U1Z1Y2W2S1I8P0R5D3J7B8I5W4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

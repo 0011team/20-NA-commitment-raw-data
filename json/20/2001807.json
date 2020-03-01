@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001807",
+  "title": "[2001807] 공직선거법 일부개정법률안(이용주의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2001807",
+    "2016-08-25",
+    "이용주의원 등 13인",
+    "의안원문\n비용추계서 미첨부 사유서",
+    "제20대 (2016~2020) 제345회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FC37EA96-F85D-25F6-D779-BD9A19D010D6','0');",
+  "proposers": [
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "국민의당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "국민의당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "박준영",
+      "party": "국민의당",
+      "name_cn": "朴晙瑩"
+    },
+    {
+      "name_kr": "송기석",
+      "party": "국민의당",
+      "name_cn": "宋基錫"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "더불어민주당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 후보자등록마감일의 다음날부터 선거일까지 이 법에 따른 신고·신청·제출·보고 등은 매일 오전 9시부터 오후 6시까지 하여야 한다고 규정하고 있음.\n  그러나 실제로 선거기간 중 불가피하게 18시 이후 선거사무원 교체 신고 등 각종 신고·신청을 해야 하는 경우가 빈번하게 발생하고 있어, 이러한 규정 때문에 행정처리가 적기에 이루어지지 못한다는 문제가 발생하고 있음. \n  이에, 선거기간 중 신고 등을 할 수 있는 규정시간을 오전 8시부터 오후 8시까지로 확대하여 후보자, 선거사무원 및 선거인의 편의를 제고하려는 것임(안 제274조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-25",
+  "decision_date": null,
+  "link_id": "PRC_E1T6F0P8B2B5M1I6W0E7A1M3X7L8S2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015479",
+  "title": "[2015479] 전자금융거래법 일부개정법률안(이찬열의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2015479",
+    "2018-09-13",
+    "이찬열의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A0C83FBD-BBA6-BAD4-7A05-50F99807C21B','0');",
+  "proposers": [
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "민주평화당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "민주평화당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 지문, 얼굴, 홍채, 음성 등 개인의 생체정보를 추출하여 정보화시키는 인증방식이 활발히 보급됨에 따라 보안성과 사용자 편의가 개선되고 있음.\n  그런데 접근매체의 종류로서 현행법에서 사용하는 개념인 ‘생체정보’에는 생체정보로부터 가공되거나 생성된 정보가 포함되고 있지 않아 관련 기술의 발전에 따라 법 적용의 사각지대가 발생할 수 있다는 지적이 있음.\n  이에 현행법의 ‘생체정보’를 ‘생체인식정보’로 변경하여 규정함으로써 접근매체의 개념 및 규율범위를 명확히 하려는 것임(안 제2조제10호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-09-13",
+  "decision_date": null,
+  "link_id": "PRC_V1A8M0Q9W1F3Y1F0X0Y5B1X3N0S5O9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

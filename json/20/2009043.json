@@ -1,0 +1,45 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009043",
+  "title": "[2009043] 북한 제6차 핵실험 규탄 결의안 채택의 건(정세균의원 등 4인 외 176인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2009043",
+    "2017-09-04",
+    "정세균의원 등 4인 외 176인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5E69343D-E567-2A8A-E924-638B7D35A1E4','0');",
+  "proposers": [
+    {
+      "name_kr": "정세균",
+      "party": "무소속",
+      "name_cn": "丁世均"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "국민의당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "바른정당",
+      "name_cn": "朱豪英"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-04",
+  "decision_date": "2017-09-04",
+  "link_id": "PRC_V1H7U0A9E0J4Z1W0G3Y9G0F1E9T6I1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

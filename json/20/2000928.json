@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000928",
+  "title": "[2000928] 국회법 일부개정법률안(주승용의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2000928",
+    "2016-07-15",
+    "주승용의원 등 11인",
+    "의안원문\n비용추계서 미첨부 사유서",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FBCBD60D-CD5C-FA58-E3D6-33235C91C4E1','0');",
+  "proposers": [
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "국민의당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "이개호",
+      "party": "더불어민주당",
+      "name_cn": "李介昊"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "국민의당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행 법률안의 심사과정에서는 법률안이 지방자치단체의 재정에 미치는 영향을 평가하고 이를 법안심사에 반영할 수 있는 제도가 존재하지 않음. 각종 자격급여의 신설 등 지방자치단체의 의무지출을 유발하는 재정수반법안의 경우에는 지방자치단체의 재정자율권 확보 및 재정건전성 도모를 위하여 법률안 심사과정에서 지방재정영향평가를 도입할 필요성이 제기되고 있음.\n  이에 위원회가 지방자치단체의 재정 부담을 수반하는 법률안을 심사하는 경우에는 국회예산정책처에 지방재정영향평가를 의뢰하도록 하고, 그 결과를 법안 심사에 반영할 수 있도록 하려는 것임(안 제58조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-15",
+  "decision_date": null,
+  "link_id": "PRC_X1V6L0D7M1W5X1K7B1Q9M4G3M5P0Z2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002242",
+  "title": "[2002242] 농어촌구조개선 특별회계법 일부개정법률안(경대수의원 등 10인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2002242",
+    "2016-09-09",
+    "경대수의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F5940CBA-2350-4753-3695-F82DD5EEF5A2','0');",
+  "proposers": [
+    {
+      "name_kr": "경대수",
+      "party": "새누리당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "새누리당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김종석",
+      "party": "새누리당",
+      "name_cn": "金鍾奭"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "새누리당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "새누리당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "새누리당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "새누리당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이철우",
+      "party": "새누리당",
+      "name_cn": "李喆雨"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "새누리당",
+      "name_cn": "鄭泰沃"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 농특회계 융자사업 취급사무의 경우 농림축산식품부장관이 지정하는 농림수산 관련 법인에 위탁할 수 있도록 규정되어 있음. 그런데 「농업ㆍ농촌 및 식품산업 기본법」의 개정으로 ‘농업정책보험금융원’이 설립됨에 따라 관련 법률의 정비 필요성이 제기됨. \n  따라서 위 융자사업 취급사무를 「농업ㆍ농촌 및 식품산업 기본법」에 근거하여 설립된 ‘농업정책보험금융원’에 위탁하도록 함으로써, ‘농업정책보험금융원’의 주요사업인 농특회계 융자금의 운용ㆍ관리 업무수행의 안정성과 연속성 등을 강화하려는 것임(안 제12조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-09-09",
+  "decision_date": "2017-02-23",
+  "link_id": "PRC_D1B6K0G9F0E9D1G5P3V7H3A6C6P5V3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001041",
+  "title": "[2001041] 민방위기본법 일부개정법률안(김해영의원 등 12인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2001041",
+    "2016-07-21",
+    "김해영의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제344회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','88194855-A430-60E2-AEA3-978AF8B0A3CE','0');",
+  "proposers": [
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김영춘",
+      "party": "더불어민주당",
+      "name_cn": "金榮春"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "원혜영",
+      "party": "더불어민주당",
+      "name_cn": "元惠榮"
+    },
+    {
+      "name_kr": "윤호중",
+      "party": "더불어민주당",
+      "name_cn": "尹昊重"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 국회의원 등 일정 대상은 민방위대 편성 대상에 해당하지만 그 특수성을 인정하여 민방위대 편성 대상에서 제외하고 있음.\n  민방위대 편성 대상에서 제외하는 소방공무원, 경찰공무원, 향토예비군 등은 민방위 사태 업무와 관련이 있는 대상들로 제외 사유가 타당하다고 보여지나, 국회의원, 지방의회의원, 교육위원회의 교육위원은 민방위대 편성 제외가 타당성이 부족하고 특권으로 볼 수 있음.\n  이에 국회의원, 지방의회의원 및 교육위원회의 교육위원을 민방위대 편성 대상에 포함시키려는 것임(안 제18조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-21",
+  "decision_date": "2016-12-01",
+  "link_id": "PRC_D1L6L0V7I2G1D1N5A2A0M1L3P3L0W2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

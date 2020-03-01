@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2024447",
+  "title": "[2024447] 사립학교법 일부개정법률안(여영국의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2024447",
+    "2019-12-31",
+    "여영국의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제374회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','24465297-8802-5946-ED43-E3EEA5AB54E1','0');",
+  "proposers": [
+    {
+      "name_kr": "여영국",
+      "party": "정의당",
+      "name_cn": "余永國"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "김종훈",
+      "party": "민중당",
+      "name_cn": "金鍾勳"
+    },
+    {
+      "name_kr": "손혜원",
+      "party": "무소속",
+      "name_cn": "孫惠園"
+    },
+    {
+      "name_kr": "심상정",
+      "party": "정의당",
+      "name_cn": "沈相정"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 사립학교 학교법인이 사립학교교직원 연금, 건강보험 등 법정부담금을 제대로 납부하지 않으면서도 오히려 해당 학교법인의 임원의 보수는 과도하게 지급하고 있어 문제가 되고 있음.\n  하지만, 이와 관련하여 현행법에서는 학교법인의 임원에 대한 보수 지급을 제한할 수 있는 규정이 없어 학교법인의 재정에 대한 책임성이 떨어진다는 지적이 제기되고 있음.\n  이에 학교법인이 지급하는 임원의 보수에 대한 상한선을 마련하고, 학교법인 회계에서 법정부담금의 일부를 부담하지 않을 때에는 해당 학교법인의 임원에 대한 보수 지급을 금지하도록 함으로써 학교법인의 책임성을 강화하려는 것임(안 제26조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-12-31",
+  "decision_date": null,
+  "link_id": "PRC_T1V9J1X2J3B1N1K7D2H6Z0F2N3Z7I3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

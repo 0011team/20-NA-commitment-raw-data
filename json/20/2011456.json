@@ -1,0 +1,125 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011456",
+  "title": "[2011456] 국회의원(유의동) 징계안(이춘석의원 등 20인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2011456",
+    "2018-01-18",
+    "이춘석의원 등 20인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0A620F79-175A-8B2C-B5A8-1E19AEB50E1F','0');",
+  "proposers": [
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "권미혁",
+      "party": "더불어민주당",
+      "name_cn": "權美赫"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김병관",
+      "party": "더불어민주당",
+      "name_cn": "金炳官"
+    },
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김태년",
+      "party": "더불어민주당",
+      "name_cn": "金太年"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "박경미",
+      "party": "더불어민주당",
+      "name_cn": "朴炅美"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박범계",
+      "party": "더불어민주당",
+      "name_cn": "朴範界"
+    },
+    {
+      "name_kr": "박완주",
+      "party": "더불어민주당",
+      "name_cn": "朴完柱"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "이개호",
+      "party": "더불어민주당",
+      "name_cn": "李介昊"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    },
+    {
+      "name_kr": "홍익표",
+      "party": "더불어민주당",
+      "name_cn": "洪翼杓"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-01-18",
+  "decision_date": null,
+  "link_id": "PRC_U1C8R0B1S1M8J1K7E3Z8B2Y3Z6F9T3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

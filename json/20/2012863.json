@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012863",
+  "title": "[2012863] 클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률 일부개정법률안(함진규의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2012863",
+    "2018-04-03",
+    "함진규의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제359회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','3B8C78BD-C1B4-3083-9DC1-87A7FFCFEDF5','0');",
+  "proposers": [
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "강길부",
+      "party": "자유한국당",
+      "name_cn": "姜吉夫"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金聖泰"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "자유한국당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "신상진",
+      "party": "자유한국당",
+      "name_cn": "申相珍"
+    },
+    {
+      "name_kr": "윤영석",
+      "party": "자유한국당",
+      "name_cn": "尹永碩"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "주광덕",
+      "party": "자유한국당",
+      "name_cn": "朱光德"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  다양한 클라우드컴퓨팅서비스의 등장으로 서비스마다 적용되는 기술이 상이하여 다른 서비스와의 호환성이 감소할 우려가 있고, 클라우드컴퓨팅서비스 이용자가 다른 클라우드컴퓨팅서비스로 이동하는 데 불편을 초래할 수 있으므로 클라우드컴퓨팅기술의 표준화가 필요하다는 의견이 있음.\n  이에 과학기술정보통신부장관은 클라우드컴퓨팅기술의 이용을 촉진하기 위하여 클라우드컴퓨팅기술에 관한 표준을 정하여 고시하고, 클라우드컴퓨팅서비스 제공자에게 그 표준을 사용하도록 권고할 수 있도록 함으로써 클라우드컴퓨팅기술 이용 촉진에 기여하려는 것임(안 제21조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-04-03",
+  "decision_date": null,
+  "link_id": "PRC_L1D8Z0L4Q0K3V1Q8Q5X0L5O7F5I9Y1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

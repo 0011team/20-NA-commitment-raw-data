@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003901",
+  "title": "[2003901] 공직선거법 일부개정법률안(황주홍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2003901",
+    "2016-11-28",
+    "황주홍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D1DB9849-F90C-E716-EB86-B305012D5DD4','0');",
+  "proposers": [
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    },
+    {
+      "name_kr": "권은희",
+      "party": "국민의당",
+      "name_cn": "權垠希"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "국민의당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "새누리당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "무소속",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  민법 개정전에는 행위무능력자로서 금치산자 및 한정치산자가 있었으나, 「민법」이 개정(법률 제10429호, 2011. 3. 7. 공포, 2013. 7. 1. 시행)됨에 따라 금치산자 및 한정치산자를 피성년후견인 및 피한정후견인으로 제도가 변경됨. \n  따라서 금치산 및 한정치산자를 개정된 제도에 따라 성년후견, 한정후견으로 개정할 필요가 있음(안 제218조의8제4항제3호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-28",
+  "decision_date": null,
+  "link_id": "PRC_R1E6D1S1Q2F8I1P7R0P9N1P6E9B3G5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000796",
+  "title": "[2000796] 농어촌정비법 일부개정법률안(이종배의원 등 10인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2000796",
+    "2016-07-11",
+    "이종배의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D2C67BDC-0DE6-97BB-B2AC-D15455B4F24D','0');",
+  "proposers": [
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "새누리당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "새누리당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김종태",
+      "party": "새누리당",
+      "name_cn": "金鍾泰"
+    },
+    {
+      "name_kr": "배덕광",
+      "party": "새누리당",
+      "name_cn": "裵德光"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "새누리당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "새누리당",
+      "name_cn": "李鶴宰"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "새누리당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "새누리당",
+      "name_cn": "朱豪英"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "새누리당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행 「농어촌정비법」 제121조제2항은 “농어촌정비사업의 시행으로 토지의 이동이 있는 때에는 「지방세법」 제211조에도 불구하고 그 정비사업의 시행자가 시장·군수에게 신고하여야 한다”고 규정하고 있음. \n  그런데 「지방세법」 개정으로 인하여 제211조에 규정되어 있던 농업소득세 조항이 삭제되어 현재 존재하지 아니하므로, 관련 규정의 삭제가 필요함. \n  이에 현행법 제121조제2항을 “농어촌정비사업의 시행으로 토지의 이동이 있는 때에는 그 정비사업의 시행자가 시장ㆍ군수에게 신고하여야 한다”는 것으로 개정하려는 것임(안 제121조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-11",
+  "decision_date": "2016-11-17",
+  "link_id": "PRC_I1B6V0Q7N1I1B1P4U1B4K1P9K4S9O8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

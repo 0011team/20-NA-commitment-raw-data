@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012412",
+  "title": "[2012412] 항만법 일부개정법률안(설훈의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2012412",
+    "2018-03-09",
+    "설훈의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제357회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F9209FE0-FDA3-875D-A618-DC7A7A309628','0');",
+  "proposers": [
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김병관",
+      "party": "더불어민주당",
+      "name_cn": "金炳官"
+    },
+    {
+      "name_kr": "김태년",
+      "party": "더불어민주당",
+      "name_cn": "金太年"
+    },
+    {
+      "name_kr": "김한정",
+      "party": "더불어민주당",
+      "name_cn": "金漢正"
+    },
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    },
+    {
+      "name_kr": "조정식",
+      "party": "더불어민주당",
+      "name_cn": "趙正湜"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n  현행법에 따르면 해양수산부장관은 10년 단위로 항만기본계획을 수립함. 그러나 항만기본계획에 따른 시행계획의 수립, 재원마련이나 자료 제출 요청 등에 대한 규정이 없는 등 현행 규정에 미비한 점이 있음.\n  이에 해양수산부장관이 항만기본계획에 따른 연도별 시행계획을 수립·시행하도록 하고, 항만기본계획 및 연도별 시행계획을 국회 소관 상임위원회에 제출하게 하는 등의 규정을 마련하여 항만기본계획의 실효성을 제고하려는 것임(안 제5조 및 제8조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-09",
+  "decision_date": "2018-12-07",
+  "link_id": "PRC_G1B8I0P3U0T9K1Q5A1U8T5G8K7X9Z5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

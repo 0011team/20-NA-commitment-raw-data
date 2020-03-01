@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022765",
+  "title": "[2022765] 법무사법 일부개정법률안(백혜련의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022765",
+    "2019-09-30",
+    "백혜련의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','35578C1D-DF3C-3EE8-0906-E4E1B10491D5','0');",
+  "proposers": [
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "오영훈",
+      "party": "더불어민주당",
+      "name_cn": "吳怜勳"
+    },
+    {
+      "name_kr": "오제세",
+      "party": "더불어민주당",
+      "name_cn": "吳濟世"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 법무사 자격시험 부정행위자에 대한 제재를 대법원 규칙으로 정하도록 함.\n  그러나 시험 중 부정행위자에 대한 제재는 국민의 권리를 제한하는 침익적 행정처분에 해당하므로 이를 법률이 아닌 행정규칙에 규정하는 것은 법률유보의 원칙에 위반될 소지가 있다는 지적이 있음.\n  이에 법무사시험의 공정한 운영을 위해 다른 법조 유사직역과 동일하게 법률에서 직접 규정하려는 것임(안 제5조의4 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-09-30",
+  "decision_date": null,
+  "link_id": "PRC_O1H9V0F9J3D0H1N6K4R1B3D9O1Q4E2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

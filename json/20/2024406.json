@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2024406",
+  "title": "[2024406] 농어촌 등 보건의료를 위한 특별조치법 일부개정법률안(유재중의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2024406",
+    "2019-12-31",
+    "유재중의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제374회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A9118955-B9A6-B9DF-918E-1FCD7DD6A50B','0');",
+  "proposers": [
+    {
+      "name_kr": "유재중",
+      "party": "자유한국당",
+      "name_cn": "柳在仲"
+    },
+    {
+      "name_kr": "강석호",
+      "party": "자유한국당",
+      "name_cn": "姜碩鎬"
+    },
+    {
+      "name_kr": "권성동",
+      "party": "자유한국당",
+      "name_cn": "權性東"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김정훈",
+      "party": "자유한국당",
+      "name_cn": "金正薰"
+    },
+    {
+      "name_kr": "윤재옥",
+      "party": "자유한국당",
+      "name_cn": "尹在玉"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "자유한국당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "자유한국당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 야간이나 공휴일에 진료를 하는 의료기관이 없는 도서 및 접경지역에 있는 공중보건의사에게 보건복지부장관, 시·도지사 또는 시장·군수·구청장이 근무지역의 이탈 금지를 명할 수 있도록 규정하고 있음.\n  그런데 현행법에 명기된 공휴일에는 토요일이 포함되어 있지 않으므로 토요일에 진료를 하는 의료기관이 없는 도서나 접경지역에 있는 공중보건의사에게도 보건복지부장관 등이 근무지역의 이탈 금지를 명할 수 있도록 법률에 토요일을 명시하려는 것임(안 제8조제2항제2호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-12-31",
+  "decision_date": null,
+  "link_id": "PRC_F1I9L1V2S3K1H1M0E5R6G1Z5S1P5X1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

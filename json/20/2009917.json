@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009917",
+  "title": "[2009917] 형사소송법 일부개정법률안(김종민의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2009917",
+    "2017-10-25",
+    "김종민의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','442C96FF-ACC1-EABE-A0CE-C3B9CF531129','0');",
+  "proposers": [
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "어기구",
+      "party": "더불어민주당",
+      "name_cn": "魚基龜"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "유승희",
+      "party": "더불어민주당",
+      "name_cn": "兪承希"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 피의자신문 및 인정신문 시 피의자ㆍ피고인의 등록기준지를 확인하도록 하고 있고, 「형사소송규칙」은 공소장에 피고인의 등록기준지를 기재하도록 하고 있음.\n  형사사법절차에서 피의자나 피고인이 본인임을 확인해야 하는 것은 당연하지만, 피의자나 피고인의 성명ㆍ연령ㆍ직업ㆍ주소만으로 충분히 그 확인이 가능함에도 본적을 폐지하고 도입된 등록기준지까지 확인하는 것은 과도한 개인정보의 공개로 판단됨.\n  이에 피의자신문 및 인정신문 시 확인사항이나 공소장 기재사항에서 등록기준지를 제외하려는 것임(안 제241조, 제254조제3항제1호 및 제284조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-10-25",
+  "decision_date": null,
+  "link_id": "PRC_E1L7N1M0F2D5O1N5U0Q0R1C8W1W1S1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

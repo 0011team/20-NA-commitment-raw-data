@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008208",
+  "title": "[2008208] 고등교육법 일부개정법률안(채이배의원 등 12인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2008208",
+    "2017-07-27",
+    "채이배의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제352회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A04D914C-D22A-606C-A82B-6A4D7A579E9B','0');",
+  "proposers": [
+    {
+      "name_kr": "채이배",
+      "party": "국민의당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "국민의당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "국민의당",
+      "name_cn": "朴智元"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "국민의당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "천정배",
+      "party": "국민의당",
+      "name_cn": "千正培"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  우리나라의 대학등록금 수준은 OECD 국가 중 2위로, 한 해 천만 원에 달하는 등록금은 대학생이 빚을 내서 학교를 다닐 수밖에 없는 구조를 만들고 있음.\n  한편 대학은 대학 운영을 위한 재원의 대부분을 등록금에 의존하며, 산출근거나 사용처도 공개하지 않고 입학금을 징수하고 있어 대학등록금이 학생 또는 학부모에게 경제적으로 큰 부담이 되고 있는 것이 현실임. \n  이에 입학금을 폐지하고, 등록금 인상률 상한도 현행 직전 3년 물가상승률 1.5배에서 1.2배로 낮춰 대학생 등록금 부담을 완화하고자 함 (안 제11조제1항 및 제7항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-07-27",
+  "decision_date": "2019-10-31",
+  "link_id": "PRC_P1C7X0I7R2E7E1D0Y1N3M2O2Q3H3I0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

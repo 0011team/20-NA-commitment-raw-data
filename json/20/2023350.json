@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023350",
+  "title": "[2023350] 국회법 일부개정법률안(안민석의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023350",
+    "2019-10-31",
+    "안민석의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','1BD28EBE-7A4B-D559-62C6-0B450894B60A','0');",
+  "proposers": [
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김진표",
+      "party": "더불어민주당",
+      "name_cn": "金振杓"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "송갑석",
+      "party": "더불어민주당",
+      "name_cn": "宋甲錫"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "무소속",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이상헌",
+      "party": "더불어민주당",
+      "name_cn": "李相憲"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "최재성",
+      "party": "더불어민주당",
+      "name_cn": "崔宰誠"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  현행법은 “상시 국회”를 위하여 정기회와 함께 매 짝수월에 임시회를 집회하도록 규정하고 있음.\n  하지만, 교섭단체 간 의사일정이 합의되지 않아 본회의가 원활히 개의되지 않음. 사실상 식물국회로 전락한 경우가 많고, 이로 인하여 민생 법안이 장기간 방치되고 있는 실정임.\n  이에 회기 중에 법률안 심사를 위한 본회의를 기준에 따라 반드시 개의하도록 의무화하고, 연간 국회 운영 기본일정을 작성하는 때에도 이 기준을 적용하도록 함으로써 일하는 국회를 만들고자 하는 것임(안 제5조의2제2항제3호 및 제72조제2항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-31",
+  "decision_date": null,
+  "link_id": "PRC_A1I9W1K0D3K1S0D9Z3O5D2T8C3V4C9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

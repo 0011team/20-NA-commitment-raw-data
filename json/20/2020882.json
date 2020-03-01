@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020882",
+  "title": "[2020882] 변호사법 일부개정법률안(권칠승의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020882",
+    "2019-06-07",
+    "권칠승의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C5392631-6AE7-7A43-FFC0-CFD65A6EF190','0');",
+  "proposers": [
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "김태년",
+      "party": "더불어민주당",
+      "name_cn": "金太年"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "손혜원",
+      "party": "무소속",
+      "name_cn": "孫惠園"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "윤준호",
+      "party": "더불어민주당",
+      "name_cn": "尹俊晧"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 법관, 검사 등을 역임한 공직퇴임변호사의 수임제한 규정을 두고 있으나, 공직퇴임변호사가 고액의 수임료를 받고 공직 내의 인맥을 이용해 전화변론 등 부적절한 형태의 변호를 하여 재판의 결과에 영향을 주고 있다는 의혹이 지속적으로 제기되고 있으며, 이와 같은 의혹은 국민의 사법불신을 가져오는 원인 중 하나로 지적되고 있음.\n  이에 공직퇴임변호사가 근무한 국가기관에서 처리하는 사건의 수임제한 기간을 퇴직일부터 3년으로 확대하여 공직퇴임변호사의 부적절한 변론을 근절하고, 국민의 사법신뢰를 제고하려는 것임(안 제31조제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-06-07",
+  "decision_date": null,
+  "link_id": "PRC_O1T9B0M6G0X7U1P6X0P5P5J7T2Q5P3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

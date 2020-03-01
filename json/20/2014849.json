@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014849",
+  "title": "[2014849] 공직선거법 일부개정법률안(엄용수의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014849",
+    "2018-08-13",
+    "엄용수의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제362회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','3E63B581-DFFF-67ED-C052-0597822A1324','0');",
+  "proposers": [
+    {
+      "name_kr": "엄용수",
+      "party": "자유한국당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "강길부",
+      "party": "무소속",
+      "name_cn": "姜吉夫"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "자유한국당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "자유한국당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    },
+    {
+      "name_kr": "홍일표",
+      "party": "자유한국당",
+      "name_cn": "洪日杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 임기만료에 따른 지방의회의원 및 지방자치단체의 장의 선거는 그 임기만료일 전 30일 이후 첫 번째 수요일에 실시하도록 규정하고 있음.\n  이에 따라 선거가 농촌지역의 농번기인 6월에 실시됨으로써 농촌지역 유권자의 선거권이 제한될 수 있으므로, 선거일을 앞당겨 4월 초중순경에 선거를 실시하자는 의견이 많이 제기되고 있음.\n  이에 임기만료에 의한 지방의회의원 및 지방자치단체의 장의 선거일을 현행 임기만료일전 ‘30일 이후 첫 번째 수요일에서’에서 ‘80일 이후 첫 번째 수요일’로 변경하려는 것임(안 제34조제1항제3호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-08-13",
+  "decision_date": null,
+  "link_id": "PRC_J1Y8P0L8S1N3E1P1Y2H1A4U2Q2X4Q2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

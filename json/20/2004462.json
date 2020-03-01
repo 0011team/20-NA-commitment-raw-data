@@ -1,0 +1,40 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004462",
+  "title": "[2004462] 국무총리ㆍ국무위원 및 정부위원 출석요구의 건(정치ㆍ외교ㆍ통일ㆍ안보ㆍ교육ㆍ사회ㆍ문화에 관한 질문)(정우택의원 등 3인 외 284인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2004462",
+    "2016-12-19",
+    "정우택의원 등 3인 외 284인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','330CF7C2-67D2-4199-A469-0EB5ADFD7972','0');",
+  "proposers": [
+    {
+      "name_kr": "정우택",
+      "party": "새누리당",
+      "name_cn": "鄭宇澤"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "국민의당",
+      "name_cn": "朴智元"
+    },
+    {
+      "name_kr": "우상호",
+      "party": "더불어민주당",
+      "name_cn": "禹相虎"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-19",
+  "decision_date": "2016-12-20",
+  "link_id": "PRC_X1T6O1B2N1D9K1L7P0S4Y2K1V8Z6M1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

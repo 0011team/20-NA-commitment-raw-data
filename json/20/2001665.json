@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001665",
+  "title": "[2001665] 고용정책 기본법 일부개정법률안(김삼화의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2001665",
+    "2016-08-19",
+    "김삼화의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제345회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0B62B7B9-ADD5-EFA5-5054-10DE23F28A8C','0');",
+  "proposers": [
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "국민의당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "국민의당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "국민의당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "국민의당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  고용형태공시제도는 비정규직 확산에 따른 노동시장의 이중구조화 문제가 심화됨에 따라 사업장에서 사용하는 근로자의 고용형태를 공시하도록 하여 기업으로 하여금 자율적으로 고용구조를 개선하도록 하기 위해 도입된 제도임.\n  그런데 공시되는 내용을 보면, 기간이 정함이 없는 근로자 수, 단시간근로자 수, 기간제근로자 수, 그 밖에 파견？하도급？용역 등의 계약에 의해 근무하는 근로자 수에 불과하여 정규직 근로자와 비정규직 근로자의 임금 격차를 파악하고 임금 차별을 해소하는데 곤란한 상황임.\n  이에 근로자의 성별·고용형태별 근로자의 수 및 평균임금 현황을 공시하도록 하려는 것임(안 제15조의2).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-19",
+  "decision_date": null,
+  "link_id": "PRC_Q1F6H0O8M1X9U1E1B4N4V1I1O3P1K9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

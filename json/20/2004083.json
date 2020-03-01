@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004083",
+  "title": "[2004083] 공공기관의 운영에 관한 법률 일부개정법률안(조배숙의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004083",
+    "2016-12-02",
+    "조배숙의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9D6B7090-FB92-043B-C67F-2C2D43B49186','0');",
+  "proposers": [
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "국민의당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "국민의당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "국민의당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "국민의당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 기획재정부장관은 주무기관의 장과 협의한 후 운영위원회의 심의ㆍ의결을 거쳐 공공기관이 수행하는 기능의 적정성을 점검하고 기관통폐합, 기능 재조정 및 민영화 등에 관한 계획을 수립하고 있음. \n  그러나 공공기관의 기관통폐합 등을 추진하는 경우 지역 및 기관의 특성 등을 제대로 고려하지 아니하고 공공기관을 특정지역으로 이전함에 따라 지역 간의 불균형이 심화되고 있는 실정임. \n  이에 기획재정부장관이 기관통폐합 등으로 공공기관을 이전할 때에는 지역 간의 균형발전을 고려하도록 함으로써 지역균형발전을 도모하려는 것임(안 제14조제1항 후단 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-02",
+  "decision_date": null,
+  "link_id": "PRC_V1F6A1X2I0T2X1O7F4S5J3J7N3D3V7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

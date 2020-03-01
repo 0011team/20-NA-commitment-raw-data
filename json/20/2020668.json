@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020668",
+  "title": "[2020668] 동물보호법 일부개정법률안(김영호의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020668",
+    "2019-05-28",
+    "김영호의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','CF33F13B-BB69-39E6-FB1C-E5647D6770AA','0');",
+  "proposers": [
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "금태섭",
+      "party": "더불어민주당",
+      "name_cn": "琴泰燮"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  동물의 수술과정에서 필요한 동물혈액은 민간기업 또는 대학병원이 사육하는 공혈견(供血犬)과 공혈묘(供血猫)를 통하여 공급되고 있는데, 공혈견 등의 보호 및 동물혈액의 채취, 관리, 유통, 판매에 관한 관리체계가 없는 실정임.\n  이에, 동물혈액을 채취하여 공급하려는 자는 등록을 하여야 하고, 동물혈액을 채취하는 때에는 대통령령으로 정하는 기준과 한도에서 채취하도록 하려는 것임(안 제11조의2, 제32조제1항제9호 신설 등).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-28",
+  "decision_date": null,
+  "link_id": "PRC_C1C9L0S5Y2T8W1Q7S5N2H1H2Y4W0O3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

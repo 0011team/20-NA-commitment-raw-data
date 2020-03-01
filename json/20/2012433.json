@@ -1,0 +1,36 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012433",
+  "title": "[2012433] 국회의원(민병두) 사직의 건(민병두의원) 입법예고중",
+  "current_status": "철회",
+  "reception_info": [
+    "2012433",
+    "2018-03-12",
+    "민병두의원",
+    "의안원문",
+    "제20대 (2016~2020) 제358회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0284430A-4C90-061B-2035-B2EE37F7C496','0');",
+  "proposers": [
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    }
+  ],
+  "proposed_date": "2018-03-12",
+  "decision_date": "2018-05-04",
+  "link_id": "PRC_M1K8S0J3L1W2E1I4Y3R4Z5E8C3N9D7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

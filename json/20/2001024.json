@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001024",
+  "title": "[2001024] 한국마사회법 일부개정법률안(황주홍의원 등 11인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2001024",
+    "2016-07-21",
+    "황주홍의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제344회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','14B5D564-8FA1-5FDC-487F-945DFABDA6C5','0');",
+  "proposers": [
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "국민의당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "국민의당",
+      "name_cn": "朴智元"
+    },
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "이개호",
+      "party": "더불어민주당",
+      "name_cn": "李介昊"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "더불어민주당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "새누리당",
+      "name_cn": "趙慶泰"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n\n제안이유\n\n  현행 한국마사회법상 마권환급급 소멸시효는 90일로 매우 단기간이기 때문에 고객이 찾아가지 못하는 금액만 해도 연간 80억원에 가까우며 매년 증가추세에 있음. \n 고액의 미환급금에 대해 마사회가 부가적 수입으로 생각할 우려가 있고, 시효기간이 단기적이라 고객이 환급받을 수 있는 기회가 상대적으로 작기 때문에 소멸시효를 1년으로 하여 고객이 충분한 기간을 가지고 마권을 환급받을 수 있도록 할 필요가 있음.\n\n\n주요내용\n\n  환급금의 소멸시효기간을 1년간으로 함(안 제8조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-21",
+  "decision_date": "2016-11-17",
+  "link_id": "PRC_Y1Q6F0D7R2A1S1V2Y4U0V3O6N8H5T1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

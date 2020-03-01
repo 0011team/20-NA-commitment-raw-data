@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2017072",
+  "title": "[2017072] 최저임금법에 관한 특별조치법안(이언주의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2017072",
+    "2018-12-05",
+    "이언주의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EA2647BB-5E2F-F354-1F8B-E1014669A9B3','0');",
+  "proposers": [
+    {
+      "name_kr": "이언주",
+      "party": "바른미래당",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "강효상",
+      "party": "자유한국당",
+      "name_cn": "姜孝祥"
+    },
+    {
+      "name_kr": "김종석",
+      "party": "자유한국당",
+      "name_cn": "金鍾奭"
+    },
+    {
+      "name_kr": "박대출",
+      "party": "자유한국당",
+      "name_cn": "朴大出"
+    },
+    {
+      "name_kr": "윤상직",
+      "party": "자유한국당",
+      "name_cn": "尹相直"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "무소속",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최저임금제도는 근로자의 인간다운 생활을 보장하기 위하여 국가가 임금의 최저수준을 정하여 사용자에게 그 수준 미만의 임금지급을 못하게 법적으로 강제하는 제도임.\n  그런데 국민의 생활에 직접적인 영향을 미치는 최저임금을 인상하는 과정에서 영세 소상공인과 중소기업들에게 미치는 부담과 실업률 증가 등 경제 위기나 국가 경제 전반에 미칠 영향을 고려할 필요가 있음.\n  이에 최저임금이 결정되더라도 실업률 증가 등 급격한 경기변동으로 최저임금위원회의 위원 중 3분의 1 이상이 최저임금의 재결정을 요구할 경우, 최저임금을 다시 심의·결정하도록 규정하고자 함.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-12-05",
+  "decision_date": null,
+  "link_id": "PRC_S1V8B1E2X0W5Z1G6Y4P0P0N9D2I5G8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013136",
+  "title": "[2013136] 수의사법 일부개정법률안(정재호의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2013136",
+    "2018-04-18",
+    "정재호의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제359회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FC3EB21A-76A3-FFAE-1D1C-A5B68B12B58C','0');",
+  "proposers": [
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "더불어민주당",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "바른미래당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  1999년 이전의 동물병원 진료비는 시·도지사의 인가를 받아 수의사회에서 진료비 수가를 정하도록 하였으나 동물병원들의 가격 담합을 막고 자율 경쟁을 통해 진료비 하락을 유도하기 위하여 해당 조항을 삭제한 후 현재는 동물병원에서 자율적으로 정하고 있음.\n  그러나 동물 진료비에 대한 수가제가 폐지된 이후 이를 대체할만한 적정 기준이 마련되지 않아 동일한 진료임에도 불구하고 동물병원마다 상이한 진료비 결정으로 소비자의 불만이 제기되고 있는 실정임.   \n  이에 동물의 진료비 중 진료비의 표준화가 가능한 사항을 표준화하여 반려동물 진료비 부담을 완화하고 신뢰도를 높이려는 것임(안 제20조의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-04-18",
+  "decision_date": null,
+  "link_id": "PRC_Y1E8S0Q4M1X8A1H6Z4J4C0G9N0I3K7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

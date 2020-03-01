@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014167",
+  "title": "[2014167] 건축법 일부개정법률안(최연혜의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014167",
+    "2018-07-02",
+    "최연혜의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제361회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','DA1A5131-A819-97E1-EDB2-E8B1E7691935','0');",
+  "proposers": [
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김기선",
+      "party": "자유한국당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "백승주",
+      "party": "자유한국당",
+      "name_cn": "白承周"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "정진석",
+      "party": "자유한국당",
+      "name_cn": "鄭鎭碩"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 미세먼지, 초미세먼지 등 대기오염으로 인한 사회적 관심이 증대하고 있으며, 이로 인한 실내공기질 저하 역시 사회문제로 대두되었음. \n  특히 대기오염으로 인하여 건축물의 환기설비에도 공기정화설비를 갖추도록 하는 등의 대책 마련이 시급하다는 지적이 제기되었음.\n  이에 대통령령으로 정하는 용도 및 규모의 건축물은 공기정화설비를 갖춘 환기시설물을 설치하도록 함으로써 실내공기질 저하 문제를 완화시키려는 것임(안 제48조의4).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-07-02",
+  "decision_date": null,
+  "link_id": "PRC_M1B8Y0F7S0F2K1U6H1Y5R0C2D1C7E8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018177",
+  "title": "[2018177] 공직선거법 일부개정법률안(유의동의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018177",
+    "2019-01-15",
+    "유의동의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제365회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','60AC02FF-9010-B739-34E1-E7E9DEC4877D','0');",
+  "proposers": [
+    {
+      "name_kr": "유의동",
+      "party": "바른미래당",
+      "name_cn": "兪義東"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "바른미래당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金成泰"
+    },
+    {
+      "name_kr": "김재경",
+      "party": "자유한국당",
+      "name_cn": "金在庚"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "자유한국당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "오신환",
+      "party": "바른미래당",
+      "name_cn": "吳晨煥"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "바른미래당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "바른미래당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n법률안 용어와 법문 표현은 일반 국민이 쉽게 읽고 이해해서 잘 지킬 수 있도록 해야 할 필요성이 있음.\n  그런데 현행법의 경우 그 용어 등이 한자로 표기되어 있는 경우가 많아 쉽게 이해하기 어려운 면이 있고, 국민의 일상적인 언어생활과 거리가 있다는 지적이 있음.\n  이에 한자로 되어 있는 법문을 한글로 바꾸어 국민의 일상적인 언어생활에 맞는 법률이 되도록 하려는 것임.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-01-15",
+  "decision_date": null,
+  "link_id": "PRC_N1K9N0E1P1J5G1O0F3J7D0K9N2X1R4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

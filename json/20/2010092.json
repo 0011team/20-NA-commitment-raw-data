@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010092",
+  "title": "[2010092] 감사원법 일부개정법률안(오신환의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2010092",
+    "2017-11-09",
+    "오신환의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','45AFB638-45C5-6DAC-3FBC-38A31FBBDF4E','0');",
+  "proposers": [
+    {
+      "name_kr": "오신환",
+      "party": "바른정당",
+      "name_cn": "吳晨煥"
+    },
+    {
+      "name_kr": "강길부",
+      "party": "바른정당",
+      "name_cn": "姜吉夫"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김무성",
+      "party": "바른정당",
+      "name_cn": "金武星"
+    },
+    {
+      "name_kr": "김영우",
+      "party": "바른정당",
+      "name_cn": "金榮宇"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "자유한국당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "유의동",
+      "party": "바른정당",
+      "name_cn": "兪義東"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "정양석",
+      "party": "바른정당",
+      "name_cn": "鄭亮碩"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "바른정당",
+      "name_cn": "朱豪英"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "바른정당",
+      "name_cn": "池尙昱"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른정당",
+      "name_cn": "河泰慶"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 감사 결과 중요하다고 인정되는 사항에 대해 수시로 대통령에게 보고하는 ‘수시보고’ 제도를 도입하고 있음.\n  그간 수시보고는 대통령이 감사업무 처리에 관하여 정치적 영향력을 행사하는 수단으로 이용될 수 있다는 점에서 감사원의 독립성 확보와 관련하여 논란의 대상이 되어왔음.\n  이에 수시보고 제도를 폐지함으로써 감사원 직무수행의 독립성 및 공정성을 확보하려는 것임(안 제12조제1항제9호, 안 제42조 삭제).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-11-09",
+  "decision_date": null,
+  "link_id": "PRC_K1R7J1Y1K0E9H1P3Z5W9I2H4Y4U1P4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

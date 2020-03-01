@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020094",
+  "title": "[2020094] 기술의 이전 및 사업화 촉진에 관한 법률 일부개정법률안(김규환의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020094",
+    "2019-05-01",
+    "김규환의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','676DF198-A7A4-47BA-354D-F6FC0B6CEB0D','0');",
+  "proposers": [
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "김종석",
+      "party": "자유한국당",
+      "name_cn": "金鍾奭"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "자유한국당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "최교일",
+      "party": "자유한국당",
+      "name_cn": "崔敎一"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 중소기업이 기술의 사업화를 조기에 달성할 수 있도록 투자·융자 등의 금융지원을 위한 기반을 마련하도록 하고 있음.\n  그런데 중견기업의 경우 시장에서 국내 또는 해외의 대기업과 경쟁하며 생존하기가 쉽지 않은 상황임에도 불구하고 더 이상 중소기업이 아니라는 이유로 기술의 사업화 지원에 대하여는 배제되는 사례가 많다는 지적이 있음.\n  이에 중견기업을 투자·융자 등 기술 사업화 금융지원의 지원 범위에 포함시키려는 것임(안 제26조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-01",
+  "decision_date": null,
+  "link_id": "PRC_X1C9D0Q5J0J1S1Y0E5I2U0K5F8G6P4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

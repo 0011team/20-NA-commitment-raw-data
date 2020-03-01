@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021874",
+  "title": "[2021874] 동물보호법 일부개정법률안(고용진의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021874",
+    "2019-08-07",
+    "고용진의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제370회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C4EADF20-A40E-15A9-4FEB-BF035151D2BD','0');",
+  "proposers": [
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김영춘",
+      "party": "더불어민주당",
+      "name_cn": "金榮春"
+    },
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "이후삼",
+      "party": "더불어민주당",
+      "name_cn": "李厚三"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 한 수의대에서 실시한 동물복제 관련 실험에서 사역견 출신의 동물이 사망하였으며, 이는 학대에 가까운 동물실험에 따른 것으로 보도된 바 있음. 현행법령 상 사역동물에 대한 실험은 금지되어 있으나, 질병관리연구 등의 사유로 개별 실험기관에 설치된 동물실험윤리위원회의 자체 승인을 거치는 경우 제한 없는 실험이 가능하여 실효성 있는 규제가 이루어지지 않는다는 지적이 제기됨.\n  이에 사역동물에 대한 동물실험의 승인 주체를 기관별로 설치된 동물실험윤리위원회에서 농림축산식품부장관으로 변경하여 동물의 학대를 방지하는 등 동물실험 규제의 실효성을 제고하고자 함(안 제24조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-08-07",
+  "decision_date": null,
+  "link_id": "PRC_R1T9Z0L8N0G7X1J3C3T2Z3Z1U2Q6T5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

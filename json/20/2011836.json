@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011836",
+  "title": "[2011836] 국회법 일부개정법률안(윤재옥의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2011836",
+    "2018-02-08",
+    "윤재옥의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제356회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','85B8A20B-5187-F712-7019-35257FAFD4EB','0');",
+  "proposers": [
+    {
+      "name_kr": "윤재옥",
+      "party": "자유한국당",
+      "name_cn": "尹在玉"
+    },
+    {
+      "name_kr": "곽상도",
+      "party": "자유한국당",
+      "name_cn": "郭尙道"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "자유한국당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "주광덕",
+      "party": "자유한국당",
+      "name_cn": "朱光德"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 대정부질문을 위한 본회의를 오후 2시에 개의하는 것으로 되어 있음. 그런데 국정전반 또는 국정의 특정분야에 대한 질의 및 응답이 충분히 이루어지기 위해서는 대정부질문을 위한 본회의 개의 시간을 보다 앞당기는 것이 필요하다는 의견이 있음.\n  이에 대정부질문을 위한 본회의 개의 일시를 오전 10시로 앞당겨 국회의 대정부질문이 보다 활발하게 이루어질 수 있도록 그 시간을 확대하려는 것임(안 제76조의2제2호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-02-08",
+  "decision_date": null,
+  "link_id": "PRC_T1D8Z0B2M0H8P1G1H1T1F5E5Y1K9D2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

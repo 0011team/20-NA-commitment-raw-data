@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002400",
+  "title": "[2002400] 초·중등교육법 일부개정법률안(나경원의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2002400",
+    "2016-09-21",
+    "나경원의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','712D3273-BFE7-6BD6-A03F-4254D810ECF2','0');",
+  "proposers": [
+    {
+      "name_kr": "나경원",
+      "party": "새누리당",
+      "name_cn": "羅卿瑗"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "새누리당",
+      "name_cn": "金成泰"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "새누리당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "염동열",
+      "party": "새누리당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "새누리당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "새누리당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "전희경",
+      "party": "새누리당",
+      "name_cn": "全希卿"
+    },
+    {
+      "name_kr": "황영철",
+      "party": "새누리당",
+      "name_cn": "黃永哲"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법에 따르면 고등학교의 학군배정은 법률에 명시된 원칙 없이 전부 대통령령에 위임되어 각 시·도교육청의 방침에 따라 이루어지고 있음.\n  그러나 행정구역 구분을 그대로 따르는 현행의 학군 제도는 행정편의를 위한 ‘공급자 중심’의 제도라 할 수 있으므로 이를 거주지를 기준으로 근거리 배정 원칙이 최우선으로 고려되는 ‘수요자 중심’ 학군 제도로 개편할 필요가 있음.\n  이에 교육감이 입학전형을 실시하는 평준화지역 일반고등학교에 대하여는 학생의 요구 및 통학의 편의성을 우선적으로 고려하여 배정함으로써 학생이 학교를 통학함에 있어 편의성을 제고하고자 함(안 제47조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-09-21",
+  "decision_date": null,
+  "link_id": "PRC_W1W6S0W9E2M1Q2N1L1E4W4P3P1W2F0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

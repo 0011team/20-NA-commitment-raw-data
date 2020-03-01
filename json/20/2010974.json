@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010974",
+  "title": "[2010974] 소비자기본법 일부개정법률안(박맹우의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2010974",
+    "2017-12-22",
+    "박맹우의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D70F73DC-FD62-F064-313A-FFF120E3289F','0');",
+  "proposers": [
+    {
+      "name_kr": "박맹우",
+      "party": "자유한국당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김한표",
+      "party": "자유한국당",
+      "name_cn": "金漢杓"
+    },
+    {
+      "name_kr": "박완수",
+      "party": "자유한국당",
+      "name_cn": "朴完洙"
+    },
+    {
+      "name_kr": "박찬우",
+      "party": "자유한국당",
+      "name_cn": "朴贊佑"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "윤영석",
+      "party": "자유한국당",
+      "name_cn": "尹永碩"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n   「소비자기본법」 제43조는 한국소비자원의 임원, 소비자분쟁조정위원회의 위원 및 일부 직원에 대하여 벌칙 적용에서 공무원 의제규정을 두면서 공무원 의제 대상인 직원의 범위를 전적으로 대통령령에 위임하고 있음.\n  그러나 범죄와 형벌을 법률로써 규정하여야 한다는 죄형법정주의 관점에서 볼 때, 공무원 의제의 대상이 되는 사람의 범위를 대통령령에서 규정하는 것보다 벌칙 적용대상을 법률에서 직접 규정하는 것이 바람직함.\n  이에 법률에서 공무원 의제의 대상이 되는 사람에 대하여 다른 입법례에서와 같이 그 대상요건을 법률에서 직접 규정함.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-22",
+  "decision_date": "2018-05-28",
+  "link_id": "PRC_F1I7Q1Q2H2O2Z1V6U1J5J1T5K0H9A7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

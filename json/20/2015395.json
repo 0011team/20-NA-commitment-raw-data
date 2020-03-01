@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015395",
+  "title": "[2015395] 축산법 일부개정법률안(임이자의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2015395",
+    "2018-09-07",
+    "임이자의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F84EEA1A-CC84-7CB1-D733-CD4EEEBA15CE','0');",
+  "proposers": [
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "염동열",
+      "party": "자유한국당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "홍문종",
+      "party": "자유한국당",
+      "name_cn": "洪文鐘"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 달걀과 닭에서 피프로닐, 디디티(DDT) 등 인체 유해물질이 검출되면서 국내산 축산물의 농약 오염에 대한 우려가 큰 상황임.\n  그러나 현재 「약사법」에 따른 과태료 처분을 받은 경우에만 축산업 허가취소가 가능하며, 농약(살충제 등)에 대한 규정이 없는 상황임.\n  또한 축산업 영업정지 또는 허가취소 시 가축처분 등의 문제가 발생할 수 있으므로 제재의 현실성이 낮은 상황임.\n  이에 불법행위에 대한 농가의 경각심 제고를 위해 농약(살충제 등) 불법사용 농가에 대한 축산업 허가취소 규정을 신설하고, 실효성 있는 제재를 위해 과징금 규정을 신설하려는 것임(안 제25조제1항제9호 및 제25조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-09-07",
+  "decision_date": "2019-08-02",
+  "link_id": "PRC_P1E8P0D9C0R7U1G7S3U3N3Z0W6W9L0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

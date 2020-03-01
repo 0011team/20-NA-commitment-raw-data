@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001667",
+  "title": "[2001667] 공공기관의 운영에 관한 법률 일부개정법률안(김삼화의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2001667",
+    "2016-08-19",
+    "김삼화의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제345회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9E9A4DAB-EEFE-6A44-5DFA-00BBF6A90579','0');",
+  "proposers": [
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "국민의당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "국민의당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  우리나라는 OECD 회원국 중에서 여성의 노동참여율, 남녀간 임금격차, 여성임원 비율 등을 바탕으로 산출하는 유리천장지수가 최하위에 머물러 있으며, 여전히 비정규직 근로자의 고용불안과 임금 차별이 있는 실정임.\n  따라서 공공부문에서 이러한 문제를 선도적으로 해결하기 위하여 공공기관의 경영공시를 활용할 필요가 있음.\n  이에 공공기관의 경영공시 사항에 성별·고용형태별 임직원의 임금 현황을 추가함으로써 공공기관 근로자의 성별·고용형태별 임금 격차를 해소하려는 것임(안 제11조제1항제3호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-19",
+  "decision_date": "2018-12-07",
+  "link_id": "PRC_X1X6G0S8A1F9P1R2R5E1X1N2P2W0Z8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

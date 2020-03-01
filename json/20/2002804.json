@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002804",
+  "title": "[2002804] 군인사법 일부개정법률안(신용현의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2002804",
+    "2016-10-21",
+    "신용현의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F9DE8E61-460B-4CA5-6B66-5BDA8EBD79DE','0');",
+  "proposers": [
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "권은희",
+      "party": "국민의당",
+      "name_cn": "權垠希"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "국민의당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "국민의당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "손금주",
+      "party": "국민의당",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "오세정",
+      "party": "국민의당",
+      "name_cn": "吳世正"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현재 병사의 경우는 군사훈련 기간을 포함하여 2년 내외에서 의무복무를 하고 있고, 장교·준사관 및 부사관의 경우에는 군사교육 기간을 의무복무기간에 포함하지 아니하고 있음.\n  병역의 의무는 개인의 자유와 권리에 중대한 제한을 가하는 의무로서 군사교육 기간을 복무기간에 포함하여 계산하지 아니한 것은 합리적인 이유 없는 차별로 헌법상 평등원칙에 위배될 소지가 있음.\n  이에 장교·준사관 및 부사관으로서 단기복무 장교, 준사관 또는 단기복무 부사관의 의무복무기간을 계산할 때에는 그 임용을 위하여 임용 전에 받은 군사교육 기간을 포함하도록 하려는 것임(안 제7조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-10-21",
+  "decision_date": null,
+  "link_id": "PRC_I1O6B1X0E2P1J1D5M5W7A1O6D4P6H4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

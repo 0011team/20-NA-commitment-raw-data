@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018555",
+  "title": "[2018555] 출입국관리법 일부개정법률안(김병기의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018555",
+    "2019-02-11",
+    "김병기의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','6ED91202-4F6C-F540-ADF1-C79192FEF322','0');",
+  "proposers": [
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "신동근",
+      "party": "더불어민주당",
+      "name_cn": "申東根"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "이상헌",
+      "party": "더불어민주당",
+      "name_cn": "李相憲"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "전해철",
+      "party": "더불어민주당",
+      "name_cn": "全海澈"
+    },
+    {
+      "name_kr": "최재성",
+      "party": "더불어민주당",
+      "name_cn": "崔宰誠"
+    },
+    {
+      "name_kr": "표창원",
+      "party": "더불어민주당",
+      "name_cn": "表蒼園"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 강제퇴거 대상 용의자가 도주할 염려가 있는 경우 그 사람을 보호하도록 하고 출입국관리공무원은 용의자를 보호한 때에는 국내에 있는 그의 변호인 등에게 3일 이내에 보호의 일시·장소 및 이유를 서면으로 통지하도록 하고 있을 뿐, 변호인의 조력을 받을 권리를 명시하고 있지 않음.\n  그런데 보호기간이 장기화 되는 경우 피보호자가 사실상 장기구금 상태에 놓이게 되어 기본권 보장의 필요성이 있음.\n  이에 피보호자에게 변호인의 조력을 받을 권리가 있음을 명시함으로써 피보호자의 인권을 보호하려는 것임(안 제56조의10 신설, 안 제63조제6항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-02-11",
+  "decision_date": null,
+  "link_id": "PRC_Z1O9S0C2Z1I1X1P4H1Y5P1Z1P1Q7D7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

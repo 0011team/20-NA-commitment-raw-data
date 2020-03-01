@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004181",
+  "title": "[2004181] 기상관측표준화법 일부개정법률안(신보라의원 등 10인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2004181",
+    "2016-12-07",
+    "신보라의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F99C43C9-A7F5-4786-D664-E12B10A77EA8','0');",
+  "proposers": [
+    {
+      "name_kr": "신보라",
+      "party": "새누리당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "새누리당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "새누리당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "새누리당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "새누리당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "새누리당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "새누리당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "새누리당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법은 기상청장이 관측기관의 관측 목적별로 관측시설의 종류·규모·수준 등을 고려하여 등급을 부여할 수 있도록 정하고 있으며, 이에 따라 국가기관, 지방자치단체, 공공기관 등 28개 관측기관에 대하여 기상관측시설 등급 평가제도가 시행 중임.\n  그러나 최근 기상관측시설 등급에 관한 국제표준(ISO 19289)이 제정됨에 따라 기상관측시설에 대한 등급 기준도 국제표준에 부합하도록 개선할 필요성이 있음.\n  이에 기상관측시설에 대한 등급 부여 시 고려할 점에 세계기상기구 및 국제표준화기구에서 정하는 기준을 활용하도록 규정하려는 것임(안 제8조제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-07",
+  "decision_date": "2017-03-30",
+  "link_id": "PRC_U1Q6J1Y2T0Q7Y1Q8D2T2Z1C4S9P7K5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

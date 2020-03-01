@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011628",
+  "title": "[2011628] 변호사법 일부개정법률안(유기준의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2011628",
+    "2018-01-30",
+    "유기준의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제356회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EA1190EC-DE6A-7AC7-C956-24213AACD2E7','0');",
+  "proposers": [
+    {
+      "name_kr": "유기준",
+      "party": "자유한국당",
+      "name_cn": "兪奇濬"
+    },
+    {
+      "name_kr": "권석창",
+      "party": "자유한국당",
+      "name_cn": "權錫昌"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金成泰"
+    },
+    {
+      "name_kr": "윤상직",
+      "party": "자유한국당",
+      "name_cn": "尹相直"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "자유한국당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "자유한국당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  변호사는 직업적 특성상 의뢰인이 밝히기 싫은 정보를 알게 되는 경우가 많음. 의뢰인이 변호인의 조력을 충분히 받기 위해서는 의뢰인이 변호사에게 비밀을 털어놓더라도 변호사가 그 비밀을 유지할 것이라는 신뢰가 보장되어야 하며, 변호사 또한 비밀유지권리가 인정되어야 함.\n  그런데 현행법 제26조는 ‘변호사의 비밀유지의무’를 규정하고 있으나, 정보 공개가 요청되는 상황에서 의뢰인의 비밀을 지킬 수 있는 ‘비밀유지권리’는 인정되지 않고 있음. 이에 국민의 기본적 권리를 보호하고 의뢰인이 변호사의 조력을 충분히 받을 수 있도록 ‘변호사의 비밀유지권리’를 규정하고자 하는 것임(안 제26조제2항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-01-30",
+  "decision_date": null,
+  "link_id": "PRC_C1Y8N0P1K3V0K1A1X1A8H2F2R4Y2S3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

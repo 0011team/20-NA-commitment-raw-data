@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005312",
+  "title": "[2005312] 주택임대차보호법 일부개정법률안(전혜숙의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005312",
+    "2017-01-26",
+    "전혜숙의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제348회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0618A10D-0809-1170-83BE-6E8FEF795E62','0');",
+  "proposers": [
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "변재일",
+      "party": "더불어민주당",
+      "name_cn": "卞在一"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "송기헌",
+      "party": "더불어민주당",
+      "name_cn": "宋基憲"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    }
+  ],
+  "summaries": [
+    "\n제안이유\n\n  다가구주택이나 상가 등 하나의 건물을 여러 임차인이 임차하여 사용하는 경우 선순위 임차인이 확정일자를 받으면 후순위 임차인은 우선 변제대상에서 제외되므로 중개의뢰인은 계약 체결 전에 확정일자에 관한 사항을 미리 확인할 필요가 있는데, 이 경우 중개의뢰인이 공인중개사에게 요청하면 공인중개사가 확정일자에 관한 정보를 확인할 수 있도록 제도를 개선하여, 임차인 또는 중개의뢰인의 권리를 보호하는데 기여하고자 함.  \n\n\n주요내용\n\n  중개의뢰인의 요청을 받은 개업공인중개사는 중개대상물의 확정일자에 관한 정보를 확정일자부여기관에 요청할 수 있도록 함(안 제3조의6제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-01-26",
+  "decision_date": null,
+  "link_id": "PRC_B1Z7W0W1Q2R6B1M4H2F8W2M6N0A3K1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

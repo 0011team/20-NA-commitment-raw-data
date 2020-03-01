@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001815",
+  "title": "[2001815] 농어촌구조개선 특별회계법 일부개정법률안(황주홍의원 등 12인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2001815",
+    "2016-08-25",
+    "황주홍의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제345회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FC3AC54D-1198-3C72-82B3-8083674C78FF','0');",
+  "proposers": [
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "국민의당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "더불어민주당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현재 농업소득보전직접지불금과 농어업재해보험기금의 일부 사업은 농어촌구조개선 특별회계(농어촌특별세사업계정)로부터의 전입금을 재원으로 실시되고 있음.\n  그러나 이는 현행법상 농어촌구조개선 특별회계의 용도 중 농작물재해 관련 지원, 농업인의 소득 중 일부를 직접 지원하는 사업을 근거로 하는 것으로 각 기금에 대한 전출 근거는 세출항목에 규정하고 있지 않음.\n  이에 특별회계의 세출 항목에 농어업재해재보험기금 및 농업소득보전직접지불기금에 대한 전출금을 명시함으로써 해당 기금 및 사업의 안정성을 확보하려는 것임(안 제5조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-25",
+  "decision_date": "2016-11-17",
+  "link_id": "PRC_W1H6D0H8C2E5O1D6U3K9Y1S8G0P2Q1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001985",
+  "title": "[2001985] 국가재정법 일부개정법률안(김종민의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2001985",
+    "2016-08-31",
+    "김종민의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제345회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E724564C-1BD2-FC66-2A87-FB284225E040','0');",
+  "proposers": [
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "김두관",
+      "party": "더불어민주당",
+      "name_cn": "金斗官"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "어기구",
+      "party": "더불어민주당",
+      "name_cn": "魚基龜"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    },
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법은 기획재정부장관이 분기별 예산배정계획에 따라 정기적으로 예산을 배정하여야 하나, 예산의 효율적인 집행관리를 위하여 필요한 때에는 개별사업계획을 검토하여 그 결과에 따라 예산을 수시배정할 수 있도록 하고 있음.\n  그러나 국회가 확정한 예산에 대하여 행정부의 재량에 따라 수시배정하는 것은 국회의 예산심의권을 제약하는 문제점이 있으므로, 수시배정 내역을 반기별로 국회에 보고하도록 하려는 것임(안 제43조제5항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-31",
+  "decision_date": null,
+  "link_id": "PRC_L1U6D0W8P3W1C1Q5M1X9J1R6L8I0S0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

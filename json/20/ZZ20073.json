@@ -1,0 +1,24 @@
+{
+  "assembly_id": 20,
+  "bill_id": "ZZ20073",
+  "title": "[ZZ20073] 2017년도 법률안 국회제출 수정계획(정부) 입법예고중",
+  "current_status": "접수",
+  "reception_info": [
+    "ZZ20073",
+    "2017-08-16",
+    "정부",
+    "의안원문",
+    "제20대 (2016~2020) 제352회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5705C82C-CE2C-46F1-B20B-27A7FEFDB072','0');",
+  "proposers": [],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-08-16",
+  "decision_date": null,
+  "link_id": "PRC_Z1M7M0I8M1T6U1X1T2R7M3U3Y2M5A8",
+  "proposer_type": "기타",
+  "status": "처리"
+}

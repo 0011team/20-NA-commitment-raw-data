@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002691",
+  "title": "[2002691] 축산법 일부개정법률안(이양수의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2002691",
+    "2016-10-18",
+    "이양수의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D5A1867B-4B21-778C-4558-B2A25AF81CB8','0');",
+  "proposers": [
+    {
+      "name_kr": "이양수",
+      "party": "새누리당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "새누리당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "새누리당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "새누리당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "이만희",
+      "party": "새누리당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "이완영",
+      "party": "새누리당",
+      "name_cn": "李完永"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "새누리당",
+      "name_cn": "池尙昱"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "새누리당",
+      "name_cn": "河泰慶"
+    },
+    {
+      "name_kr": "홍문종",
+      "party": "새누리당",
+      "name_cn": "洪文鐘"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행 「축산법」, 「가축전염병 예방법」 및 「축산물 위생관리법」에서는 가축의 정의에서 염소와 양을 구분하지 않고 염소를 양의 한 종류로 규정하고 있음.\n  이와 같이 염소와 양을 구분하지 않는 것은 소비자의 알권리를 침해하고 국내 염소산업 활성화에도 악영향을 미칠 수 있음.\n  이에 현행법상 가축의 정의에서 염소와 양을 명확하게 구분함으로써 소비자에게 염소고기에 대한 올바른 구매정보를 제공함은 물론 국내산 염소고기의 유통질서 확립을 통해 국내 염소산업 활성화에도 기여하고자 함(안 제2조제1호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-10-18",
+  "decision_date": "2017-03-02",
+  "link_id": "PRC_L1H6J1R0J1L8Q1O8A0N0A2O3U9A1L0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

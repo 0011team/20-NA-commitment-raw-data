@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014566",
+  "title": "[2014566] 공직선거법 일부개정법률안(김철민의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014566",
+    "2018-07-26",
+    "김철민의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제362회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D6CF1B12-58AE-6756-982E-BB972E707F2F','0');",
+  "proposers": [
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "민주평화당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이수혁",
+      "party": "더불어민주당",
+      "name_cn": "李秀赫"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "조정식",
+      "party": "더불어민주당",
+      "name_cn": "趙正湜"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  보통선거와 평등선거의 원칙에 따라 장애의 유무와 관계없이 모든 유권자에게 선거권이 보장되어야 함에도 불구하고 현실적으로 신체적˙정신적 장애를 가진 유권자의 선거권이 그렇지 않은 비(非)장애인 유권자처럼 온전히 행사되기 어려움.\n  현행법상 청각장애인을 위한 선거운동 방송광고의 수어와 자막을 선택사항으로 규정하고 있어, 이를 임의규정이 아닌 강행규정으로 개정해 장애인 유권자의 선거권 보장을 강화하고자 함.\n  아울러 현행법에서 사용하고 있는 용어인 ‘수화’를 「한국수화언어법」에서 정한 용어인 ‘한국수어“로 대체하려는 것임(안 제70조제6항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-07-26",
+  "decision_date": null,
+  "link_id": "PRC_N1K8S0U7V2V6G1G6U3W9G2X6D9U3T7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

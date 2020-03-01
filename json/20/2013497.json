@@ -1,0 +1,95 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013497",
+  "title": "[2013497] 산업안전보건법 일부개정법률안(문진국의원 등 14인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2013497",
+    "2018-05-09",
+    "문진국의원 등 14인",
+    "의안원문",
+    "제20대 (2016~2020) 제360회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','75D6F26E-82CA-9754-4496-DBE687AFD1B6','0');",
+  "proposers": [
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김세연",
+      "party": "자유한국당",
+      "name_cn": "金世淵"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "자유한국당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "서형수",
+      "party": "더불어민주당",
+      "name_cn": "徐炯洙"
+    },
+    {
+      "name_kr": "윤한홍",
+      "party": "자유한국당",
+      "name_cn": "尹漢洪"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "자유한국당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 중대재해가 발생하는 경우 고용노동부장관이 그 발생원인을 조사하여 원인 규명 또는 예방대책 수립을 하도록 하고 있음.\n  그런데 중대재해 조사 결과 사업주에 대한 수사 등이 필요하여 검찰 등 수사기관에 이첩한 경우에는 고용노동부장관이 그 처분 결과를 적시에 알지 못하여 원인 규명 및 적절한 예방대책 수립에 어려움을 겪는 경우가 있음.\n  이에 중대재해 발생 관련 사건을 이첩받은 수사기관은 그 처분 결과를 고용노동부장관에게 통보하도록 함으로써 중대재해의 원인 규명과 효율적인 예방대책 수립에 도움이 되도록 하려는 것임(안 제26조의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-05-09",
+  "decision_date": null,
+  "link_id": "PRC_P1K8Y0X5H0Z9C1A6C1E3Q3J3D8H0Z7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

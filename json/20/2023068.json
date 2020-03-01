@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023068",
+  "title": "[2023068] 자원의 절약과 재활용촉진에 관한 법률 일부개정법률안(최연혜의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023068",
+    "2019-10-28",
+    "최연혜의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B8BAA445-CF89-D751-C589-86DB1E04DBA4','0');",
+  "proposers": [
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "백승주",
+      "party": "자유한국당",
+      "name_cn": "白承周"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "자유한국당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 생산자책임재활용(Extended Producer Responsibility)제도를 두어 생산단계·유통단계에서 재질·구조 또는 회수체계의 개선 등을 통하여 회수·재활용을 촉진할 수 있거나 사용 후 발생되는 폐기물의 양이 많은 제품·포장재의 제조업자나 수입업자로 하여금 제조·수입하거나 판매한 제품·포장재로 인하여 발생한 폐기물을 회수하여 재활용하도록 규정하고 있음. \n  그런데 최근 1세대 태양광 패널의 교체와 폐기가 시작되었으나 태양광 패널의 재활용체계가 부재하여 관리가 필요한 실정임.\n  이에 태양광 패널의 제조업자 또는 수입업자를 생산자책임재활용제도의 재활용의무생산자에 포함하도록 하려는 것임(안 제16조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-28",
+  "decision_date": null,
+  "link_id": "PRC_T1Q9D1S0P2W8O1W0E2P6G0X9Q9D1C6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

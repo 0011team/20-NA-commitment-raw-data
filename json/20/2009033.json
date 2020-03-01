@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009033",
+  "title": "[2009033] 공연법 일부개정법률안(설훈의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2009033",
+    "2017-09-01",
+    "설훈의원 등 10인",
+    "의안원문\n비용추계서 미첨부 사유서",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','4F8ECF73-9B4A-60B3-BFA9-F62E99E384A2','0');",
+  "proposers": [
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "신동근",
+      "party": "더불어민주당",
+      "name_cn": "申東根"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "유은혜",
+      "party": "더불어민주당",
+      "name_cn": "兪銀惠"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 문화체육관광부장관은 공연예술 진흥을 위하여 공연예술진흥기본계획을 수립·시행토록 하고 있음.\n  이러한 정책목적을 제대로 실현하기 위해서는 실태조사를 바탕으로 한 적실성 있는 기본계획을 수립하는 것이 필요하나 현행법은 이를 규정하지 않고 있음.\n  이에 실태조사를 할 수 있는 근거를 마련하여 법령상 미비사항을 보완함으로써 기본계획의 수립 및 집행 절차의 체계성과 실효성을 제고하고자 함(안 제3조제3항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-01",
+  "decision_date": null,
+  "link_id": "PRC_V1Z7X0Y9R0U1P2C0T0R2W5J5D8U2S5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

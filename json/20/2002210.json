@@ -1,0 +1,40 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002210",
+  "title": "[2002210] 국회의원(한선교) 징계안(우상호의원 등 3인 외 159인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2002210",
+    "2016-09-07",
+    "우상호의원 등 3인 외 159인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','71F4F7BD-1F07-4356-B4F2-65A2049104D4','0');",
+  "proposers": [
+    {
+      "name_kr": "우상호",
+      "party": "더불어민주당",
+      "name_cn": "禹相虎"
+    },
+    {
+      "name_kr": "노회찬",
+      "party": "정의당",
+      "name_cn": "魯會燦"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "국민의당",
+      "name_cn": "朴智元"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-09-07",
+  "decision_date": null,
+  "link_id": "PRC_F1X6F0U9J0F7N1E5V5W0N1I9W5A7S0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020125",
+  "title": "[2020125] 의료법 일부개정법률안(백승주의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020125",
+    "2019-05-01",
+    "백승주의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F3CF06EF-BA95-F3CB-E351-CDDEF13F9649','0');",
+  "proposers": [
+    {
+      "name_kr": "백승주",
+      "party": "자유한국당",
+      "name_cn": "白承周"
+    },
+    {
+      "name_kr": "강석진",
+      "party": "자유한국당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "자유한국당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "김한표",
+      "party": "자유한국당",
+      "name_cn": "金漢杓"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "박순자",
+      "party": "자유한국당",
+      "name_cn": "朴順子"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "이만희",
+      "party": "자유한국당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  의료인, 의료기관 종사자 등은 면역력이 상대적으로 약한 환자들과 직접적으로 접촉하면서 업무를 수행할 수밖에 없기 때문에 감염병에 노출되지 않도록 특별히 주의를 기울여야 함에도 불구하고, 일부 의료인이나 의료기관 종사자 등이 예방접종이 필요한 감염병에 대한 예방접종을 받지 않고 근무하는 사례가 있다는 지적이 있어 의료기관 차원에서의 대응방안을 마련할 필요가 있는 것으로 보임.\n  이에 의료기관의 장이 의료인, 의료기관 종사자 등에 대하여 「감염병의 예방 및 관리에 관한 법률」에 따른 예방접종을 모두 받았는지 여부를 주기적으로 확인하고, 필요한 예방접종을 실시하도록 하려는 것임(안 제47조제4항 신설 등).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-01",
+  "decision_date": null,
+  "link_id": "PRC_D1D9H0Q5F0K1F1F7U1U6R0I2K9H6P8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011830",
+  "title": "[2011830] 인지세법 일부개정법률안(채이배의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2011830",
+    "2018-02-08",
+    "채이배의원 등 10인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제356회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EF5F31E2-55F7-C1BE-E7E0-5109927F7638','0');",
+  "proposers": [
+    {
+      "name_kr": "채이배",
+      "party": "국민의당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "권은희",
+      "party": "국민의당",
+      "name_cn": "權垠希"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "국민의당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "국민의당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른정당",
+      "name_cn": "河泰慶"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  정부가 최근 발표한 세법 개정안에는 농어민 부담 경감을 위해 농협, 수협 등의 조합원이 작성하는 금전소비대차증서의 인지세 면제 한도를 현행 5천만원에서 1억원으로 상향하는 내용이 포함됨.\n  그러나 가계부채의 폭발적 증가세와 지속적인 가처분소득 악화를 고려할 때, 비단 농어민뿐 아니라 모든 대출이용자에게 금융이용 부담을 경감하는 것이 형평성 차원에서도 바람직하다 할 것임.\n  이에 금전소비대차에 관한 증서에 대한 인지세 면제 기준을 기재금액 1억원까지로 상향하여 대출이용자의 부담을 경감하려는 것임(안 제6조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-02-08",
+  "decision_date": null,
+  "link_id": "PRC_Y1B8Z0T2E0V8F1Y0E5X1C5N7P9G2C5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

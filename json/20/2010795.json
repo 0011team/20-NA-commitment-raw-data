@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010795",
+  "title": "[2010795] 기간제 및 단시간근로자 보호 등에 관한 법률 일부개정법률안(임이자의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2010795",
+    "2017-12-12",
+    "임이자의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','04838E93-DD6F-307B-5825-946254E00B03','0');",
+  "proposers": [
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "곽상도",
+      "party": "자유한국당",
+      "name_cn": "郭尙道"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍문종",
+      "party": "자유한국당",
+      "name_cn": "洪文鐘"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 기간제근로자의 사용기간이 2년을 초과하면 해당 근로자와 기간의 정함이 없는 근로계약을 체결한 것으로 보고 있어, 사용자가 이를 원하지 않는 경우 기간제근로자의 근로계약을 종료하게 됨.\n  이로 인하여 업무상 재해로 요양하여야 하는 기간제근로자가 근로계약 종료를 우려하여 치유되지 않은 상태에서 업무에 복귀하는 경우가 발생함.  \n  이에 기간제근로자가 업무상 재해로 요양하는 기간은 사용기간에 산입되지 않도록 하여 치유에 필요한 요양을 할 수 있도록 하려는 것임(안 제4조제3항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-12",
+  "decision_date": null,
+  "link_id": "PRC_H1R7U1R2C1A2Z1O6H4E4I2I2Z0Q0I4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

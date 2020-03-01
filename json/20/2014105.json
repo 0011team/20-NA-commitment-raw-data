@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014105",
+  "title": "[2014105] 청소년 기본법 일부개정법률안(김기선의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014105",
+    "2018-06-29",
+    "김기선의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제361회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','DB0B38A1-CB35-BCCE-8E26-3C9CF1B7DECA','0');",
+  "proposers": [
+    {
+      "name_kr": "김기선",
+      "party": "자유한국당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 미성년자, 피성년후견인, 파산선고를 받고 복권되지 아니한 사람 등은 청소년지도사가 될 수 없도록 하고 이러한 결격사유의 적용 기준일에 대하여는 따로 정하고 있지 아니함.\n  그러나, 국가자격의 경우 자격 취득을 위한 시험 접수부터 자격교부까지 상당 기간이 소요되고 도중에 결격사유가 소멸할 가능성도 있으므로 그 기준일을 법률에 명확히 규정할 필요가 있음.\n  이에 법률에 청소년지도사 결격사유의 기준일을 ‘최종 합격 발표일’로 명시하여 법적 근거 없는 결격사유 기준일 적용에 따른 권리침해를 해소하고, 자격기준의 예측가능성을 제고하려는 것임(안 제21조제4항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-06-29",
+  "decision_date": null,
+  "link_id": "PRC_P1S8E0R6D2Y9L1P0I2Z1D1A3I9R9Q4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

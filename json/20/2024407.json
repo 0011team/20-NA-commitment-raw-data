@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2024407",
+  "title": "[2024407] 응급의료에 관한 법률 일부개정법률안(유재중의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2024407",
+    "2019-12-31",
+    "유재중의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제374회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5324B7EB-EAA6-32C2-6638-40018578BDA0','0');",
+  "proposers": [
+    {
+      "name_kr": "유재중",
+      "party": "자유한국당",
+      "name_cn": "柳在仲"
+    },
+    {
+      "name_kr": "강석호",
+      "party": "자유한국당",
+      "name_cn": "姜碩鎬"
+    },
+    {
+      "name_kr": "권성동",
+      "party": "자유한국당",
+      "name_cn": "權性東"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김정훈",
+      "party": "자유한국당",
+      "name_cn": "金正薰"
+    },
+    {
+      "name_kr": "윤재옥",
+      "party": "자유한국당",
+      "name_cn": "尹在玉"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "자유한국당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "자유한국당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 응급의료기관은 공휴일과 야간에 비상진료체계를 갖추어야 하며, 보건복지부장관 등은 공휴일 또는 야간에 응급환자에 대한 응급의료를 위하여 당직의료기관을 지정하도록 하고 있음.\n  그런데 현행법령상 토요일은 공휴일에 포함되어 있지 아니하여, 토요일의 경우 비상진료체계 구축 의무 또는 당직의료기관 지정 여부에 대한 혼돈을 줄 우려가 있음. \n  이에 법률에 토요일을 명시하여, 응급환자에 대한 응급의료 공백이 발생하지 아니하도록 하려는 것임(안 제32조 및 제34조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-12-31",
+  "decision_date": null,
+  "link_id": "PRC_D1N9T1A2M3V1T1R0Z5Z6N3M1R3F9L1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

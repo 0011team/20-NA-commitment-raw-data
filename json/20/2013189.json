@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013189",
+  "title": "[2013189] 민사집행법 일부개정법률안(김삼화의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2013189",
+    "2018-04-23",
+    "김삼화의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제359회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','07B51CF8-6D0A-E6F3-81D5-4B45AEB26310','0');",
+  "proposers": [
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "권은희",
+      "party": "바른미래당",
+      "name_cn": "權垠希"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "바른미래당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "오신환",
+      "party": "바른미래당",
+      "name_cn": "吳晨煥"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "바른미래당",
+      "name_cn": "李鶴宰"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "바른미래당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "바른미래당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른미래당",
+      "name_cn": "河泰慶"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 「주택임대차보호법」 제8조, 같은 법 시행령에 따라 우선변제를 받을 수 있는 금액을 압류금지채권으로 규정하고 있음.\n  하지만 이 규정의 입법취지는 다른 채권자로부터 임차인의 최소한의 주거권을 보호하기 위한 것이므로 배우자가 이혼(사실혼해소를 포함한다)을 원인으로 재산분할을 받기 위해 압류를 하는 경우에는 적용을 배제해야 한다는 지적이 있음.\n  이에 압류금지채권인 「주택임대차보호법」 제8조, 같은 법 시행령에 따라 우선변제를 받을 수 있는 금액을 이혼(사실혼해소를 포함한다)에 따른 재산분할의 경우에는 예외로 하여 압류할 수 있도록 함(안 제246조제1항제6호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-04-23",
+  "decision_date": null,
+  "link_id": "PRC_J1Y8U0N4C2H3S1F5L1A3E0S7G9Z7O2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

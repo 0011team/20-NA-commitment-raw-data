@@ -1,0 +1,540 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016037",
+  "title": "[2016037] 도로교통법 일부개정법률안(하태경의원 등 103인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2016037",
+    "2018-10-22",
+    "하태경의원 등 103인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','4BC5DDEC-4750-6084-C210-23C72E4E9703','0');",
+  "proposers": [
+    {
+      "name_kr": "하태경",
+      "party": "바른미래당",
+      "name_cn": "河泰慶"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "권은희",
+      "party": "바른미래당",
+      "name_cn": "權垠希"
+    },
+    {
+      "name_kr": "금태섭",
+      "party": "더불어민주당",
+      "name_cn": "琴泰燮"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "바른미래당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "민주평화당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "바른미래당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "김두관",
+      "party": "더불어민주당",
+      "name_cn": "金斗官"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金聖泰"
+    },
+    {
+      "name_kr": "김성환",
+      "party": "더불어민주당",
+      "name_cn": "金星煥"
+    },
+    {
+      "name_kr": "김세연",
+      "party": "자유한국당",
+      "name_cn": "金世淵"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "바른미래당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "김영주",
+      "party": "더불어민주당",
+      "name_cn": "金榮珠"
+    },
+    {
+      "name_kr": "김정호",
+      "party": "더불어민주당",
+      "name_cn": "金禎鎬"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "바른미래당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "김진표",
+      "party": "더불어민주당",
+      "name_cn": "金振杓"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "남인순",
+      "party": "더불어민주당",
+      "name_cn": "南仁順"
+    },
+    {
+      "name_kr": "맹성규",
+      "party": "더불어민주당",
+      "name_cn": "孟聖奎"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "바른미래당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "박완주",
+      "party": "더불어민주당",
+      "name_cn": "朴完柱"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "자유한국당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "서삼석",
+      "party": "더불어민주당",
+      "name_cn": "徐參錫"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "더불어민주당",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "서청원",
+      "party": "무소속",
+      "name_cn": "徐淸源"
+    },
+    {
+      "name_kr": "서형수",
+      "party": "더불어민주당",
+      "name_cn": "徐炯洙"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "손금주",
+      "party": "무소속",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "오신환",
+      "party": "바른미래당",
+      "name_cn": "吳晨煥"
+    },
+    {
+      "name_kr": "오영훈",
+      "party": "더불어민주당",
+      "name_cn": "吳怜勳"
+    },
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    },
+    {
+      "name_kr": "유승민",
+      "party": "바른미래당",
+      "name_cn": "劉承旼"
+    },
+    {
+      "name_kr": "유의동",
+      "party": "바른미래당",
+      "name_cn": "兪義東"
+    },
+    {
+      "name_kr": "윤준호",
+      "party": "더불어민주당",
+      "name_cn": "尹俊晧"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이만희",
+      "party": "자유한국당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이석현",
+      "party": "더불어민주당",
+      "name_cn": "李錫玄"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "바른미래당",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "민주평화당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "무소속",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "자유한국당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "자유한국당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "자유한국당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "이태규",
+      "party": "바른미래당",
+      "name_cn": "李泰珪"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "바른미래당",
+      "name_cn": "李鶴宰"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "이혜훈",
+      "party": "바른미래당",
+      "name_cn": "李惠薰"
+    },
+    {
+      "name_kr": "이훈",
+      "party": "더불어민주당",
+      "name_cn": "李薰"
+    },
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    },
+    {
+      "name_kr": "임재훈",
+      "party": "바른미래당",
+      "name_cn": "林哉勳"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "민주평화당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "정우택",
+      "party": "자유한국당",
+      "name_cn": "鄭宇澤"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "바른미래당",
+      "name_cn": "鄭雲天"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "무소속",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "제윤경",
+      "party": "더불어민주당",
+      "name_cn": "諸閏景"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "바른미래당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "바른미래당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "민주평화당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "최운열",
+      "party": "더불어민주당",
+      "name_cn": "崔運烈"
+    },
+    {
+      "name_kr": "최재성",
+      "party": "더불어민주당",
+      "name_cn": "崔宰誠"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    },
+    {
+      "name_kr": "표창원",
+      "party": "더불어민주당",
+      "name_cn": "表蒼園"
+    },
+    {
+      "name_kr": "한선교",
+      "party": "자유한국당",
+      "name_cn": "韓善敎"
+    },
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "자유한국당",
+      "name_cn": "洪文杓"
+    },
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 부산에서 발생한 음주운전 사건을 계기로 음주운전자에 대한 강력한 처벌을 요구하는 목소리가 커지고 있음. 이에 음주운전에 처벌 기준을 강화할 필요가 있음.\n  현행법은 음주운전 초범의 기준을, 2회로 하고 있어 음주운전을 방조하는 경향이 있음. 아울러 다수의 연구를 종합해 볼 때, 현행법은 음주수치 기준이 낮아서 이 역시 음주운전을 방조하는 결과를 낳고 있음.\n  이에 음주운전 초범의 기준을 음주운전 1회로 하고, 음주수치의 기준은 현행 최저 0.05% 이상 ～ 최고 0.2% 이상에서 최저 0.03% 이상 ～ 최고 0.13% 이상으로 하고, 이에 따른 수치별 처벌 수위도 강화하기로 함(안 제148조의2).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-22",
+  "decision_date": "2018-12-07",
+  "link_id": "PRC_J1R8X1G0R2O2X1Q8T3B9R0R2R8E1J4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

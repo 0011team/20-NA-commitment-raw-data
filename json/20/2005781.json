@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005781",
+  "title": "[2005781] 국회법 일부개정법률안(강병원의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005781",
+    "2017-02-24",
+    "강병원의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제349회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','ED01E5F5-2FDF-FF66-2E68-2D46BDD092FC','0');",
+  "proposers": [
+    {
+      "name_kr": "강병원",
+      "party": "더불어민주당",
+      "name_cn": "姜炳遠"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "진선미",
+      "party": "더불어민주당",
+      "name_cn": "陳善美"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 위원회가 이견을 조정할 필요가 있는 안건을 심사하기 위하여 재적위원 3분의 1 이상의 요구로 안전조정위원회를 구성하고 그 안건을 회부하도록 되어 있음. 그런데 안건조정위원회의 활동기한이 90일로 길기 때문에 국정감사 또는 국정조사의 경우 필요한 증인 등의 출석 요구의 건이 안건조정위원회에 회부될 경우 사실상 어떤 증인도 출석시킬 수가 없게 되는 문제점이 발생함.\n  이에 국정감사 및 국정조사 증인 등 출석 요구의 건에 대하여는 이를 안건조정위원회에 회부하지 못하도록 하여, 안건조정위원회 제도가 국정감사 또는 국정조사제도의 운영을 저해할 가능성을 차단하고자 하기 위함임(안 제57조의2제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-02-24",
+  "decision_date": null,
+  "link_id": "PRC_H1Z7U0R2K2Y4E1K1T2Q5Q5P6V7P7K2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

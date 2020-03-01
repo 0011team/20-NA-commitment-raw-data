@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008759",
+  "title": "[2008759] 농지법 일부개정법률안(김종회의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2008759",
+    "2017-08-28",
+    "김종회의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제353회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B568949B-1DFF-3B7A-D7A1-6D1E8DDB6B8D','0');",
+  "proposers": [
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "국민의당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "국민의당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "박주현",
+      "party": "국민의당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "박준영",
+      "party": "국민의당",
+      "name_cn": "朴晙瑩"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "국민의당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법상 농지를 농업생산 및 농지개량 이외의 목적으로 일시 사용하려는 경우에는 농지의 타용도 일시사용허가를 받거나 전용하도록 하고 있음.\n  농한기에 농지를 썰매장, 마을축제장 등으로 단기간 이용하고 이를 다시 농지로 원상 복구하려는 경우에도 타용도 일시사용허가를 받도록 하고 있으나 타용도 일시사용허가 제도가 신청인에게 과도한 행정 불편을 야기할 수 있어 일시사용신고 제도를 도입하여 행정편의를 제고하고 농지의 효율적 이용과 농가 소득 증대에 기여하려는 것임(안 제36조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-08-28",
+  "decision_date": "2017-09-28",
+  "link_id": "PRC_T1Z7A0V8J2O8M1N4O5Y2F3C3Z8D3H6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

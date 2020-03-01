@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018626",
+  "title": "[2018626] 가족관계의 등록 등에 관한 법률 일부개정법률안(김재원의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018626",
+    "2019-02-14",
+    "김재원의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','70532AB3-A6A3-F836-CAD1-5EC2ADCD23B5','0');",
+  "proposers": [
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "곽상도",
+      "party": "자유한국당",
+      "name_cn": "郭尙道"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "자유한국당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "나경원",
+      "party": "자유한국당",
+      "name_cn": "羅卿瑗"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "백승주",
+      "party": "자유한국당",
+      "name_cn": "白承周"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  「질서위반행위규제법」 제5조에 따라 과태료의 부과ㆍ징수, 재판 및 집행 등의 절차에 관한 사항은 개별법 규정이 있다고 하더라도 「질서위반행위규제법」이 우선적으로 적용되는데, 현행법에는 「질서위반행위규제법」과 중복되거나 배치되는 규정이 남아 있어 과태료 징수 등 절차에 관한 법 적용의 혼선을 초래할 우려가 있음.\n  이에 현행법에 규정되어 있는 과태료 부과·징수에 관한 절차적인 규정을 삭제하여 「질서위반행위규제법」에 일원화되어 있는 과태료 부과·징수 절차에 따라 법체계를 정비함으로써 법 적용 혼선으로 인한 국민의 불편을 해소하려는 것임(안 제6조, 제123조 및 제124조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-02-14",
+  "decision_date": null,
+  "link_id": "PRC_V1Z9B0G2K1T4L1Q1L3H7S3G1M0C2P5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

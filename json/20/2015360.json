@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015360",
+  "title": "[2015360] 연안관리법 일부개정법률안(박주현의원 등 10인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2015360",
+    "2018-09-06",
+    "박주현의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','CC9137F5-D01E-B70D-EF78-0383E2C653FA','0');",
+  "proposers": [
+    {
+      "name_kr": "박주현",
+      "party": "바른미래당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "민주평화당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "바른미래당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "민주평화당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "민주평화당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "천정배",
+      "party": "민주평화당",
+      "name_cn": "千正培"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  지구온난화에 따른 해수면의 상승은 해안가를 침식할 뿐만 아니라 바다에 서식하는 어종의 변화와 어획량의 감소 등을 초래하고 있어 바닷가와 무인도서로 대표되는 연안해역과 연안육역의 보전대책이 절실한 실정임\n  이에 기후온난화로 인한 해수면의 상승을 억제하고 국민적 관심과 경각심을 일깨우기 위하여 현행법에 해수면의 상승에 대응하여 바닷가를 관리하도록 하는 근거를 마련하려는 것임(안 제3조제4호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-09-06",
+  "decision_date": "2018-12-27",
+  "link_id": "PRC_W1X8J0A9X0K6O1N6F4T2D3Q2S2L5H4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

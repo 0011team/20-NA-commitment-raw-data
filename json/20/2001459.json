@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001459",
+  "title": "[2001459] 세무사법 일부개정법률안(박명재의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2001459",
+    "2016-08-08",
+    "박명재의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제344회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B497F004-1CC5-4330-AE9C-D1FA670AA42E','0');",
+  "proposers": [
+    {
+      "name_kr": "박명재",
+      "party": "새누리당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "강석호",
+      "party": "새누리당",
+      "name_cn": "姜碩鎬"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "새누리당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "새누리당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "새누리당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "새누리당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "새누리당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "새누리당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "새누리당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "새누리당",
+      "name_cn": "李鶴宰"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행 「세무사법」은 세무행정에 종사한 경력이 있는 자에 대하여 세무사 시험을 일부 면제하도록 규정하고 있음. 이는 세무공무원의 근무의욕을 고취하고 성실한 장기근무를 유도하기 위한 취지에서 비롯된 것임.\n  그러나 복무 중 직위를 남용하여 금품 및 향응 수수로 징계를 받은 적이 있는 자에게까지 시험의 일부 면제 혜택을 부여하는 것은 해당 규정의 입법취지를 벗어나는 과도한 특혜에 해당한다고 할 것임.\n  이에 복무 중 금품 및 향응 수수로 강등 또는 정직에 해당하는 중징계를 받은 자 역시 시험의 일부 면제 혜택에서 배제되도록 규정하려는 것임(안 제5조의2제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-08",
+  "decision_date": "2017-12-08",
+  "link_id": "PRC_X1N6J0C8S0V8K1L1Y3Y0N5Y2H1Q1I7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

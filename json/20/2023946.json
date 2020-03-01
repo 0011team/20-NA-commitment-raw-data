@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023946",
+  "title": "[2023946] 한국감정원법 일부개정법률안(김규환의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023946",
+    "2019-11-25",
+    "김규환의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EFD5A4CB-12A3-A503-B80B-E7D8C689C1D0','0');",
+  "proposers": [
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김기선",
+      "party": "자유한국당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "어기구",
+      "party": "더불어민주당",
+      "name_cn": "魚基龜"
+    },
+    {
+      "name_kr": "이종구",
+      "party": "자유한국당",
+      "name_cn": "李鍾九"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "정은혜",
+      "party": "더불어민주당",
+      "name_cn": "鄭恩惠"
+    },
+    {
+      "name_kr": "조훈현",
+      "party": "자유한국당",
+      "name_cn": "曺薰鉉"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 한국감정원은 ‘감정’이라는 단어가 포함되어 있어 공적 특수법인으로서의 목적과 주된 기능을 제대로 반영하지 못하고 부동산 시장 불법행위에 대한 실질적 대응에 어려움이 있는 실정임.\n  따라서 동 기관의 목적과 성격에 부합되는 명칭의 조정이 필요하다는 의견이 제시되고 있음.\n  이에 한국감정원의 명칭을 ‘부동산감독원’으로 변경함으로써 대외적으로 부동산 조사·감독의 전문기관으로서 목적과 기능을 분명히하여 공적 위상을 제고하려는 것임(안 제명 등).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-11-25",
+  "decision_date": null,
+  "link_id": "PRC_K1P9N1M1W2R5A1H4P5E4D3A3M0W5R1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

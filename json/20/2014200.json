@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014200",
+  "title": "[2014200] 국회법 일부개정법률안(황주홍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014200",
+    "2018-07-03",
+    "황주홍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제361회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0BD3659B-6020-8681-AAE8-221A698B60C6','0');",
+  "proposers": [
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "바른미래당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "민주평화당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "민주평화당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "민주평화당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "천정배",
+      "party": "민주평화당",
+      "name_cn": "千正培"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 예산결산특별위원회의 예산안 및 결산 심사 과정에서 교섭단체의 의견이 반영될 수 있는 별도의 규정이 존재하지 않음. 이에 대해 예산결산특별위원회의 예산안 및 결산 심사가 기획재정부와 여당 중심으로 이루어지는 상황에서 다른 교섭단체가 의견을 제시할 수 있는 제도적 장치가 마련될 필요가 있다는 의견이 있음.\n  이에 예산결산특별위원회로 하여금 예산안 및 결산 심사 과정에서 교섭단체 대표의원의 의견을 듣는 절차를 마련함으로써 예산안 및 결산에 대한 모든 교섭단체의 의견이 골고루 반영될 수 있도록 하려는 것임(안 제84조제8항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-07-03",
+  "decision_date": null,
+  "link_id": "PRC_V1T8U0O7U0U3M1J5C3D9A0A8L0E2W1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

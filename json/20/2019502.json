@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019502",
+  "title": "[2019502] 국회법 일부개정법률안(장병완의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2019502",
+    "2019-04-01",
+    "장병완의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제367회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','37718631-D83F-7CBC-18C0-FAD4ADC1A8F4','0');",
+  "proposers": [
+    {
+      "name_kr": "장병완",
+      "party": "민주평화당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "박주현",
+      "party": "바른미래당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "민주평화당",
+      "name_cn": "朴智元"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "민주평화당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "민주평화당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "민주평화당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "천정배",
+      "party": "민주평화당",
+      "name_cn": "千正培"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "민주평화당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 교섭단체는 20인 이상의 의원으로 구성됨. 다당제 하에서 원내 정당이 국회 운영에서 소외되는 것은 바람직하지 않음. 국회 운영은 국민 대다수의 뜻을 반영할 수 있도록 바뀌어야 함. \n  이에 교섭단체 구성 기준을 모든 상설상임위원회에 간사를 선임할 수 있는 숫자인 14인으로 규정해 국회 운영에 여러 정당이 참여할 수 있도록 하려는 것임(안 제33조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-04-01",
+  "decision_date": null,
+  "link_id": "PRC_P1N9H0Z4R0N1C1R5D0L1Z3G7A6L8L3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

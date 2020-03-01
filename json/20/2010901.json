@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010901",
+  "title": "[2010901] 군인사법 일부개정법률안(우상호의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2010901",
+    "2017-12-18",
+    "우상호의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','818836E9-C835-E493-1CCE-C121BE8AFFAB','0');",
+  "proposers": [
+    {
+      "name_kr": "우상호",
+      "party": "더불어민주당",
+      "name_cn": "禹相虎"
+    },
+    {
+      "name_kr": "금태섭",
+      "party": "더불어민주당",
+      "name_cn": "琴泰燮"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "남인순",
+      "party": "더불어민주당",
+      "name_cn": "南仁順"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "추미애",
+      "party": "더불어민주당",
+      "name_cn": "秋美愛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에는 장교, 준사관 및 부사관에 대한 결격사유가 규정되어 있음. 그런데 사관생도·사관후보생·준사관후보생 및 부사관후보생의 결격사유는 별도로 규정되어있지 않아 해당 내용을 명확히 규정해야 한다는 의견이 있음. \n  이에 장교, 준사관 및 부사관에 대한 결격사유를 사관생도·사관후보생·준사관후보생 및 부사관후보생에 대하여도 준용하도록 하여 그 내용을 명확히 하려는 것임(안 제10조제4항 및 제5항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-18",
+  "decision_date": "2018-12-27",
+  "link_id": "PRC_O1Z7L1X2D1S8O1E6H3E6T2C1Y7E3K9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019251",
+  "title": "[2019251] 지방자치법 일부개정법률안(김관영의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2019251",
+    "2019-03-15",
+    "김관영의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제367회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7F33BA61-639D-8C98-D922-EA0EA887267C','0');",
+  "proposers": [
+    {
+      "name_kr": "김관영",
+      "party": "바른미래당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "바른미래당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "유의동",
+      "party": "바른미래당",
+      "name_cn": "兪義東"
+    },
+    {
+      "name_kr": "임재훈",
+      "party": "바른미래당",
+      "name_cn": "林哉勳"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "바른미래당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "바른미래당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른미래당",
+      "name_cn": "河泰慶"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  「공공기록물 관리에 관한 법률」은 지방자치단체 소관 기록물의 영구보존 및 관리를 위하여 시·도기록물관리기관의 설치 및 운영을 의무화하고 있음. \n  그런데 2018년 최초로 개관한 경상남도기록원과 오는 5월 개관 예정인 서울기록원을 제외한 나머지 지역의 지방기록물관리기관의 건립은 요원한 상황이어서 각 지방자치단체별 주요 기록물의 관리가 미흡한 실정임.\n  이에 지방기록물관리기관의 설치 및 운영이 지방자치단체의 사무범위에 포함됨을 명시함으로써 지방자치단체 소관 기록물이 효율적으로 관리될 수 있도록 하려는 것임(안 제9조제2항제1호타목 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-03-15",
+  "decision_date": null,
+  "link_id": "PRC_U1R9Q0R3H1M5K1C8N0I8T0H6C8V1R2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

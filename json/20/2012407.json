@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012407",
+  "title": "[2012407] 법무사법 일부개정법률안(김성찬의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2012407",
+    "2018-03-09",
+    "김성찬의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제357회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7D159DC0-BFA6-AA96-2777-7FE5213C3DDF','0');",
+  "proposers": [
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "자유한국당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "자유한국당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "자유한국당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법 제23조에서는 「공인중개사의 업무 및 부동산 거래신고에 관한 법률」에 따라 중개사무소를 등록한 자는 법무사의 사무원으로 둘 수 없도록 규정하고 있으나 「공인중개사의 업무 및 부동산 거래신고에 관한 법률」은 2014년 「공인중개사법」으로 개정되었음에도 이전 제명을 인용하고 있어 법해석에 있어 국민들에게 혼란을 야기할 우려가 있음.\n  이에「공인중개사의 업무 및 부동산 거래신고에 관한 법률」을 「공인중개사법」으로 개정하고자 함(안 제23조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-09",
+  "decision_date": null,
+  "link_id": "PRC_C1N8R0S3O0V9P1Y3V4R5J1S6S1C7M5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

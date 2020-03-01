@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005230",
+  "title": "[2005230] 군무원인사법 일부개정법률안(박광온의원 등 10인) 입법예고중",
+  "current_status": "폐기",
+  "reception_info": [
+    "2005230",
+    "2017-01-23",
+    "박광온의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제348회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9BF2D89F-5E24-678C-5F08-A8E077FEA3D5','0');",
+  "proposers": [
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김두관",
+      "party": "더불어민주당",
+      "name_cn": "金斗官"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김태년",
+      "party": "더불어민주당",
+      "name_cn": "金太年"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "문미옥",
+      "party": "더불어민주당",
+      "name_cn": "文美玉"
+    },
+    {
+      "name_kr": "박영선",
+      "party": "더불어민주당",
+      "name_cn": "朴映宣"
+    },
+    {
+      "name_kr": "송영길",
+      "party": "더불어민주당",
+      "name_cn": "宋永吉"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  우리나라는 취업이나 승진 등에 지대한 영향을 끼치는 학벌만능주의로 인하여 불합리한 차별이 발생하고 불필요한 사회적 비용을 초래하고 있는바, 학벌만능주의에 대한 문제점의 지적과 이러한 병폐를 개선하기 위한 각종 방안 등이 끊임 없이 제기되고 있는 실정임.\n  이에 군무원의 인사기록에 학력을 기재할 수 없도록 하여, 출신 학교(학력)에 따른 차별을 방지하고 군무원의 능력과 실적주의에 따른 평가와 그에 다른 임용 또는 승진 등이 이루어지도록 함으로써 나아가 학벌만능주의의 병폐를 해소하려는 것임(안 제18조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-01-23",
+  "decision_date": "2017-09-08",
+  "link_id": "PRC_T1U7C0G1J2G3O1E7C3F4G3I2J0T6H1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012066",
+  "title": "[2012066] 형사소송법 일부개정법률안(주광덕의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2012066",
+    "2018-02-21",
+    "주광덕의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제356회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FFCA909E-827F-9835-FFD1-6B42148066B8','0');",
+  "proposers": [
+    {
+      "name_kr": "주광덕",
+      "party": "자유한국당",
+      "name_cn": "朱光德"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "박대출",
+      "party": "자유한국당",
+      "name_cn": "朴大出"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "윤재옥",
+      "party": "자유한국당",
+      "name_cn": "尹在玉"
+    },
+    {
+      "name_kr": "이은재",
+      "party": "자유한국당",
+      "name_cn": "李恩宰"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "자유한국당",
+      "name_cn": "李珍福"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 사법부 블랙리스트 의혹을 조사하는 추가조사위원회가 법원행정처를 방문해 블랙리스트가 저장되어 있다고 의혹을 받고 있는 컴퓨터의 저장장치를 해당 법관의 동의 없이 복사ㆍ보관하는 일이 발생함.\n  이에 대해 업무용으로 제공되는 공용 컴퓨터라 하더라도 당사자의 동의 없이 컴퓨터를 강제로 열람하는 것이 부적절하다는 지적이 있음.\n  따라서 공무원이 소지 또는 보관하는 물건이 직무상 비밀에 관한 것일 경우 압수 시 승낙의 주체에 해당 공무원을 추가하려는 것임(안 제111조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-02-21",
+  "decision_date": null,
+  "link_id": "PRC_B1S8Z0T2F2X1Q1A6C4Z6Y0S1M4F9T5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

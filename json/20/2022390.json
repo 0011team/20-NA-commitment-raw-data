@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022390",
+  "title": "[2022390] 전기사업법 일부개정법률안(황주홍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022390",
+    "2019-09-06",
+    "황주홍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F96C7BF8-2D27-25B6-BCFC-9CC8CB97F84B','0');",
+  "proposers": [
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "민주평화당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "윤준호",
+      "party": "더불어민주당",
+      "name_cn": "尹俊晧"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "무소속",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "민주평화당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "무소속",
+      "name_cn": "鄭仁和"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  공공성이 요구되는 공공서비스 중 수도의 경우 「수도법」에서 공급규정상 할인 가능대상을 법률에 명시하고 있고, 「집단에너지사업법」에서도 공급규정에 포함할 내용에 요금감면에 관한 사항을 예시하고 있음.\n  하지만 현행법은 전기요금의 감면 및 할인근거를 법률에 규정하지 않고 ‘전기공급약관’을 통해 규정하고 있으나, 일반 국민들이 할인 대상을 보다 쉽고 명확하게 알 수 있도록 전기요금의 할인 근거를 법률에 규정할 필요가 있음.\n  이에 현재 각 호의 어느 하나에 해당하는 경우 및 교육시설？사회복지시설 등 대통령령으로 정하는 공익시설의 전기요금을 할인하도록 하고자 함(안 제17조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-09-06",
+  "decision_date": null,
+  "link_id": "PRC_A1Q9U0W9Y0M6P1D8V0E1H0Z1O5P3Z7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

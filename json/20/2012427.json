@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012427",
+  "title": "[2012427] 건축법 일부개정법률안(임종성의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2012427",
+    "2018-03-09",
+    "임종성의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제357회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','2DD3ABB7-9C44-DAE2-304A-710CFB08FCD5','0');",
+  "proposers": [
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "김성수",
+      "party": "더불어민주당",
+      "name_cn": "金聖洙"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "전현희",
+      "party": "더불어민주당",
+      "name_cn": "全賢姬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 복합자재의 품질관리를 위하여 복합자재를 공급하는 자, 공사시공자 및 공사감리자가 복합자재품질관리서를 허가권자에게 제출하도록 규정하고 있음.\n  한편, 최근 잇따른 화재사건과 관련하여 방화문의 품질관리가 제대로 되지 않아 화재 확산 및 대규모 인명 피해를 막지 못했다는 지적이 제기되고 있음.\n  이에 복합자재 뿐만 아니라 방화지구 안의 방화문에 대하여도 공급업자 등이 품질관리서를 제출하도록 함으로써 방화문의 품질 향상에 이바지하려는 것임(안 제52조의3제1항 등).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-09",
+  "decision_date": "2019-04-05",
+  "link_id": "PRC_D1B8X0M3G0D9O1T7V0N8O3G9I3U0L2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

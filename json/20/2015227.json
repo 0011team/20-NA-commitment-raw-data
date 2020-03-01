@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015227",
+  "title": "[2015227] 예산결산특별위원회와 협의가 필요한 법률안의 심사에 관한 규칙안(백재현의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2015227",
+    "2018-08-31",
+    "백재현의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제363회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','ED604698-BCDC-9E8B-9E8E-BC542D844CC9','0');",
+  "proposers": [
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "김성수",
+      "party": "더불어민주당",
+      "name_cn": "金聖洙"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "박범계",
+      "party": "더불어민주당",
+      "name_cn": "朴範界"
+    },
+    {
+      "name_kr": "박찬대",
+      "party": "더불어민주당",
+      "name_cn": "朴贊大"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "바른미래당",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "바른미래당",
+      "name_cn": "李鶴宰"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-08-31",
+  "decision_date": null,
+  "link_id": "PRC_N1H8H0B8Z3B1D1U6X1G8B0K1J0R8V3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,35 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016109",
+  "title": "[2016109] 의회지도자(홍진)상 건립의 건(홍영표·김성태의원 외 69인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2016109",
+    "2018-10-29",
+    "홍영표·김성태의원 외 69인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5E6CF0A1-18FA-39C0-34F3-8AEDECC49FFD','0');",
+  "proposers": [
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金聖泰"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-29",
+  "decision_date": "2018-11-23",
+  "link_id": "PRC_L1S8Y1L0M2D9K1R7N1M6B5N0A5A8W8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

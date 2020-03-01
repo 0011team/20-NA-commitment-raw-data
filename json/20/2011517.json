@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011517",
+  "title": "[2011517] 원자력안전위원회의 설치 및 운영에 관한 법률 일부개정법률안(민경욱의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2011517",
+    "2018-01-24",
+    "민경욱의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','599DD60E-A5D6-E177-316C-8FC5BBD87114','0');",
+  "proposers": [
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "서청원",
+      "party": "자유한국당",
+      "name_cn": "徐淸源"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 원자력안전위원회 위원의 공정성 확보를 위하여 위원이 정치활동에 관여할 수 없다고 규정하고 있음.\n  그런데 원자력안전위원회는 원자력이용자의 허가 등 원자력이용에 관한 중요한 사항을 심의하므로, 위원이 원자력 이용을 지지하거나 반대하는 활동을 하는 경우에는 원자력안전위원회의 심의가 공정하지 않게 이루어질 수 있다는 우려가 제기됨.\n  이에 원자력안전위원회의 위원이 정치활동뿐만 아니라 원자력 이용을 지지하거나 반대하는 활동을 하지 아니하도록 함으로써 원자력안전위원회 심의의 공정성을 제고하려는 것임(안 제9조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-01-24",
+  "decision_date": null,
+  "link_id": "PRC_Y1H8T0Y1H2T4S1T0L1W2P0H2Y1F4L6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,125 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018225",
+  "title": "[2018225] 국회의원(손혜원) 징계안(신보라의원 등 20인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018225",
+    "2019-01-17",
+    "신보라의원 등 20인",
+    "의안원문",
+    "제20대 (2016~2020) 제365회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','1FB5432F-0D94-05FB-8368-2E91C6F66B43','0');",
+  "proposers": [
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "강석진",
+      "party": "자유한국당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "강효상",
+      "party": "자유한국당",
+      "name_cn": "姜孝祥"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "김종석",
+      "party": "자유한국당",
+      "name_cn": "金鍾奭"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "자유한국당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "송언석",
+      "party": "자유한국당",
+      "name_cn": "宋彦錫"
+    },
+    {
+      "name_kr": "윤재옥",
+      "party": "자유한국당",
+      "name_cn": "尹在玉"
+    },
+    {
+      "name_kr": "이만희",
+      "party": "자유한국당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "정양석",
+      "party": "자유한국당",
+      "name_cn": "鄭亮碩"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "조훈현",
+      "party": "자유한국당",
+      "name_cn": "曺薰鉉"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-01-17",
+  "decision_date": null,
+  "link_id": "PRC_X1F9R0U1P1D7V1H5K1W3L0X6W3S9G9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

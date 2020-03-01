@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006563",
+  "title": "[2006563] 공직선거법 일부개정법률안(김해영의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2006563",
+    "2017-04-03",
+    "김해영의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FC2B6148-77FF-5655-35A9-A7AE3163D128','0');",
+  "proposers": [
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "서형수",
+      "party": "더불어민주당",
+      "name_cn": "徐炯洙"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "윤호중",
+      "party": "더불어민주당",
+      "name_cn": "尹昊重"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "국민의당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "최인호",
+      "party": "더불어민주당",
+      "name_cn": "崔仁昊"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 거소투표 또는 선상투표의 신고를 서면으로 하도록 규정하고 있음.\n  그런데 거소투표 또는 선상투표의 대상이 되는 선거인의 경우 우편을 통한 서면 신고 역시 어려운 여건에 처해있을 수 있어 선거인의 신고 편의를 충분히 보장해주지 못하고 있음. 또한 이와 유사한 국외부재자투표의 신고는 전자우편 및 중앙선거관리위원회 홈페이지를 통한 방법도 허용하고 있는 실정임.\n  이에 따라 거소투표 또는 선상투표의 신고를 전자우편 또는 중앙선거관리위원회의 홈페이지를 통한 방법으로도 할 수 있도록 하여 선거인의 투표편의를 보장하려는 것임(안 제38조제1항 및 제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-04-03",
+  "decision_date": null,
+  "link_id": "PRC_D1U7A0H4K0C3U1Y5R2N2I0P8R8N4C8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

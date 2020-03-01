@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003070",
+  "title": "[2003070] 독점규제 및 공정거래에 관한 법률 일부개정법률안(민병두의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2003070",
+    "2016-10-28",
+    "민병두의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F6A0A3D8-7C62-B623-8577-81B949331003','0');",
+  "proposers": [
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김부겸",
+      "party": "더불어민주당",
+      "name_cn": "金富謙"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김영주",
+      "party": "더불어민주당",
+      "name_cn": "金榮珠"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "유은혜",
+      "party": "더불어민주당",
+      "name_cn": "兪銀惠"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "무소속",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "제윤경",
+      "party": "더불어민주당",
+      "name_cn": "諸閏景"
+    },
+    {
+      "name_kr": "최인호",
+      "party": "더불어민주당",
+      "name_cn": "崔仁昊"
+    }
+  ],
+  "summaries": [
+    "\n현행법은 광역자치단체에 법 위반행위에 대한 조사권한 및 고발요청권이 부여되지 않고 있어 불공정거래와 관련된 피해에 대한 신속한 조사와 구제가 이루어지지 못하고 있음.\n  이에 시·도지사가 법 위반행위에 대한 조사권한과 공정거래위원회에 고발요청을 할 수 있도록 함으로써 불공정거래를 방지하고 효과적인 구제에 기여하고자 함(안 제49조 및 안 제71조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-10-28",
+  "decision_date": null,
+  "link_id": "PRC_Q1A6L1I0T2F8P2G1Y5K0Y2I0X3S1V4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

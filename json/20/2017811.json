@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2017811",
+  "title": "[2017811] 정보위원장(이학재) 사임의 건(이학재의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2017811",
+    "2018-12-27",
+    "이학재의원",
+    "의안원문",
+    "제20대 (2016~2020) 제365회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0055FD68-FDF8-2B05-9A6A-94488C01741E','0');",
+  "proposers": [
+    {
+      "name_kr": "이학재",
+      "party": "자유한국당",
+      "name_cn": "李鶴宰"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-12-27",
+  "decision_date": "2018-12-27",
+  "link_id": "PRC_Q1H8A1D2V2U7K1B7S1X8W0X5R7A8W8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

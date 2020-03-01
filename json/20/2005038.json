@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005038",
+  "title": "[2005038] 자동차관리법 일부개정법률안(노웅래의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005038",
+    "2017-01-10",
+    "노웅래의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제348회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','79CA61D0-93F3-3A4D-2C21-40106AB4C4D9','0');",
+  "proposers": [
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "김두관",
+      "party": "더불어민주당",
+      "name_cn": "金斗官"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "이개호",
+      "party": "더불어민주당",
+      "name_cn": "李介昊"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "국민의당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "최명길",
+      "party": "더불어민주당",
+      "name_cn": "崔明吉"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  차량 운전석과 조수석에 설치된 에어백 등 승객보호장치는 자동차 충돌사고 발생 시 탑승객의 사망 위험률을 크게 감소시키는 필수 보호 장치임.\n  그런데 현행법에서는 여객자동차 운송사업에 대해서만 에어백 설치를 의무화 하고 있을 뿐 일반 다른 차량에 대해서는 별도의 설치 및 성능 기준 등에 대한 규정이 마련되어 있지 않은 실정임.\n  이에 자동차제작ㆍ판매자등이 자동차를 제작？판매할 때 에어백 등과 같은 승객보호장치를 의무적으로 장착하도록 하고, 설치 종류, 장착 방법 및 성능 기준 등을 국토교통부령으로 정하도록 함으로써 운전자 및 탑승자의 안전을 강화하려는 것임(안 제29조의4 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-01-10",
+  "decision_date": null,
+  "link_id": "PRC_J1V7B0B1S1T0O1Z6B3X1Z3D9L1C3C1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018760",
+  "title": "[2018760] 국가재정법 일부개정법률안(유승민의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018760",
+    "2019-02-22",
+    "유승민의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','71F7DC6A-1C7C-A654-B38C-B3EB1300A797','0');",
+  "proposers": [
+    {
+      "name_kr": "유승민",
+      "party": "바른미래당",
+      "name_cn": "劉承旼"
+    },
+    {
+      "name_kr": "김세연",
+      "party": "자유한국당",
+      "name_cn": "金世淵"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "자유한국당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "자유한국당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "유의동",
+      "party": "바른미래당",
+      "name_cn": "兪義東"
+    },
+    {
+      "name_kr": "이상돈",
+      "party": "바른미래당",
+      "name_cn": "李相敦"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "바른미래당",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "이태규",
+      "party": "바른미래당",
+      "name_cn": "李泰珪"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "자유한국당",
+      "name_cn": "李鶴宰"
+    },
+    {
+      "name_kr": "이혜훈",
+      "party": "바른미래당",
+      "name_cn": "李惠薰"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "바른미래당",
+      "name_cn": "池尙昱"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면, 지역 균형발전, 긴급한 경제·사회적 상황 대응 등을 위하여 국가 정책적으로 추진이 필요한 사업의 경우 예비타당성조사를 면제할 수 있음. \n  그러나 이미 기존 예비타당성조사에서 타당성이 없다는 평가를 받은 사업이 예비타당성조사가 면제되는 등 국가 재정 낭비가 우려되고 있는 실정임. \n  이에 기존에 실시한 예비타당성조사에서 타당성이 없다고 평가된 사업은 예비타당성조사 면제 대상에서 제외하고, 지역 균형발전 등을 위하여 국가 정책적으로 추진이 필요하다고 인정되어 예비타당성조사가 면제된 사업에 대하여는 사업계획 적정성 검토를 의무화하려는 것임(안 제38조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-02-22",
+  "decision_date": null,
+  "link_id": "PRC_X1N9I0Y2V2V2N0L9V2L5B2R9E2A8Y6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023090",
+  "title": "[2023090] 지방세기본법 일부개정법률안(윤준호의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023090",
+    "2019-10-28",
+    "윤준호의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','6ADD6658-2FDE-5DD9-989D-8821B53D623F','0');",
+  "proposers": [
+    {
+      "name_kr": "윤준호",
+      "party": "더불어민주당",
+      "name_cn": "尹俊晧"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "김병관",
+      "party": "더불어민주당",
+      "name_cn": "金炳官"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "서삼석",
+      "party": "더불어민주당",
+      "name_cn": "徐參錫"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    },
+    {
+      "name_kr": "최인호",
+      "party": "더불어민주당",
+      "name_cn": "崔仁昊"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  법제처는 지난 2006년부터 심사요청된 법령안에 대해 알기 쉬운 법령검토 사업을 시행하고 있음.  \n  그러나 법제처 사업은 새롭게 발의되는 정부입법안의 용어순화에 치중하고 있어, 국회가 기존 법률에서 무분별하게 사용되고 있는 어려운 한자어, 일본식 한자어, 일본어 투 표현, 외래어, 외국어, 장애인 비하용어, 차별적·권위적 용어의 전면적인 개정에 나서야 한다는 주장이 제기되고 있음.\n  이에 일반인들이 쉽게 이해하지 못하는 어려운 일본식 한자어 중 하나인 ‘필증(畢證)’을 보다 쉬운 표현인 ‘증명서’로 개정하고자 함(안 제67조제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-28",
+  "decision_date": null,
+  "link_id": "PRC_R1D9P1X0Q2P8H1A7Z1O7T5G5W5B6U1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

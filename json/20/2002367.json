@@ -1,0 +1,100 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002367",
+  "title": "[2002367] 지방자치법 일부개정법률안(주승용의원 등 15인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2002367",
+    "2016-09-21",
+    "주승용의원 등 15인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','72C764A9-5CA9-8637-F07C-B3209D0566E0','0');",
+  "proposers": [
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김한정",
+      "party": "더불어민주당",
+      "name_cn": "金漢正"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "변재일",
+      "party": "더불어민주당",
+      "name_cn": "卞在一"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이개호",
+      "party": "더불어민주당",
+      "name_cn": "李介昊"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "국민의당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법 제34조(상해·사망 등의 보상)는 같은 법 제61조(위원회의 개회)를 인용하고 있는데, 제61조는 2011년 7월 14일 개정되어 자구 수정이 있었음에도 불구하고 제34조에는 그 개정사항이 반영되어 있지 않으므로 현행법에 맞게 조문을 정비하려는 것임(안 제34조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-09-21",
+  "decision_date": "2017-03-30",
+  "link_id": "PRC_K1C6K0B9N2L1I1T3E2N7A2G2D4C4G0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,346 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000309",
+  "title": "[2000309] 주한미군 공여구역주변지역 등 지원 특별법 일부개정법률안(도종환의원 등 32인) 입법예고중",
+  "current_status": "철회",
+  "reception_info": [
+    "2000309",
+    "2016-06-17",
+    "도종환의원 등 32인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E0B2F47D-DE25-3835-D9DA-2AC69130962C','0');",
+  "proposers": [
+    {
+      "name_kr": "도종환",
+      "party": "더불어민주당",
+      "name_cn": "都鐘煥"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "새누리당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "권석창",
+      "party": "새누리당",
+      "name_cn": "權錫昌"
+    },
+    {
+      "name_kr": "김기선",
+      "party": "새누리당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "노회찬",
+      "party": "정의당",
+      "name_cn": "魯會燦"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박범계",
+      "party": "더불어민주당",
+      "name_cn": "朴範界"
+    },
+    {
+      "name_kr": "박병석",
+      "party": "더불어민주당",
+      "name_cn": "朴炳錫"
+    },
+    {
+      "name_kr": "박영선",
+      "party": "더불어민주당",
+      "name_cn": "朴映宣"
+    },
+    {
+      "name_kr": "박완주",
+      "party": "더불어민주당",
+      "name_cn": "朴完柱"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "국민의당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "변재일",
+      "party": "더불어민주당",
+      "name_cn": "卞在一"
+    },
+    {
+      "name_kr": "심재권",
+      "party": "더불어민주당",
+      "name_cn": "沈載權"
+    },
+    {
+      "name_kr": "양승조",
+      "party": "더불어민주당",
+      "name_cn": "梁承晁"
+    },
+    {
+      "name_kr": "염동열",
+      "party": "새누리당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "오제세",
+      "party": "더불어민주당",
+      "name_cn": "吳濟世"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "국민의당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "이인영",
+      "party": "더불어민주당",
+      "name_cn": "李仁榮"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "더불어민주당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "정우택",
+      "party": "새누리당",
+      "name_cn": "鄭宇澤"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "새누리당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 대한민국 영역 안에서 미합중국 군대에게 공여되거나, 공여되었던 구역으로 인해 낙후된 주변지역의 경제를 진흥시켜 지역 간의 균형 있는 발전과 주민의 복리 증진을 도모하는 데 목적이 있음. \n  그러나 수도권의 대학입지 특례로 인해 「수도권정비계획법」의 수도권 대학입지 규제에도 불구하고, 다수의 지방대학이 수도권 이전 추진을 가속화하고 있음. \n  이에 따라 산업과 인력의 수도권 집중이 심화되고, 실질적으로 지역경제를 담당하고 있는 지방대학 관련 산업의 침체로 인해 지역주민의 생존권이 심각하게 위협받고 있음.\n  이는 지방대학 육성 정책과 배치되고, 헌법정신인 국토균형발전을 저해하는 것으로서, 수도권 내에 있는 학교만 주한미군 반환공여구역이나 그 주변지역에 이전？증설이 가능하도록 같은 법의 개정이 시급함(안 제17조제1항).\n"
+  ],
+  "withdrawers": [
+    {
+      "name_kr": "경대수",
+      "party": "새누리당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "권석창",
+      "party": "새누리당",
+      "name_cn": "權錫昌"
+    },
+    {
+      "name_kr": "김기선",
+      "party": "새누리당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "노회찬",
+      "party": "정의당",
+      "name_cn": "魯會燦"
+    },
+    {
+      "name_kr": "도종환",
+      "party": "더불어민주당",
+      "name_cn": "都鐘煥"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박범계",
+      "party": "더불어민주당",
+      "name_cn": "朴範界"
+    },
+    {
+      "name_kr": "박병석",
+      "party": "더불어민주당",
+      "name_cn": "朴炳錫"
+    },
+    {
+      "name_kr": "박영선",
+      "party": "더불어민주당",
+      "name_cn": "朴映宣"
+    },
+    {
+      "name_kr": "박완주",
+      "party": "더불어민주당",
+      "name_cn": "朴完柱"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "국민의당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "변재일",
+      "party": "더불어민주당",
+      "name_cn": "卞在一"
+    },
+    {
+      "name_kr": "심재권",
+      "party": "더불어민주당",
+      "name_cn": "沈載權"
+    },
+    {
+      "name_kr": "양승조",
+      "party": "더불어민주당",
+      "name_cn": "梁承晁"
+    },
+    {
+      "name_kr": "염동열",
+      "party": "새누리당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "오제세",
+      "party": "더불어민주당",
+      "name_cn": "吳濟世"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "국민의당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "이인영",
+      "party": "더불어민주당",
+      "name_cn": "李仁榮"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "더불어민주당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "정우택",
+      "party": "새누리당",
+      "name_cn": "鄭宇澤"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "새누리당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "proposed_date": "2016-06-17",
+  "decision_date": "2016-07-07",
+  "link_id": "PRC_K1N6F0X6F1M7J1I4H1F5Z3K1S8K1M6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

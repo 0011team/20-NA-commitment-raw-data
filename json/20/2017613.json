@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2017613",
+  "title": "[2017613] 국회법 일부개정법률안(기동민의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2017613",
+    "2018-12-19",
+    "기동민의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제365회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','DE5BD8CF-FD0B-C79D-AB50-4F38F0C6089B','0');",
+  "proposers": [
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "맹성규",
+      "party": "더불어민주당",
+      "name_cn": "孟聖奎"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "윤일규",
+      "party": "더불어민주당",
+      "name_cn": "尹一逵"
+    },
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "정세균",
+      "party": "더불어민주당",
+      "name_cn": "丁世均"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  국회 상임위원장은 교섭단체 간 합의를 통해 본회의 투표로 선출하게 되어 있음. 이는 국회의원 개인에 대한 투표가 아닌 교섭단체 합의에 따라 공정한 상임위원회 운영을 꾀하려는 목적임. 그러나 본회의 투표로 선출된 상임위원장이 정당한 사유 없이 당적을 변경한 경우에는 특별한 제지 조항이 없어, 교섭단체 간 합의 내용을 부정하는 결과가 도래될 수 있음. 따라서 국회 상임위원장이 정당한 사유 없이 당적 변경을 하는 경우 상임위원장직을 사임하도록 하여 국회의 원활한 상임위원회 운영을 꾀하고자 하는 것임(안 제41조제6항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-12-19",
+  "decision_date": null,
+  "link_id": "PRC_W1Y8K1U2P1J9N1X5A0G2D2V1M8M0M4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

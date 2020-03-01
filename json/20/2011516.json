@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011516",
+  "title": "[2011516] 근로기준법 일부개정법률안(민경욱의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2011516",
+    "2018-01-24",
+    "민경욱의원 등 10인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9ACC3F8F-FC6E-CBFE-F12E-E717837D13D1','0');",
+  "proposers": [
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "염동열",
+      "party": "자유한국당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이장우",
+      "party": "자유한국당",
+      "name_cn": "李莊雨"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "조훈현",
+      "party": "자유한국당",
+      "name_cn": "曺薰鉉"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  현행법에서 체불사업주 명단 공개 등 근로조건을 미준수하는 경우에 관하여 각종 제재 조치를 규정하고 있음에도 불구하고, 2016년 12월 기준 체불임금 규모가 1조 4천억원을 넘어서는 등 사용자의 근로조건 미준수로 인한 사회문제가 계속적으로 발생하고 있음.\n  이에 사용자의 인식변화와 이를 통한 단체협약, 취업규칙, 근로계약 등의 성실한 이행을 위하여 고용노동부장관이 사용자를 대상으로 교육을 실시할 수 있도록 근거규정을 신설하려는 것임(안 제14조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-01-24",
+  "decision_date": null,
+  "link_id": "PRC_H1K8P0K1I2V4I1L0W0S7X4A7N8V2J0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

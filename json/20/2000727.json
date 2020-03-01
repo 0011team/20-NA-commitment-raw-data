@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000727",
+  "title": "[2000727] 동물보호법 일부개정법률안(홍의락의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2000727",
+    "2016-07-07",
+    "홍의락의원 등 10인",
+    "의안원문\n비용추계서 미첨부 사유서",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EBC34376-F4A4-BC7A-CE0D-414DFD67445B','0');",
+  "proposers": [
+    {
+      "name_kr": "홍의락",
+      "party": "무소속",
+      "name_cn": "洪宜洛"
+    },
+    {
+      "name_kr": "곽상도",
+      "party": "새누리당",
+      "name_cn": "郭尙道"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "새누리당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "새누리당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    },
+    {
+      "name_kr": "진선미",
+      "party": "더불어민주당",
+      "name_cn": "陳善美"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  국가가 동물놀이터의 설치·관리 비용의 전부 또는 일부를 지원하여 동물놀이터의 설치를 유도함으로써 반려동물이 적정한 운동·휴식을 취할 수 있는 공간을 확대하려는 것임(안 제7조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-07",
+  "decision_date": "2017-03-02",
+  "link_id": "PRC_T1Y6X0W7V0T7D1W1B2E1P1G9E3A9P8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

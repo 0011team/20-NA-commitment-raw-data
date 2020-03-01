@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022020",
+  "title": "[2022020] 야생생물 보호 및 관리에 관한 법률 일부개정법률안(이정미의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022020",
+    "2019-08-19",
+    "이정미의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제370회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E8EFCCD8-83EC-3485-8070-1FCCE1388114','0');",
+  "proposers": [
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "김두관",
+      "party": "더불어민주당",
+      "name_cn": "金斗官"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "심상정",
+      "party": "정의당",
+      "name_cn": "沈相정"
+    },
+    {
+      "name_kr": "여영국",
+      "party": "정의당",
+      "name_cn": "余永國"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "이상돈",
+      "party": "바른미래당",
+      "name_cn": "李相敦"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 국제적 멸종위기종을 증식하려는 경우 미리 인공증식 허가를 받도록 규정하고 이를 위반한 경우 1년 이하의 징역 또는 1천만원 이하의 벌금에 처하도록 하고 있음. 그러나 웅담 채취의 목적으로 국제적 멸종위기종인 사육곰을 불법 증식하는 등 인공증식 허가 없이 국제적 멸종위기종을 증식하는 사례가 지속적으로 적발되고 있음.\n  이에 국제적 멸종위기종을 상습적으로 불법 증식하는 경우 벌칙을 2년 이하의 징역 또는 2천만원 이하의 벌금으로 상향 조정하여 불법 증식을 방지하고자 하는 것임(안 제70조제2항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-08-19",
+  "decision_date": null,
+  "link_id": "PRC_C1F9A0S8K1C9K1S5I5J6J4Q1V3X5K8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

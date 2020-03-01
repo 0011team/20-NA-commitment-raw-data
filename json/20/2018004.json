@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018004",
+  "title": "[2018004] 집단에너지사업법 일부개정법률안(민경욱의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2018004",
+    "2019-01-03",
+    "민경욱의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제365회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C09188A9-460C-AE64-DB00-1AB00FA0D8F2','0');",
+  "proposers": [
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "주광덕",
+      "party": "자유한국당",
+      "name_cn": "朱光德"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  지난 12월 4일 경기도 고양시 일산동구 백석역 인근 도로에서 발생된 열수송관 파열사고와 관련하여 제대로 된 점검이 이루어지지 아니하였다는 지적이 나오고 있음.\n  열수송관은 현행법상 집단에너지시설 중 공급시설에 해당하는 것으로서, 산업통상자원부장관이 고시한 「집단에너지시설의 기술기준」에 따라 ‘열수송시설’로 분류되고 있음. 그러나 모법에서는 열수송관에 대한 별도의 점검 규정 등이 없는 상태임.\n  이에 노후화된 열수송관의 교체와 관리 등에 관한 규정을 신설하여 국민의 신체와 재산을 보호하려는 것임(안 제23조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-01-03",
+  "decision_date": "2020-01-09",
+  "link_id": "PRC_L1M9B0H1V0D3U1N0Q1T1G3N6Q0Z7G3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

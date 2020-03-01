@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2017803",
+  "title": "[2017803] 대외무역법 일부개정법률안(김태흠의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2017803",
+    "2018-12-27",
+    "김태흠의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제365회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D1FC9F06-BD3F-F4C6-C2A1-8DAF8A597E10','0');",
+  "proposers": [
+    {
+      "name_kr": "김태흠",
+      "party": "자유한국당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "자유한국당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "유민봉",
+      "party": "자유한국당",
+      "name_cn": "庾敏鳳"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "정우택",
+      "party": "자유한국당",
+      "name_cn": "鄭宇澤"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "자유한국당",
+      "name_cn": "朱豪英"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  우리나라 교역 대상국은 국가별로 수출금지 품목을 지정 운영하고 있으나 정보 수집 미비 등 국내 수입통관의 허점으로 해당 품목이 국내에 수입돼 유통되고 있음.\n  특히, 국가별 수출금지 물품이 제3국을 거쳐 국내로 밀수입되고 있어 교역분쟁 발생 및 시장 교란 등의 문제도 제기되고 있는 상황임.\n  이에 우리 정부가 통상진흥 시책을 수립할 때 교역상대국의 수출금지품목 등에 대한 정보수집？분석 및 활용 방안을 포함하도록 하고, 해당 국가가 지정한 수출금지품목에 대해서는 국내 반입을 제한할 수 있도록 지정하려는 것임(안 제7조제2항제5호 개정 및 안 제11조제1항제3호의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-12-27",
+  "decision_date": null,
+  "link_id": "PRC_F1N8C1K2V2T7Q1Y6T3B8Z2P7E2W6U2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013071",
+  "title": "[2013071] 국가정보원법 일부개정법률안(장제원의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2013071",
+    "2018-04-16",
+    "장제원의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제359회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','AB766909-351A-C7DB-01B8-2A663F96C809','0');",
+  "proposers": [
+    {
+      "name_kr": "장제원",
+      "party": "자유한국당",
+      "name_cn": "張濟元"
+    },
+    {
+      "name_kr": "곽상도",
+      "party": "자유한국당",
+      "name_cn": "郭尙道"
+    },
+    {
+      "name_kr": "권성동",
+      "party": "자유한국당",
+      "name_cn": "權性東"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "여상규",
+      "party": "자유한국당",
+      "name_cn": "余尙奎"
+    },
+    {
+      "name_kr": "염동열",
+      "party": "자유한국당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에는 국가정보원장의 임기에 관한 별도의 규정이 없어 국가정보원장의 임기가 법적으로 보장되지 않음. 이로 인해 임명권자인 대통령이 바뀜에 따라 국가정보원장이 교체되는 등의 상황이 발생하므로 현행법에서 국가정보원장의 정치관여금지 의무를 명시하고 있음에도 불구하고 국가정보원장의 정치적 중립성이 보장되기 어렵다는 의견이 있음. \n  이에 국가정보원장에 대하여 대통령의 임기보다 긴 기간인 6년의 임기를 법적으로 보장받도록 함으로써 국가정보원장이 정치적 중립성을 준수하며 본연의 업무를 수행할 수 있도록 하려는 것임(안 제7조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-04-16",
+  "decision_date": null,
+  "link_id": "PRC_P1U8Y0S4K1X6M1Z6G1R4T4U7O7P8T3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

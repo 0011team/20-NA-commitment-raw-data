@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008184",
+  "title": "[2008184] 도로교통법 일부개정법률안(주광덕의원 등 12인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2008184",
+    "2017-07-25",
+    "주광덕의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제352회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7973EDE4-D844-3227-E47F-8434DF7BB916','0');",
+  "proposers": [
+    {
+      "name_kr": "주광덕",
+      "party": "자유한국당",
+      "name_cn": "朱光德"
+    },
+    {
+      "name_kr": "강석진",
+      "party": "자유한국당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "박순자",
+      "party": "자유한국당",
+      "name_cn": "朴順子"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "유재중",
+      "party": "자유한국당",
+      "name_cn": "柳在仲"
+    },
+    {
+      "name_kr": "윤상직",
+      "party": "자유한국당",
+      "name_cn": "尹相直"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "자유한국당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "장제원",
+      "party": "자유한국당",
+      "name_cn": "張濟元"
+    },
+    {
+      "name_kr": "정용기",
+      "party": "자유한국당",
+      "name_cn": "鄭容起"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  2011년에 3회 이상의 상습 음주운전자에 대하여 가중 처벌하는 벌칙 규정이 「도로교통법」에 신설되었음.\n  그런데 한 연구결과에 따르면 해당 규정이 음주운전을 억제하는 효과가 있으나, 2013년 이후에 전반적으로 그 효과가 둔화되는 것으로 분석·평가되어 입법목적 달성에 일부 미비한 측면이 있는 것으로 나타남.\n  이에 상습 음주운전 억제 효과를 높이기 위하여 음주운전에 대한 가중 처벌 수준을 세분화하여 2회 위반한 경우부터 법정형을 가중하며 상습 음주운전에 대한 전반적인 처벌 수준을 상향하고자 함(안 제148조의2).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-07-25",
+  "decision_date": "2018-12-07",
+  "link_id": "PRC_L1R7J0L7A2M5H1J5P5Q6Y0S4B8R9E6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

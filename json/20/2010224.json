@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010224",
+  "title": "[2010224] 건축법 일부개정법률안(김순례의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2010224",
+    "2017-11-17",
+    "김순례의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','59A1A6E5-AF0B-4C42-1647-386AE8B94BFA','0');",
+  "proposers": [
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "강석진",
+      "party": "자유한국당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "자유한국당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "서청원",
+      "party": "자유한국당",
+      "name_cn": "徐淸源"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "자유한국당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "자유한국당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행 「장애인·노인·임산부 등의 편의증진 보장에 관한 법률」에 따라 장애인 등의 이용이 가능한 화장실에 대한 기준을 정하고 있으나 대부분의 건물들에서 장애인화장실의 면적을 기준에 따라 최소한으로 두고 있어 장애인들의 화장실 이용이 어려운 경우가 다수 발생하고 있음.\n  이에 「장애인·노인·임산부 등의 편의증진 보장에 관한 법률」 제8조의 설치기준에 따른 장애인 화장실의 면적은 용적률 등에 적용되는 바닥면적 산정에서 제외하도록 함으로써 건축주가 자율적으로 장애인화장실을 보다 넓게 설치할 수 있도록 유도함으로써 장애인 등의 화장실 이용편의를 증진시키려는 것임(안 제84조 후단 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-11-17",
+  "decision_date": null,
+  "link_id": "PRC_P1Q7M1M1Q1H7H1A6T1S7D3W8X0G0O8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

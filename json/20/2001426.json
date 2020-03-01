@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001426",
+  "title": "[2001426] 상속세 및 증여세법 일부개정법률안(박광온의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2001426",
+    "2016-08-04",
+    "박광온의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제344회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','10680580-6C20-570A-2D1C-33B6CC0A448D','0');",
+  "proposers": [
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "김현미",
+      "party": "더불어민주당",
+      "name_cn": "金賢美"
+    },
+    {
+      "name_kr": "문미옥",
+      "party": "더불어민주당",
+      "name_cn": "文美玉"
+    },
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "더불어민주당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  ‘가업상속공제’는 가업의 계속적인 유지발전이 일자리 창출과 국가경제에 도움이 된다는 사회적 합의에 따라 도입한 세제혜택임.\n  수백억원에 달하는 상속세를 감면 받을 수 있는 제도인 만큼 ‘세금 없는 부의 세습’으로 과세형평성에 어긋난다는 우려와 비판이 제기되어 옴.\n  이에 가업상속공제 요건을 강화해 과도한 공제를 제한함으로써 세수증가와 함께 과세 형평성을 제고하고자 함.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-04",
+  "decision_date": null,
+  "link_id": "PRC_T1D6O0Y8K0I4D1I8R2R6P4I3Z1W4X7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

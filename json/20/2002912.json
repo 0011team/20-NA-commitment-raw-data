@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002912",
+  "title": "[2002912] 국회법 일부개정법률안(김관영의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2002912",
+    "2016-10-25",
+    "김관영의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','8A3ECA82-CA78-80E9-EC1F-9A68C686CB7D','0');",
+  "proposers": [
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김영주",
+      "party": "더불어민주당",
+      "name_cn": "金榮珠"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "박주현",
+      "party": "국민의당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "윤호중",
+      "party": "더불어민주당",
+      "name_cn": "尹昊重"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "무소속",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행 「국회법」상 안건조정위원회에 회부하는 안건은 예산안 등과 법제사법위원회에 회부된 안건 외 모든 안건이 가능함. 그러나 동법의 취지는 예산안 등이 우리 헌법과 「국회법」이 정하는 일정기한 내 처리될 수 있게 예외로 정한 것임.\n  특히, 국정감사와 국정조사, 인사청문회 등 제한된 기간 내 진행해야하는 의사일정에 필요한 안건까지도 안전조정위원회에 회부하는 것은 제도 도입 취지에 맞지 않음.\n  이에, 「국회법」상의 안건조정위원회 대상에서 제외하는 안건에 국정감사와 국정조사, 인사청문회 등과 관련된 안건의 경우를 포함시켜 「국회법」의 취지를 살리고자 함.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-10-25",
+  "decision_date": null,
+  "link_id": "PRC_Q1L6Q1B0V2H5I1Y7N0K6U1L3P3Z1U0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

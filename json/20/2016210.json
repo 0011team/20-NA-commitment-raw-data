@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016210",
+  "title": "[2016210] 형의 집행 및 수용자의 처우에 관한 법률 일부개정법률안(김성원의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2016210",
+    "2018-10-31",
+    "김성원의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F0CB8923-E332-B795-89A8-F79DA063A051','0');",
+  "proposers": [
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "자유한국당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "자유한국당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 독거수용의 상대적인 의미로 2인 이상의 수형자를 수용한다는 의미의 용어로서 혼거수용이라는 용어를 사용하고 있음.  \n  그런데 이러한 용어는 한자어로서 국민이 이해하기 어려울 뿐만 아니라 국립국어원의 표준국어대사전에서도 찾을 수 없는 표현임. \n  이에 일반 국민이 쉽게 이해할 수 있도록 용어를 순화하기 위하여 혼거수용이라는 용어를 공동수용으로 변경하려는 것임(안 제14조 및 제89조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-31",
+  "decision_date": null,
+  "link_id": "PRC_J1N8M1A0C3X1B1R7R3E6T5M7K5E7K0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

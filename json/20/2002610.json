@@ -1,0 +1,40 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002610",
+  "title": "[2002610] 국회의원(김진태) 징계안(박지원의원 등 3인 외 163인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2002610",
+    "2016-10-10",
+    "박지원의원 등 3인 외 163인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C89FDFAB-CECE-AECE-6799-0EECD501445F','0');",
+  "proposers": [
+    {
+      "name_kr": "박지원",
+      "party": "국민의당",
+      "name_cn": "朴智元"
+    },
+    {
+      "name_kr": "노회찬",
+      "party": "정의당",
+      "name_cn": "魯會燦"
+    },
+    {
+      "name_kr": "우상호",
+      "party": "더불어민주당",
+      "name_cn": "禹相虎"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-10-10",
+  "decision_date": null,
+  "link_id": "PRC_A1X6P1E0B1E0N1I6L0L5Y1P6R4W7S1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

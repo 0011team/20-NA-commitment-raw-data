@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021191",
+  "title": "[2021191] 여성가족위원장(전혜숙) 사임의 건(전혜숙의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2021191",
+    "2019-06-28",
+    "전혜숙의원",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','2130749D-B22E-1623-5120-DAF47C1EFC68','0');",
+  "proposers": [
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-06-28",
+  "decision_date": "2019-06-28",
+  "link_id": "PRC_D1A9V0N6M2F8T1G2V0W5M1L4L2O2I5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

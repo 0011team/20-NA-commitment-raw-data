@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015715",
+  "title": "[2015715] 군인사법 일부개정법률안(유동수의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2015715",
+    "2018-09-21",
+    "유동수의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','269BA01A-34DA-9560-5681-FF2B1807020A','0');",
+  "proposers": [
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "남인순",
+      "party": "더불어민주당",
+      "name_cn": "南仁順"
+    },
+    {
+      "name_kr": "박찬대",
+      "party": "더불어민주당",
+      "name_cn": "朴贊大"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "더불어민주당",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "손금주",
+      "party": "무소속",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "이상헌",
+      "party": "더불어민주당",
+      "name_cn": "李相憲"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  과거의 하나회나 최근의 알자회에 이르기까지 군인들이 단순히 취미생활을 함께 하는 동아리의 개념이 아닌 인사권 개입 등 이권을 위한 조직이나 단체를 결성하여 논란이 되고 있고, 정치적 중립성이 요구되는 군의 특성상 이를 엄격하게 규제해야 한다는 지적이 있음.\n  이에 군인은 군인사 등 군무에 영향을 주기 위한 목적의 조직 또는 단체를 결성하거나 가입할 수 없도록 명시함으로써, 이를 위반한 사람에 대해서는 징계처분을 할 수 있는 근거를 마련하려는 것임(안 제47조의4 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-09-21",
+  "decision_date": null,
+  "link_id": "PRC_P1P8X0H9M2D1O1S1H0B0E2U2L9C1G5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023447",
+  "title": "[2023447] 조세특례제한법 일부개정법률안(김경협의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023447",
+    "2019-10-31",
+    "김경협의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7027A85E-3DB1-21E1-83F1-F49EA5766F32','0');",
+  "proposers": [
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "금태섭",
+      "party": "더불어민주당",
+      "name_cn": "琴泰燮"
+    },
+    {
+      "name_kr": "김영춘",
+      "party": "더불어민주당",
+      "name_cn": "金榮春"
+    },
+    {
+      "name_kr": "남인순",
+      "party": "더불어민주당",
+      "name_cn": "南仁順"
+    },
+    {
+      "name_kr": "변재일",
+      "party": "더불어민주당",
+      "name_cn": "卞在一"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "유승희",
+      "party": "더불어민주당",
+      "name_cn": "兪承希"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "바른미래당",
+      "name_cn": "蔡利培"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 신성장기술 사업화를 위한 시설투자에 대한 세액공제 요건으로 직전 과세연도의 수입금액에서 연구·인력개발비가 차지하는 비율이 2% 이상으로 규정하고 있음.\n  그러나 중소기업의 경우 신성장기술 사업화를 위한 연구·인력개발비를 매출액 대비 2% 이상 충족하기 어려운 공제혜택을 받지 못하고 있는 상황임.\n  따라서 많은 중소기업이 신성장동력？원천기술 사업화를 위한 의지를 고취 할 수 있도록 중소기업의 경우 해당 기술을 사업화한다고 인정받은 경우 연구·인력개발비 비율과 무관하게 세액공제를 받을 수 있도록 함(안 제25조의5제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-31",
+  "decision_date": null,
+  "link_id": "PRC_L1N9H1F0U3P1M1I7P2Z1W4S8D5N9C8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

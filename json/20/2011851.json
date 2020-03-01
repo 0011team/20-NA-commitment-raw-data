@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011851",
+  "title": "[2011851] 도로교통법 일부개정법률안(박경미의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2011851",
+    "2018-02-08",
+    "박경미의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제356회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EF989E18-F95D-124D-8461-3B2E039E5A15','0');",
+  "proposers": [
+    {
+      "name_kr": "박경미",
+      "party": "더불어민주당",
+      "name_cn": "朴炅美"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "박병석",
+      "party": "더불어민주당",
+      "name_cn": "朴炳錫"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "심기준",
+      "party": "더불어민주당",
+      "name_cn": "沈基俊"
+    },
+    {
+      "name_kr": "원혜영",
+      "party": "더불어민주당",
+      "name_cn": "元惠榮"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "이수혁",
+      "party": "더불어민주당",
+      "name_cn": "李秀赫"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "추미애",
+      "party": "더불어민주당",
+      "name_cn": "秋美愛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  자율주행자동차 개발이 빠른 속도로 진행되고 있으며, 정부는 2020년이면 ‘조건부 완전자율주행’, 2020년대 후반～2030년대가 되면 ‘완전자율주행’이 가능할 것으로 전망하고 있음. \n  이에 현실이 되고 있는 자율주행자동차의 상용화에 대비하여 “자율주행자동차”와 “자율주행시스템”을 정의함으로써 자율주행자동차의 도로운행 근거를 마련하고자 함(안 제2조제18호의2 및 제18호의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-02-08",
+  "decision_date": null,
+  "link_id": "PRC_I1N8W0S2U0M8S1N5U5R7H0Z8S5M0A7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

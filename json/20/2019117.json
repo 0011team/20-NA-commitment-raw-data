@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019117",
+  "title": "[2019117] 법인세법 일부개정법률안(윤영석의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2019117",
+    "2019-03-11",
+    "윤영석의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제367회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A70E2693-7DA3-3074-A970-4AF9CEECCB8F','0');",
+  "proposers": [
+    {
+      "name_kr": "윤영석",
+      "party": "자유한국당",
+      "name_cn": "尹永碩"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "자유한국당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "자유한국당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 법인세는 4단계의 과표구간과 최고 과표구간의 법인세율 25%를 설정하고 있음. 이는 2018년 1월 1일자로 개정된 내용으로 이전보다 1단계의 과표구간이 추가되고, 최고 과표구간의 세율은 3%P 인상된 것임.\n  그러나 법인세율 인상은 기업의 투자를 위축시켜 경기침체를 초래할 수 있으며, 해외 자본 유치에도 악영향을 미치게 됨. 또한, 미국과 일본 등 선진국들의 법인세율 인하 추세에도 역행하는 것임.\n  이에 법인세 과표구간을 이전과 같이 3단계로 환원하고, 법인세율을 구간별로 1%P씩 각각 인하하여 기업의 투자를 촉진시키고 이로 인한 경제성장과 세수증가라는 선순환을 도모하고자 함(안 제55조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-03-11",
+  "decision_date": null,
+  "link_id": "PRC_H1J9K0E3U1H1X1H7B5H3L0V9Y6K1T1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

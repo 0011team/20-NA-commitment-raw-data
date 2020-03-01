@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002568",
+  "title": "[2002568] 세무사법 일부개정법률안(이상민의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2002568",
+    "2016-10-04",
+    "이상민의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5F9B68D7-6D4E-F849-A6E3-57325D0924F7','0');",
+  "proposers": [
+    {
+      "name_kr": "이상민",
+      "party": "더불어민주당",
+      "name_cn": "李相珉"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김진표",
+      "party": "더불어민주당",
+      "name_cn": "金振杓"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "박영선",
+      "party": "더불어민주당",
+      "name_cn": "朴映宣"
+    },
+    {
+      "name_kr": "배덕광",
+      "party": "새누리당",
+      "name_cn": "裵德光"
+    },
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "새누리당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 변호사자격을 취득할 경우 자동으로 세무사자격을 가질 수 있도록 되어 있으나 이는 합리적 이유 없이 변호사자격 취득자에게 부당한 특혜를 주는 것일 뿐이므로 전문성이 요구되는 세무분야의 전문성을 제고하고 나아가 소비자들에게 고품질의 세무서비스를 제공하기 위하여 변호사의 세무사자격 자동취득을 삭제하고자 하는 것임(안 제3조제3호 삭제).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-10-04",
+  "decision_date": "2017-12-08",
+  "link_id": "PRC_Q1O6K1D0V0O4S1J5F2A3E4Y9U4S8D8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

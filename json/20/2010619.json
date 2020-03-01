@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010619",
+  "title": "[2010619] 자동차관리법 일부개정법률안(윤영일의원 등 11인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2010619",
+    "2017-12-05",
+    "윤영일의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','BF41E0FD-563B-B1AC-F688-81E4B0AA6B0D','0');",
+  "proposers": [
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "국민의당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "송기석",
+      "party": "국민의당",
+      "name_cn": "宋基錫"
+    },
+    {
+      "name_kr": "이개호",
+      "party": "더불어민주당",
+      "name_cn": "李介昊"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "국민의당",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "이학영",
+      "party": "더불어민주당",
+      "name_cn": "李學永"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "국민의당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  조세, 과태료 납부, 의무보험 가입, 정기검사 등 법적 의무를 면탈하기 위해 자동차를 사실상 소유, 운행하는 자가 아닌 타인의 명의로 등록하여 운행되는 소위 ‘대포차’는 불법행위 및 강력범죄의 도구로 사용되고 있고, 대형 교통사고나 뺑소니를 초래하는 등 사회적으로 심각한 문제를 야기하고 있음.\n  이에 대포차 차단을 위해 자동차 소유자의 동의 또는 요청이 있는 경우, 수사기관의 장이 요청하는 경우 및 등록원부에 기재된 이해관계인이 요청하는 경우에는 해당 자동차의 운행정지를 명할 수 있도록 현행 자동차의 운행정지 명령 제도를 강화하고자 함(안 제24조의2제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-05",
+  "decision_date": "2018-01-30",
+  "link_id": "PRC_X1G7S1H2Z0I5I1V6F5B7G2P3Q2I9X2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009217",
+  "title": "[2009217] 주택법 일부개정법률안(이찬열의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2009217",
+    "2017-09-08",
+    "이찬열의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A0F82C6F-72CF-C5DC-0975-8F5019A98FCC','0');",
+  "proposers": [
+    {
+      "name_kr": "이찬열",
+      "party": "국민의당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "국민의당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현재 공동주택(아파트)에는 비상용 예비전원의 시설 설치가 의무화 되어 있지 않음.\n  지은 지 오래된 대단위 아파트는 대형 가전제품과 냉방기 보급률 확대로 늘어난 전력수요를 노후 변압기가 감당하지 못해 정전이 발생하는 일이 속출하고 있음. 이로 인해 전력 공급의 중단이 발생할 경우 많은 주민들이 불편을 겪고 있으며 특히 승강기 이용 시의 전력 공급 중단은 인명피해의 위험이 매우 높은 실정임.\n  이에 공동주택(아파트)의 비상용 예비전원의 시설 설치를 의무화하여 전력 공급 중단이 발생할 경우 생길 수 있는 주민 불편과 인명피해를 최소화하고자 함(안 제40조의2).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-08",
+  "decision_date": null,
+  "link_id": "PRC_J1B7T0I9H0B8Z1C7P5C1D5E8T1M1A5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

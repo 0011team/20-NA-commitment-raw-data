@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020572",
+  "title": "[2020572] 유료도로법 일부개정법률안(함진규의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020572",
+    "2019-05-22",
+    "함진규의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','1D1E6BB6-1260-F5EC-F92A-114B00BFD2A4','0');",
+  "proposers": [
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "박대출",
+      "party": "자유한국당",
+      "name_cn": "朴大出"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박순자",
+      "party": "자유한국당",
+      "name_cn": "朴順子"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "윤한홍",
+      "party": "자유한국당",
+      "name_cn": "尹漢洪"
+    },
+    {
+      "name_kr": "이완영",
+      "party": "자유한국당",
+      "name_cn": "李完永"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "자유한국당",
+      "name_cn": "李賢在"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 BMW 차량 화재가 연쇄적으로 발생하는 등 운행 중인 차량 화재가 빈번하게 발생하고 있는 가운데 터널 등 도로시설물에서 차량 화재 발생 시 대형사고로 이어질 수 있어 해당 도로시설물 통행 전에 과열차량을 감지하고 이를 차량 운전자에게 알려주는 시스템을 마련하여 터널 화재사고 등의 참사를 예방할 필요가 있다는 지적이 있음.\n  이에 유료도로관리청 또는 유료도로관리권자는 차량 화재 예방을 위하여 해당 유료도로를 통행하는 차량 중 과열로 화재의 위험이 높은 차량을 감지하여 해당 차량의 운전자에게 알려주는 시스템을 구축·운영할 수 있도록 함으로써 유료도로의 안전한 이용환경 조성을 도모하려는 것임(안 제21조의4 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-22",
+  "decision_date": null,
+  "link_id": "PRC_K1T9G0H5C2C2S1Z7B2U1S3U4J8N0B6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

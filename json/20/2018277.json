@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018277",
+  "title": "[2018277] 군인연금법 일부개정법률안(민경욱의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018277",
+    "2019-01-22",
+    "민경욱의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B28490CC-7095-42A7-883B-0B18062E0C2C','0');",
+  "proposers": [
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "서청원",
+      "party": "무소속",
+      "name_cn": "徐淸源"
+    },
+    {
+      "name_kr": "송언석",
+      "party": "자유한국당",
+      "name_cn": "宋彦錫"
+    },
+    {
+      "name_kr": "이만희",
+      "party": "자유한국당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "홍문종",
+      "party": "자유한국당",
+      "name_cn": "洪文鐘"
+    },
+    {
+      "name_kr": "홍철호",
+      "party": "자유한국당",
+      "name_cn": "洪哲鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  현행 「군인연금법」에 따르면 부정한 방법으로 급여를 받은 경우 그 급여액을 환수할 수 있도록 규정하고 있음.\n  그러나 이러한 제재 규정에도 급여에 대한 부정수급이 지속적으로 발생하고 있어 부정수급 방지에 한계가 있음.\n  이에 거짓이나 그 밖의 부정한 방법으로 급여를 받은 경우에는 급여의 지급을 중지하도록 규정하여 부정수급 방지의 실효성을 높이고자 함(안 제15조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-01-22",
+  "decision_date": null,
+  "link_id": "PRC_J1Y9J0L1T2F2D1A1P0I6V3U6B5L4U9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

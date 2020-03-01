@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005269",
+  "title": "[2005269] 법원조직법 일부개정법률안(박범계의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005269",
+    "2017-01-25",
+    "박범계의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제348회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','89F99D2F-F3FA-828D-9ACD-FCAA6B1369F5','0');",
+  "proposers": [
+    {
+      "name_kr": "박범계",
+      "party": "더불어민주당",
+      "name_cn": "朴範界"
+    },
+    {
+      "name_kr": "김병관",
+      "party": "더불어민주당",
+      "name_cn": "金炳官"
+    },
+    {
+      "name_kr": "김성수",
+      "party": "더불어민주당",
+      "name_cn": "金聖洙"
+    },
+    {
+      "name_kr": "박영선",
+      "party": "더불어민주당",
+      "name_cn": "朴映宣"
+    },
+    {
+      "name_kr": "박용진",
+      "party": "더불어민주당",
+      "name_cn": "朴用鎭"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "손혜원",
+      "party": "더불어민주당",
+      "name_cn": "孫惠園"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    },
+    {
+      "name_kr": "진선미",
+      "party": "더불어민주당",
+      "name_cn": "陳善美"
+    },
+    {
+      "name_kr": "표창원",
+      "party": "더불어민주당",
+      "name_cn": "表蒼園"
+    }
+  ],
+  "summaries": [
+    "\n제안이유\n\n  경제적으로 어려운 소액채권자가 간편하고 저렴한 비용으로 조기에 채무자의 재산을 파악하여 강제집행절차에 신속히 나아갈 수 있도록 하는 재산조회 및 강제집행 등의 특례를 실현하기 위해서는 사법보좌관이 소액사건심판법상의 부동산가압류 신청절차를 그 업무로 하여야 함.\n\n\n주요내용\n\n  사법보좌관의 업무에 「소액사건심판법」상의 부동산가압류 신청절차를 추가함(안 제54조제2항제1호).\n\n\n참고사항\n\n  이 법률안은 박범계의원이 대표발의한 「少額事件審判法 일부개정법률안」(의안번호 제5270호)의 의결을 전제로 하는 것이므로 같은 법률안이 의결되지 아니하거나 수정의결되는 경우에는 이에 맞추어 조정되어야 할 것임.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-01-25",
+  "decision_date": null,
+  "link_id": "PRC_R1C7P0O1W2H5Y1A4B3V2M5O4W0V7Y5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

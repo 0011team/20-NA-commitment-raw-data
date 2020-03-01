@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002195",
+  "title": "[2002195] 공직선거법 일부개정법률안(정용기의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2002195",
+    "2016-09-07",
+    "정용기의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','8D1A05A5-1E31-4483-BDE5-7F6177FD243D','0');",
+  "proposers": [
+    {
+      "name_kr": "정용기",
+      "party": "새누리당",
+      "name_cn": "鄭容起"
+    },
+    {
+      "name_kr": "곽상도",
+      "party": "새누리당",
+      "name_cn": "郭尙道"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "새누리당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "새누리당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "새누리당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "새누리당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "정우택",
+      "party": "새누리당",
+      "name_cn": "鄭宇澤"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 예비후보자 또는 그의 배우자가 그와 함께 다니는 사람 중에서 지정한 각 1명이 예비후보자의 명함을 직접 주거나 예비후보자에 대한 지지를 호소할 수 있도록 규정하고 있음.\n  그런데, 이는 결혼의 여부에 따라 예비후보자의 선거운동에 참여할 수 있는 사람의 수를 불합리하게 차별할 수 있다는 문제가 있음.\n  이와 같은 문제를 해결하기 위하여, 예비후보자의 배우자가 없는 경우에는 예비후보자가 그와 함께 다니는 사람 중에서 3명을 지정하여 예비후보자의 명함을 직접 주거나 예비후보자에 대한 지지를 호소할 수 있도록 하려는 것임(안 제60조의3제2항제3호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-09-07",
+  "decision_date": "2017-01-20",
+  "link_id": "PRC_P1P6T0O9H0D7P0V9K3U8Q4A0D5L7M6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

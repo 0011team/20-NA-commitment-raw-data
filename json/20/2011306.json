@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011306",
+  "title": "[2011306] 실내공기질 관리법 일부개정법률안(박순자의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2011306",
+    "2018-01-08",
+    "박순자의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5C97AD43-EF89-9FA1-9978-19EF3B5F0D28','0');",
+  "proposers": [
+    {
+      "name_kr": "박순자",
+      "party": "자유한국당",
+      "name_cn": "朴順子"
+    },
+    {
+      "name_kr": "강석진",
+      "party": "자유한국당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "이완영",
+      "party": "자유한국당",
+      "name_cn": "李完永"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "자유한국당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍문종",
+      "party": "자유한국당",
+      "name_cn": "洪文鐘"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 어린이집 중 국공립어린이집, 법인어린이집, 직장어린이집 및 민간어린이집만 적용대상으로 한정하고 있어 가정어린이집 또는 협동어린이집에서 보육하는 영유아의 경우 오염된 실내공기에 노출될 우려가 있음.\n  이에 오염물질에 취약한 영유아를 보호하기 위하여 이 법 적용대상에 「영유아보육법」에 따른 어린이집을 모두 포함하려는 것임(안 제3조제1항제12호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-01-08",
+  "decision_date": "2019-03-13",
+  "link_id": "PRC_G1D8E0Z1V0T8U1N3W5Q8T4C6S1U2E0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

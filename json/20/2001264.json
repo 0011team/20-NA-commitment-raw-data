@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001264",
+  "title": "[2001264] 사립학교법 일부개정법률안(도종환의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2001264",
+    "2016-07-28",
+    "도종환의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제344회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D1FF4DB8-D412-8FD6-DD8C-2E24406AB71E','0');",
+  "proposers": [
+    {
+      "name_kr": "도종환",
+      "party": "더불어민주당",
+      "name_cn": "都鐘煥"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "문미옥",
+      "party": "더불어민주당",
+      "name_cn": "文美玉"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "신동근",
+      "party": "더불어민주당",
+      "name_cn": "申東根"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "유은혜",
+      "party": "더불어민주당",
+      "name_cn": "兪銀惠"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "최인호",
+      "party": "더불어민주당",
+      "name_cn": "崔仁昊"
+    },
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 학교법인·공공단체외의 법인 기타 사인(私人)이 특수학교를 설치·경영할 수 있도록 규정하고 있으나, 일부 사인 등이 경영하는 특수학교의 경우 각종 부정·비리 문제와 경영의지 부족 등으로 인하여 정상적인 학교운영이 어려운 실정임.\n  이에 사립의 특수학교에 대하여는 학교법인이 아니면 설치·경영할 수 없도록 규정함으로써 특수학교 학생의 학습권을 보호하고 특수학교 운영의 건전성을 확보하려는 것임(안 제3조제1항제1호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-28",
+  "decision_date": "2016-12-08",
+  "link_id": "PRC_T1G6I0V7G2O8W1O1N1R6L3I9A1D6B8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

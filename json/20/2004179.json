@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004179",
+  "title": "[2004179] 형의 집행 및 수용자의 처우에 관한 법률 일부개정법률안(주광덕의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004179",
+    "2016-12-07",
+    "주광덕의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','98E742AA-4C56-0510-D788-CE8B2E7570E0','0');",
+  "proposers": [
+    {
+      "name_kr": "주광덕",
+      "party": "새누리당",
+      "name_cn": "朱光德"
+    },
+    {
+      "name_kr": "강석진",
+      "party": "새누리당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "새누리당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "새누리당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "새누리당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "새누리당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "새누리당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "새누리당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "새누리당",
+      "name_cn": "鄭雲天"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "새누리당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법령은 미결수용자와 변호인 간의 접견은 시간과 횟수를 제한 없이 하여 미결수용자의 방어권을 적극적으로 보장하고 있음.\n  하지만, 최근 변호인 접견과 관련하여 소수의 인원이 지나치게 많은 접견과 접견장소의 편의를 제공받았다는 지적이 있어서 변호인의 접견권을 남용하지 않도록 제한할 필요성이 대두되고 있음.\n  이에 미결수용자의 수사나 재판 준비를 위한 접견 외에 정당한 접견이 아닌 경우에는 변호인의 접견을 중지하거나 접견횟수 및 시간을 제한할 수 있는 근거를 마련하려는 것임(안 제42조제7호 및 제84조제2항 단서 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-07",
+  "decision_date": null,
+  "link_id": "PRC_V1T6R1H2R0A7R1R8A1R0Q2P6Z7G1H7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,95 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015837",
+  "title": "[2015837] 항만법 일부개정법률안(이석현의원 등 14인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2015837",
+    "2018-10-02",
+    "이석현의원 등 14인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9CE78E85-6CAA-8389-9315-91635CFC765E','0');",
+  "proposers": [
+    {
+      "name_kr": "이석현",
+      "party": "더불어민주당",
+      "name_cn": "李錫玄"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "심재권",
+      "party": "더불어민주당",
+      "name_cn": "沈載權"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "윤일규",
+      "party": "더불어민주당",
+      "name_cn": "尹一逵"
+    },
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "민주평화당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  법 문장은 올바른 국어사용과 국민의 언어생활의 모범이 되어야 함에도 불구하고, 어려운 단어와 외래어 표기들이 무분별하게 사용되고 있음.\n  이에 국회에서는 법적 간결성ㆍ함축성과 조화를 이루는 범위에서 법 문장의 표기를 한글화하고, 어려운 용어를 쉬운 우리말로 풀어씀으로써 국민이 쉽게 읽고 잘 이해할 수 있도록 법률을 정비하여 왔음. \n  그런데 여전히 현행법에서 ‘램프(ramp)’라는 외래어 및 어려운 선박용어를 그대로 사용하고 있어 이를 국민이 이해하기 쉬운 ‘연결로’라는 용어로 변경하려는 것임(안 제2조제5호가목).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-02",
+  "decision_date": null,
+  "link_id": "PRC_D1D8E1X0P0Q2G1R5A2O5G3E9W8D9L0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

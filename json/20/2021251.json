@@ -1,0 +1,40 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021251",
+  "title": "[2021251] 국무총리 및 국무위원 출석요구의 건(국정에 관한 교섭단체 대표연설)(이인영의원 등 3인 외 261인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2021251",
+    "2019-07-02",
+    "이인영의원 등 3인 외 261인",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E353EF06-3ED4-B70E-7116-F70F0872A29F','0');",
+  "proposers": [
+    {
+      "name_kr": "이인영",
+      "party": "더불어민주당",
+      "name_cn": "李仁榮"
+    },
+    {
+      "name_kr": "나경원",
+      "party": "자유한국당",
+      "name_cn": "羅卿瑗"
+    },
+    {
+      "name_kr": "오신환",
+      "party": "바른미래당",
+      "name_cn": "吳晨煥"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-07-02",
+  "decision_date": "2019-07-03",
+  "link_id": "PRC_X1T9U0M7V0H2R1A7L1M5U5P8A9U7N1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

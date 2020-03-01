@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003638",
+  "title": "[2003638] 근로기준법 일부개정법률안(이정미의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2003638",
+    "2016-11-16",
+    "이정미의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','AB15B1BF-F87C-1372-33B4-E2A8BFD1D288','0');",
+  "proposers": [
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "권미혁",
+      "party": "더불어민주당",
+      "name_cn": "權美赫"
+    },
+    {
+      "name_kr": "김영주",
+      "party": "더불어민주당",
+      "name_cn": "金榮珠"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "김종훈",
+      "party": "무소속",
+      "name_cn": "金鍾勳"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "노회찬",
+      "party": "정의당",
+      "name_cn": "魯會燦"
+    },
+    {
+      "name_kr": "심상정",
+      "party": "정의당",
+      "name_cn": "沈相정"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법은 근로자의 성별, 국적, 신앙 또는 사회적 신분을 이유로 차별적 처우를 하지 못하도록 규정하고 있으나 고용형태에 의한 차별에 대하여는 명시하고 있지 않음. \n  비정규직 고용이 계속적으로 증가하는 가운데 고용형태에 따른 불합리한 차별이 사회적 문제로 대두되고 있으므로 이를 해소하기 위해 관련 규정을 보완할 필요가 있음. \n  따라서 노동관계의 기본적인 사항을 규율하는 현행법에 고용형태에 따른 차별금지를 명시함으로써 근로자에 대한 균등한 처우의 원칙을 더욱 명확히 하고 궁극적으로 근로관계의 공정성을 제고하려는 것임(안 제6조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-16",
+  "decision_date": null,
+  "link_id": "PRC_T1Q6F1O1G1J6Z1X8R1N4F1H2I4C3M4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

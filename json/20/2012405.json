@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012405",
+  "title": "[2012405] 의료법 일부개정법률안(신창현의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2012405",
+    "2018-03-09",
+    "신창현의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제357회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B499D50A-EC93-FC7D-B0D6-380463B69C3B','0');",
+  "proposers": [
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "강병원",
+      "party": "더불어민주당",
+      "name_cn": "姜炳遠"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "문희상",
+      "party": "더불어민주당",
+      "name_cn": "文喜相"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "이수혁",
+      "party": "더불어민주당",
+      "name_cn": "李秀赫"
+    },
+    {
+      "name_kr": "전해철",
+      "party": "더불어민주당",
+      "name_cn": "全海澈"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 문제가 된 간호사들의 태움(직장 내 괴롭힘) 문화는 개인의 품성 문제라기보다 두 사람이 할 일을 한 사람이 하도록 강요하는 격무와 과로의 구조적 요인이 더 큰 실정임.\n  인력이 부족하여 간호사가 장시간 노동에 노출되어 피로도가 쌓이게 될 경우 간호사 상호 간 뿐만 아니라 환자들에게도 그 피해가 돌아가게 될 것임.\n  이에 간호사 1인당 적정 환자수를 대통령령으로 규정하여 이를 초과하지 않도록 하고, 위반 시 벌칙규정을 두고자 하려는 것임(안 제15조의2 신설 등).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-09",
+  "decision_date": null,
+  "link_id": "PRC_E1C8Z0X3B0I9E1L3N4G2A0G7J1S7W6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

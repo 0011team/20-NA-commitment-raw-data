@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016165",
+  "title": "[2016165] 발명진흥법 일부개정법률안(송갑석의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2016165",
+    "2018-10-31",
+    "송갑석의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EAFC30C4-F7A4-BBB8-5FA9-C0C3F9E5BA94','0');",
+  "proposers": [
+    {
+      "name_kr": "송갑석",
+      "party": "더불어민주당",
+      "name_cn": "宋甲錫"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김성환",
+      "party": "더불어민주당",
+      "name_cn": "金星煥"
+    },
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "이훈",
+      "party": "더불어민주당",
+      "name_cn": "李薰"
+    },
+    {
+      "name_kr": "정세균",
+      "party": "더불어민주당",
+      "name_cn": "丁世均"
+    },
+    {
+      "name_kr": "홍의락",
+      "party": "더불어민주당",
+      "name_cn": "洪宜洛"
+    },
+    {
+      "name_kr": "홍익표",
+      "party": "더불어민주당",
+      "name_cn": "洪翼杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  「부정경쟁방지 및 영업비밀보호에 관한 법률」 제2조제2호에 따른 영업비밀에 관한 실태조사를 본 법에서 운용하여 왔으나, 정책의 일관성 및 국민의 이해도 제고 등을 고려했을 때, 관련법에서 운용하는 것이 바람직하므로, 영업비밀에 관한 실태조사 근거규정을 삭제하고, 「부정경쟁방지 및 영업비밀보호에 관한 법률」에 근거규정을 마련하려는 것임(안 제20조의6제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-31",
+  "decision_date": null,
+  "link_id": "PRC_U1F8H1B0K3K1Y1P4U0O8G0Q8E1E6L6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

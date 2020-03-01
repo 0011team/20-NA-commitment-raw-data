@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016826",
+  "title": "[2016826] 국세기본법 일부개정법률안(서형수의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2016826",
+    "2018-11-27",
+    "서형수의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D3CBD6E1-247E-3982-39ED-DF326043553B','0');",
+  "proposers": [
+    {
+      "name_kr": "서형수",
+      "party": "더불어민주당",
+      "name_cn": "徐炯洙"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김정호",
+      "party": "더불어민주당",
+      "name_cn": "金禎鎬"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "서삼석",
+      "party": "더불어민주당",
+      "name_cn": "徐參錫"
+    },
+    {
+      "name_kr": "이상헌",
+      "party": "더불어민주당",
+      "name_cn": "李相憲"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 과세정보에 대한 비밀유지의무의 예외항목으로 국가통계작성을 목적으로 하는 통계청을 포함하고 있으나, 한국은행은 명시되지 않음. \n  그러나 한국은행은 정부의 경제정책, 한국은행의 통화신용정책 등에 긴요하게 활용되는 국가승인통계 총 18종을 작성 공표하고 있어 통계조사 부담 완화와 신뢰성 제고를 위해 행정자료에 대한 활용의 필요성이 높은 실정임.\n  이에 한국은행이 과세당국에 과세정보를 요청할 수 있도록 근거조항을 마련하고자 하는 것임(안 제81조의13).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-11-27",
+  "decision_date": null,
+  "link_id": "PRC_V1M8W1F1Y2T7G1Z6C0C0R2M0L5U3L6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

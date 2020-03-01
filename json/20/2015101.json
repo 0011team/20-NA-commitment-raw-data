@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015101",
+  "title": "[2015101] 실내공기질 관리법 일부개정법률안(김성찬의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2015101",
+    "2018-08-28",
+    "김성찬의원 등 10인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제363회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','2A2EFCDD-D715-5655-6DA2-269E52F3E4E6','0');",
+  "proposers": [
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "자유한국당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "주광덕",
+      "party": "자유한국당",
+      "name_cn": "朱光德"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 일정규모 이상의 지하역사, 지하도상가, 철도역사의 대합실 등 다중이용시설의 경우 실내공기질 유지기준을 준수하도록 규정하고 있음. \n  그러나 군사시설은 방호를 이유로 지하화하거나 밀폐된 시설이 대부분이며 좁은 공간에서 많은 사람이 공동으로 생활하고 있음에도 불구하고 실내공기질에 대한 점검이 이루어지지 않고 있음. \n  이에 현행법의 다중이용시설에 「국방·군사시설 사업에 관한 법률」에 따른 국방·군사시설을 추가하여 국방·군사시설의 실내공기질 관리를 강화하려는 것임(안 제3조제1항제25호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-08-28",
+  "decision_date": null,
+  "link_id": "PRC_O1D8R0J8Z2F8G1Q6X1O3W2M1V6A6W0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

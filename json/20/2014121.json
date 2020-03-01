@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014121",
+  "title": "[2014121] 주민등록법 일부개정법률안(백재현의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014121",
+    "2018-06-29",
+    "백재현의원 등 11인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제361회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','837D5098-50F2-79E5-DF8B-19A2AFD03208','0');",
+  "proposers": [
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "어기구",
+      "party": "더불어민주당",
+      "name_cn": "魚基龜"
+    },
+    {
+      "name_kr": "전해철",
+      "party": "더불어민주당",
+      "name_cn": "全海澈"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    },
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  주민등록증은 개인별 식별기능이 아주 높기 때문에 공공영역뿐만 아니라 민간영역에 있어서도 신분을 확인하는 수단으로 광범위하게 이용되고 있음.\n  그런데 주민등록증은 유효기간이 없으므로 장기간 사용하는 경우 훼손이 우려되고, 주민등록증에 수록된 사진을 장기간 교체하지 않는 경우 본인식별 또는 신원확인에 애로사항이 있음.\n  이에 주민등록증을 10년마다 정기적으로 갱신하도록 함으로써 주민등록증의 본인식별 또는 신원확인 기능을 제고하려는 것임(안 제24조 및 제27조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-06-29",
+  "decision_date": null,
+  "link_id": "PRC_C1J8J0F6O2G9O1W4V3N3I4E6E3L6I1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

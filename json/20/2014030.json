@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014030",
+  "title": "[2014030] 원자력안전법 일부개정법률안(권칠승의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014030",
+    "2018-06-26",
+    "권칠승의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제361회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B2B72F91-63BF-5755-6403-9839763629C9','0');",
+  "proposers": [
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "김성수",
+      "party": "더불어민주당",
+      "name_cn": "金聖洙"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "남인순",
+      "party": "더불어민주당",
+      "name_cn": "南仁順"
+    },
+    {
+      "name_kr": "박경미",
+      "party": "더불어민주당",
+      "name_cn": "朴炅美"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "제윤경",
+      "party": "더불어민주당",
+      "name_cn": "諸閏景"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행 「공공기관의 운영에 관한 법률」은 공기업·준정부기관의 정관 기재사항과 정관 변경 시 주무기관의 장의 인가를 받아야 한다는 규정을 두고 있으나, 기타공공기관에 대하여는 해당 사항을 규정하고 있지 않음. 그런데 정관에 관한 사항은 공기업·준정부기관과 기타공공기관을 구분하여 규율할 사항이 아니므로, 이는 입법미비로 볼 수 있음.\n  이에 기타공공기관의 설치 근거법률에 정관에 관한 사항을 추가하여 입법미비를 보완하려는 것임(안 제7조의2제5항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-06-26",
+  "decision_date": null,
+  "link_id": "PRC_T1C8C0L6R2A6B1M5N0O3B5M3P2K1V7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

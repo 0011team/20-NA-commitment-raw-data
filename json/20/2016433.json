@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016433",
+  "title": "[2016433] 군사법원법 일부개정법률안(민홍철의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2016433",
+    "2018-11-08",
+    "민홍철의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7CB746CD-A89C-416E-0AEF-94AB5A472E20','0');",
+  "proposers": [
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김정호",
+      "party": "더불어민주당",
+      "name_cn": "金禎鎬"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "김진표",
+      "party": "더불어민주당",
+      "name_cn": "金振杓"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "서형수",
+      "party": "더불어민주당",
+      "name_cn": "徐炯洙"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "이종걸",
+      "party": "더불어민주당",
+      "name_cn": "李鍾杰"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  육군 제1야전군사령부와 제3야전군사령부를 통합하여 육군의 전방 지상작전을 책임질 지상작전사령부가 2019년 1월 1일부로 창설되므로, 「군사법원법」 제6조제2항과 관련한 별표에서 보통군사법원의 설치 부대 중 ‘제1야전군사령부 및 제3야전군사령부’를 ‘지상작전사령부’로 변경하려는 것임(안 별표).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-11-08",
+  "decision_date": "2018-11-29",
+  "link_id": "PRC_Z1Q8M1X1X0E8M1R3J2T9R2G6X7G7N8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

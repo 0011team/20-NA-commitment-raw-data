@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014168",
+  "title": "[2014168] 표시·광고의 공정화에 관한 법률 일부개정법률안(신용현의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014168",
+    "2018-07-02",
+    "신용현의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제361회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','75D24E8E-AC17-6173-BA5E-6253FA7AAD0B','0');",
+  "proposers": [
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "권은희",
+      "party": "바른미래당",
+      "name_cn": "權垠希"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "바른미래당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "오세정",
+      "party": "바른미래당",
+      "name_cn": "吳世正"
+    },
+    {
+      "name_kr": "오신환",
+      "party": "바른미래당",
+      "name_cn": "吳晨煥"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "이태규",
+      "party": "바른미래당",
+      "name_cn": "李泰珪"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "바른미래당",
+      "name_cn": "李鶴宰"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "바른미래당",
+      "name_cn": "鄭雲天"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "바른미래당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "바른미래당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  챗봇(Chatbot)은 인간과 대화하는 방식으로 정보를 처리하는 컴퓨터 시스템으로서 최근 많은 기업이 정보제공 및 전자상거래 등의 분야에서 챗봇을 활용하고 있음.\n  그런데 챗봇과의 대화 중 이용자가 인지하지 못하는 과정에서 개인정보가 실시간으로 수집되거나 대화내용이 사후적으로 결합분석되어 개인정보가 생성될 우려가 있으며, 개인정보 유출로 소비자의 권익이 침해될 소지도 있다는 문제가 제기되고 있음.\n  이에 공정거래위원회가 고시하는 표시·광고의 중요정보에 개인정보 유출 등으로 인한 권익 침해를 방지하기 위하여 필요한 사항을 포함하도록 함으로써 소비자를 보호하고 공정한 거래질서를 유지하려는 것임(안 제4조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-07-02",
+  "decision_date": null,
+  "link_id": "PRC_L1S8S0G7G0K2W1Z6R3O1N1Y4B7X9U0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

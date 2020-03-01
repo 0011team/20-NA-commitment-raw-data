@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006624",
+  "title": "[2006624] 군인복지기본법 일부개정법률안(이종명의원 등 11인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2006624",
+    "2017-04-06",
+    "이종명의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D07EF9F7-5D91-0248-F7F6-C1E7AF41BDC7','0');",
+  "proposers": [
+    {
+      "name_kr": "이종명",
+      "party": "자유한국당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김용태",
+      "party": "바른정당",
+      "name_cn": "金容兌"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "김종석",
+      "party": "자유한국당",
+      "name_cn": "金鍾奭"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "자유한국당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "심재권",
+      "party": "더불어민주당",
+      "name_cn": "沈載權"
+    },
+    {
+      "name_kr": "유민봉",
+      "party": "자유한국당",
+      "name_cn": "庾敏鳳"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 군인에 대한 주택 우선공급에 관하여 10년 이상 복무한 군인 중 무주택세대주에게 주택을 우선 공급할 수 있다고 규정하고 있음. \n  그러나 이러한 규정에 의하면, 무주택세대주가 아닌 자로서 ‘무주택세대구성원’으로 10년 이상 복무한 군인의 권리가 부당하게 제한되는 문제점이 발생함.\n  이에 무주택세대주로 되어 있는 주택 우선 공급 신청의 요건을 ‘무주택세대구성원’으로 변경하여, 보다 많은 군인들이 주거복지의 혜택을 누릴 수 있게 하려는 것임(안 제10조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-04-06",
+  "decision_date": "2017-11-09",
+  "link_id": "PRC_F1A7X0S4D0S6T1Q1Q2P7Z1V6B5K7H6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

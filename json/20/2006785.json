@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006785",
+  "title": "[2006785] 정당법 일부개정법률안(송옥주의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2006785",
+    "2017-04-19",
+    "송옥주의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','616D6C30-652E-C124-20E7-A28E069812C6','0');",
+  "proposers": [
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "유승희",
+      "party": "더불어민주당",
+      "name_cn": "兪承希"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 당원의 자격을 선거권이 있는 사람으로 한정하여 만 19세 이상의 국민에게만 정당 가입을 허용하고 있음.\n  그러나 외국의 경우 정당 가입을 통한 정치활동을 폭넓게 보장하기 위하여 정당 가입 연령을 낮게 규정하고 있으며(영국의 노동당 15세, 독일 기민당 16세, 사민당 14세), 프랑스와 호주의 경우 일부 정당들은 당원 가입에 연령 제한이 없음.\n  이에 선거권이 없는 만 19세 미만의 국민에 대하여도 정당 가입의 자유와 선택 기회를 부여함으로써 국민의 정치참여를 최대한 보장하려는 것임(안 제22조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-04-19",
+  "decision_date": null,
+  "link_id": "PRC_M1F7X0Z4Y1V9L1N0C3Z3B1I6F4W7H2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

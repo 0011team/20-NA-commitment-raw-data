@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022475",
+  "title": "[2022475] 인사청문회법 일부개정법률안(이석현의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022475",
+    "2019-09-16",
+    "이석현의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','4DECFB4E-36A6-31AC-5BED-8C55F527C784','0');",
+  "proposers": [
+    {
+      "name_kr": "이석현",
+      "party": "더불어민주당",
+      "name_cn": "李錫玄"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이규희",
+      "party": "더불어민주당",
+      "name_cn": "李揆熙"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  인사청문회는 대통령이 임명하는 고위 공직자의 자질과 능력을 청문을 통하여 사전에 확인하기 위하여 시행하는 것임.\n  그런데 최근 실시된 인사청문회는 공직후보자의 자질과 능력을 확인하기보다 후보자 가족의 과도한 신상털기가 이루어져 후보자 가족의 개인정보와 사생활 노출이 불필요한 수준으로 발생하고, 정작 국민이 확인해야 할 정책 수행 역량은 검증하지 못하는 문제점을 낳고 있음. \n  이에 공직후보자와 배우자 및 직계존비속의 사생활에 관한 사항은 비공개로 진행하도록 함으로써 인사청문회가 본 취지에 맞게 실시되도록 하고자 함(안 제14조제2항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-09-16",
+  "decision_date": null,
+  "link_id": "PRC_R1R9J0R9G1U6Z1V5M0I2I5N4P9H3G1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

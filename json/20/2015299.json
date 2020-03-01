@@ -1,0 +1,100 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015299",
+  "title": "[2015299] 군인사법 일부개정법률안(김경진의원 등 15인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2015299",
+    "2018-09-04",
+    "김경진의원 등 15인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','555AB23D-9D98-CFAC-3E78-4F07BE742A57','0');",
+  "proposers": [
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "금태섭",
+      "party": "더불어민주당",
+      "name_cn": "琴泰燮"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "민주평화당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "바른미래당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "김종훈",
+      "party": "민중당",
+      "name_cn": "金鍾勳"
+    },
+    {
+      "name_kr": "손금주",
+      "party": "무소속",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "민주평화당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "주광덕",
+      "party": "자유한국당",
+      "name_cn": "朱光德"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "민주평화당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 장교의 진급에 있어 선발위원회 구성에 관해서만 규정하고 있고, 장교진급 선발위원회가 진급자를 평가하는 참고자료 등에 대해서는 규정하고 있지 않음. \n  이에 따라 군 지휘관의 장교 진급심사 시 국군기무사령부가 작성한 비공식적인 인사 세평(世評) 자료가 활용되어 기무사령부가 군 내부에서 막강한 권한을 행사하게 되는 요인으로 작용하고 있음. \n  이에 장교진급 선발위원회가 장교의 진급을 심사할 때에는 공식적인 자료를 활용하도록 하여 진급심사의 공정성을 강화하고, 기무사령부의 월권을 방지하고자 함(안 제29조제5항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-09-04",
+  "decision_date": null,
+  "link_id": "PRC_H1B8E0T9P0K4J1S1Q0Y4H4Q9G6W1M2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

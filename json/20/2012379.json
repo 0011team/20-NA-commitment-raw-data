@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012379",
+  "title": "[2012379] 군인사법 일부개정법률안(김종대의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2012379",
+    "2018-03-08",
+    "김종대의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제357회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','92417956-E540-65C9-CCDC-3AFF523AA041','0');",
+  "proposers": [
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "노회찬",
+      "party": "정의당",
+      "name_cn": "魯會燦"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "바른미래당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "심상정",
+      "party": "정의당",
+      "name_cn": "沈相정"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "이수혁",
+      "party": "더불어민주당",
+      "name_cn": "李秀赫"
+    },
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "천정배",
+      "party": "민주평화당",
+      "name_cn": "千正培"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 각군 참모차장이나 전투를 주된 임무로 하는 부대의 장 등 특정 보직의 경우 해당 군의 장성급 장교 중에서 참모총장이 추천심의위원회의 심의를 거쳐 국방부장관에게 추천하고, 국방부장관은 제청심의위원회의 심의를 거쳐 제청하며, 최종적으로는 대통령이 임명하도록 하고 있음.\n  그런데 추천심의위원회나 제청심의위원회는 그 중요성에도 불구하고 검찰인사위원회나 법관인사위원회와는 달리 운영 및 구성을 모두 대통령령으로 정하게 되어 있어 입법부의 규율을 받기 어려움.   이에 추천심의위원회와 제청심의위원회에 관한 내용을 현행법에 명시하려는 것임(안 제20조의2 및 제20조의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-08",
+  "decision_date": null,
+  "link_id": "PRC_Z1N8P0K3O0B8Y1X3G2U2W4Q0M4G0B4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

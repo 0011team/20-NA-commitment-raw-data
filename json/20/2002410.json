@@ -1,0 +1,95 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002410",
+  "title": "[2002410] 각급 법원의 설치와 관할구역에 관한 법률 일부개정법률안(권성동의원 등 14인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2002410",
+    "2016-09-22",
+    "권성동의원 등 14인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','6F8E5F47-B037-FC86-8216-3E68BAC992F7','0');",
+  "proposers": [
+    {
+      "name_kr": "권성동",
+      "party": "새누리당",
+      "name_cn": "權性東"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "새누리당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "새누리당",
+      "name_cn": "金聖泰"
+    },
+    {
+      "name_kr": "김진태",
+      "party": "새누리당",
+      "name_cn": "金鎭台"
+    },
+    {
+      "name_kr": "박범계",
+      "party": "더불어민주당",
+      "name_cn": "朴範界"
+    },
+    {
+      "name_kr": "신상진",
+      "party": "새누리당",
+      "name_cn": "申相珍"
+    },
+    {
+      "name_kr": "여상규",
+      "party": "새누리당",
+      "name_cn": "余尙奎"
+    },
+    {
+      "name_kr": "오신환",
+      "party": "새누리당",
+      "name_cn": "吳晨煥"
+    },
+    {
+      "name_kr": "윤상직",
+      "party": "새누리당",
+      "name_cn": "尹相直"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "새누리당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "전희경",
+      "party": "새누리당",
+      "name_cn": "全希卿"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "새누리당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    }
+  ],
+  "summaries": [
+    "\n제안이유\n\n  「법원조직법」의 개정에 따라 신설되는 회생법원의 설치와 관할구역을 정하려는 것임.\n\n\n주요내용\n\n  서울회생법원을 설치하고, 그 관할구역을 서울특별시로 함.\n\n\n참고사항\n\n  이 법률안은 권성동의원이 대표발의한 「법원조직법 일부개정법률안」(의안번호 제2409호)의 의결을 전제로 하는 것이므로 같은 법률안이 의결되지 아니하거나 수정의결 되는 경우에는 이에 맞추어 조정되어야 할 것임.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-09-22",
+  "decision_date": "2016-12-08",
+  "link_id": "PRC_E1M6F0Z9T2K2A1B3A5L5X0Y0L9R7J7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021189",
+  "title": "[2021189] 기획재정위원장(정성호) 사임의 건(정성호의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2021189",
+    "2019-06-28",
+    "정성호의원",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','2A4C7F5E-4BA4-1FD5-2931-2A544270CC43','0');",
+  "proposers": [
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-06-28",
+  "decision_date": "2019-06-28",
+  "link_id": "PRC_R1R9U0D6Z2F8G1W2O0Q4W0K7J3J1I6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

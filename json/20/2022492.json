@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022492",
+  "title": "[2022492] 전기사업법 일부개정법률안(곽대훈의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022492",
+    "2019-09-17",
+    "곽대훈의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','2C573CDF-9EAF-B3C2-A099-6AE722861056','0');",
+  "proposers": [
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김기선",
+      "party": "자유한국당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "송언석",
+      "party": "자유한국당",
+      "name_cn": "宋彦錫"
+    },
+    {
+      "name_kr": "윤한홍",
+      "party": "자유한국당",
+      "name_cn": "尹漢洪"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "자유한국당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 전력산업의 지속적인 발전과 전력산업의 기반조성에 필요한 재원을 확보하기 위하여 전력산업기반기금을 설치하도록 하고 있으며, 기금의 용도를 명시하면서 대통령령으로도 정할 수 있도록 위임하고 있음.\n  최근 정부는 이 법 시행령을 개정하여 한국전력공과대학 설립 및 운영비용 지원을 기금의 용도에 추가하는 방안을 추진 중에 있는데, 이는 당초 기금의 조성 목적에 부합하지 않는다는 지적이 있음.\n  이에 전력산업기반기금을 대학의 설립 또는 운영과 관련한 사업에 사용하지 못하도록 기금의 용도를 제한하여 기금이 본래 조성 목적에 맞게 사용되도록 하려는 것임(안 제49조 단서 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-09-17",
+  "decision_date": null,
+  "link_id": "PRC_C1H9M0A9D1Y7X1J0L3M6F5C5X5A9X9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

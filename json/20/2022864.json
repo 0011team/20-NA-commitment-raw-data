@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022864",
+  "title": "[2022864] 국회의원(김상희) 징계안(김승희의원 외 20인) 입법예고중",
+  "current_status": "접수",
+  "reception_info": [
+    "2022864",
+    "2019-10-11",
+    "김승희의원 외 20인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','27274AA7-B22E-B05E-7AF8-ABFEB5133EE1','0');",
+  "proposers": [
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-11",
+  "decision_date": null,
+  "link_id": "PRC_D1J9R1H0U1P1A1S4R3W2D4D2D2T2I0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000358",
+  "title": "[2000358] 민법 일부개정법률안(함진규의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2000358",
+    "2016-06-20",
+    "함진규의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','582D06AC-24C9-9915-8FC8-7D035684241F','0');",
+  "proposers": [
+    {
+      "name_kr": "함진규",
+      "party": "새누리당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "강석호",
+      "party": "새누리당",
+      "name_cn": "姜碩鎬"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "새누리당",
+      "name_cn": "金聖泰"
+    },
+    {
+      "name_kr": "김학용",
+      "party": "새누리당",
+      "name_cn": "金學容"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "배덕광",
+      "party": "새누리당",
+      "name_cn": "裵德光"
+    },
+    {
+      "name_kr": "신상진",
+      "party": "새누리당",
+      "name_cn": "申相珍"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "새누리당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "이장우",
+      "party": "새누리당",
+      "name_cn": "李莊雨"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "새누리당",
+      "name_cn": "李鶴宰"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  민법에는 광복 이후 일본식 법령과 제도를 차용하면서 한자어나 표현방식을 그래도 옮겨온 사례가 많은 데, 쉬운 언어는 개개인의 알권리를 보장하므로 법령을 쉬운 언어로 변경하는 것이 필요함. 이에 「민법」 제108조의 “통정한 허위의 의사표시”를 “서로 짜고 거짓으로 한 의사표시”로 변경하고자 함.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-20",
+  "decision_date": null,
+  "link_id": "PRC_R1Z6R0M6I2B0P1E6X1I4B0Y8R1R6L2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

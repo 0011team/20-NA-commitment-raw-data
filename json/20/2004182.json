@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004182",
+  "title": "[2004182] 사행산업통합감독위원회법 일부개정법률안(나경원의원 등 11인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2004182",
+    "2016-12-07",
+    "나경원의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','031E3620-79C6-A51C-B49E-7BD358EC51D7','0');",
+  "proposers": [
+    {
+      "name_kr": "나경원",
+      "party": "새누리당",
+      "name_cn": "羅卿瑗"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "새누리당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "배덕광",
+      "party": "새누리당",
+      "name_cn": "裵德光"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "새누리당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "국민의당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "이은재",
+      "party": "새누리당",
+      "name_cn": "李恩宰"
+    },
+    {
+      "name_kr": "장제원",
+      "party": "새누리당",
+      "name_cn": "張濟元"
+    },
+    {
+      "name_kr": "전희경",
+      "party": "새누리당",
+      "name_cn": "全希卿"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "새누리당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정병국",
+      "party": "새누리당",
+      "name_cn": "鄭柄國"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 \n\n  현행법상 한국도박문제관리센터 임원은 이사회에서 선임하되 사행산업통합감독위원장의 승인을 받도록 되어 있음.\n  그러나 위 방식을 따를 경우, 센터 임원(임원 중 상임이사는 제외)의 임기만료 시, 새로운 임원선임을 前 이사회에서 선임하는 모순이 발생함.\n  또한 이사회에 임원 선임권한을 부여하고 이를 법률에 명시함에 따라, 위원장의 승인권이 형식적 절차에 지나지 않게 되므로 이를 합리적으로 개선할 필요가 있음.\n\n\n■ 주요내용\n\n  임원은 이사회의 추천을 받아 사행산업통합감독위원장이 임면하고 세부 임원 선출방법 등은 정관에 위임하는 방식으로 변경함(제14조제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-07",
+  "decision_date": "2018-12-07",
+  "link_id": "PRC_D1Y6G1B2C0H7F1V8A2J5M0X2D0S6K7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

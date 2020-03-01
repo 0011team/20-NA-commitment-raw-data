@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001223",
+  "title": "[2001223] 사면법 일부개정법률안(박찬대의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2001223",
+    "2016-07-27",
+    "박찬대의원 등 10인",
+    "의안원문\n비용추계서 미첨부 사유서",
+    "제20대 (2016~2020) 제344회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','66A6BC50-6A4B-1CC3-BFC5-6AF0BE906158','0');",
+  "proposers": [
+    {
+      "name_kr": "박찬대",
+      "party": "더불어민주당",
+      "name_cn": "朴贊大"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박용진",
+      "party": "더불어민주당",
+      "name_cn": "朴用鎭"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "윤호중",
+      "party": "더불어민주당",
+      "name_cn": "尹昊重"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    },
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n\n제안이유\n\n  현행법은 군사법원에서 형을 선고받은 자의 특별사면 등에 대해서는 국방부장관이 직무를 수행하도록 하고 있으나 사면심사위원회와 관련한 조항이 미비하여, 법무부장관 소속의 사면심사위원회의 위원장을 국방부장관이 맡도록 하고 있음. 이에 해당 조항을 보완하여 따로 군사면심사위원회를 구성하려는 것임.\n\n\n주요내용\n\n  군사법원에서 형을 선고받은 자에 대한 특별사면 등을 할 때에는 군사면심사위원회의 심의를 받도록 함(안 제28조 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-27",
+  "decision_date": null,
+  "link_id": "PRC_Y1M6O0R7X2G7V1R1L0W8N2M4N5H7M7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

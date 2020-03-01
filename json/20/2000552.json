@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000552",
+  "title": "[2000552] 국회의원수당 등에 관한 법률 일부개정법률안(김광수의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2000552",
+    "2016-06-29",
+    "김광수의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D3EE27F7-48A6-B062-D44D-34C88EE1746A','0');",
+  "proposers": [
+    {
+      "name_kr": "김광수",
+      "party": "국민의당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "박주현",
+      "party": "국민의당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "국민의당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  국회의원의 입법활동을 지원하는 보좌직원이 제 역할을 수행하기 위해서는 전문성을 갖춘 사람이 그 능력 및 경력에 따라 채용되어야 함에도 불구하고, 일부 국회의원의 보좌직원의 경우 그와 상관없이 친인척이라는 이유만으로 채용되어 국민의 비난을 받고 있는 실정임.\n  이에 국회의원의 배우자와 그 4촌 이내의 혈족 및 인척은 보좌직원으로 임용될 수 없도록 하여 국회의원의 입법활동의 지원을 보장하고, 국민의 신뢰를 회복하려는 것임(안 제9조제2항 및 제9조의2제3호 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-29",
+  "decision_date": "2017-03-02",
+  "link_id": "PRC_Z1Y6H0I6E2W9Q1U4S3Z3Z4H7V0B1Q3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

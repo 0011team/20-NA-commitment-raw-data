@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022962",
+  "title": "[2022962] 어촌·어항법 일부개정법률안(이양수의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022962",
+    "2019-10-23",
+    "이양수의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','13E4A43D-9998-6E68-488D-8551A16CA3A8','0');",
+  "proposers": [
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "자유한국당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "이만희",
+      "party": "자유한국당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    },
+    {
+      "name_kr": "홍철호",
+      "party": "자유한국당",
+      "name_cn": "洪哲鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  현행법 제4조에서는 해양수산부장관이 어촌의 소득증대와 어촌·어항의 합리적인 개발 및 이용을 위하여 5년마다 어촌·어항발전기본계획을 수립하도록 규정하고 있음. \n  하지만, 어촌？어항개발사업의 특성이 장기적인 수요예측을 토대로 계획 수립하고 이후 시행까지 장기간 소요되는 점을 고려할 때 기본계획 수립 주기를 10년으로 조정할 필요가 있고, 5년마다 타당성 검토 등을 통해 기본계획 수립 후 정책방향의 조정을 할 수 있도록 하여  정책시행의 일관성 및 실효성을 확보하려는 것임.(안 제4조, 제4조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-23",
+  "decision_date": null,
+  "link_id": "PRC_O1B9O1D0R2I3F1Z4B5T9Y1C8C3O8G1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013374",
+  "title": "[2013374] 정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(신용현의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2013374",
+    "2018-05-01",
+    "신용현의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제359회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','49C4E719-2238-D4A0-27F3-2F248D38082B','0');",
+  "proposers": [
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "권은희",
+      "party": "바른미래당",
+      "name_cn": "權垠希"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "바른미래당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "바른미래당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "오신환",
+      "party": "바른미래당",
+      "name_cn": "吳晨煥"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "바른미래당",
+      "name_cn": "池尙昱"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "바른미래당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른미래당",
+      "name_cn": "河泰慶"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 드루킹 사건과 국정원 댓글조작 사건으로 인해 여론 형성에 큰 영향을 미치는 댓글을 비롯한 각종 정보의 검색순위와 노출 빈도가 이용자에게 공정하게 제공되어야 한다는 지적이 지속적으로 제기되고 있음.\n  이에 정보통신서비스 제공자는 자신이 운영·관리하는 정보통신망에 유통되는 정보가 불법정보에 해당하지 않는 경우에는 해당 정보의 검색순위, 노출 빈도 등에 관하여 차별적인 대우를 하지 않도록 규정함으로써 정보통신망에서의 공정한 정보 제공에 기여하려는 것임(안 제44조의8 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-05-01",
+  "decision_date": null,
+  "link_id": "PRC_I1Q8C0R5E0A1H1B7I4V0F2S2N1Z3A9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

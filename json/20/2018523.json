@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018523",
+  "title": "[2018523] 산업안전보건법 일부개정법률안(김철민의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018523",
+    "2019-02-08",
+    "김철민의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D7654A11-411B-3165-5B2E-75DB54B09451','0');",
+  "proposers": [
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "원혜영",
+      "party": "더불어민주당",
+      "name_cn": "元惠榮"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "민주평화당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이석현",
+      "party": "더불어민주당",
+      "name_cn": "李錫玄"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    },
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법령은 건설공사의 진척 정도에 따른 산업안전보건관리비의 사용비율을 정하고, 이에 따라 산업안전보건관리비를 사용하도록 하고 있음.\n  그러나 건설공사의 진행 과정에서 특정 시기에 위험요인이 집중되는 경우 등 기준을 초과하여 산업안전보건관리비를 사용하여야 하는 상황이 발생할 수 있으므로, 해당 공사의 위험성 등을 고려하여 필요한 때에는 일정한 범위 내에서 조정하여 사용할 수 있도록 하려는 것임(안 제72조제2항제2호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-02-08",
+  "decision_date": null,
+  "link_id": "PRC_U1Q9Z0Z2S0I8F1A4X3O7W1N3Y9O4R7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

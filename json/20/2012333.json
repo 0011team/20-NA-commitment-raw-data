@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012333",
+  "title": "[2012333] 해양수산발전 기본법 일부개정법률안(설훈의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2012333",
+    "2018-03-06",
+    "설훈의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제357회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7E4B17A9-DAEA-4EDC-D6E3-DC5190195F42','0');",
+  "proposers": [
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "문희상",
+      "party": "더불어민주당",
+      "name_cn": "文喜相"
+    },
+    {
+      "name_kr": "변재일",
+      "party": "더불어민주당",
+      "name_cn": "卞在一"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "심재권",
+      "party": "더불어민주당",
+      "name_cn": "沈載權"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "전현희",
+      "party": "더불어민주당",
+      "name_cn": "全賢姬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 정부는 10년마다 해양수산발전기본계획 및 연도별 시행계획을 수립·시행함. 그러나 재원마련에 대한 규정이 없는 등 현행 규정에 미비한 점이 있어 이를 보완하려는 것임(안 제6조제4항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-06",
+  "decision_date": "2019-08-02",
+  "link_id": "PRC_G1L8C0F3Y0L6K1Z6Y0J7A3Q0B8B6S5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

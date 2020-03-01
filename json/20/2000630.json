@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000630",
+  "title": "[2000630] 게임산업진흥에 관한 법률 일부개정법률안(이종배의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2000630",
+    "2016-07-01",
+    "이종배의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7C27F287-520F-2E87-891D-B0118E7B0BA2','0');",
+  "proposers": [
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "새누리당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "곽상도",
+      "party": "새누리당",
+      "name_cn": "郭尙道"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "새누리당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "새누리당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "새누리당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "배덕광",
+      "party": "새누리당",
+      "name_cn": "裵德光"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "새누리당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "정우택",
+      "party": "새누리당",
+      "name_cn": "鄭宇澤"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "새누리당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "새누리당",
+      "name_cn": "朱豪英"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  법치국가에서의 법 문장은 일반 국민이 쉽게 읽고 이해함으로써 그 법을 잘 준수할 수 있도록 해야 하고, 국민의 올바른 언어생활을 위한 본보기가 되어야 함에도 우리의 법 문장에는 여전히 일반 국민이 쉽게 이해하기 어려운 법률용어 표현이 많이 남아 있음.\n  특히, 일본식 한자어 또는 표현은 국민의 일상적인 언어 생활과는 거리가 있고, 역사·문화적으로도 일제의 잔재가 법문 속에 남아 있는 것은 적절하지 않음.\n  이에 일본식 한자어 또는 표현인 ‘당해’를 보다 알기 쉬운 우리식 한자어인 ‘해당’으로 개정하려는 것임(안 제2조제6호다목 등).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-01",
+  "decision_date": "2016-12-01",
+  "link_id": "PRC_O1L6O0X7D0L1T1L6T0G4C1P0S9Q2K3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023373",
+  "title": "[2023373] 재난 및 안전관리 기본법 일부개정법률안(이상민의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023373",
+    "2019-10-31",
+    "이상민의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','27FC2B36-6DB3-F4B9-82A4-8B06FBB7B8E1','0');",
+  "proposers": [
+    {
+      "name_kr": "이상민",
+      "party": "더불어민주당",
+      "name_cn": "李相珉"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "어기구",
+      "party": "더불어민주당",
+      "name_cn": "魚基龜"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "이종걸",
+      "party": "더불어민주당",
+      "name_cn": "李鍾杰"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서 규정하고 있는 안전정보나 재난관리정보는 여러 기관들이 생산한 재난 및 안전관리 관련 정보의 공동이용과 유통에 초점이 맞추어져 있음. 따라서 재난의 예측, 실시간 대응 등을 위해 ICT 기술이나 빅데이터를 활용할 수 있도록 하는 방안이 필요하다는 의견이 있음.\n  이에 행정안전부장관이 재난안전데이터를 수집·분석하여 활용하고, 이를 위하여 데이터의 표준화, 재난안전데이터센터 설립 또는 지정 등을 할 수 있도록 하여 재난안전데이터를 재난의 예측, 실시간 대응 등에 활용할 수 있는 근거를 마련하고자 함(안 제3조, 제25조, 제70조, 제74조의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-31",
+  "decision_date": null,
+  "link_id": "PRC_W1Z9R1R0N3P1Z1L1I5O0K5D2L6J4B6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

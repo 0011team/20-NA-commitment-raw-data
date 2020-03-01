@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008382",
+  "title": "[2008382] 가맹사업거래의 공정화에 관한 법률 일부개정법률안(김규환의원 등 10인) 입법예고중",
+  "current_status": "폐기",
+  "reception_info": [
+    "2008382",
+    "2017-08-04",
+    "김규환의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제352회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','CBF3FD32-6FEE-5182-6A64-4D62F9B721BB','0');",
+  "proposers": [
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "유민봉",
+      "party": "자유한국당",
+      "name_cn": "庾敏鳳"
+    },
+    {
+      "name_kr": "이주영",
+      "party": "자유한국당",
+      "name_cn": "李柱榮"
+    },
+    {
+      "name_kr": "이철우",
+      "party": "자유한국당",
+      "name_cn": "李喆雨"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법령에서는 가맹본부가 가맹희망자에게 제공하는 정보공개서에 가맹본부의 대차대조표 및 손익계산서를 영업표지별로 분리하여 기재하도록 명시하고 있지 않음.\n  따라서 가맹희망자는 가맹본부가 다수의 영업표지를 가지고 있는 경우 각 영업표지별 재무제표를 면밀히 파악하기 어려워 영업표지 선택에 어려움을 초래하고 있음.\n  이에 정보공개서에 영업표지별 대차대조표 및 손익계산서를 포함하도록 하여 가맹희망자의 합리적인 선택을 도모하고자 함(안 제2조제10호가목).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-08-04",
+  "decision_date": "2017-12-16",
+  "link_id": "PRC_B1C7P0U8U0U4B0D9U5L7I4B2L0B9V0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

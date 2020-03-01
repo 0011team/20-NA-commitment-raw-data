@@ -1,0 +1,95 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010926",
+  "title": "[2010926] 화학물질관리법 일부개정법률안(강병원의원 등 14인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2010926",
+    "2017-12-20",
+    "강병원의원 등 14인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5A344D9B-0753-B0EE-7AAD-10F7AC5FD4FC','0');",
+  "proposers": [
+    {
+      "name_kr": "강병원",
+      "party": "더불어민주당",
+      "name_cn": "姜炳遠"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "박찬대",
+      "party": "더불어민주당",
+      "name_cn": "朴贊大"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    },
+    {
+      "name_kr": "추미애",
+      "party": "더불어민주당",
+      "name_cn": "秋美愛"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른정당",
+      "name_cn": "河泰慶"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 유해성 또는 위해성이 있는 화학물질을 유독물질, 허가물질, 제한물질, 금지물질로 규정하면서 금지물질에 대해서는 취급금지 규정 및 위반 시 벌칙을 두고 있으나 제한물질에 대해서는 취급 기준을 위반하는 행위에 대한 벌칙을 별도로 두고 있지 않음.\n  이에 제한물질을 사용이 제한되는 용도로 사용하는 것을 금지하도록 하고, 이를 위반하는 경우 5년 이하의 징역 또는 1억원 이하의 벌금에 처하도록 함으로써 안전한 화학물질 관리가 이루어지도록 하려는 것임(안 제18조제4항 및 제58조제2호의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-20",
+  "decision_date": "2018-05-28",
+  "link_id": "PRC_H1Q7D1P2S2N0K1W5O0O0S3D4A0F6A4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

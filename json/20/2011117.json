@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011117",
+  "title": "[2011117] 국회운영위원장(정우택) 사임의 건(정우택의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2011117",
+    "2017-12-29",
+    "정우택의원",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','8A5D51A9-99A1-A3B8-9932-D651E9156C09','0');",
+  "proposers": [
+    {
+      "name_kr": "정우택",
+      "party": "자유한국당",
+      "name_cn": "鄭宇澤"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-29",
+  "decision_date": "2017-12-29",
+  "link_id": "PRC_S1Y7W1E2O2K9X1M1O1J1H2J5X2O7G8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

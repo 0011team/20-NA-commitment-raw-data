@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008319",
+  "title": "[2008319] 양곡관리법 일부개정법률안(이만희의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2008319",
+    "2017-08-01",
+    "이만희의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제352회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','2E289A08-A3E8-BD43-E02B-94EAA89792D1','0');",
+  "proposers": [
+    {
+      "name_kr": "이만희",
+      "party": "자유한국당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "강석진",
+      "party": "자유한국당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "박찬우",
+      "party": "자유한국당",
+      "name_cn": "朴贊佑"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "자유한국당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "조훈현",
+      "party": "자유한국당",
+      "name_cn": "曺薰鉉"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  공공비축제도가 도입된 2005년 이후 정부는 쌀 수급 과잉의 경우 일정량을 정부에서 매입하는 등으로 상황을 정리해왔으나 이는 시장 예측이 되지 않고 실시 여부 결정에 많은 시간이 소요됨으로써 그 효과에 의문이 제기되고 있음.\n  이에 정부가 매년 쌀 수급에 대한 계획을 수립하고 쌀의 생산량이 수요량을 초과하는 경우에는 정부가 격리조치를 취할 수 있도록 법적 근거를 마련함으로써, 체계적이고 안정적인 쌀 수급 관리를 실현하고 나아가 쌀 시장의 안정화를 통하여 농가소득 보전에 만전을 기하려는 것임(안 제3조제2항제4호 및 제10조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-08-01",
+  "decision_date": "2020-01-09",
+  "link_id": "PRC_Q1T7B0A8I0J1R1B5Z5W0D2C6A8V3R9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

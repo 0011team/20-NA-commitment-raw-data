@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004943",
+  "title": "[2004943] 성폭력범죄의 처벌 등에 관한 특례법 일부개정법률안(김삼화의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004943",
+    "2017-01-02",
+    "김삼화의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B2C98AC2-BA2B-0DF8-89F7-F59E284481BD','0');",
+  "proposers": [
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "국민의당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "남인순",
+      "party": "더불어민주당",
+      "name_cn": "南仁順"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "국민의당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "국민의당",
+      "name_cn": "朴智元"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법에는 타인의 신체를 그 의사에 반하여 촬영 또는 유포한 경우에 대해 처벌하는 규정만 있을 뿐, 불법 촬영된 영상물 및 촬영매체를 몰수하는 규정은 없음. 현실적으로 카메라 등을 이용한 촬영범죄에 가장 많이 이용되는 휴대폰의 경우 연락처, 사진, 문서 등의 정보가 저장되어 있기 때문에 불법 촬영된 영상물을 삭제한 것이 확인되면 이를 피의자에게 돌려주고 있으나, 촬영매체에서 영상이나 사진을 삭제한다 하더라도 삭제된 영상을 복원하는 것이 가능하다는 문제가 있음.\n  이에 따라 범행에 사용된 카메라 등 기계장치를 몰수하여 불법 촬영물의 유포를 사전에 차단하려는 것임(안 제14조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-01-02",
+  "decision_date": null,
+  "link_id": "PRC_N1W7O0U1B0J2O2W0P5X4H4M0S0N5W0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

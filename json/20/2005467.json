@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005467",
+  "title": "[2005467] 건설기계관리법 일부개정법률안(박찬우의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2005467",
+    "2017-02-07",
+    "박찬우의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제349회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','AFABAECB-3588-B913-C41B-1D51F3BB9DA7','0');",
+  "proposers": [
+    {
+      "name_kr": "박찬우",
+      "party": "새누리당",
+      "name_cn": "朴贊佑"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "새누리당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김용태",
+      "party": "바른정당",
+      "name_cn": "金容兌"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "새누리당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "문희상",
+      "party": "더불어민주당",
+      "name_cn": "文喜相"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "바른정당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "신상진",
+      "party": "새누리당",
+      "name_cn": "申相珍"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "새누리당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "새누리당",
+      "name_cn": "李愚鉉"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법에 따르면 건설기계의 소유자는 국토교통부령으로 정하는 범위내에서 건설기계안전기준에 적합하도록 건설기계의 구조를 변경 또는 개조할 수 있도록 규정하고 있음.\n  그런데 건설기계의 불법 구조 변경 또는 개조에 대한 처벌 규정 미비로 인하여 건설현장과 건설기계의 안전에 위해가 되고 있어 이에 대한 대책마련이 필요하다는 지적이 있음.\n  이에 건설기계를 무단으로 해체하거나 불법으로 구조를 변경 또는 개조한 경우 처벌하도록 함으로써 건설안전을 확보하려는 것임(안 제17조제1항, 제17조의2 신설, 제40조제3호의2 및 제3호의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-02-07",
+  "decision_date": "2017-07-18",
+  "link_id": "PRC_U1C7U0Q2A0U7V1F5E3X9L2N3B4V8E6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

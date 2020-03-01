@@ -1,0 +1,246 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000712",
+  "title": "[2000712] 국회의원(김동철) 징계안(이장우의원 등 23인) 입법예고중",
+  "current_status": "철회",
+  "reception_info": [
+    "2000712",
+    "2016-07-06",
+    "이장우의원 등 23인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','40B7FE22-B949-3333-3E7E-55796521B70B','0');",
+  "proposers": [
+    {
+      "name_kr": "이장우",
+      "party": "새누리당",
+      "name_cn": "李莊雨"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "새누리당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "새누리당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "새누리당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "새누리당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "새누리당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "새누리당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박순자",
+      "party": "새누리당",
+      "name_cn": "朴順子"
+    },
+    {
+      "name_kr": "염동열",
+      "party": "새누리당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "유재중",
+      "party": "새누리당",
+      "name_cn": "柳在仲"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "새누리당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "이은재",
+      "party": "새누리당",
+      "name_cn": "李恩宰"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "조원진",
+      "party": "새누리당",
+      "name_cn": "趙源震"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "새누리당",
+      "name_cn": "池尙昱"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "새누리당",
+      "name_cn": "崔然惠"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "새누리당",
+      "name_cn": "河泰慶"
+    },
+    {
+      "name_kr": "한선교",
+      "party": "새누리당",
+      "name_cn": "韓善敎"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "새누리당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍문종",
+      "party": "새누리당",
+      "name_cn": "洪文鐘"
+    },
+    {
+      "name_kr": "홍철호",
+      "party": "새누리당",
+      "name_cn": "洪哲鎬"
+    },
+    {
+      "name_kr": "황영철",
+      "party": "새누리당",
+      "name_cn": "黃永哲"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [
+    {
+      "name_kr": "김명연",
+      "party": "새누리당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "새누리당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "새누리당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "새누리당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "새누리당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "새누리당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박순자",
+      "party": "새누리당",
+      "name_cn": "朴順子"
+    },
+    {
+      "name_kr": "염동열",
+      "party": "새누리당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "유재중",
+      "party": "새누리당",
+      "name_cn": "柳在仲"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "새누리당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "이장우",
+      "party": "새누리당",
+      "name_cn": "李莊雨"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "조원진",
+      "party": "새누리당",
+      "name_cn": "趙源震"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "새누리당",
+      "name_cn": "池尙昱"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "새누리당",
+      "name_cn": "崔然惠"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "새누리당",
+      "name_cn": "河泰慶"
+    },
+    {
+      "name_kr": "한선교",
+      "party": "새누리당",
+      "name_cn": "韓善敎"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "새누리당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍문종",
+      "party": "새누리당",
+      "name_cn": "洪文鐘"
+    },
+    {
+      "name_kr": "홍철호",
+      "party": "새누리당",
+      "name_cn": "洪哲鎬"
+    }
+  ],
+  "proposed_date": "2016-07-06",
+  "decision_date": "2016-09-08",
+  "link_id": "PRC_L1R6W0O7F0D6I1T7D1Z6M2Y8O0H1H7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

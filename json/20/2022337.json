@@ -1,0 +1,115 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022337",
+  "title": "[2022337] 고용보험법 일부개정법률안(이장우의원 등 18인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022337",
+    "2019-09-04",
+    "이장우의원 등 18인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','408B8841-5DCC-23A4-DDC4-398637A27EC1','0');",
+  "proposers": [
+    {
+      "name_kr": "이장우",
+      "party": "자유한국당",
+      "name_cn": "李莊雨"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "자유한국당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "김종석",
+      "party": "자유한국당",
+      "name_cn": "金鍾奭"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "자유한국당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "유민봉",
+      "party": "자유한국당",
+      "name_cn": "庾敏鳳"
+    },
+    {
+      "name_kr": "유재중",
+      "party": "자유한국당",
+      "name_cn": "柳在仲"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "전희경",
+      "party": "자유한국당",
+      "name_cn": "全希卿"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "자유한국당",
+      "name_cn": "洪文杓"
+    },
+    {
+      "name_kr": "홍일표",
+      "party": "자유한국당",
+      "name_cn": "洪日杓"
+    },
+    {
+      "name_kr": "홍철호",
+      "party": "자유한국당",
+      "name_cn": "洪哲鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 구직급여의 수급 요건으로 이직일 이전 18개월간 피보험 단위기간이 일률적으로 180일 이상일 것을 요구하고 있음.\n  그런데 피보험 단위기간인 180일의 요건만 채우고 비자발적 퇴사를 유도하는 등의 사유로 부정수급하는 사례가 반복적으로 발생하여 사업주가 피해를 보는 상황이 발생하기도 함.\n  이에 구직급여의 수급 횟수가 3회 이상인 경우에는 최종 이직일 이전 피보험 단위기간 180일을 1년으로 확대 변경하여 반복적인 부정수급의 가능성 및 고용보험기금의 고갈을 예방하려는 것임(안 제40조제3항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-09-04",
+  "decision_date": null,
+  "link_id": "PRC_K1X9T0T9H0B4T1K7K1A3V4S3H0Y8H9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

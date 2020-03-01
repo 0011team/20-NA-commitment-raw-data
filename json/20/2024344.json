@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2024344",
+  "title": "[2024344] 국회법 일부개정법률안(박인숙의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2024344",
+    "2019-12-23",
+    "박인숙의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제372회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','31C360A3-8294-150B-F797-A47FAD0C8F30','0');",
+  "proposers": [
+    {
+      "name_kr": "박인숙",
+      "party": "자유한국당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "자유한국당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김용태",
+      "party": "자유한국당",
+      "name_cn": "金容兌"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "자유한국당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "자유한국당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "정진석",
+      "party": "자유한국당",
+      "name_cn": "鄭鎭碩"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 위원장은 위원회의 의사일정과 개회일시를 간사와 협의하여 정하고 있음. \n  그런데 이견이 첨예한 안건을 다루는 경우 등에 있어서 위원장이 의사일정을 변경한 후 약식의 통보를 하는 등 현행 협의 절차가 비민주적·비합리적으로 운영되고 있다는 지적이 있음.  \n  이에 위원회의 의사일정과 개회일시를 위원장과 간사가 합의하여 정하도록 하고, 합의는 위원장과 간사가 서명·날인한 문서로 한다고 함으로써 위원회 운영의 민주성·합리성을 제고하려는 것임(안 제49조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-12-23",
+  "decision_date": null,
+  "link_id": "PRC_B1W9C1M2U2G3R1U7E3O2N3C7J9W8R6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

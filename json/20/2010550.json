@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010550",
+  "title": "[2010550] 대기환경보전법 일부개정법률안(손금주의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2010550",
+    "2017-12-01",
+    "손금주의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','34A7A891-B2A4-DBBA-5F1E-96D724D265ED','0');",
+  "proposers": [
+    {
+      "name_kr": "손금주",
+      "party": "국민의당",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "국민의당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "국민의당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "국민의당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  「대기환경보전법」은 대기오염으로 인한 국민건강이나 환경에 관한 위해(危害)를 예방해 모든 국민이 건강하고 쾌적한 환경에서 생활할 수 있게 하는 것을 목적으로 하고 있음. \n  하지만 최근 조성되는 신도시(혁신도시)에 친환경 에너지가 아닌 고형폐기물 연료를 사용한 열병합발전소 등이 건립되면서 오염된 공기와 냄새 등으로 인해 주민 생존권마저 위협받는 상황임. \n  이에 현행법의 제16조(배출허용기준)에서 새롭게 조성중인 신도시 및 혁신도시에 대해서도 대기환경규제지역의 대기질에 대한 개선을 위하여 필요하다고 인정될 경우 보다 강화된 배출허용기준을 적용할 수 있도록 하려는 것임(안 제16조제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-01",
+  "decision_date": null,
+  "link_id": "PRC_Z1D7A1S2U0Z1N1M1G1C1E1A6H5O1Y5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

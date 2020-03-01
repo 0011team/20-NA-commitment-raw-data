@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2017286",
+  "title": "[2017286] 방송법 일부개정법률안(추혜선의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2017286",
+    "2018-12-07",
+    "추혜선의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','3E8A3042-FEF9-2107-BD3C-2E50ED5EDADC','0');",
+  "proposers": [
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "김종훈",
+      "party": "민중당",
+      "name_cn": "金鍾勳"
+    },
+    {
+      "name_kr": "심상정",
+      "party": "정의당",
+      "name_cn": "沈相鄭"
+    },
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "임재훈",
+      "party": "바른미래당",
+      "name_cn": "林哉勳"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  과거 한국방송공사의 일부 이사가 업무추진비를 정해진 용도 외에 사적으로 사용한 사실이 알려지면서, 한국방송공사 이사·집행기관의 보수, 각종 수당의 수령 내역 및 업무추진비 집행 내역 등에 대한 공개가 필요하다는 목소리가 높아지고 있음.\n  특히, 한국방송공사는 재원의 상당 부분을 국민이 납부한 수신료로 마련한다는 점에서 한국방송공사의 예산 운용은 보다 투명하게 이루어져야 함.\n  이에 한국방송공사 이사·집행기관의 보수, 각종 수당의 수령 내역 및 업무추진비 등의 집행 내역을 분기별로 홈페이지 등을 통하여 공개하도록 함으로써 한국방송공사의 신뢰성 및 예산 운용의 투명성을 제고하려는 것임(안 제53조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-12-07",
+  "decision_date": null,
+  "link_id": "PRC_O1S8E1Y2S0M7I1X0O1Y5E4M7H6U6J0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016219",
+  "title": "[2016219] 방송법 일부개정법률안(김성원의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2016219",
+    "2018-10-31",
+    "김성원의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F0EF63CD-9F94-FDD6-DC8C-558CD3B8394E','0');",
+  "proposers": [
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "자유한국당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "자유한국당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  법률 용어는 일반 국민이 쉽게 읽고 이해해서 잘 지킬 수 있도록 하여야 함은 물론이고 국민의 올바른 언어생활을 위한 본보기가 되어야 함.\n  그러나 우리의 법 문장은 용어 등이 어려워 이해하기 힘든 경우가 많고, 국민의 일상적인 언어생활과 거리가 있다는 지적이 많음.\n  이에 현행법의 ‘잔임기간’을 ‘임기의 남은 기간’으로 정비하여 어려운 한자식 용어의 사용을 지양하고, 국민이 쉽게 읽고 잘 이해할 수 있는 법률이 되도록 하려는 것임(안 제47조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-31",
+  "decision_date": "2019-11-19",
+  "link_id": "PRC_A1W8X1A0P3C1N1I7W4H2K5M1Y1X4U5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

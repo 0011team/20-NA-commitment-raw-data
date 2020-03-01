@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006928",
+  "title": "[2006928] 근로복지기본법 일부개정법률안(기동민의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2006928",
+    "2017-05-18",
+    "기동민의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','82D0EA00-B567-F999-4C8A-E92DFB69966B','0');",
+  "proposers": [
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "권미혁",
+      "party": "더불어민주당",
+      "name_cn": "權美赫"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "김태년",
+      "party": "더불어민주당",
+      "name_cn": "金太年"
+    },
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    },
+    {
+      "name_kr": "전현희",
+      "party": "더불어민주당",
+      "name_cn": "全賢姬"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  근로자지원프로그램은 근로자의 업무수행, 일상생활 등에서 발생하는 스트레스, 고충 등의 해결을 지원하여 근로자를 보호하고 나아가 기업의 생산성 향상에도 기여하는 효과가 있음. \n  현재 고용노동부는 중소기업을 대상으로 근로자지원프로그램을 지원하는 등 근로자지원프로그램의 확대를 위하여 노력하고 있으나 현행법 상 근로자지원프로그램 시행은 임의조항이므로 한계가 있을 수밖에 없음. \n  이에 상시 100명 이상의 근로자를 사용하는 사업주에게 근로자지원프로그램 시행을 의무화하려는 것임(안 제83조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-05-18",
+  "decision_date": null,
+  "link_id": "PRC_B1P7J0W5W1S8G1T1A2L1H4C2U5H6C8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

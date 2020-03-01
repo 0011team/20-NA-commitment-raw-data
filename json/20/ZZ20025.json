@@ -1,0 +1,45 @@
+{
+  "assembly_id": 20,
+  "bill_id": "ZZ20025",
+  "title": "[ZZ20025] 박근혜 정부의 최순실 등 민간인에 의한 국정농단 의혹 사건 진상규명을 위한 국정조사 요구(정진석의원ㆍ우상호의원ㆍ박지원의원ㆍ노회찬의원 외 191인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "ZZ20025",
+    "2016-11-15",
+    "정진석의원ㆍ우상호의원ㆍ박지원의원ㆍ노회찬의원 외 191인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','AB651D58-AE63-0525-964E-00A4553C7C34','0');",
+  "proposers": [
+    {
+      "name_kr": "노회찬",
+      "party": "정의당",
+      "name_cn": "魯會燦"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "국민의당",
+      "name_cn": "朴智元"
+    },
+    {
+      "name_kr": "우상호",
+      "party": "더불어민주당",
+      "name_cn": "禹相虎"
+    },
+    {
+      "name_kr": "정진석",
+      "party": "새누리당",
+      "name_cn": "鄭鎭碩"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-15",
+  "decision_date": null,
+  "link_id": "PRC_C1I6G1F1X1O5G1W8R5R4G4K9H6K0V9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

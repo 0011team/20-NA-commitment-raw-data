@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002419",
+  "title": "[2002419] 조세특례제한법 일부개정법률안(김현미의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2002419",
+    "2016-09-22",
+    "김현미의원 등 10인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D5D49A60-920C-BE42-DDF2-2035441F9B86','0');",
+  "proposers": [
+    {
+      "name_kr": "김현미",
+      "party": "더불어민주당",
+      "name_cn": "金賢美"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "어기구",
+      "party": "더불어민주당",
+      "name_cn": "魚基龜"
+    },
+    {
+      "name_kr": "유은혜",
+      "party": "더불어민주당",
+      "name_cn": "兪銀惠"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "표창원",
+      "party": "더불어민주당",
+      "name_cn": "表蒼園"
+    }
+  ],
+  "summaries": [
+    "\n현행법에 따르면 근로장려금은 총급여액을 기준으로 계산하고 근로장려금이 1만5천원 미만일 때에는 없는 것으로 규정하고 있음. 이에 홑벌이가구의 총급여액이 2,100만원미만인 경우 산정표에 따라 산정하여 지급된다고 안내되고 있으나 실지 지급금액이 소액 또는 미지급되는 경우가 있어 납세자의 불만을 야기하고 있는 상황임.\n  따라서 근로장려금이 5만원 미만일 때 5만원으로 근로장려금 지급 최저한 상향으로 납세자의 편익을 도모하고자 함(안 제100조의5).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-09-22",
+  "decision_date": "2016-12-02",
+  "link_id": "PRC_T1U6J0M9Z2K2I1W8F1R4Q3G6E2C6J7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

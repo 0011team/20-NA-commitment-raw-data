@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015841",
+  "title": "[2015841] 동물보호법 일부개정법률안(김종회의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2015841",
+    "2018-10-02",
+    "김종회의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','308035A2-DC60-B2D7-14D2-658BE03036D7','0');",
+  "proposers": [
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "민주평화당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "민주평화당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "민주평화당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "민주평화당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "천정배",
+      "party": "민주평화당",
+      "name_cn": "千正培"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법령은 동물의 보호와 유실·유기방지를 위하여 등록대상동물을 등록하도록 규정하고, 동물에게 무선전자개체식별장치 또는 인식표를 의무적으로 장착하도록 하고 있음.\n  그런데 동물 내부에 삽입하는 무선전자개체식별장치(마이크로칩)는 이식을 해야 하고, 동물 외부에 부착하는 인식표는 임의로 제거하기 쉽고 분실될 확률이 높음.\n  이에 동물을 등록하려는 경우 무선전자개체식별장치 또는 인식표를 장착 외에 등록대상동물의 모근 등을 활용한 DNA를 등록 방식을 추가하여 동물등록제의 실효성을 높이려는 것임(안 제12조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-02",
+  "decision_date": null,
+  "link_id": "PRC_U1P8O1F0U0L2I1B6T1J9F5Y1T4V1W3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

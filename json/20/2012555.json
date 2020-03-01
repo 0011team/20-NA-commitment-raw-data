@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012555",
+  "title": "[2012555] 국가공무원법 일부개정법률안(김경진의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2012555",
+    "2018-03-20",
+    "김경진의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제358회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','4569C5E9-9F1B-EAB1-680A-2FE2E5D11265','0');",
+  "proposers": [
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "민주평화당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "바른미래당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "무소속",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "민주평화당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "천정배",
+      "party": "민주평화당",
+      "name_cn": "千正培"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  감사원이 헌법이 부여한 권한을 제대로 수행하기 위해서는 독립성과 정치적 중립성이 중요함. 그런데 감사원은 헌법기관이면서도 대통령 소속으로 되어 있기 때문에 형식적으로는 독립성이 보장되었지만 실제 업무 수행에 독립적이지 못한 측면을 보이고 있음.\n  이에 감사원의 실질적인 직무상 독립을 위하여 5급 이상 감사원 직원에 대한 임면권을 감사원장이 행사할 수 있도록 하려는 것임(안 제32조제8항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-20",
+  "decision_date": null,
+  "link_id": "PRC_M1A8I0V3F2O0C1M0P2C2X5V8P5T5O5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

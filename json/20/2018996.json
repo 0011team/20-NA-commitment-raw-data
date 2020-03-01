@@ -1,0 +1,40 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018996",
+  "title": "[2018996] 국무총리 및 국무위원 출석요구의 건(외교ㆍ통일ㆍ안보에 관한 질문)(김관영의원 등 3인 외 264인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2018996",
+    "2019-03-06",
+    "김관영의원 등 3인 외 264인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','78DF5AF4-4C3D-7CCB-96CE-599B8EB6E119','0');",
+  "proposers": [
+    {
+      "name_kr": "김관영",
+      "party": "바른미래당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "나경원",
+      "party": "자유한국당",
+      "name_cn": "羅卿瑗"
+    },
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-03-06",
+  "decision_date": "2019-03-07",
+  "link_id": "PRC_Z1U9U0V3W0R6W1B6G2J8Z4O8U4G4P4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

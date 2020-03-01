@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004275",
+  "title": "[2004275] 국회법 일부개정법률안(김민기의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2004275",
+    "2016-12-08",
+    "김민기의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','1E57974C-D03D-6C64-4617-4CED8B35532F','0');",
+  "proposers": [
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "김현미",
+      "party": "더불어민주당",
+      "name_cn": "金賢美"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "손혜원",
+      "party": "더불어민주당",
+      "name_cn": "孫惠園"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  정부는 2006년부터 ‘알기 쉬운 법령 만들기 사업’을 추진하고 있고, 이에 따라 국회에서 현행 법률에 대한 정비가 이루어지고 있는바, 알기 쉬운 법령 만들기 사업의 일환으로 일본식 한자어 또는 어려운 한자어를 일반 국민이 법 문장을 이해하기 쉽게 정비하려는 것임(안 제5조, 제32조, 제79조, 제114조, 제137조, 제164조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-08",
+  "decision_date": "2018-03-30",
+  "link_id": "PRC_A1P6D1O2L0D8C2O0P3J0U0M5I4M5H5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

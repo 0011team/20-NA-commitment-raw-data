@@ -1,0 +1,95 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003868",
+  "title": "[2003868] 국회법 일부개정법률안(정인화의원 등 14인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2003868",
+    "2016-11-25",
+    "정인화의원 등 14인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C8A6A003-070C-5C70-CA79-2165AB69FFAD','0');",
+  "proposers": [
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "국민의당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "박준영",
+      "party": "국민의당",
+      "name_cn": "朴晙瑩"
+    },
+    {
+      "name_kr": "송기석",
+      "party": "국민의당",
+      "name_cn": "宋基錫"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이상돈",
+      "party": "국민의당",
+      "name_cn": "李相敦"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "무소속",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "진선미",
+      "party": "더불어민주당",
+      "name_cn": "陳善美"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법에 따르면 대통령 및 국무총리 등에 대한 탄핵소추안과 국무총리 및 국무위원에 대한 해임건의안이 본회의에 보고된 때로부터 24시간 이후 72시간 이내에 표결되지 아니한 경우에는 폐기된 것으로 간주하고 있는바, 최근 도입된 무제한 토론이 실시되는 경우 탄핵소추안과 해임건의안의 표결 기간이 경과하게 되면 본회의의 의결이 없이 무력화되는 불합리한 문제가 있는 실정임.\n  이에 탄핵소추안과 해임건의안에 대하여는 무제한 토론을 실시하여 표결 기간이 경과하더라도 폐기되도록 간주하지 않고, 무제한 토론이 종결된 후 지체 없이 표결할 수 있도록 하려는 것임(안 제112조제8항 및 제130조제3항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-25",
+  "decision_date": null,
+  "link_id": "PRC_R1R6G1R1U2T5V1A6V4A1S5W3T4O9P4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

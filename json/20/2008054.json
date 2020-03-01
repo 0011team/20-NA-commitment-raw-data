@@ -1,0 +1,100 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008054",
+  "title": "[2008054] 근로기준법 일부개정법률안(백재현의원 등 15인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2008054",
+    "2017-07-18",
+    "백재현의원 등 15인",
+    "의안원문",
+    "제20대 (2016~2020) 제352회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','2D72A662-51E7-074C-AF33-8597BA31E959','0');",
+  "proposers": [
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "박찬대",
+      "party": "더불어민주당",
+      "name_cn": "朴贊大"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "더불어민주당",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "표창원",
+      "party": "더불어민주당",
+      "name_cn": "表蒼園"
+    },
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 임금채권에 대한 권리를 3년간 행사하지 않으면 소멸되도록 하고 있음. 이에 따라 기산일 문제로 근로자가 재직 중에 사용자에게 성과급 등을 사실상 청구하기 어려운 여건을 감안하면, 3년이 경과된 임금채권은 소멸시효가 완성되어 임금을 변제받지 못하는 제도적 맹점이 존재함.\n  이에 임금채권의 기산일을 사용자와 근로계약이 종료한 때부터 3년간으로 정함으로써 근로자의 재직기간 전체 중 발생한 체불임금 피해에 대한 구제 권리를 보호하려는 것임(안 제49조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-07-18",
+  "decision_date": null,
+  "link_id": "PRC_X1S7J0N7T1R8N1A6U2P0S5L6S0Y8X8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

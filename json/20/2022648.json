@@ -1,0 +1,100 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022648",
+  "title": "[2022648] 소득세법 일부개정법률안(김정호의원 등 15인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2022648",
+    "2019-09-24",
+    "김정호의원 등 15인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','99A0CE84-5CE7-7A65-BD32-3D753DC52DCB','0');",
+  "proposers": [
+    {
+      "name_kr": "김정호",
+      "party": "더불어민주당",
+      "name_cn": "金禎鎬"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "서삼석",
+      "party": "더불어민주당",
+      "name_cn": "徐參錫"
+    },
+    {
+      "name_kr": "송영길",
+      "party": "더불어민주당",
+      "name_cn": "宋永吉"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "심기준",
+      "party": "더불어민주당",
+      "name_cn": "沈基俊"
+    },
+    {
+      "name_kr": "오영훈",
+      "party": "더불어민주당",
+      "name_cn": "吳怜勳"
+    },
+    {
+      "name_kr": "윤준호",
+      "party": "더불어민주당",
+      "name_cn": "尹俊晧"
+    },
+    {
+      "name_kr": "이상헌",
+      "party": "더불어민주당",
+      "name_cn": "李相憲"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "제윤경",
+      "party": "더불어민주당",
+      "name_cn": "諸閏景"
+    },
+    {
+      "name_kr": "조정식",
+      "party": "더불어민주당",
+      "name_cn": "趙正湜"
+    },
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  어업소득의 경우 3천만원까지 소득세가 비과세되며, 이를 초과하는 소득에 대해서는 과세되고 있음. 반면, 농업소득의 경우 식량 작물재배업 소득은 전액, 과수·화훼 등 기타 작물재배업 수입은 10억원까지 비과세되고 있어서 농어업간 세제불균형이 심각한 상황임\n  이에 식량 작물재배업과 대응하는 어로어업 소득은 전액, 기타 작물재배업과 대응하는 양식어업 수입은 10억원까지 비과세하여 농·어업부문간 과세형평성을 제고하고 어업인의 소득증대와 수산업의 경쟁력 강화를 도모하고자 함(안 제12조제2호사목, 제19조제1항제1호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-09-24",
+  "decision_date": "2019-12-10",
+  "link_id": "PRC_M1U9O0L9R2G4Y1I7M2V4T4B4U7Y3O1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

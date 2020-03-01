@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016949",
+  "title": "[2016949] 화재예방, 소방시설 설치·유지 및 안전관리에 관한 법률 일부개정법률안(김영호의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2016949",
+    "2018-11-30",
+    "김영호의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','6A8892E3-9006-3887-C139-9A06AAC15B32','0');",
+  "proposers": [
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "심재권",
+      "party": "더불어민주당",
+      "name_cn": "沈載權"
+    },
+    {
+      "name_kr": "원혜영",
+      "party": "더불어민주당",
+      "name_cn": "元惠榮"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "이수혁",
+      "party": "더불어민주당",
+      "name_cn": "李秀赫"
+    },
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 영화상영관 중 수용인원이 1,000명 이상인 영화상영관에 한하여 소방안전 특별관리시설물로 지정하고 있음.\n  소형복합상영관이 늘어나면서 수용인원이 1,000명 이하인 영화상영관이 늘어나고 있음. \n  이에 영화상영관의 소방안전 특별관리시설물의 기준을 수용인원 1,000명에서 500명으로 낮춰서 영화상영관 소방안전을 강화하려는 것임(안 제20조의2제1항제9호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-11-30",
+  "decision_date": null,
+  "link_id": "PRC_X1Z8V1M1J3M0S1X5V3E9B0U3A1T5P7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

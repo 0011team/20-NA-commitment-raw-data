@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2024185",
+  "title": "[2024185] 부동산 가격공시에 관한 법률 일부개정법률안(김현아의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2024185",
+    "2019-12-04",
+    "김현아의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','86A30D48-2B6C-C02C-7116-A55F092926C0','0');",
+  "proposers": [
+    {
+      "name_kr": "김현아",
+      "party": "자유한국당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김진태",
+      "party": "자유한국당",
+      "name_cn": "金鎭台"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "이종구",
+      "party": "자유한국당",
+      "name_cn": "李鍾九"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "자유한국당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "자유한국당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "자유한국당",
+      "name_cn": "朱豪英"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  최근 갤러리아포레 등 한국감정원이 조사·산정한 공동주택 공시가격에 대하여 언론과 전문가가 문제점을 계속적으로 지적하고 있음. 감정원이 조사·산정한 공동주택 공시가격에 대한 검증 절차가 명문화 되어 있지 않아 발생한 문제로 검증체계를 갖추어야할 필요가 있음.\n  이에 현행처럼 공동주택의 특수성을 감안하여 공동주택의 공시가격에 대해서는 감정원이 조사·산정하도록 하되, 표준지와 마찬가지로 그 타당성에 대해 감정평가업자의 검증을 받도록 하여 문제점을 개선하고자 함(안 제18조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-12-04",
+  "decision_date": null,
+  "link_id": "PRC_G1L9X1Q2W0N4U1B6R3A1I2C0L5X0G5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

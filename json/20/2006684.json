@@ -1,0 +1,225 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006684",
+  "title": "[2006684] 재난 및 안전관리 기본법 일부개정법률안(신용현의원 등 40인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2006684",
+    "2017-04-10",
+    "신용현의원 등 40인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E46A5B7F-1452-7802-F798-5BF86E057C41','0');",
+  "proposers": [
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "권은희",
+      "party": "국민의당",
+      "name_cn": "權垠希"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "국민의당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "국민의당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김성식",
+      "party": "국민의당",
+      "name_cn": "金成植"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "국민의당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "국민의당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "국민의당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "국민의당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "박주현",
+      "party": "국민의당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "박준영",
+      "party": "국민의당",
+      "name_cn": "朴晙瑩"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "국민의당",
+      "name_cn": "朴智元"
+    },
+    {
+      "name_kr": "손금주",
+      "party": "국민의당",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "송기석",
+      "party": "국민의당",
+      "name_cn": "宋基錫"
+    },
+    {
+      "name_kr": "안철수",
+      "party": "국민의당",
+      "name_cn": "安哲秀"
+    },
+    {
+      "name_kr": "오세정",
+      "party": "국민의당",
+      "name_cn": "吳世正"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "국민의당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이상돈",
+      "party": "국민의당",
+      "name_cn": "李相敦"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "더불어민주당",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "국민의당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "이태규",
+      "party": "국민의당",
+      "name_cn": "李泰珪"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "국민의당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "국민의당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "국민의당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "천정배",
+      "party": "국민의당",
+      "name_cn": "千正培"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 심각한 미세먼지로 인하여 서울의 공기품질지수는 인도 뉴델리에 이어 세계에서 두 번째로 안좋은 것으로 나타나고 있음. \n  미세먼지는 호흡기 질환의 발생률을 급격하게 증대시키며, 우리나라 국민건강의 큰 위협요인이 되고 있음.\n  따라서 이 법에 따른 자연재난의 범위에 미세먼지로 인한 피해를 포함하도록 함으로써, 미세먼지에 대한 안전관리체계를 확립하여 그 예방·대비·대응 등을 체계적으로 수행할 필요가 있음.\n  이에 이 법상 ‘재난’의 정의규정에 미세먼지가 포함되도록 함으로써 이 법에 따른 안전관리의 대상임을 분명히 하여, 국민의 건강권, 생명권을 보장하려는 것임.(안 제3조제1호가목).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-04-10",
+  "decision_date": "2019-03-13",
+  "link_id": "PRC_G1M7O0C4Q1J0H1R8F0L4F4U3A6L5W3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

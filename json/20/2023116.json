@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023116",
+  "title": "[2023116] 공공주택 특별법 일부개정법률안(서영교의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023116",
+    "2019-10-29",
+    "서영교의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','863BBE65-DA8C-33DA-F1CB-F4FEE05CE6D3','0');",
+  "proposers": [
+    {
+      "name_kr": "서영교",
+      "party": "더불어민주당",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "맹성규",
+      "party": "더불어민주당",
+      "name_cn": "孟聖奎"
+    },
+    {
+      "name_kr": "박완주",
+      "party": "더불어민주당",
+      "name_cn": "朴完柱"
+    },
+    {
+      "name_kr": "서삼석",
+      "party": "더불어민주당",
+      "name_cn": "徐參錫"
+    },
+    {
+      "name_kr": "서형수",
+      "party": "더불어민주당",
+      "name_cn": "徐炯洙"
+    },
+    {
+      "name_kr": "윤일규",
+      "party": "더불어민주당",
+      "name_cn": "尹一逵"
+    },
+    {
+      "name_kr": "윤준호",
+      "party": "더불어민주당",
+      "name_cn": "尹俊晧"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  현행법 및 법 시행령은 공공임대주택의 임대보증금 및 월 임대료는 국토교통부장관이 정하여 고시하는 표준 임대료를 초과할 수 없도록 제한하고 있음.\n  그런데 임대보증금을 월 임대료로 전환하는 경우 월 임대료 상한에 대한 기준은 별도로 규정하지 않아 과도한 월 임대료가 책정될 수 있다는 우려가 있음.\n  이에 공공임대주택의 임대보증금을 월 임대료로 전환하는 경우 월 임대료를 산정할 때 한국은행에서 공시한 기준금리를 초과하여 적용할 수 없도록 하여, 공공임대주택에 거주하는 임차인의 임대료 부담을 완화함으로써 주거 안정에 기여하려는 것임(안 제49조제5항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-29",
+  "decision_date": null,
+  "link_id": "PRC_Z1I9I1C0F2N9C0M9J5Q4Q3Q9X7C7Q9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

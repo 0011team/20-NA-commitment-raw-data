@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022858",
+  "title": "[2022858] 국회법 일부개정법률안(권칠승의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022858",
+    "2019-10-10",
+    "권칠승의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','47DA3646-8509-D240-95E3-F3944B55018D','0');",
+  "proposers": [
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "이규희",
+      "party": "더불어민주당",
+      "name_cn": "李揆熙"
+    },
+    {
+      "name_kr": "이학영",
+      "party": "더불어민주당",
+      "name_cn": "李學永"
+    },
+    {
+      "name_kr": "홍의락",
+      "party": "더불어민주당",
+      "name_cn": "洪宜洛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  현행법에는 회의록에 기록된 내용에 대해 발언의 취지를 지키는 선에서 자구 수정을 허가하고 있음. \n  그러나 실제 회의 중에 이루어진 의원의 부적절한 발언에 대한 취소 또는 자구 정정 등이 이루어지는 경우 역사 기록에 대한 침해, 사실 왜곡이 될 수 있다는 비판이 있음. \n  이에 부적절한 언행이 그대로 기록되고 보존되어 역사 속에서 평가 받음을 명확히 함으로써 국민의 대표인 국회의원과 국무위원이 올바른 언행을 유지하게 하고자 자구의 정정을 제한하고 자구에 대한 부가 설명 또는 해명을 기록하도록 하려는 것임(안 제117조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-10",
+  "decision_date": null,
+  "link_id": "PRC_X1Y9T1U0U1O0S1U5Z5F2X2C0F4U6K5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

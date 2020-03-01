@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008363",
+  "title": "[2008363] 고용정책 기본법 일부개정법률안(박광온의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2008363",
+    "2017-08-02",
+    "박광온의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제352회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B451921D-ACAD-CA6F-E319-3136E400B5F9','0');",
+  "proposers": [
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "국민의당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "김영주",
+      "party": "더불어민주당",
+      "name_cn": "金榮珠"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "국민의당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 대통령령으로 정하는 수 이상의 근로자를 사용하는 사업주에게 고용형태 현황을 공시하도록 하여 국가가 기업의 일자리 창출 및 처우개선, 직업능력개발을 지원하기 위한 정책을 수립하도록 하고 있음.\n  그러나 이 법에서는 근로자의 고용목적 및 수행업무가 공시되어 있지 않아 근로자에 대한 처우 개선 및 직업능력개발을 위한 정책 수립에 한계가 있음.\n  이에 단순 고용현황 뿐 아니라 근로자의 고용목적 및 수행업무까지 공시하게 하여 노동시장의 효율성과 인력수급의 균형을 도모하고자 함(안 제15조의2).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-08-02",
+  "decision_date": null,
+  "link_id": "PRC_U1C7Q0S8N0L2B1R8P0A4U3B7M7G5E5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

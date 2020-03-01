@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013391",
+  "title": "[2013391] 국회의원(이철우) 사직의 건(이철우의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2013391",
+    "2018-05-02",
+    "이철우의원",
+    "의안원문",
+    "제20대 (2016~2020) 제360회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B6D58149-8A50-9887-C1CB-76461551D05F','0');",
+  "proposers": [
+    {
+      "name_kr": "이철우",
+      "party": "자유한국당",
+      "name_cn": "李喆雨"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-05-02",
+  "decision_date": "2018-05-14",
+  "link_id": "PRC_T1R8G0O5H0W2U1O6G4Z1H0N0I6I0E1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

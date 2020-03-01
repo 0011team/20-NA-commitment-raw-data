@@ -1,0 +1,24 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011082",
+  "title": "[2011082] 국회의원(이우현) 체포동의안(정부) 입법예고중",
+  "current_status": "접수",
+  "reception_info": [
+    "2011082",
+    "2017-12-28",
+    "정부",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','BFA3182B-07F0-2DB0-6317-B4737922C18D','0');",
+  "proposers": [],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-28",
+  "decision_date": null,
+  "link_id": "PRC_F1S7K1C2G2A8T1D6F0W2P1A1L5B4E0",
+  "proposer_type": "정부",
+  "status": "처리"
+}

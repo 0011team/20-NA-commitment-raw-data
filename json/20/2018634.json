@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018634",
+  "title": "[2018634] 국가공무원법 일부개정법률안(곽상도의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018634",
+    "2019-02-14",
+    "곽상도의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9BEE884B-D777-496F-ACBA-2ACFF1F21354','0');",
+  "proposers": [
+    {
+      "name_kr": "곽상도",
+      "party": "자유한국당",
+      "name_cn": "郭尙道"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "자유한국당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "자유한국당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "정종섭",
+      "party": "자유한국당",
+      "name_cn": "鄭宗燮"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "자유한국당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  ‘고위공직자’라는 개념은 통상 단어 그대로 높은 직위에 있는 공무원이라고 이해되어 일상 생활 속에서 무리 없이 사용되고 있음.\n  하지만 여러 법령에서 고위공직자의 개념이 다양하게 정의, 해석되고 있어 공무원의 구분 등 기본적인 내용을 담고 있는 현행법에 고위공직자의 범위를 규정하여 명확히 할 필요가 있음.\n  이에 정무직 공무원과 3급 이상에 해당하는 일반직공무원 및 이에 상당하는 별정직·특정직공무원을 고위공직자로 규정하여 다른 법령 상 고위공직자 범위 해석에 있어 혼란을 없애려는 것임(안 제2조의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-02-14",
+  "decision_date": null,
+  "link_id": "PRC_Z1M9R0X2U1L4D1D4J5T4Z1W5T9M2Q9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

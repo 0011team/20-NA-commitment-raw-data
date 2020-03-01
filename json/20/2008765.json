@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2008765",
+  "title": "[2008765] 상가건물 임대차보호법 일부개정법률안(김현아의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2008765",
+    "2017-08-28",
+    "김현아의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제353회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5366836A-93F7-9859-4961-67EE1879B4DD','0');",
+  "proposers": [
+    {
+      "name_kr": "김현아",
+      "party": "자유한국당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김무성",
+      "party": "바른정당",
+      "name_cn": "金武星"
+    },
+    {
+      "name_kr": "김영우",
+      "party": "바른정당",
+      "name_cn": "金榮宇"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "유승민",
+      "party": "바른정당",
+      "name_cn": "劉承旼"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "정양석",
+      "party": "바른정당",
+      "name_cn": "鄭亮碩"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "바른정당",
+      "name_cn": "朱豪英"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른정당",
+      "name_cn": "河泰慶"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 임대인이 준수하여야 하는 권리금 지급 방해행위 금지기간을 임대차기간이 끝나기 3개월 전부터 종료 시까지로 제한하고 있는데 이에 대해 임차인의 권리금 회수기회 기간이 짧다는 지적이 있음. \n  이에 3개월 전부터 임대차 종료 시까지를 6개월 전부터 임대차 종료 시까지로 하여 임차인의 권리금 회수기회 기간을 늘려줌으로써 임차인의 권리를 보호하려는 것임(안 제10조의4).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-08-28",
+  "decision_date": null,
+  "link_id": "PRC_C1P7V0O8B2J8M1J5Q1X6J1P9K1R6J5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

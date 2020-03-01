@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018992",
+  "title": "[2018992] 예산결산특별위원장(안상수) 사임의 건(안상수의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2018992",
+    "2019-03-06",
+    "안상수의원",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','255E654B-52CF-73B0-6527-1369625A2537','0');",
+  "proposers": [
+    {
+      "name_kr": "안상수",
+      "party": "자유한국당",
+      "name_cn": "安相洙"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-03-06",
+  "decision_date": "2019-03-07",
+  "link_id": "PRC_B1G9N0G3M0Z6B1H5F4Q1X4U1S9D6X1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

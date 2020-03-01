@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005063",
+  "title": "[2005063] 자본시장과 금융투자업에 관한 법률 일부개정법률안(이학영의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005063",
+    "2017-01-12",
+    "이학영의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제348회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A3FC32C5-A64C-3B79-0744-C4759F0A7741','0');",
+  "proposers": [
+    {
+      "name_kr": "이학영",
+      "party": "더불어민주당",
+      "name_cn": "李學永"
+    },
+    {
+      "name_kr": "김영주",
+      "party": "더불어민주당",
+      "name_cn": "金榮珠"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "남인순",
+      "party": "더불어민주당",
+      "name_cn": "南仁順"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박찬대",
+      "party": "더불어민주당",
+      "name_cn": "朴贊大"
+    },
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "최인호",
+      "party": "더불어민주당",
+      "name_cn": "崔仁昊"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법령은 주권상장법인의 합병가액을 산정함에 있어 증권시장에서의 종가를 기준으로 30%의 범위에서 할인 또는 할증한 금액으로 정하도록 하고 있음.\n  그런데 위와 같은 합병가액 산정방식은 기업의 내부정보가 공개되지 않아 기업의 내재된 가치가 충분히 반영되지 못한 합병이 진행되는 경우 주주의 피해로 돌아갈 수 있다는 지적이 있음.\n  이에 주권상장법인 간 합병 시 종가뿐만 아니라 자산가치, 수익가치 등 내재가치를 반영하도록 하여 주주의 피해를 미연에 방지하고자 함(안 제165조의4제4항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-01-12",
+  "decision_date": null,
+  "link_id": "PRC_B1Y7I0B1W1M2Z1Q4J3Q9I2M3O1V4P5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

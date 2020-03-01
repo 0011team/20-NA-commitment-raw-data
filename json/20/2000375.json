@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000375",
+  "title": "[2000375] 국민건강보험법 일부개정법률안(홍익표의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2000375",
+    "2016-06-21",
+    "홍익표의원 등 10인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EDB82623-3550-DB3E-2271-C312697DF6DC','0');",
+  "proposers": [
+    {
+      "name_kr": "홍익표",
+      "party": "더불어민주당",
+      "name_cn": "洪翼杓"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김경수",
+      "party": "더불어민주당",
+      "name_cn": "金慶洙"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "국민의당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "진선미",
+      "party": "더불어민주당",
+      "name_cn": "陳善美"
+    },
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n   청력이 저하되어 일상생활에 곤란을 겪는 노인이 많으나, 보건복지부의 2014년 노인실태조사에 따르면 그 중 약 80%에 해당하는 노인이 보청기 구매비용에 부담을 느껴 보청기를 사용하지 못하고 있는 것으로 나타난 바 있음.  \n  이에 국민건강보험공단이 65세 이상의 국민건강보험 가입자 또는 피부양자에게 보청기에 대한 보험급여를 할 수 있도록 특례를 마련하여, 노인의 보청기 구매에 따른 경제적 부담을 경감하려는 것임(안 제51조제2항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-21",
+  "decision_date": null,
+  "link_id": "PRC_O1A6J0D6M2Q1W1G3F1C4M2F0H0Q2L6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

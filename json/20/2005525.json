@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005525",
+  "title": "[2005525] 관세법 일부개정법률안(이명수의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005525",
+    "2017-02-09",
+    "이명수의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제349회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','75B5E72F-1CC4-ED5F-56AD-027868846455','0');",
+  "proposers": [
+    {
+      "name_kr": "이명수",
+      "party": "새누리당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "강효상",
+      "party": "새누리당",
+      "name_cn": "姜孝祥"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "새누리당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "권석창",
+      "party": "새누리당",
+      "name_cn": "權錫昌"
+    },
+    {
+      "name_kr": "박찬우",
+      "party": "새누리당",
+      "name_cn": "朴贊佑"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "새누리당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "새누리당",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "한선교",
+      "party": "새누리당",
+      "name_cn": "韓善敎"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "새누리당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "바른정당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법 제235조제1항제4호에서 “「농산물품질관리법」 또는 「수산물품질관리법」에 따라 등록되거나 조약·협정 등에 따라 보호대상으로 지정된 지리적표시권 또는 지리적표시(이하 “지리적표시권등”이라 한다)”로 규정되어 있으나, 「농산물품질관리법」과 「수산물품질관리법」은 「농수산물 품질관리법」으로 통합되었음. 그러나 여전히 기존 법률명으로 규정되어 있어 국민들에게 혼란을 줄 우려가 있음.\n  따라서 「농산물품질관리법」과 「수산물품질관리법」을 「농수산물 품질관리법」으로 개정하여 혼란을 없애고자 함(안 제235조제1항제4호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-02-09",
+  "decision_date": null,
+  "link_id": "PRC_F1R7K0E2E0A9K1G6O5R2O3V1N7R1X1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

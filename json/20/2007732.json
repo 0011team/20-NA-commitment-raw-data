@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2007732",
+  "title": "[2007732] 도로교통법 일부개정법률안(윤영석의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2007732",
+    "2017-06-30",
+    "윤영석의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제351회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0CBEF881-B5BE-1AA1-C836-5652171B7B44','0');",
+  "proposers": [
+    {
+      "name_kr": "윤영석",
+      "party": "자유한국당",
+      "name_cn": "尹永碩"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "박완수",
+      "party": "자유한국당",
+      "name_cn": "朴完洙"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "자유한국당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정병국",
+      "party": "바른정당",
+      "name_cn": "鄭柄國"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 교통사고의 위험으로부터 어린이를 보호하기 위하여 일정 구간을 어린이 보호구역으로 지정하여 자동차 등의 통행속도를 시속 30킬로미터 이내로 제한할 수 있도록 규정하고 있음\n  하지만 어린이 보호구역 대상이 법으로 열거되어 있어 어린이 밀집지역이나 위험지역을 모두 포함하지 못하고 있음\n  이에 개정안은 어린이들이 주로 이용하는 도로 구간도 시장 등이 보호구역으로 지정·관리할 수 있도록 하고, 교육시설의 주출입문부터 가장 인접한 대중교통을 이용할 수 있는 정류장까지도 보호구역으로 지정할 수 있도록 하여 어린이 교통안전을 제고하려는 것임(안 제12조제2항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-06-30",
+  "decision_date": null,
+  "link_id": "PRC_N1S7A0D6F3J0D1H7G0D0O4Y3W6E6S3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

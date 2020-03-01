@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014278",
+  "title": "[2014278] 국민건강보험법 일부개정법률안(정춘숙의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2014278",
+    "2018-07-09",
+    "정춘숙의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제361회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','AD7116D7-59A8-F1D2-B1BB-81FD03B399F9','0');",
+  "proposers": [
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "윤일규",
+      "party": "더불어민주당",
+      "name_cn": "尹一逵"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행 법령에 따르면 육아휴직자의 경우 건강보험료의 60%를 경감해주는 혜택이 있지만, 휴직 기간 동안 실질소득이 감소하고 출산 및 양육 비용이 증가하는 추세이기 때문에 과도한 부담이 되고 있음.\n  따라서 직장가입자가 육아휴직을 사용한 경우 휴직 기간 동안의 건강보험료를 면제하도록 법에 명시함으로써 저출산에 따른 출산·육아정책을 적극적으로 지원하려는 것임(안 제74조제4항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-07-09",
+  "decision_date": "2018-11-23",
+  "link_id": "PRC_J1X8W0B7E0D9A1I1X1U9F1U9G7U3Y9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

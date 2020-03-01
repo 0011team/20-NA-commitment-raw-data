@@ -1,0 +1,40 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000425",
+  "title": "[2000425] 국가보훈처장(박승춘) 해임 촉구 결의안(우상호의원 등 3인 외 163인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2000425",
+    "2016-06-23",
+    "우상호의원 등 3인 외 163인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','88FDB350-6407-B0DD-1BD0-6DBB9BEC3C7F','0');",
+  "proposers": [
+    {
+      "name_kr": "우상호",
+      "party": "더불어민주당",
+      "name_cn": "禹相虎"
+    },
+    {
+      "name_kr": "노회찬",
+      "party": "정의당",
+      "name_cn": "魯會燦"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "국민의당",
+      "name_cn": "朴智元"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-23",
+  "decision_date": null,
+  "link_id": "PRC_V1O6M0B6A2S3T1G0W1A1S4Z6E7G2S8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

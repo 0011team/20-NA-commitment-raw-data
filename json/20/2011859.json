@@ -1,0 +1,95 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011859",
+  "title": "[2011859] 법원조직법 일부개정법률안(주광덕의원 등 14인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2011859",
+    "2018-02-08",
+    "주광덕의원 등 14인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제356회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','2FB0255C-4381-3967-EE0A-6B90A7A5BAD4','0');",
+  "proposers": [
+    {
+      "name_kr": "주광덕",
+      "party": "자유한국당",
+      "name_cn": "朱光德"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김한표",
+      "party": "자유한국당",
+      "name_cn": "金漢杓"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "염동열",
+      "party": "자유한국당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "윤재옥",
+      "party": "자유한국당",
+      "name_cn": "尹在玉"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "자유한국당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "최교일",
+      "party": "자유한국당",
+      "name_cn": "崔敎一"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 대법원장에게 사법행정사무를 총괄하는 권한과 관계 공무원을 지휘·감독할 권한을 부여하고 있음. 그러나 인사권을 포함한 해당 권한들이 대법원장 1인에게 너무 집중되어 있고 강력하여 재판의 독립성이 보장되어야 할 법관마저도 관료화시키는 문제를 발생시킨다는 지적이 있음에 따라 이에 대한 개선안 마련이 필요한 상황임.\n  이에 따라 사법평의회를 설치하여 판사에 대한 인사권, 대법원규칙의 제정과 개정, 예산 관련 업무 등에 관한 사항을 공정하고 투명하게 담당하도록 하여 법관의 관료화를 방지하고 장기적으로 법조계의 문화의 공정성이 더욱 확립되도록 하려는 것임(안 제9조의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-02-08",
+  "decision_date": null,
+  "link_id": "PRC_F1H8G0A2I0V8H1E6K3M9N2T2H7U7T9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

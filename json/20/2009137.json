@@ -1,0 +1,40 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009137",
+  "title": "[2009137] 국무총리ㆍ국무위원 및 정부위원 출석요구의 건(경제에 관한 질문)(우원식의원 등 3인 외 171인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2009137",
+    "2017-09-07",
+    "우원식의원 등 3인 외 171인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','41F4FD89-D7AC-45A9-DCC6-FF4D86668379','0');",
+  "proposers": [
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "국민의당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "바른정당",
+      "name_cn": "朱豪英"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-07",
+  "decision_date": "2017-09-07",
+  "link_id": "PRC_M1D7D0R9U0C7C0Z8A5U0N4Z4T9X6J8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

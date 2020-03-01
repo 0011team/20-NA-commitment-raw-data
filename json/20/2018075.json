@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018075",
+  "title": "[2018075] 국정감사 및 조사에 관한 법률 일부개정법률안(유민봉의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018075",
+    "2019-01-07",
+    "유민봉의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제365회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','4033F0F9-15D3-6166-1C36-DA72A39297E6','0');",
+  "proposers": [
+    {
+      "name_kr": "유민봉",
+      "party": "자유한국당",
+      "name_cn": "庾敏鳳"
+    },
+    {
+      "name_kr": "김영우",
+      "party": "자유한국당",
+      "name_cn": "金榮宇"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "자유한국당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "손금주",
+      "party": "무소속",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "신상진",
+      "party": "자유한국당",
+      "name_cn": "申相珍"
+    },
+    {
+      "name_kr": "심재철",
+      "party": "자유한국당",
+      "name_cn": "沈在哲"
+    },
+    {
+      "name_kr": "유기준",
+      "party": "자유한국당",
+      "name_cn": "兪奇濬"
+    },
+    {
+      "name_kr": "윤한홍",
+      "party": "자유한국당",
+      "name_cn": "尹漢洪"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "정종섭",
+      "party": "자유한국당",
+      "name_cn": "鄭宗燮"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 국정감사 또는 조사와 관련된 보고 또는 서류제출을 관계인에게 요구하려면 위원회, 소위원회 또는 반(班)의 의결을 거치도록 하고 있음.\n  그러나 실제로는 국회의원 개인별로 자료요구를 하는 경우가 많고, 국회의원이 독립된 헌법기관으로서의 성격을 가진다는 점에 비추어볼 때 자료요구 방법을 개선할 필요가 있음.\n  이에 위원회 등의 의결 없이도 개별 국회의원이 국정감사 및 조사와 관련된 보고 또는 서류제출을 요구할 수 있도록 함으로써 국회의원의 국정감사 및 조사활동을 활성화시키려는 것임(안 제10조제2항 신설 등).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-01-07",
+  "decision_date": null,
+  "link_id": "PRC_D1S9G0K1K0A7E1T6H5N4Q0G8I6E8Z6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

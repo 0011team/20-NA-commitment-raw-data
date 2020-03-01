@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016641",
+  "title": "[2016641] 독점규제 및 공정거래에 관한 법률 일부개정법률안(김선동의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2016641",
+    "2018-11-16",
+    "김선동의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7EB978E5-CF2F-9F71-E67B-85740A6A8D2A','0');",
+  "proposers": [
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "권성동",
+      "party": "자유한국당",
+      "name_cn": "權性東"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "김용태",
+      "party": "자유한국당",
+      "name_cn": "金容兌"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "유재중",
+      "party": "자유한국당",
+      "name_cn": "柳在仲"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "무소속",
+      "name_cn": "鄭泰沃"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  공정거래위원회의 전속고발제도가 적용되는 범죄의 경우 공정거래위원회의 판단과정을 거치면서 고발이 지체되어 고발 이후 공소시효가 얼마 남지 않은 경우가 많음. 이 때문에 검찰의 충분한 조사기간이 확보되지 않아 제대로 된 처벌이 이뤄지지 않고 있다는 지적이 있음.\n  이에 공정거래위원회의 고발이 있어야 검찰이 공소를 제기할 수 있는 제66조 및 제67조의 죄에 대하여 공정거래위원회가 고발한 경우 고발한 날부터 공소시효가 1년 연장되도록 함으로써 검찰의 공소 제기에 차질이 없게 하려는 것임(안 제71조제7항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-11-16",
+  "decision_date": null,
+  "link_id": "PRC_D1K8O1M1W1F6A1E0K3G7H1L9J0S1K6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

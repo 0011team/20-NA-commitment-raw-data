@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018314",
+  "title": "[2018314] 제품안전기본법 일부개정법률안(김삼화의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018314",
+    "2019-01-24",
+    "김삼화의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D68C47DA-4980-2C01-8B47-EC8A086AB19C','0');",
+  "proposers": [
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "바른미래당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "바른미래당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "바른미래당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "임재훈",
+      "party": "바른미래당",
+      "name_cn": "林哉勳"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "바른미래당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른미래당",
+      "name_cn": "河泰慶"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 아이들에게 인기가 높은 장난감 ‘액체괴물’에서 생식계 발달 독성 물질인 붕소가 유럽연합 기준치를 초과한 것으로 나타나는 등 유해물질이 검출되어 논란을 빚었음.\n  그런데 현행법에는 제품의 안전성조사 및 수거·파기·수리 등에 관한 사항만 규정되어 있을 뿐, 제품 생산단계에서 인체에 영향을 줄 수 있는 물질에 대한 함량 규제에 관한 사항은 법률에서 명확하게 규정하지 않고 있음.\n  이에 중앙행정기관의 장에게 시중에 유통되는 제품에 대하여 붕소·석면·납 등 인체에 해로운 영향을 줄 수 있는 물질의 함유 허용기준을 정하여 고시하도록 하여 제품의 안전성 확보를 도모하려는 것임(안 제8조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-01-24",
+  "decision_date": null,
+  "link_id": "PRC_R1E9O0V1R2A4S1J7W5R1H0K6E0G1C6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

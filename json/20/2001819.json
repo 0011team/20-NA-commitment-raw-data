@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001819",
+  "title": "[2001819] 국제조세조정에 관한 법률 일부개정법률안(박광온의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2001819",
+    "2016-08-25",
+    "박광온의원 등 10인",
+    "의안원문\n비용추계서 미첨부 사유서",
+    "제20대 (2016~2020) 제345회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','200AC533-E6C5-45AD-CECB-E7242A775FDA','0');",
+  "proposers": [
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "김현미",
+      "party": "더불어민주당",
+      "name_cn": "金賢美"
+    },
+    {
+      "name_kr": "문미옥",
+      "party": "더불어민주당",
+      "name_cn": "文美玉"
+    },
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "더불어민주당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "추미애",
+      "party": "더불어민주당",
+      "name_cn": "秋美愛"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  국제거래가 다양화 되어감에 따라 이전가격거래에 대한 개별거래 검증원칙이 항상 유효하지만은 않다는 비판이 지속적으로 제기되어옴.   이에 따라 우리나라는 이러한 국제적 변화를 국제조세조정에 관한 법률 시행령 및 시행규칙의 개정사항으로 받아 들여 다른 특수관계자를 이용한 우회거래 등도 경제적 실질을 감안하여 합리적인 분석 방법을 권고하고 있음.\n 하지만 합리적인 거래당사자간 직접적인 개별거래 이외에는 조세조약 및 세법의 적용이 불가하다는 전문가들의 의견이 제기됨에 따라 근거규정을 명확히 해 이를 개선하고자 함(안 제7조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-25",
+  "decision_date": null,
+  "link_id": "PRC_B1X6S0C8U2J5X1Z7X1G0J5I2O8H0B4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

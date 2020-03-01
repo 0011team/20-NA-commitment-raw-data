@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022956",
+  "title": "[2022956] 조세특례제한법 일부개정법률안(함진규의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022956",
+    "2019-10-23",
+    "함진규의원 등 10인",
+    "의안원문\n비용추계서 미첨부 사유서",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','DEF3DA35-308B-848D-4F95-A9F2456454AB','0');",
+  "proposers": [
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "강길부",
+      "party": "무소속",
+      "name_cn": "姜吉夫"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "홍문종",
+      "party": "우리공화당",
+      "name_cn": "洪文鐘"
+    },
+    {
+      "name_kr": "홍철호",
+      "party": "자유한국당",
+      "name_cn": "洪哲鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  현행법은 공익사업에 필요한 토지를 수용 등의 방식으로 양도하거나 거주자가 경작상 필요에 따라 종전 농지를 양도하고 새로운 농지를 취득하는 경우 등에 양도소득세를 감면해주는 특례를 두고 있으나, 양도소득세 감면의 한도가 해당 과세기간 동안 1억원, 5년간 2억원으로 제한되어 양도소득세를 충분히 감면받지 못하는 경우가 발생함.\n  이에 양도소득세의 감면 한도를 해당 과세기간 동안 2억원, 5개 과세기간 동안 3억원으로 상향하여 농어업용 토지의 양도 및 농지대토, 공익사업용 토지의 수용 등에 따른 양도소득세 부담을 실질적으로 완화하고자 함(안 제133조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-23",
+  "decision_date": null,
+  "link_id": "PRC_U1M9N1E0D2X3T1G0S1J6H1T1C6H2U3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004954",
+  "title": "[2004954] 국회법 일부개정법률안(이현재의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004954",
+    "2017-01-03",
+    "이현재의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B4B40772-D568-A59E-E845-B14BF8AB0938','0');",
+  "proposers": [
+    {
+      "name_kr": "이현재",
+      "party": "새누리당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "새누리당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "새누리당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김진태",
+      "party": "새누리당",
+      "name_cn": "金鎭台"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "새누리당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "개혁보수신당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "서청원",
+      "party": "새누리당",
+      "name_cn": "徐淸源"
+    },
+    {
+      "name_kr": "윤상직",
+      "party": "새누리당",
+      "name_cn": "尹相直"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "새누리당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "새누리당",
+      "name_cn": "趙慶泰"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법상 예산안은 11월 30일까지 심의를 마치지 아니한 경우에는 바로 본회의에 부의된 것으로 보며, 12월 2일까지 처리하도록 규정하고 있는 반면, 추가경정예산안 또한 민생경제를 살리기 위해 신속한 처리가 필요함에도 불구하고 이에 대한 근거가 없음. \n  이에 추가경정예산안의 신속한 처리를 위하여 위원회는 추가경정예산안의 심사를 회부된 날부터 30일 이내에 마쳐야 하며, 기한 이내에 심사를 마치지 아니한 때에는 그 다음날에 위원회에서 심사를 마치고 바로 본회의에 부의된 것으로 보도록 개정하고자 함(안 제85조의4 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-01-03",
+  "decision_date": null,
+  "link_id": "PRC_T1V7H0W1X0L3Z1B6J4T1X2J8C5M1K1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,35 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002478",
+  "title": "[2002478] 신고리 5, 6호기 건설 중단과 원전 안전강화 촉구결의안(우원식의원ㆍ우상호의원 외 119인) 입법예고중",
+  "current_status": "폐기",
+  "reception_info": [
+    "2002478",
+    "2016-09-27",
+    "우원식의원ㆍ우상호의원 외 119인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D2F75C65-0431-8F8B-4FEE-F6625B709A8B','0');",
+  "proposers": [
+    {
+      "name_kr": "우상호",
+      "party": "더불어민주당",
+      "name_cn": "禹相虎"
+    },
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-09-27",
+  "decision_date": "2018-03-17",
+  "link_id": "PRC_C1V6R0A9U2V7B1P3W1B8P5G1Y8I5M7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

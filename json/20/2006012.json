@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006012",
+  "title": "[2006012] 인신보호법 일부개정법률안(함진규의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2006012",
+    "2017-03-06",
+    "함진규의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','3D03B13A-0BE6-420B-2C61-5A14A60C8EC5','0');",
+  "proposers": [
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "자유한국당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "염동열",
+      "party": "자유한국당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "윤상직",
+      "party": "자유한국당",
+      "name_cn": "尹相直"
+    },
+    {
+      "name_kr": "이주영",
+      "party": "자유한국당",
+      "name_cn": "李柱榮"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "자유한국당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "정양석",
+      "party": "바른정당",
+      "name_cn": "鄭亮碩"
+    },
+    {
+      "name_kr": "조원진",
+      "party": "자유한국당",
+      "name_cn": "趙源震"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법은 구제청구사건의 심리 과정에서 법원이 필요하다고 인정하는 경우에 피수용자 등 관계인을 출석하게 하여 심문할 수 있도록 규정하고 있음. \n  그러나 피수용자가 탈북자인 경우에는 북한에 남아있는 그 가족의 생명이나 안전에 대한 위협을 우려하여 법정에 직접 출석하여 진술하는 것을 거부하고 있음.\n  이에 피수용자가 출석하여 진술하는 경우에 그 친족의 생명·신체에 대한 침해 또는 침해의 우려가 있는 경우에는 출석하지 아니하고 서면으로 진술할 수 있도록 함(안 제10조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-03-06",
+  "decision_date": null,
+  "link_id": "PRC_O1J7A0U3W0Y6W1Z9K4K9O0K0J5T0J2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

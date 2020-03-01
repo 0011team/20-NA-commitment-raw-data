@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000551",
+  "title": "[2000551] 정치자금법 일부개정법률안(김광수의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2000551",
+    "2016-06-29",
+    "김광수의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','8A935177-2CBD-C954-8C3F-6341E8ACCA9D','0');",
+  "proposers": [
+    {
+      "name_kr": "김광수",
+      "party": "국민의당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "박주현",
+      "party": "국민의당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "국민의당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 정당의 대표자, 후원회를 둔 국회의원 등이 공직선거의 선거운동을 할 수 있는 자 중에서 회계책임자를 선임하여 관할 선거관리위원회에 신고하도록 규정하고 있으나, 회계책임자의 자격 요건에 관해 다른 특별한 규정은 없음.\n  그런데, 청년실업이 최고조로 달하고 있는 가운데 일부 국회의원이 친인척을 보좌직원으로 채용하여 논란이 되고 있음. 자격 요건이 특별히 없는 회계책임자의 경우도 유사한 문제가 나타날 수 있음.\n  이와 같은 문제를 해결하기 위하여, 선임권자의 배우자, 4촌 이내의 혈족 또는 4촌 이내의 인척은 회계책임자가 될 수 없도록 규정하려는 것임(안 제34조제1항 단서 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-29",
+  "decision_date": null,
+  "link_id": "PRC_P1F6W0S6K2A9X1X4C2A7T2X7U7N6I3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

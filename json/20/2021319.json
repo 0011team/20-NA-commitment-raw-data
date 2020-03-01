@@ -1,0 +1,40 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021319",
+  "title": "[2021319] 국무총리ㆍ국무위원 및 정부위원 출석요구의 건(교육ㆍ사회ㆍ문화에 관한 질문)(오신환의원 등 3인 외 261인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2021319",
+    "2019-07-04",
+    "오신환의원 등 3인 외 261인",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','DDF6FC15-6C89-FE49-E187-CF9DBB10B969','0');",
+  "proposers": [
+    {
+      "name_kr": "오신환",
+      "party": "바른미래당",
+      "name_cn": "吳晨煥"
+    },
+    {
+      "name_kr": "나경원",
+      "party": "자유한국당",
+      "name_cn": "羅卿瑗"
+    },
+    {
+      "name_kr": "이인영",
+      "party": "더불어민주당",
+      "name_cn": "李仁榮"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-07-04",
+  "decision_date": "2019-07-05",
+  "link_id": "PRC_W1L9E0K7D0J4J1X5W0M7X3J3B6U6V7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

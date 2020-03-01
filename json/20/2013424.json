@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013424",
+  "title": "[2013424] 국회의원(박남춘) 사직의 건(박남춘의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2013424",
+    "2018-05-03",
+    "박남춘의원",
+    "의안원문",
+    "제20대 (2016~2020) 제360회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7DF0CEDD-8FDF-B9CE-1208-2C946BD5DA6E','0');",
+  "proposers": [
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-05-03",
+  "decision_date": "2018-05-14",
+  "link_id": "PRC_F1L8F0M5W0R3J1A6Z1A1K1N9V9K5Z0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

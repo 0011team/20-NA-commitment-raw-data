@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009417",
+  "title": "[2009417] 국회의원(김현권) 징계안(정우택의원 외 104인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2009417",
+    "2017-09-15",
+    "정우택의원 외 104인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','71882491-5F21-61B9-581D-9296631550D0','0');",
+  "proposers": [
+    {
+      "name_kr": "정우택",
+      "party": "자유한국당",
+      "name_cn": "鄭宇澤"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-15",
+  "decision_date": null,
+  "link_id": "PRC_E1S7H0T9Y1V5F1Q5P4P5N3P5K8G4N7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

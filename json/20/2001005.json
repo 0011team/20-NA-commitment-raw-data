@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001005",
+  "title": "[2001005] 국가재정법 일부개정법률안(이현재의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2001005",
+    "2016-07-20",
+    "이현재의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제344회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','01C3E578-1407-9ABE-493C-1E0776242BEF','0');",
+  "proposers": [
+    {
+      "name_kr": "이현재",
+      "party": "새누리당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "권석창",
+      "party": "새누리당",
+      "name_cn": "權錫昌"
+    },
+    {
+      "name_kr": "김학용",
+      "party": "새누리당",
+      "name_cn": "金學容"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "새누리당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "이정현",
+      "party": "새누리당",
+      "name_cn": "李貞鉉"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "새누리당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "새누리당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "정병국",
+      "party": "새누리당",
+      "name_cn": "鄭柄國"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "새누리당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "홍일표",
+      "party": "새누리당",
+      "name_cn": "洪日杓"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  정부는 「보조금 관리에 관한 법률」에 따라 국고보조사업에 대한 평가 결과를 예산안과 함께 국회에 제출하고 있음.\n  그러나 정부가 국고보조사업의 평가 결과를 적극적으로 예산 편성 과정에 반영하지 않는다면 국고보조사업에 대한 평가제도가 형식적으로 운영될 우려가 있음.\n  이에 국회에 제출하는 예산안에 보조사업에 대한 평가 결과의 예산안 반영 내역을 첨부하도록 함으로써 예산 편성과정에서의 보조사업 평가 결과에 대한 구속력을 강화하려는 것임(안 제34조제16호 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-20",
+  "decision_date": null,
+  "link_id": "PRC_W1U6P0J7P2S0H1R5A4J6U3D8Y5L6Q4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013636",
+  "title": "[2013636] 국가인권위원회법 일부개정법률안(엄용수의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2013636",
+    "2018-05-18",
+    "엄용수의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제360회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','228ECECB-9425-2DF9-5DFF-CCE46B2E72A0','0');",
+  "proposers": [
+    {
+      "name_kr": "엄용수",
+      "party": "자유한국당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "강길부",
+      "party": "무소속",
+      "name_cn": "姜吉夫"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "자유한국당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "유재중",
+      "party": "자유한국당",
+      "name_cn": "柳在仲"
+    },
+    {
+      "name_kr": "이정현",
+      "party": "무소속",
+      "name_cn": "李貞鉉"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "자유한국당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "바른미래당",
+      "name_cn": "池尙昱"
+    },
+    {
+      "name_kr": "홍일표",
+      "party": "자유한국당",
+      "name_cn": "洪日杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 국가인권위원회 위원장은 국회의 인사청문을 거치도록 하고 있고, 「국회법」에서는 다른 법률에 따라 공직후보자에 대한 인사청문 요청이 있는 경우 인사청문회를 열도록 하고 있음. 그러나 위원장이 인사청문회를 거쳐 임명된 후 연임하는 경우에도 인사청문회를 거쳐야 하기 때문에 다시 절차를 반복하는 번거로움이 심하다는 지적이 있음.\n  이에 국가인원위원회의 위원장이 처음으로 임명되는 경우가 아니라 연임하는 경우에는 인사청문을 거치지 않을 수 있도록 하여 국가인권위원회의 지속적이고 안정적인 업무 추진을 도모하려는 것임(안 제5조제5항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-05-18",
+  "decision_date": null,
+  "link_id": "PRC_C1X8C0L5C1Q8K1Z4T4Y4N1A6Q8Q3O9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

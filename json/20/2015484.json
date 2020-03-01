@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015484",
+  "title": "[2015484] 조세특례제한법 일부개정법률안(이찬열의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2015484",
+    "2018-09-13",
+    "이찬열의원 등 10인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','682475CB-CCC0-6599-62B3-44892EAB96EB','0');",
+  "proposers": [
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "바른미래당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "오제세",
+      "party": "더불어민주당",
+      "name_cn": "吳濟世"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 기술이전 및 취득, 대여 시 과세특례를 부여하고 있지만 이러한 세제지원의 일몰기한이 2018년 12월 31일자로 도래할 예정임.\n  우리 사회가 본격적인 지식기반 경제로 접어든 만큼, 지식재산권 확보의 중요성이 나날이 증가하고 있음.\n  또한 연구인력개발의 성과물인 기술이전이 원활하게 이루어지기 위해선 사업화를 지속적으로 지원할 필요가 있음.\n  이에 공제율을 높이고 일몰기한을 2023년으로 연장하여, 기업 간 기술거래를 적극 지원하여 사업화를 촉진하고자 함(안 제12조제1항부터 제3항까지).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-09-13",
+  "decision_date": "2018-12-08",
+  "link_id": "PRC_X1C8V0R9E1J3F1C1N4O1Z1D9S0F3H0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

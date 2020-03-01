@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011162",
+  "title": "[2011162] 택지개발촉진법 일부개정법률안(황희의원 등 11인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2011162",
+    "2017-12-29",
+    "황희의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','329D0601-EF25-FF1C-2F08-9758A1FC8C72','0');",
+  "proposers": [
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김성수",
+      "party": "더불어민주당",
+      "name_cn": "金聖洙"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "어기구",
+      "party": "더불어민주당",
+      "name_cn": "魚基龜"
+    },
+    {
+      "name_kr": "오제세",
+      "party": "더불어민주당",
+      "name_cn": "吳濟世"
+    },
+    {
+      "name_kr": "전현희",
+      "party": "더불어민주당",
+      "name_cn": "全賢姬"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    },
+    {
+      "name_kr": "최인호",
+      "party": "더불어민주당",
+      "name_cn": "崔仁昊"
+    },
+    {
+      "name_kr": "홍익표",
+      "party": "더불어민주당",
+      "name_cn": "洪翼杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  택지개발지구를 지정할 때 「토지이용규제 기본법」 제8조에 따른 지형도면을 관보에 함께 고시하고 있으나, 해당 절차에 관한 규정이 「택지개발촉진법」에 명시적으로 규정되어 있지 않음.\n 이에 개별법인 「택지개발촉진법」에 해당 규정을 명시함으로써 해당 절차를 보다 명확히 이행하도록 하고 지형도면 미고시로 인한 지정효력 상실을 방지하고자 함(안 제3조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-29",
+  "decision_date": "2018-05-28",
+  "link_id": "PRC_Y1X7B1H2S2E9M1G7F3L7I4A9V4Z9D4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003018",
+  "title": "[2003018] 국회에서의 증언·감정 등에 관한 법률 일부개정법률안(이명수의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2003018",
+    "2016-10-28",
+    "이명수의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','8F7F3215-3E56-58DA-6AD9-82156FD23B0F','0');",
+  "proposers": [
+    {
+      "name_kr": "이명수",
+      "party": "새누리당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "강효상",
+      "party": "새누리당",
+      "name_cn": "姜孝祥"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "새누리당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "새누리당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "박순자",
+      "party": "새누리당",
+      "name_cn": "朴順子"
+    },
+    {
+      "name_kr": "배덕광",
+      "party": "새누리당",
+      "name_cn": "裵德光"
+    },
+    {
+      "name_kr": "윤재옥",
+      "party": "새누리당",
+      "name_cn": "尹在玉"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "새누리당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "새누리당",
+      "name_cn": "崔然惠"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "새누리당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "새누리당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 전현직 공무원이 국회로부터 요구받은 증언 및 서류등의 제출에 있어 증언할 사실이나 제출할 서류등의 내용이 직무상 비밀이라는 이유로 거부할 수 없도록 하고 있는바, 현재 재판이 진행 중이거나 수사 중인 사건의 경우에는 국회에서 증언 및 서류등의 제출을 요구할 경우 그 결과가 나오기 전에는 영향을 미칠 우려가 있음.\n  이에 전현직 공무원이 요구받은 증언 또는 제출 서류등의 내용이 계속 중인 재판 또는 수사 중인 사건에 관련된 사항인 경우 증언 또는 제출을 거부할 수 있도록 하여 재판 및 수사의 독립성을 보호하고자 하는 것임.(안 제4조제1항 단서, 같은 조 제1항제1호 및 제2호 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-10-28",
+  "decision_date": null,
+  "link_id": "PRC_J1M6V1X0N2P8H1H6F5D4W0C8G4V7E3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

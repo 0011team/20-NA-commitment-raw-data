@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004889",
+  "title": "[2004889] 축산법 일부개정법률안(홍문표의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2004889",
+    "2016-12-30",
+    "홍문표의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FAA8A074-4F2B-269E-C24E-0615BB303F3E','0');",
+  "proposers": [
+    {
+      "name_kr": "홍문표",
+      "party": "개혁보수신당",
+      "name_cn": "洪文杓"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "새누리당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "새누리당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "오영훈",
+      "party": "더불어민주당",
+      "name_cn": "吳怜勳"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "새누리당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  질서위반행위의 성립요건과 과태료 부과ㆍ징수 절차를 일원화하기 위한 일반법인 「질서위반행위규제법」이 제정ㆍ시행됨에 따라 현행법에 규정되어 있는 과태료 부과ㆍ징수에 관한 절차 규정을 삭제하여 법체계를 정비하고자 함(안 제56조제3항부터 제5항까지 삭제).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-30",
+  "decision_date": "2017-03-02",
+  "link_id": "PRC_J1M6D1R2Z3P0I1B8Q5Q6Q4G0A2C6R8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

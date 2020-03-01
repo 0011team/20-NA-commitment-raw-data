@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009519",
+  "title": "[2009519] 국회의원(곽상도) 징계안(우원식의원 외 109인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2009519",
+    "2017-09-21",
+    "우원식의원 외 109인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0DF3F4F4-97BF-D68F-3D08-9C437E8E93D0','0');",
+  "proposers": [
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-21",
+  "decision_date": null,
+  "link_id": "PRC_Y1G7Y0D9K2V1V1K6N0X1Y2K2O4A8S3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

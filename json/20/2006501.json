@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006501",
+  "title": "[2006501] 정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(이재정의원 등 12인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2006501",
+    "2017-03-30",
+    "이재정의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','CB1DC3E7-93EB-C4A3-BC37-5E192D570990','0');",
+  "proposers": [
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "최명길",
+      "party": "더불어민주당",
+      "name_cn": "崔明吉"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 기업이 체계적·지속적으로 개인정보보호를 관리하기 위하여 필요한 관리체계를 구축하였는지에 대하여 인증기관이 점검하여 인증을 부여하는 ‘개인정보보호 관리체계 인증제도(PIMS: Personal Information Management System)’를 규정하고 있음.\n  그러나 최근 인터넷기업에서 대규모 개인정보 유출사고가 발생하는 등 기업의 개인정보보호 관리가 여전히 부실한 상황임에도 동 제도를 의무로 규정하지 아니하고 자율적으로 운영함에 따라 기업이 개인정보보호 관리체계의 인증을 받는데 소극적인 실정임.\n  이에 일정 규모 이상의 정보통신망서비스 제공자 등에 대하여 ‘개인정보보호 관리체계 인증제도’를 의무화하여 기업의 개인정보보호 관리수준을 제고하고 국민의 개인정보 보호수준을 보다 강화하고자 함(안 제47조의3 및 제76조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-03-30",
+  "decision_date": "2020-01-09",
+  "link_id": "PRC_Z1W7N0I3U3J0M1A1O4M2Y2E2N2B4R9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

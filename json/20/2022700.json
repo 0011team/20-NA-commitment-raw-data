@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022700",
+  "title": "[2022700] 지방세법 일부개정법률안(정동영의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022700",
+    "2019-09-26",
+    "정동영의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5AA68137-E1AC-2B97-B89B-8F7AB397C5E5','0');",
+  "proposers": [
+    {
+      "name_kr": "정동영",
+      "party": "민주평화당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "바른미래당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "무소속",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "박주현",
+      "party": "바른미래당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "무소속",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    },
+    {
+      "name_kr": "임재훈",
+      "party": "바른미래당",
+      "name_cn": "林哉勳"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n  현행법은 법인의 합병으로 인한 취득의 경우 이를 무상취득으로 보고 있어, 기업들은 취득세 과세표준을 부동산 공시가격 등에 따른 시가표준액으로 하여 취득세를 신고납부하고 있음.\n  그러나 부동산 공시가격 등은 시세에 현저히 미치지 못하는 등 실제 가격을 담보하지 못하여 조세 정의에 어긋난다는 지적이 제기되고 있음. \n  참고로 국세인 법인세의 경우 법인합병에 따른 과세표준 산정 시 실거래가격, 감정가격 등의 실제 시가로 평가하도록 하고 있음.\n  이에 법인의 합병으로 인한 취득세의 과세표준을 「법인세법」에 따른 시가로 함으로써, 열악한 지방재정을 확충하고 조세정의를 실현하려는 것임(안 제10조제7항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-09-26",
+  "decision_date": null,
+  "link_id": "PRC_N1N9H0F9Y2P6U1F4P5Q0R4V0S4S1O9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

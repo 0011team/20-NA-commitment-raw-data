@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012334",
+  "title": "[2012334] 형법 일부개정법률안(이언주의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2012334",
+    "2018-03-06",
+    "이언주의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제357회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','4B5F0B90-FF80-F0F2-2BE6-0A3901A92441','0');",
+  "proposers": [
+    {
+      "name_kr": "이언주",
+      "party": "바른미래당",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "바른미래당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "유승민",
+      "party": "바른미래당",
+      "name_cn": "劉承旼"
+    },
+    {
+      "name_kr": "유의동",
+      "party": "바른미래당",
+      "name_cn": "兪義東"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "최운열",
+      "party": "더불어민주당",
+      "name_cn": "崔運烈"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른미래당",
+      "name_cn": "河泰慶"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 조직 혹은 직장 내에서 우월적 지위를 이용한 성폭력범죄가 끊이지 않고 있으며, 사회 곳곳에 만연한 성폭력 문제에 대해 미투 운동이 확산되고 있으나, 현행법상 업무상 위력 등에 의한 간음죄의 형량은 조직 내 성폭력범죄를 근절하고 사회적 인식을 개선하기에는 부족하다는 지적이 제기되고 있음.\n  이에 업무상 위력 등에 의한 간음죄의 법정형을 상향조정하려는 것임(안 제303조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-06",
+  "decision_date": "2018-09-20",
+  "link_id": "PRC_J1V8L0C3W0O6R1H6F1W2C0A4J3Y1N9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

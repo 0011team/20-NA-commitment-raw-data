@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013301",
+  "title": "[2013301] 국회의원(양승조) 사직의 건(양승조의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2013301",
+    "2018-04-30",
+    "양승조의원",
+    "의안원문",
+    "제20대 (2016~2020) 제359회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F7DE3A7C-4758-6706-039D-365AE07ADA18','0');",
+  "proposers": [
+    {
+      "name_kr": "양승조",
+      "party": "더불어민주당",
+      "name_cn": "梁承晁"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-04-30",
+  "decision_date": "2018-05-14",
+  "link_id": "PRC_R1Z8S0Y4G3N0Y1W1K1X0I2Y5X7Z0C6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

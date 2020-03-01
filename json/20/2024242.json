@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2024242",
+  "title": "[2024242] 동물위생시험소법 일부개정법률안(이만희의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2024242",
+    "2019-12-10",
+    "이만희의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','4F8B0FD2-93D2-F0D8-4E09-AC02E63A88B1','0');",
+  "proposers": [
+    {
+      "name_kr": "이만희",
+      "party": "자유한국당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "백승주",
+      "party": "자유한국당",
+      "name_cn": "白承周"
+    },
+    {
+      "name_kr": "송언석",
+      "party": "자유한국당",
+      "name_cn": "宋彦錫"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "자유한국당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "이장우",
+      "party": "자유한국당",
+      "name_cn": "李莊雨"
+    },
+    {
+      "name_kr": "정용기",
+      "party": "자유한국당",
+      "name_cn": "鄭容起"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 동물·축산물에 관한 방역, 검사 및 연구 업무를 합리적으로 운영함으로써 동물위생의 향상, 축산진흥 및 국민보건 증진에 이바지하기 위한 목적으로 동물위생시험소를 설치하도록 하고, 동물위생시험소 소장에 가축방역 및 축산물 위생에 관한 학식과 경험이 풍부한 사람을 시·도지사가 임명하도록 하고 있음.\n  그러나 소장의 자격에 축산물 위생 전문가만 규정되어 동물 위생 전문가가 누락되어 있으므로, 동물 위생 전문가도 소장에 임명될 수 있도록 하려는 것임(안 제6조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-12-10",
+  "decision_date": null,
+  "link_id": "PRC_K1E9B1R2K1A0O1Z7S2J1T0A0I3A9W3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

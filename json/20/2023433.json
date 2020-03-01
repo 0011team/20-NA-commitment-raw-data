@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023433",
+  "title": "[2023433] 자본시장과 금융투자업에 관한 법률 일부개정법률안(오영훈의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023433",
+    "2019-10-31",
+    "오영훈의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','725420E0-75CC-2DFC-4353-D67FA773FB12','0');",
+  "proposers": [
+    {
+      "name_kr": "오영훈",
+      "party": "더불어민주당",
+      "name_cn": "吳怜勳"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "박완주",
+      "party": "더불어민주당",
+      "name_cn": "朴完柱"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    },
+    {
+      "name_kr": "윤준호",
+      "party": "더불어민주당",
+      "name_cn": "尹俊晧"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    },
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n  현행법은 임원보수, 임원 개인별 보수 및 보수총액 기준 상위 5명의 개인별 보수 등을 사업보고서에 기재하도록 규정하고 있음.\n  그런데 직원 보수의 중위값을 함께 공개함으로써 해당 회사가 임원과 직원간에 정당한 몫을 분배하였는지 확인하도록 할 필요가 있다는 의견이 있음.\n  이에 사업보고서에 직원 보수의 중위값과 그 구체적인 산정기준 및 방법을 기재하도록 하여 보수가 정당하게 분배되도록 하려는 것임(안 제159조제2항제3호의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-31",
+  "decision_date": null,
+  "link_id": "PRC_G1T9B1K0N3Z1M1R6W3C3Q5C2C1T3G0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

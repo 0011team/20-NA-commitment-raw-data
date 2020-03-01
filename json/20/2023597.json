@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023597",
+  "title": "[2023597] 지방공무원법 일부개정법률안(유민봉의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023597",
+    "2019-11-05",
+    "유민봉의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C84DF27D-32DD-F964-3FE4-1DAC4E3DA633','0');",
+  "proposers": [
+    {
+      "name_kr": "유민봉",
+      "party": "자유한국당",
+      "name_cn": "庾敏鳳"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "윤상직",
+      "party": "자유한국당",
+      "name_cn": "尹相直"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "자유한국당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법령에 따라 공무원의 보수는 봉급과 기타 각종 수당을 합산한 금액 또는 연봉과 기타 각종 수당을 합산한 금액임.\n  그런데 공무원이 실제 받는 보수는 법령에 나와 있는 봉급표와 수당표를 기반으로 대략적인 추산만 가능할 뿐 국민들이 실제로 공무원의 보수가 어느 수준으로 지급되고 있는지 알 수 없어 보수에 대한 정보공개를 통해 국민의 신뢰를 회복할 필요가 있다는 지적이 제기되고 있음.\n  이에 지방자치단체의 장은 공무원이 실제 수령하는 계급별·직위별 또는 직무등급별 연평균 보수를 공개하도록 명문화하여 국민의 세금이 재원인 공무원의 보수가 투명하게 공개되도록 하려는 것임(안 제44조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-11-05",
+  "decision_date": null,
+  "link_id": "PRC_F1I9C1H1T0X5T1I4W0N7W0M2L8W1D4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

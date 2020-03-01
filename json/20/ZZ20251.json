@@ -1,0 +1,24 @@
+{
+  "assembly_id": 20,
+  "bill_id": "ZZ20251",
+  "title": "[ZZ20251] 2019년도 법률안 국회 제출계획 (정부) 입법예고중",
+  "current_status": "접수",
+  "reception_info": [
+    "ZZ20251",
+    "2019-01-30",
+    "정부",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','51A4E8E7-A958-C217-DA0B-7B897BC606AA','0');",
+  "proposers": [],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-01-30",
+  "decision_date": null,
+  "link_id": "ARC_Q1T9F0U1M3G0R1H5X1Y4Z0F8B0T3R8",
+  "proposer_type": "정부",
+  "status": "처리"
+}

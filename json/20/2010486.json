@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010486",
+  "title": "[2010486] 소프트웨어산업 진흥법 일부개정법률안(민경욱의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2010486",
+    "2017-11-30",
+    "민경욱의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','271A0707-2EAD-1F46-6B39-EB92CD1C3015','0');",
+  "proposers": [
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "강효상",
+      "party": "자유한국당",
+      "name_cn": "姜孝祥"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "박찬우",
+      "party": "자유한국당",
+      "name_cn": "朴贊佑"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "신상진",
+      "party": "자유한국당",
+      "name_cn": "申相珍"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "자유한국당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "이군현",
+      "party": "자유한국당",
+      "name_cn": "李君賢"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현재 한국인터넷진흥원은 소프트웨어나 IoT 관련 기기들에 대하여 이용자들에게 취약점을 신고 받아 검토하고, 이를 개별 사업자에게 통보하고 개선 권고를 하고 있으나 이에 대한 법적인 근거가 없어 그 실효성이 낮은 실정임.\n  이에 과학기술정보통신부장관이 소프트웨어의 취약점을 분석·평가하여 해당 소프트웨어사업자에게 개선사항을 권고하면 소프트웨어사업자가 이를 이행하도록 하고, 전문기관을 지정하여 이러한 업무를 위탁할 수 있게 함으로써 한국인터넷진흥원이 운영하는 현행 제도에 대한 법적 근거를 만들어 실효성을 강화하려는 것임(안 제13조의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-11-30",
+  "decision_date": null,
+  "link_id": "PRC_P1N7F1X1P3N0X1V0Z5Z6V5O1I0A3J8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

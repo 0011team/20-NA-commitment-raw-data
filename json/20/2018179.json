@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018179",
+  "title": "[2018179] 전기사업법 일부개정법률안(정병국의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018179",
+    "2019-01-15",
+    "정병국의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제365회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','208BAE07-F73C-6772-B789-5EE256968255','0');",
+  "proposers": [
+    {
+      "name_kr": "정병국",
+      "party": "바른미래당",
+      "name_cn": "鄭柄國"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "바른미래당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金成泰"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "바른미래당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "자유한국당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "자유한국당",
+      "name_cn": "李鶴宰"
+    },
+    {
+      "name_kr": "임재훈",
+      "party": "바른미래당",
+      "name_cn": "林哉勳"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  태양광 발전시설의 수가 증가하면서 해당 시설이 설치된 지역의 주민들과 마찰이 발생하는 경우도 늘어나고 있음. 여러 지방자치단체에서 태양광 발전 시설 건립을 둘러싸고 주민과 발전사업자 사이에 갈등이 잇따르면서 태양광 발전시설의 주민 수용성을 제고하여야 한다는 지적이 제기되고 있음.\n  이에 태양광 발전시설의 발전사업허가를 하는 경우 추가로 주민들에게 태양광 발전시설이 설치될 것임을 사전고지하게 하고 일정 수 이상의 주민 동의를 받도록 하는 요건을 신설함으로써 사회적 갈등을 줄이고 발전사업자의 사업적 손실을 미연에 방지하려는 것임(안 제7조의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-01-15",
+  "decision_date": null,
+  "link_id": "PRC_E1W9X0U1E1J5Q1F1C0D7F2C8R4V9F3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

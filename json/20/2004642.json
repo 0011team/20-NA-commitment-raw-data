@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004642",
+  "title": "[2004642] 주식회사의 외부감사에 관한 법률 일부개정법률안(최운열의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2004642",
+    "2016-12-27",
+    "최운열의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','64C7C8F9-90CF-FF9F-1141-887E06520853','0');",
+  "proposers": [
+    {
+      "name_kr": "최운열",
+      "party": "더불어민주당",
+      "name_cn": "崔運烈"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "새누리당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김영춘",
+      "party": "더불어민주당",
+      "name_cn": "金榮春"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김현미",
+      "party": "더불어민주당",
+      "name_cn": "金賢美"
+    },
+    {
+      "name_kr": "박용진",
+      "party": "더불어민주당",
+      "name_cn": "朴用鎭"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 감사인은 재무제표를 포함한 감사보고서를 회사에 정기총회 1주일 전까지 제출하도록 하여 주주들이 회사의 정보를 면밀히 파악하지 못하고 정기총회에 참석하고 있음. \n  그러나 주주는 정기총회에서 회사의 실적 등을 파악하여 이에 대한 의견을 보다 정확히 제시하여 회사의 운영방향 등을 논의할 권리가 있으므로 감사보고서를 미리 보고받도록 할 필요가 있음.\n  이에 감사보고서를 정기총회 2주일 전까지 제출하도록 하여 주주의 권리를 제고하도록 하고자 함(안 제8조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-27",
+  "decision_date": "2017-09-28",
+  "link_id": "PRC_U1G6Z1O2Q2S7T1K6P1F6Q4W3Q4I7B5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

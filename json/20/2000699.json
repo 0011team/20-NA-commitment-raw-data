@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000699",
+  "title": "[2000699] 전기사업법 일부개정법률안(주승용의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2000699",
+    "2016-07-06",
+    "주승용의원 등 11인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0767697A-7E60-9EAA-6D49-DC304DD2840F','0');",
+  "proposers": [
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "국민의당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "국민의당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "박준영",
+      "party": "국민의당",
+      "name_cn": "朴晙瑩"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법령에 따라 산업통상자원부장관은 전기사용자에게 전기요금의 3.7%에 해당하는 금액을 부담금으로 부과ㆍ징수하여 전력산업기반기금의 재원으로 사용하고 있음.\n  그런데 최근 전기요금 인상과 전기사용량 증가로 인해 부담금 징수액이 계속 늘어남에 따라 전력산업기반기금의 여유자금 보유액이 증가하고 있음.\n  이에 국민의 전기요금 부담을 완화하고, 적정 여유자금 유지를 통한 전력산업기반기금의 효율적인 운용을 위해 부담금 부과요율이 현행보다 0.1%p 이상 인하될 수 있도록 법률상 부담금 부과요율 상한을 낮추려는 것임(안 제51조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-06",
+  "decision_date": null,
+  "link_id": "PRC_V1M6Y0T7V0M6G1K4U1M3A5U5N7G3N3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

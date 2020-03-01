@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019911",
+  "title": "[2019911] 긴급복지지원법 일부개정법률안(함진규의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2019911",
+    "2019-04-19",
+    "함진규의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','784EA3B8-6243-AAA1-5D78-2F96E78C7BE6','0');",
+  "proposers": [
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박순자",
+      "party": "자유한국당",
+      "name_cn": "朴順子"
+    },
+    {
+      "name_kr": "송언석",
+      "party": "자유한국당",
+      "name_cn": "宋彦錫"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이완영",
+      "party": "자유한국당",
+      "name_cn": "李完永"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "자유한국당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "자유한국당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "홍철호",
+      "party": "자유한국당",
+      "name_cn": "洪哲鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 주소득자의 부재, 질병, 방임 등의 사유로 생계유지가 어렵게 되어 위기상황에 처한 사람을 발굴하여 일시적으로 신속하게 지원하는 내용을 규정하고 있음.\n  그런데 자살시도자나 자살자가 발생한 가구가 위기상황에 처하게 되는 경우가 많음에도 불구하고 이들이 적시에 지원받지 못하는 경우가 많아 자살 등이 발생한 가구를 보다 명확하게 발굴대상에 명시할 필요가 있다는 지적이 제기됨.\n  이에 가구구성원의 자살시도 또는 자살이 발생하고, 그로 인하여 생계유지 등이 어렵게 된 경우도 위기상황의 사유로 추가하려는 것임(안 제2조제6호 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-04-19",
+  "decision_date": null,
+  "link_id": "PRC_N1A9G0P4U1T9U1S6X0Z2V2I9R5V8N3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

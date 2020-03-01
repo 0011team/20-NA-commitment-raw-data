@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014948",
+  "title": "[2014948] 재난 및 안전관리 기본법 일부개정법률안(윤영일의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014948",
+    "2018-08-20",
+    "윤영일의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제363회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','BD22A805-A323-3E76-59BF-9CAA27930E00','0');",
+  "proposers": [
+    {
+      "name_kr": "윤영일",
+      "party": "민주평화당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "박주현",
+      "party": "바른미래당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "윤호중",
+      "party": "더불어민주당",
+      "name_cn": "尹昊重"
+    },
+    {
+      "name_kr": "이학영",
+      "party": "더불어민주당",
+      "name_cn": "李學永"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "민주평화당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "바른미래당",
+      "name_cn": "朱昇鎔"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 태풍, 홍수, 지진, 황사, 낙뢰 등으로 인해 발생하는 재해를 자연재난으로 정의하고 재난의 예방ㆍ대응ㆍ복구 등에 관한 사항을 규정하여 지원하고 있음.\n  그러나 기상이변에 따른 기록적인 폭염과 이상수온 등으로 농어촌 피해가 급증하고 있음에도 불구하고, 폭염과 이상수온은 이 법에 따른 재난에 해당하지 아니하여 체계적인 수습대책을 마련하지 못하고 있음.\n  이에 자연재난의 범위에 폭염, 이상수온을 포함시켜 다른 자연재난과 마찬가지의 정책지원이 이루어 질 수 있도록 하고자 함(안 제3조제1호가목).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-08-20",
+  "decision_date": null,
+  "link_id": "PRC_A1S8T0B8O2V0G1W0E4X4N2H7D2Z7L2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

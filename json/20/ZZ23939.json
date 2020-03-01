@@ -1,0 +1,35 @@
+{
+  "assembly_id": 20,
+  "bill_id": "ZZ23939",
+  "title": "[ZZ23939] 청와대 민정수석실과 황운하 대전경찰청장 및 이용표 서울지방경찰청장 등의 6.13 지방선거 선거개입 의혹 등에 대한 진상규명을 위한 국정조사 요구(곽상도의원 등 2인 외 123인) 입법예고중",
+  "current_status": "접수",
+  "reception_info": [
+    "ZZ23939",
+    "2019-12-03",
+    "곽상도의원 등 2인 외 123인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','69BA7614-F9DF-AB3D-BFAE-8551270D5517','0');",
+  "proposers": [
+    {
+      "name_kr": "곽상도",
+      "party": "자유한국당",
+      "name_cn": "郭尙道"
+    },
+    {
+      "name_kr": "오신환",
+      "party": "바른미래당",
+      "name_cn": "吳晨煥"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-12-03",
+  "decision_date": null,
+  "link_id": "PRC_X1X9P1U2K0Z3P1V6P3L5R2T0V5I9N2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

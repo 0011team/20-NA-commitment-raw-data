@@ -1,0 +1,35 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002420",
+  "title": "[2002420] 호남고속철도 2단계 사업 조기 완공 및 목포~제주 해저터널 건설 촉구 결의안(김동철의원ㆍ윤영일의원 외 88인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2002420",
+    "2016-09-22",
+    "김동철의원ㆍ윤영일의원 외 88인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','450947CC-B8BE-0CC2-631E-B9DF32E65F96','0');",
+  "proposers": [
+    {
+      "name_kr": "김동철",
+      "party": "국민의당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-09-22",
+  "decision_date": "2017-03-28",
+  "link_id": "PRC_K1K6B0N9U2X2Q1D8K1Q8J5T7O7G6E4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

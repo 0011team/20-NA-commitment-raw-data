@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002755",
+  "title": "[2002755] 전파법 일부개정법률안(김경진의원 등 12인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2002755",
+    "2016-10-20",
+    "김경진의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C8C28AEB-27AA-FEB8-1406-FCEFB900323A','0');",
+  "proposers": [
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "국민의당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "송기석",
+      "party": "국민의당",
+      "name_cn": "宋基錫"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "안철수",
+      "party": "국민의당",
+      "name_cn": "安哲秀"
+    },
+    {
+      "name_kr": "어기구",
+      "party": "더불어민주당",
+      "name_cn": "魚基龜"
+    },
+    {
+      "name_kr": "오세정",
+      "party": "국민의당",
+      "name_cn": "吳世正"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "국민의당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "국민의당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용\n\n  최근 전자파 유해성에 대한 인식 제고에 힘입어 전기설비의 안전관리를 위한 기술기준에 전자파 인체보호기준을 포함하도록 하는 「전기사업법」 개정안이 2016년 7월 시행됨.\n  그러나 이와 관련해 전자파 인체보호기준 작성 시 반드시 고려해야 할 사항을 법률에 규정할 필요가 있다는 지적이 제기되고 있어 「전기사업법」 개정안이 추진되고 있고, 전자파로 인한 피해 방지를 위해 관련 부처 간 협력체계 구축이 필요하다는 주장이 설득력을 얻고 있음.\n  이에 미래창조과학부를 비롯하여 산업통상자원부, 한국전력공사 등 전파환경 기반 조성에 관련된 기관 간 협력체계 구축을 마련하는 규정을 보완하려는 것임(안 44조의5).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-10-20",
+  "decision_date": "2017-02-23",
+  "link_id": "PRC_S1C6R1C0Y2O0B1T5Q4H5S0J6X0W4B3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019445",
+  "title": "[2019445] 국회법 일부개정법률안(성일종의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2019445",
+    "2019-03-29",
+    "성일종의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제367회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','6DEAEC38-4284-2A25-6019-73B33D1C60A2','0');",
+  "proposers": [
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "자유한국당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "김학용",
+      "party": "자유한국당",
+      "name_cn": "金學容"
+    },
+    {
+      "name_kr": "송언석",
+      "party": "자유한국당",
+      "name_cn": "宋彦錫"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법 제158조에서 징계에 관한 회의는 공개하지 않도록 규정함에 따라 본회의 또는 윤리특별위원회는 국회의원의 징계안을 심사하는 경우 비공개 회의로 진행하고 있음.\n  그런데 회의가 비공개로 진행됨에 따라 의원 징계안에 대해 무조건적인 감싸기에 나서거나 과도한 정치적 비판을 가하는 등의 문제점이 제기되고 있음.\n  이에 국회의원의 징계안에 대한 심사 과정을 국민들에게 공개하여 국회가 국민 눈높이에 맞는 합리적인 결정을 내릴 수 있도록 하려는 것임(안 제158조 삭제).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-03-29",
+  "decision_date": null,
+  "link_id": "PRC_J1V9Q0E3M2D9V1N4K2S5C3O0M2C8N5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

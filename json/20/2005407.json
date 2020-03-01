@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005407",
+  "title": "[2005407] 항공보안법 일부개정법률안(함진규의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005407",
+    "2017-02-03",
+    "함진규의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제349회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','DEFDF859-557E-6243-3C3C-5182D2264893','0');",
+  "proposers": [
+    {
+      "name_kr": "함진규",
+      "party": "새누리당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "강석진",
+      "party": "새누리당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "새누리당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김기선",
+      "party": "새누리당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "새누리당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "새누리당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "새누리당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "새누리당",
+      "name_cn": "池尙昱"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "새누리당",
+      "name_cn": "崔然惠"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n   항공기내에서 각종 소란행위는 2012년 191건이었으나, 2014년 354건, 2015년 460건으로 지속적으로 증가하고 있음.\n 현행법은 항공기 내에서 폭언 등 소란행위, 술을 마시거나 약물을 복용하고 위해를 주는 행위에 대하여 1천만원 이하의 벌금에 처하도록 하고 있으나, 외국에 비하여 처벌 수준이 낮음.\n  이에 폭언 등 소란행위, 술을 마시거나 약물을 복용하고 위해를 주는 행위 등에 대한 처벌을 2년 이하의 징역 또는 2천만원 이하의 벌금으로 강화함으로써 항공기 내에서의 불법행위를 방지하고자 함(안 제49조제1항 및 제50조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-02-03",
+  "decision_date": null,
+  "link_id": "PRC_U1W7I0W2F0X3I1Z0A2Y8Z5S3J5H3V0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

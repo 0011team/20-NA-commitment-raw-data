@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003869",
+  "title": "[2003869] 국회법 일부개정법률안(김도읍의원 등 12인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2003869",
+    "2016-11-25",
+    "김도읍의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','6D2A27AF-2AD8-386F-EC9D-07D5F15BA385','0');",
+  "proposers": [
+    {
+      "name_kr": "김도읍",
+      "party": "새누리당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "강석진",
+      "party": "새누리당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "김기선",
+      "party": "새누리당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "새누리당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "새누리당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김세연",
+      "party": "새누리당",
+      "name_cn": "金世淵"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "새누리당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "새누리당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "윤한홍",
+      "party": "새누리당",
+      "name_cn": "尹漢洪"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "새누리당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "새누리당",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "새누리당",
+      "name_cn": "池尙昱"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법에 따라 국회의 운영 및 의사일정과 주요행사 등의 사항을 기재한 국회공보를 발간하여 의원에게 배부하고 있으나, 출판물로 발간하는 국회공보는 그 활용도가 크지 않고 국회 홈페이지에도 게재하고 있어 출판 형태의 발간은 최소화할 필요가 있는 실정임.\n  이에 발간한 국회공보를 의원에게 배부하지 않고 국회 인터넷 홈페이지에 게재하도록 하려는 것임(안 제80조제1항 및 제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-25",
+  "decision_date": "2018-03-30",
+  "link_id": "PRC_X1Z6F1F1R2Z5Y1V6N4B7K0M1J4X0W8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

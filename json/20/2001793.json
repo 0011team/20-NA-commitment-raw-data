@@ -1,0 +1,255 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001793",
+  "title": "[2001793] 국제 올림픽 조직 위원회에 대한 故손기정 선수의 대한민국 국적 및 한글 이름 표기 촉구를 위한 결의안(김성태의원 등 46인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2001793",
+    "2016-08-24",
+    "김성태의원 등 46인",
+    "의안원문",
+    "제20대 (2016~2020) 제345회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FD30C509-7955-6A76-0653-5999F6D79713','0');",
+  "proposers": [
+    {
+      "name_kr": "김성태",
+      "party": "새누리당",
+      "name_cn": "金聖泰"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "새누리당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김무성",
+      "party": "새누리당",
+      "name_cn": "金武星"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "새누리당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김성식",
+      "party": "국민의당",
+      "name_cn": "金成植"
+    },
+    {
+      "name_kr": "김재경",
+      "party": "새누리당",
+      "name_cn": "金在庚"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "새누리당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "김종훈",
+      "party": "무소속",
+      "name_cn": "金鍾勳"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "새누리당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "새누리당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "새누리당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "새누리당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "새누리당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "송기석",
+      "party": "국민의당",
+      "name_cn": "宋基錫"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "새누리당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "새누리당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "원혜영",
+      "party": "더불어민주당",
+      "name_cn": "元惠榮"
+    },
+    {
+      "name_kr": "유승희",
+      "party": "더불어민주당",
+      "name_cn": "兪承希"
+    },
+    {
+      "name_kr": "윤종오",
+      "party": "무소속",
+      "name_cn": "尹鍾五"
+    },
+    {
+      "name_kr": "윤한홍",
+      "party": "새누리당",
+      "name_cn": "尹漢洪"
+    },
+    {
+      "name_kr": "이완영",
+      "party": "새누리당",
+      "name_cn": "李完永"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "새누리당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "이종구",
+      "party": "새누리당",
+      "name_cn": "李鍾九"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "새누리당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "새누리당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "새누리당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "국민의당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "새누리당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "전희경",
+      "party": "새누리당",
+      "name_cn": "全希卿"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "새누리당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정병국",
+      "party": "새누리당",
+      "name_cn": "鄭柄國"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "새누리당",
+      "name_cn": "鄭雲天"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "새누리당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "조훈현",
+      "party": "새누리당",
+      "name_cn": "曺薰鉉"
+    },
+    {
+      "name_kr": "주광덕",
+      "party": "새누리당",
+      "name_cn": "朱光德"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "홍일표",
+      "party": "새누리당",
+      "name_cn": "洪日杓"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-24",
+  "decision_date": "2016-12-01",
+  "link_id": "PRC_D1M6O0V8V2A4D1J8D2A6K1E4B4D7Q1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

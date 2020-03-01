@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003021",
+  "title": "[2003021] 도로교통법 일부개정법률안(주호영의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2003021",
+    "2016-10-28",
+    "주호영의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','379BF23E-65B7-94B2-71F7-974D8BB002E5','0');",
+  "proposers": [
+    {
+      "name_kr": "주호영",
+      "party": "새누리당",
+      "name_cn": "朱豪英"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "새누리당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "새누리당",
+      "name_cn": "金聖泰"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "새누리당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "새누리당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "새누리당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "새누리당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "새누리당",
+      "name_cn": "李鶴宰"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "새누리당",
+      "name_cn": "咸珍圭"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  자전거이용 활성화 정책으로 자전거 이용자 및 자전거도로가 늘어나면서 자전거 이용자의 음주운전으로 인한 교통사고가 증가하고 있음. \n  현행법상 자전거 음주운전은 금지되고 있으나 그 처벌규정이 없어 자전거 음주운전 예방과 실효성 있는 단속이 이루어지지 못하고 있는 실정임.\n  이에 음주상태 등으로 정상적인 운전이 어려운 상태에서 자전거를 운전하는 경우 20만원 이하의 과료 등에 처하도록 벌칙규정을 마련함으로써 자전거 운전으로 인한 교통사고를 예방하려는 것임(안 제50조제8항 후단 신설 및 안 제156조제1호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-10-28",
+  "decision_date": "2018-02-28",
+  "link_id": "PRC_Q1N6U1G0R2Y8P1C7Q1E5T4A7T5H9E0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

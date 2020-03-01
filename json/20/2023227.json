@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023227",
+  "title": "[2023227] 소방공무원법 일부개정법률안(강창일의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023227",
+    "2019-10-30",
+    "강창일의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','18A64A4F-8A33-BB49-041C-6440C0AA1AFB','0');",
+  "proposers": [
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "송갑석",
+      "party": "더불어민주당",
+      "name_cn": "宋甲錫"
+    },
+    {
+      "name_kr": "송영길",
+      "party": "더불어민주당",
+      "name_cn": "宋永吉"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "원혜영",
+      "party": "더불어민주당",
+      "name_cn": "元惠榮"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "정은혜",
+      "party": "더불어민주당",
+      "name_cn": "鄭恩惠"
+    },
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행 소방공무원법은 소방공무원간 직무를 구별하는 규정이 부재함. 군인사법, 경찰공무원법에서 각각 병과와 경과를 구별하도록 되어 있는 것과 대비되는 부분임. \n  최근 청와대 청원 등에서 소방 내근직과 외근직간의 인사불평등에 대한 청원이 올라오는 등, 소방청 내부에서 문제가 계속해서 불거지고 있음. 또한 소방청 차원에서도 직무에 따른 경력관리나 전문성 배양이 어려워 소방청 전체의 전문성 강화에 어려움을 겪고 있음. \n  이에 소방공무원법을 일부 개정하여 직무별 인사관리체계를 확립하고, 이를 통해 소방공무원의 전문성을 강화시키고자 하는 것임(안 제3조의2 신설)\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-30",
+  "decision_date": null,
+  "link_id": "PRC_Q1F9Q1C0R3W0S1Y0V3R4E4O9Q7F6N9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

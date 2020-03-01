@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013539",
+  "title": "[2013539] 여신전문금융업법 일부개정법률안(박주민의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2013539",
+    "2018-05-11",
+    "박주민의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제360회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','24ABDBAB-318B-3F96-8810-D5874604A7B3','0');",
+  "proposers": [
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 언론에서 보도된 전국 대학의 등록금 및 기숙사비 납부 현황을 보면, 등록금 카드결제를 받지 않는 학교가 50%를 넘고 기숙사비의 경우 그 비율이 90%에 달하는 것으로 나타나 대학생 및 학부모의 불편을 야기하고 있음.\n  이렇듯 대학이 신용카드 납부를 허용하고 있지 않은 것은 등록금 등의 액수가 큰 만큼 카드수수료가 부담되기 때문이라는 지적이 있어, 신용카드업자로 하여금 등록금 및 기숙사비 등에 대하여 우대수수료율을 적용하도록 함으로써 신용카드 수납을 유도하고 대학생 및 학부모의 편의를 제고하려는 것임(안 제18조의5 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-05-11",
+  "decision_date": null,
+  "link_id": "PRC_L1G8A0L5V1R1T1X1B2C9J5P6P5R0V5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

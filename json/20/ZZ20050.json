@@ -1,0 +1,28 @@
+{
+  "assembly_id": 20,
+  "bill_id": "ZZ20050",
+  "title": "[ZZ20050] 국무위원후보자(법무부장관 안경환) 인사청문요청안(대통령) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "ZZ20050",
+    "2017-06-14",
+    "대통령",
+    "의안원문",
+    "제20대 (2016~2020) 제351회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5449E33A-19CD-BF9A-2A65-DE7DD394DDF4','0');",
+  "proposers": [],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [
+    {
+      "name_kr": "대통령"
+    }
+  ],
+  "proposed_date": "2017-06-14",
+  "decision_date": "2017-06-20",
+  "link_id": "PRC_C1Z7Q0G6A1X4K1G7G2S4L0B4D2B3E7",
+  "proposer_type": "기타",
+  "status": "처리"
+}

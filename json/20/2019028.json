@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019028",
+  "title": "[2019028] 사립학교법 일부개정법률안(조승래의원 등 10인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2019028",
+    "2019-03-07",
+    "조승래의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제367회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','8954C15C-0E6F-63DC-1E55-144B3D4D8EB1','0');",
+  "proposers": [
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "김태년",
+      "party": "더불어민주당",
+      "name_cn": "金太年"
+    },
+    {
+      "name_kr": "박용진",
+      "party": "더불어민주당",
+      "name_cn": "朴用鎭"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "더불어민주당",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "서형수",
+      "party": "더불어민주당",
+      "name_cn": "徐炯洙"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "이후삼",
+      "party": "더불어민주당",
+      "name_cn": "李厚三"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  국·공립 특수학교 교장은 「교육공무원법」에 따라 한 차례만 중임을 허용하고 있으나 현행법에 따르면 사립 특수학교의 장은 횟수의 제한 없이 중임을 할 수 있도록 규정하고 있어 국·공립 특수학교 교장과 사립 특수학교의 장간의 중임규정 적용에 관한 형평성 문제가 제기되고 있음.\n  이에 사립 특수학교의 장에 대해서도 한 차례만 중임을 할 수 있도록 함으로써 국·공립 특수학교의 장과 사립 특수학교의 장과의 형평성을 제고하려는 것임(안 제53조제3항 단서).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-03-07",
+  "decision_date": "2019-10-31",
+  "link_id": "PRC_Q1W9V0L3F0U7N1A7P4X6I2F1J6U9P6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

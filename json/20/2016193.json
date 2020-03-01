@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016193",
+  "title": "[2016193] 군인공제회법 일부개정법률안(김성원의원 등 11인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2016193",
+    "2018-10-31",
+    "김성원의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','74EDE9A2-14D4-FA15-1A12-CC97B9670447','0');",
+  "proposers": [
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "자유한국당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "자유한국당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  잔임기간(殘任其間)이라는 표현은 ‘임기 중 남은 기간’이라는 의미를 나타내는 한자어로, 어려운 단어일뿐더러 일상생활에서 자주 사용되는 용어가 아니어서 일반 국민이 쉽게 이해하기 어려움.\n  이에 현행법의 ‘잔임기간’이라는 한자어를 ‘남은 임기’로 변경하여, 국민이 법률의 용어를 쉽게 이해할 수 있도록 하려는 것임(안 제12조제4항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-31",
+  "decision_date": "2018-12-07",
+  "link_id": "PRC_W1L8J1T0P3F1F1I7G2Y3A1O1F0Y1Q0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

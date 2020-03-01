@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005048",
+  "title": "[2005048] 조세특례제한법 일부개정법률안(이현재의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005048",
+    "2017-01-11",
+    "이현재의원 등 10인",
+    "의안원문\n비용추계서 미첨부 사유서",
+    "제20대 (2016~2020) 제348회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','73B5E800-E0AE-049A-F099-53992D328CB0','0');",
+  "proposers": [
+    {
+      "name_kr": "이현재",
+      "party": "새누리당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "새누리당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "새누리당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "새누리당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김진태",
+      "party": "새누리당",
+      "name_cn": "金鎭台"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "새누리당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "서청원",
+      "party": "새누리당",
+      "name_cn": "徐淸源"
+    },
+    {
+      "name_kr": "윤상직",
+      "party": "새누리당",
+      "name_cn": "尹相直"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "바른정당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "새누리당",
+      "name_cn": "趙慶泰"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 신용도가 낮은 중소·중견기업의 자금조달 지원을 위해 펀드가 BBB  이하 사채권 투자 시에 배당소득 분리과세 특례를 부여하고 있음.\n  그러나 하이일드 펀드의 분리과세 특례가 일몰될 경우, 투자자의 투자유인이 감소하여 비우량기업의 자금경색 유발을 초래할 수 있음. 따라서 현행 하이일드 펀드의 분리과세 특례 일몰 기한(2017년 12월 31일)을 2018년 12월 31일까지 1년 더 연장하고자 함(안 제91조의15).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-01-11",
+  "decision_date": null,
+  "link_id": "PRC_X1Z7S0F1E1Q1E1E5Z1B1N1H4K7P9U4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

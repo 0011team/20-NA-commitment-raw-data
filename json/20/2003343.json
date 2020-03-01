@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003343",
+  "title": "[2003343] 국회법 일부개정법률안(백재현의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2003343",
+    "2016-11-07",
+    "백재현의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','3C5E1106-C5BF-087F-F42A-AA40EE5E9DBC','0');",
+  "proposers": [
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "어기구",
+      "party": "더불어민주당",
+      "name_cn": "魚基龜"
+    },
+    {
+      "name_kr": "오세정",
+      "party": "국민의당",
+      "name_cn": "吳世正"
+    },
+    {
+      "name_kr": "원혜영",
+      "party": "더불어민주당",
+      "name_cn": "元惠榮"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  최근 제20대 국회에 들어와 의원 특권 내려놓기와 의원 윤리 관련 규정의 재정비에 대한 논의가 활발하게 진행되고 있는바, 현행법에 따르면 의원 윤리에 관한 법령의 심사는 국회운영위원회에서 소관하고 있으나 전문성과 효율성 등을 고려하면 의원의 자격심사와 징계를 담당하고 있는 윤리특별위원회가 소관하도록 조정할 필요가 있다는 의견이 제기되고 있는 실정임.\n  이에 국회 운영에 관한 사항과 「국회법」 기타 국회규칙에 관한 사항 중 국회 윤리에 관한 사항은 윤리특별위원회에서 소관하도록 조정하려는 것임(안 제37조제1항제1호가목 및 나목, 제37조제3항 신설, 제46조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-07",
+  "decision_date": null,
+  "link_id": "PRC_Y1B6S1N1L0J7D1F6H2F7V2I4F6D1L5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

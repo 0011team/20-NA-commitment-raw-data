@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021577",
+  "title": "[2021577] 공연법 일부개정법률안(오신환의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021577",
+    "2019-07-22",
+    "오신환의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','2A47FC5C-F4FE-34ED-4F56-B6FEA60E212E','0');",
+  "proposers": [
+    {
+      "name_kr": "오신환",
+      "party": "바른미래당",
+      "name_cn": "吳晨煥"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "유승민",
+      "party": "바른미래당",
+      "name_cn": "劉承旼"
+    },
+    {
+      "name_kr": "유의동",
+      "party": "바른미래당",
+      "name_cn": "兪義東"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "바른미래당",
+      "name_cn": "鄭雲天"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "바른미래당",
+      "name_cn": "池尙昱"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른미래당",
+      "name_cn": "河泰慶"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 예술의 자유를 보장함과 아울러 건전한 공연활동의 진흥을 위하여 공연에 관한 사항을 규정하고 있음.\n  그런데 현행법이 성인 중심의 일반적인 공연에 초점을 맞추고 있어 아동·청소년과 관련된 공연예술의 진흥이 제대로 이루어지지 못하고 있다는 의견이 제기되고 있음.\n  이에 문화체육관광부장관이 수립하는 공연예술진흥기본계획에 아동·청소년 관련 공연예술의 진흥에 관한 사항을 포함하도록 하여, 아동·청소년 관련 공연예술에 대한 맞춤형 진흥정책이 시행될 수 있도록 하고자 함(안 제3조제2항제7호 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-07-22",
+  "decision_date": null,
+  "link_id": "PRC_N1S9L0B7S2D2D1W3F1E5T5V1C3Z2Y7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

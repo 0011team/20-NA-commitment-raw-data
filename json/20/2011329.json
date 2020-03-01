@@ -1,0 +1,100 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011329",
+  "title": "[2011329] 해사안전법 일부개정법률안(김종회의원 등 15인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2011329",
+    "2018-01-09",
+    "김종회의원 등 15인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F3723FD9-4D37-A446-7B2A-024E852D0AD6','0');",
+  "proposers": [
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "국민의당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "국민의당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "박주현",
+      "party": "국민의당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "국민의당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "이상돈",
+      "party": "국민의당",
+      "name_cn": "李相敦"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "국민의당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "국민의당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 선박의 안전관리체제를 수립하고 시행하는 대상선박 중에는 해상화물운송사업에 종사하는 선박으로서 총톤수 500톤 이상의 선박과 그 밖의 선박으로서 대통령령으로 정하는 선박이 포함되어 있음.\n  그런데 해당 규정은 해석상의 차이에 따라 해상화물운송사업에 종사하지 아니하는 선박은 안전관리체제 수립의 대상이 아닌 것으로 오해될 소지가 있다는 지적이 있음.\n  이에 선박의 안전관리체제를 수립？시행하여야 하는 대상선박에 대한 해석상의 논란을 없애기 위하여 해상화물운송업에 종사하는 선박과 그 밖의 선박을 구별하여 규정하려는 것임(안 제46조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-01-09",
+  "decision_date": "2018-03-30",
+  "link_id": "PRC_V1C8G0X1P0K9D1D6J1I7R3B8B3Z9C0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,40 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021320",
+  "title": "[2021320] 국무총리 및 국무위원 출석요구의 건(정치ㆍ외교ㆍ통일ㆍ안보에 관한 질문)(오신환의원 등 3인 외 261인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2021320",
+    "2019-07-04",
+    "오신환의원 등 3인 외 261인",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E495D1AD-E817-942E-BAF0-C97BB699135A','0');",
+  "proposers": [
+    {
+      "name_kr": "오신환",
+      "party": "바른미래당",
+      "name_cn": "吳晨煥"
+    },
+    {
+      "name_kr": "나경원",
+      "party": "자유한국당",
+      "name_cn": "羅卿瑗"
+    },
+    {
+      "name_kr": "이인영",
+      "party": "더불어민주당",
+      "name_cn": "李仁榮"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-07-04",
+  "decision_date": "2019-07-05",
+  "link_id": "PRC_I1K9Q0K7N0D4Q1J5H1I4G2G4D4L0H0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

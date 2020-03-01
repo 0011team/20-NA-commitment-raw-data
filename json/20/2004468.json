@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004468",
+  "title": "[2004468] 국가재정법 일부개정법률안(심재철의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004468",
+    "2016-12-19",
+    "심재철의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','861BA7D0-F90C-5C25-2486-5AB34F264B2A','0');",
+  "proposers": [
+    {
+      "name_kr": "심재철",
+      "party": "새누리당",
+      "name_cn": "沈在哲"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "새누리당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박찬우",
+      "party": "새누리당",
+      "name_cn": "朴贊佑"
+    },
+    {
+      "name_kr": "서청원",
+      "party": "새누리당",
+      "name_cn": "徐淸源"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "새누리당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "새누리당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "새누리당",
+      "name_cn": "朱豪英"
+    },
+    {
+      "name_kr": "최교일",
+      "party": "새누리당",
+      "name_cn": "崔敎一"
+    }
+  ],
+  "summaries": [
+    "\n친수구역을 체계적으로 개발하여 하천주변지역의 난개발을 방지하고 하천정비에 따른 개발이익을 공공부문에서 회수하여 하천정비 및 유지관리 재원으로 활용하기 위하여 하천관리기금을 설치함에 따라, 이 기금의 설치근거 마련을 위하여 「국가재정법」 별표에 「친수구역 활용에 관한 특별법」을 반영하려는 것임(안 별표 2 제71호 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-19",
+  "decision_date": null,
+  "link_id": "PRC_S1F6G1W2H1H9R1I7J5X1V5O1O3U1T2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

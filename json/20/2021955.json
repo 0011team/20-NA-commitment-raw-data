@@ -1,0 +1,110 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021955",
+  "title": "[2021955] 하천법 일부개정법률안(정진석의원 등 17인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021955",
+    "2019-08-13",
+    "정진석의원 등 17인",
+    "의안원문",
+    "제20대 (2016~2020) 제370회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','4D9585CF-26A5-2167-C8AE-908AC8EDFA0B','0');",
+  "proposers": [
+    {
+      "name_kr": "정진석",
+      "party": "자유한국당",
+      "name_cn": "鄭鎭碩"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김세연",
+      "party": "자유한국당",
+      "name_cn": "金世淵"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "자유한국당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "백승주",
+      "party": "자유한국당",
+      "name_cn": "白承周"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "자유한국당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "윤한홍",
+      "party": "자유한국당",
+      "name_cn": "尹漢洪"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "자유한국당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 하천관리청 등이 하천의 기능을 높이기 위하여 하천의 신설·증설·개량 및 보수 등의 하천공사를 하는 경우에는 하천공사의 시행에 관한 계획을 수립하고, 해당 계획을 수립하거나 변경하려는 때에는 이를 고시하도록 하고 있음.\n  그런데 하천시설을 철거하는 경우에는 현행법상 절차가 마련되어 있지 않아 국민의 세금으로 지어진 하천시설이 무분별하게 철거되는 문제가 있음.\n  이에 하천시설을 철거하는 경우에 하천시설 철거계획을 수립하고, 철거계획 수립하기 전에 공청회를 거치도록 하는 등의 절차를 마련하여 국민의 세금으로 지어진 하천시설이 신중하게 관리될 수 있도록 하려는 것임(안 제32조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-08-13",
+  "decision_date": null,
+  "link_id": "PRC_S1H9S0I8Q1C3W1H3D3R4U0C7Q4M5X8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

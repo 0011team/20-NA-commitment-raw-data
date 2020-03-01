@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022790",
+  "title": "[2022790] 도로교통법 일부개정법률안(김학용의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022790",
+    "2019-10-02",
+    "김학용의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C734BEB5-6228-EF1A-9875-0CDB5D2112EB','0');",
+  "proposers": [
+    {
+      "name_kr": "김학용",
+      "party": "자유한국당",
+      "name_cn": "金學容"
+    },
+    {
+      "name_kr": "강효상",
+      "party": "자유한국당",
+      "name_cn": "姜孝祥"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이장우",
+      "party": "자유한국당",
+      "name_cn": "李莊雨"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "자유한국당",
+      "name_cn": "朱豪英"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "자유한국당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 긴급자동차를 제외한 모든 이륜자동차의 자동차전용도로 통행을 금지하고, 이를 위반한 경우에는 30만원 이하의 벌금이나 구류에 처하도록 하고 있음.\n  그런데 이륜자동차의 자동차전용도로 통행을 전면 금지하는 것은 이륜자동차 운전자의 통행의 자유를 과도하게 침해하는 측면이 있으므로, 사륜자동차와 비슷한 정도의 주행 성능을 가진 대형 이륜자동차의 경우에는 자동차전용도로를 통행할 수 있도록 할 필요가 있음.\n  이에 배기량이 260시시를 초과하는 대형 이륜자동차의 경우 자동차전용도로 통행을 허용함으로써 이륜자동차 운전자의 통행의 자유를 보장하려는 것임(안 제63조 단서 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-02",
+  "decision_date": null,
+  "link_id": "PRC_C1J9X1C0F0N2A1G0H3Q1K1R5T3A1D2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

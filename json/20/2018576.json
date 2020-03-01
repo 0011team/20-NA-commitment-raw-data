@@ -1,0 +1,45 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018576",
+  "title": "[2018576] 국회의원(김순례) 징계안(이철희의원 등 4인 외 171인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018576",
+    "2019-02-12",
+    "이철희의원 등 4인 외 171인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C478F5A3-74D8-2684-9EB8-262B85E67F82','0');",
+  "proposers": [
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "유의동",
+      "party": "바른미래당",
+      "name_cn": "兪義東"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "민주평화당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-02-12",
+  "decision_date": null,
+  "link_id": "PRC_V1M9O0U2A1G2S1R1B2C8S5V6T5M0U6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

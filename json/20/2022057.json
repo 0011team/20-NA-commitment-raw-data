@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022057",
+  "title": "[2022057] 병역법 일부개정법률안(이철규의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022057",
+    "2019-08-21",
+    "이철규의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제370회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','58BC7039-643A-3839-CDDE-B7298F189FDE','0');",
+  "proposers": [
+    {
+      "name_kr": "이철규",
+      "party": "자유한국당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "권성동",
+      "party": "자유한국당",
+      "name_cn": "權性東"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "바른미래당",
+      "name_cn": "鄭雲天"
+    },
+    {
+      "name_kr": "정진석",
+      "party": "자유한국당",
+      "name_cn": "鄭鎭碩"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  현행법은 대한민국 국민인 남성에 대하여 헌법과 법률이 정한 병역의무를 성실히 수행하도록 명시하면서, 병역의무자가 6년 이상의 징역 또는 금고의 형을 선고 받은 경우에는 병역에 복무할 수 없으며 병적에서 제적되도록 규정하고 있음.\n  그러나 병적의 제적사유에 법정 최고형인 사형을 선고 받은 사람에 대한 명시적인 규정이 없어 당사자의 신분처리에 대한 명확한 근거를 마련할 필요성이 있음.\n  이에 병역에 복무할 수 없어 병적에서 제적되는 대상에 사형 또는 무기징역의 형을 선고받은 사람을 명시적으로 추가하려는 것임(안 제3조제4항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-08-21",
+  "decision_date": null,
+  "link_id": "PRC_Q1I9C0X8X2D1S1P5S3S9Q5W2X6Z4G4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

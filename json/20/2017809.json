@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2017809",
+  "title": "[2017809] 고용정책 기본법 일부개정법률안(최도자의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2017809",
+    "2018-12-27",
+    "최도자의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제365회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','6B346094-4568-2687-05E5-3A7CB4F8E631','0');",
+  "proposers": [
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "바른미래당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "임재훈",
+      "party": "바른미래당",
+      "name_cn": "林哉勳"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "민주평화당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "바른미래당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  “「고용정책 기본법」 제33조제1항에 따른 고용량 변동신고를 그 고용량의 변동이 있는 날의 30일 전에 하여야 한다”는 내용의 「고용정책 기본법 시행규칙」 제2조제2항의 규정은 국민에게 의무를 부과하는 조항이지만, 법률에서 그 시기에 대하여 전혀 위임이 없는 사항으로 일반인들은 이를 예측하기 어려움.\n  특히 해당 사항 위반에 대해서는 법률 제42조제1항제1호에 따라 과태료 부과 처분의 대상이 되므로, 신고의 시기를 「고용정책 기본법」에 규정하여 일반인들의 예견가능성을 높이고자 함(안 제33조제2항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-12-27",
+  "decision_date": null,
+  "link_id": "PRC_O1N8U1T2S2D7J1E7J0E4Y5S9S9L4R9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020202",
+  "title": "[2020202] 국회법 일부개정법률안(황주홍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020202",
+    "2019-05-03",
+    "황주홍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A26D1908-B206-8787-981C-4A8BCF2FEB39','0');",
+  "proposers": [
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "바른미래당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "민주평화당",
+      "name_cn": "朴智元"
+    },
+    {
+      "name_kr": "손금주",
+      "party": "무소속",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "민주평화당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  국회 의안정보시스템에 따르면 16대 국회 이후 발의된 법안 건수는 16대 2,507건, 17대 7,489건, 18대 13,913건 19대 17,822건, 20대 16,378건(11월 30일 기준)으로 폭증하고 있음.\n  그러나 각 의원의 법안 발의 이후 해당 법안의 상임위 및 법사위, 본회의 심사 및 의결결과에 대한 통지규정이 부재하여 심사과정에서 대표발의 의원의 효율적인 법안관리가 제대로 이루어지지 못하고 있음.\n  이에 상임위원회로 하여금 대표발의 의원에게 발의한 법률안의 심사결과 및 의결결과를 통지하는 의무규정을 신설하고자 함(안 제66조의2 및 제98조의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-03",
+  "decision_date": null,
+  "link_id": "PRC_N1P9F0H5A0N3J1G7J4S9Q0T6N1H3B5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

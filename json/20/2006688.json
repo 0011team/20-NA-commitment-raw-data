@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006688",
+  "title": "[2006688] 동물보호법 일부개정법률안(기동민의원 등 13인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2006688",
+    "2017-04-11",
+    "기동민의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','701FA30C-52EF-CE20-1926-76A97987BD0E','0');",
+  "proposers": [
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "권미혁",
+      "party": "더불어민주당",
+      "name_cn": "權美赫"
+    },
+    {
+      "name_kr": "금태섭",
+      "party": "더불어민주당",
+      "name_cn": "琴泰燮"
+    },
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "우원식",
+      "party": "더불어민주당",
+      "name_cn": "禹元植"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    },
+    {
+      "name_kr": "전현희",
+      "party": "더불어민주당",
+      "name_cn": "全賢姬"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n  현행법은 실험이 종료된 동물의 검사 결과 회복될 수 없는 경우 등에는 고통을 주지 않는 방법으로 처리하도록 규정하고 있음.\n  그런데 검사 결과 정상적으로 회복된 동물의 처리방법에 관해서는 달리 규정이 없어 실험동물의 사후처리가 미흡하다는 지적이 있음.\n  이에 동물실험 이후 정상적으로 회복된 동물은 일반에 분양하거나 기증할 수 있도록 하는 근거를 마련함으로써 실험동물의 관리를 철저히 하려는 것임(안 제23조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-04-11",
+  "decision_date": "2018-02-28",
+  "link_id": "PRC_F1N7K0V4N1T1G1W0A4M5H0W1X6Z9C0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006300",
+  "title": "[2006300] 민법 일부개정법률안(박덕흠의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2006300",
+    "2017-03-20",
+    "박덕흠의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','CF911D49-6A3B-E502-A117-51E4D780FDD5','0');",
+  "proposers": [
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "박찬우",
+      "party": "자유한국당",
+      "name_cn": "朴贊佑"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "바른정당",
+      "name_cn": "鄭雲天"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "바른정당",
+      "name_cn": "洪文杓"
+    },
+    {
+      "name_kr": "홍철호",
+      "party": "바른정당",
+      "name_cn": "洪哲鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 자필증서에 의한 유언의 경우 유언자가 그 전문과 연월일, 주소, 성명을 자서하고 날인하도록 규정하고 있음. 그러나 유언자가 유언장을 작성하면서 주소를 누락하거나 날인 대신 서명하여 유언장의 내용이 무효가 되는 등 형식적 요건의 불비로 유언장의 효력이 인정되지 못하는 문제점이 발생하고 있음.\n  이에 따라 자필증서에 의한 유언에서 ‘주소의 자서’ 요건을 삭제하고, ‘날인’을 ‘서명 또는 날인’으로 개정함으로써 유언자의 진정한 의사가 실현되도록 하려는 것임(안 제1066조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-03-20",
+  "decision_date": null,
+  "link_id": "PRC_J1K7T0Z3W2B0V1A8Q1Y2G3Q9L5X9F8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

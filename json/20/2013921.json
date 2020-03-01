@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013921",
+  "title": "[2013921] 대기환경보전법 일부개정법률안(이수혁의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2013921",
+    "2018-06-15",
+    "이수혁의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제361회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D38F51D3-871B-89A9-B4AB-05EBE9C465C8','0');",
+  "proposers": [
+    {
+      "name_kr": "이수혁",
+      "party": "더불어민주당",
+      "name_cn": "李秀赫"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "문희상",
+      "party": "더불어민주당",
+      "name_cn": "文喜相"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "심재권",
+      "party": "더불어민주당",
+      "name_cn": "沈載權"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 시·도지사에게 배출시설의 멸실 또는 폐업이 확인된 경우 허가를 취소하거나 폐쇄를 명하도록 하고 있음. \n  그러나 시·도지사가 행정 처분의 근거가 되는 멸실 또는 폐업의 확인을 위해 관할 세무서에 관련 정보의 제공을 요청해도 법률적 근거가 없어 이를 제공받지 못하고 있는 실정임. \n  이에 시·도지사가 폐업여부 확인을 위해 필요한 경우 관할 세무서장에게 영업자의 폐업여부에 대한 정보 제공을 요청할 수 있도록 하여 지방자치단체장이 배출시설을 적정하게 관리할 수 있도록 하려는 것임(안 제36조제2항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-06-15",
+  "decision_date": null,
+  "link_id": "PRC_M1V8B0A6G1N5R1V0H3L4Y3Y4T0H6B7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

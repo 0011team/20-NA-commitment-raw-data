@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010206",
+  "title": "[2010206] 의료급여법 일부개정법률안(양승조의원 등 10인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2010206",
+    "2017-11-16",
+    "양승조의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','4116B487-3E01-174B-495B-27D156D436B1','0');",
+  "proposers": [
+    {
+      "name_kr": "양승조",
+      "party": "더불어민주당",
+      "name_cn": "梁承晁"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이학영",
+      "party": "더불어민주당",
+      "name_cn": "李學永"
+    },
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "정춘숙",
+      "party": "더불어민주당",
+      "name_cn": "鄭春淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  2016년 12월 2일 「약사법」 제91조의 개정에 따라 기존 ‘한국희귀의약품센터’가 ‘한국희귀·필수의약품센터’로 변경되어 의료급여법의 인용 법률을 개정할 필요가 있음.\n  이에 「의료급여법」의 ‘한국희귀의약품센터’를 ‘한국희귀·필수의약품센터’로 대체함으로써 법률을 정비하려는 것임(안 제9조제1항제4호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-11-16",
+  "decision_date": "2018-12-27",
+  "link_id": "PRC_Z1N7M1C1P1B6R1L7J5G4N0Q1U3N3X1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

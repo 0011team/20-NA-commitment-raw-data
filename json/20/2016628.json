@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016628",
+  "title": "[2016628] 농지법 일부개정법률안(김종회의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2016628",
+    "2018-11-15",
+    "김종회의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','BB8ADFE0-C01F-DA97-9759-DE4D591455EC','0');",
+  "proposers": [
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "손금주",
+      "party": "무소속",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "민주평화당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "윤준호",
+      "party": "더불어민주당",
+      "name_cn": "尹俊晧"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "민주평화당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "바른미래당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 원칙적으로 농지의 소유자격을 농업인과 농업법인으로 제한하고 있고, 농지를 취득하려는 자는 농지 소재지를 관할하는 시ㆍ구ㆍ읍ㆍ면의 장에게서 농지취득자격증명을 발급받도록 하고 있으며, 이때 농업경영계획서를 작성하여 신청하도록 하고 있음.\n  그런데 농업경영계획서의 보존기간이 5년밖에 되지 않아 불법 농지취득 및 전용이 이루어지더라도 실태를 파악하기 어렵다는 지적이 있음.\n  이에 농지취득을 위한 농업경영계획서는 중요한 보존문서이므로 보존기간을 20년으로 법에 명시하려는 것임(안 제8조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-11-15",
+  "decision_date": "2020-01-09",
+  "link_id": "PRC_A1C8E1Z1E1R5S1H6E3U1P0D9V8Y5C4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

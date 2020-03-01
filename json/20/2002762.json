@@ -1,0 +1,95 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002762",
+  "title": "[2002762] 전기사업법 일부개정법률안(안철수의원 등 14인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2002762",
+    "2016-10-20",
+    "안철수의원 등 14인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','55CB3983-89BB-6D57-1AA7-ADE483573C6A','0');",
+  "proposers": [
+    {
+      "name_kr": "안철수",
+      "party": "국민의당",
+      "name_cn": "安哲秀"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "국민의당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "국민의당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "더불어민주당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "이태규",
+      "party": "국민의당",
+      "name_cn": "李泰珪"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "국민의당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  최근 전자파 유해성에 대한 인식 재고에 힘입어 전기설비의 안전관리를 위한 기술기준에 전자파 인체보호기준을 포함하도록 하는 「전기사업법」 개정안이 2016년 7월 시행됨.\n  그러나 이와 관련해 전자파 인체보호기준 작성 시 반드시 고려해야 할 사항을 법률에 규정할 필요가 있다는 지적이 제기되고 있음. 이에 전자파 인체보호기준 작성 시 고려사항을 법률에 규정하려는 것임(안 제67조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-10-20",
+  "decision_date": null,
+  "link_id": "PRC_T1L6E1Y0D2X0L1B6B4L2V0Y1Y6V8A4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

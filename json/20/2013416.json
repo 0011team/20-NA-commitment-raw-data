@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013416",
+  "title": "[2013416] 농지법 일부개정법률안(김재원의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2013416",
+    "2018-05-03",
+    "김재원의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제360회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B08A0B53-92BF-8F81-D56C-85B498224F3C','0');",
+  "proposers": [
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "곽상도",
+      "party": "자유한국당",
+      "name_cn": "郭尙道"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "자유한국당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "박대출",
+      "party": "자유한국당",
+      "name_cn": "朴大出"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "박완수",
+      "party": "자유한국당",
+      "name_cn": "朴完洙"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법상 시·도지사는 대통령령으로 정하는 사유가 있으면 농업진흥지역 또는 용도구역을 변경하거나 해제할 수 있도록 규정하고 있으며, 이와 관련하여 같은법 시행령에서는 해당 지역의 여건변화로 농업진흥지역 밖의 지역을 농업진흥지역으로 편입하는 경우 등의 사항을 규정하고 있음.\n  그러나 농업진흥지역을 변경하거나 해제하는 행위는 국민의 재산권에 직접적인 영향을 주는 중요한 사항이므로 그 요건 등을 대통령령으로 규정할 것이 아니라 법률에 직접 규정하는 것이 바람직함.\n  이에 시행령에 위임하고 있는 농업진흥지역의 변경·해제요건을 법률로 상향하여 규정하려는 것임(안 제31조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-05-03",
+  "decision_date": null,
+  "link_id": "PRC_K1P8V0U5P0L3E1Y4R2U6K4M7O8W7U9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

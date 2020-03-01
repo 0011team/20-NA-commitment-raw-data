@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004110",
+  "title": "[2004110] 가사소송법 일부개정법률안(김삼화의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004110",
+    "2016-12-05",
+    "김삼화의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','47EB718B-8A73-AFEB-EC6E-7E1160B520D1','0');",
+  "proposers": [
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "국민의당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "새누리당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "오세정",
+      "party": "국민의당",
+      "name_cn": "吳世正"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "국민의당",
+      "name_cn": "蔡利培"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  부부가 이혼하는 경우 자녀를 직접 양육하지 아니하는 부모의 일방과 자녀 간의 면접교섭권을 인정하고 있었으나 자녀를 직접 양육하지 아니하는 부모 일방이 사망하거나 피치 못할 사정으로 면접교섭권을 행사할 수 없을 때 그 부모의 직계존속은 가정법원의 허가를 받아 손자녀와 면접교섭이 가능하도록 하는 「민법 일부개정법률안」이 2016년 11월 17일 본회의에서 통과되었음.\n  이에 따라 자녀를 직접 양육하지 아니하는 부모 일방의 직계존속(조부모 등)의 면접교섭권 청구절차에 관한 사항을 「가사소송법」에 따른 가사비송사건으로 처리하도록 하는 개정안임(안 제2조제1항제2호나목3)).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-05",
+  "decision_date": null,
+  "link_id": "PRC_C1P6H1E2R0N5Q1Z7F2N7Z2V1O8U5W1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

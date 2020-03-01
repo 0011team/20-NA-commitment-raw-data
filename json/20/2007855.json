@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2007855",
+  "title": "[2007855] 형법 일부개정법률안(박광온의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2007855",
+    "2017-07-10",
+    "박광온의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제352회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C1ABDC48-FDAA-BD55-1085-94788790F507','0');",
+  "proposers": [
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김태년",
+      "party": "더불어민주당",
+      "name_cn": "金太年"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "최인호",
+      "party": "더불어민주당",
+      "name_cn": "崔仁昊"
+    },
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  박근혜 정부의 민간인 국정농단 사건과 같이 대통령 등 고위공직자가 국정 전반에 걸쳐 직권을 남용하여 민간인에게 국정운영에 관여하도록 할 경우 그 사회적 해악이 큼에도 불구하고, 5년 이하의 징역, 10년 이하의 자격정지 또는 1,000만 원 이하의 벌금으로 처벌이 약하다는 논의가 있음.\n  이에 따라 현행법상 직권남용죄의 법정형을 3년 이상의 징역으로 상향하려는 것임(안 제123조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-07-10",
+  "decision_date": null,
+  "link_id": "PRC_W1S7V0H7M1V0R1W0G5M8S1E5V9C5H4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

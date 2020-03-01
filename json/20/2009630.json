@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009630",
+  "title": "[2009630] 정보위원장(이철우) 사임의 건(이철우의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2009630",
+    "2017-09-27",
+    "이철우의원",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E97B24F0-5B0F-B5A5-3E96-24DA2A51184A','0');",
+  "proposers": [
+    {
+      "name_kr": "이철우",
+      "party": "자유한국당",
+      "name_cn": "李喆雨"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-27",
+  "decision_date": "2017-09-28",
+  "link_id": "PRC_M1G7H0V9A2J7X1G6E2I3H5R6L8V5E1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

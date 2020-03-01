@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001385",
+  "title": "[2001385] 기간제 및 단시간근로자 보호 등에 관한 법률 일부개정법률안(김삼화의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2001385",
+    "2016-08-03",
+    "김삼화의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제344회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','4DA7D0A2-4BE9-4592-858C-5FFCF2967B6C','0');",
+  "proposers": [
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "국민의당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 사용자에게 단시간근로자를 통상근로자로 전환하도록 노력해야할 의무만을 규정하고 있을 뿐, 구체적으로 이를 이행하기 위한 사용자의 노력을 관리하고 지도하는 시스템이 없어 법적 실효성이 미흡함. \n  따라서 단시간근로자의 통상근로자로의 전환을 촉진하기 위하여 사용자가 통상근로자를 채용하고자 하는 경우 단시간근로자에게 해당업무에 대한 정보를 제공하고 우선적으로 지원할 수 있는 기회를 부여할 의무를 규정하려는 것임(안 제7조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-03",
+  "decision_date": null,
+  "link_id": "PRC_T1J6N0E8T0F3A1Q6B0X4V0J9X5D9P7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

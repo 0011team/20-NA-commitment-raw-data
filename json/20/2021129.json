@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021129",
+  "title": "[2021129] 농수산물 품질관리법 일부개정법률안(강석진의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2021129",
+    "2019-06-25",
+    "강석진의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','30B78EE6-3C3A-7DF6-2BD9-29B9A1270C94','0');",
+  "proposers": [
+    {
+      "name_kr": "강석진",
+      "party": "자유한국당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "김무성",
+      "party": "자유한국당",
+      "name_cn": "金武星"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "자유한국당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "자유한국당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "신상진",
+      "party": "자유한국당",
+      "name_cn": "申相珍"
+    },
+    {
+      "name_kr": "윤재옥",
+      "party": "자유한국당",
+      "name_cn": "尹在玉"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "무소속",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 해양수산부장관이 수산물의 품질을 향상시키고 소비자를 보호하기 위하여 품질인증제도를 실시하도 규정하고 있음.\n  그런데 거짓이나 그 밖의 부정한 방법으로 인증을 받는 등 품질인증의 취소 사유가 발생한 경우에 일정기간 동안은 다시 신청할 수 없도록 하는 근거를 마련하여 인증제도에 대한 관리를 강화할 필요성이 있다는 의견이 있음.\n  이에 현행법에 인증이 취소되거나 벌금 이상의 형이 확정된 후 1년이 지나지 아니한 경우에는 수산물의 품질인증을 다시 신청할 수 없도록 하는 근거를 마련하려는 것임(안 제14조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-06-25",
+  "decision_date": "2020-01-09",
+  "link_id": "PRC_Y1B9F0J6E2F5S1S6N4J5L4D0O7V2X9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

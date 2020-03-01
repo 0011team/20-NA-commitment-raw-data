@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021335",
+  "title": "[2021335] 보건복지위원장(이명수) 사임의 건(이명수의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2021335",
+    "2019-07-05",
+    "이명수의원",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','CC7BB59D-B239-F836-F9A3-A6466F7C84C8','0');",
+  "proposers": [
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-07-05",
+  "decision_date": "2019-07-05",
+  "link_id": "PRC_X1W9Z0U7P0V5R0K9M1O3V2X6H3K8O9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

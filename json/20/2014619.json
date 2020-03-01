@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014619",
+  "title": "[2014619] 조세특례제한법 일부개정법률안(김기선의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2014619",
+    "2018-07-30",
+    "김기선의원 등 10인",
+    "의안원문\n비용추계서 미첨부 사유서",
+    "제20대 (2016~2020) 제362회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','AFD9B302-CF0A-F13F-DF8B-BE67C7B9AFBE','0');",
+  "proposers": [
+    {
+      "name_kr": "김기선",
+      "party": "자유한국당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "김진태",
+      "party": "자유한국당",
+      "name_cn": "金鎭台"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "자유한국당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "자유한국당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 중소기업으로의 취업을 장려하기 위하여 청년, 장애인, 경력단절 여성 등이 중소기업에 취업하는 경우 근로소득에 대한 소득세를 일부 감면하는 특례를 두고 있음.\n  그런데 그 소득세 감면의 신청을 사업주(원천징수의무자)를 통해서만 하도록 하고 있어, 급여 체납이나 사업주와의 갈등으로 퇴직한 사람 등의 경우 사업주가 감면신청을 해 주지 않아 소득세 감면을 받지 못하는 사례가 발생하고 있음.\n  이에 소득세 감면 대상인 근로자가 퇴직한 경우 주소지 관할 세무서장에게 감면 신청을 할 수 있도록 함으로써, 현행 제도의 미비점을 보완하려는 것임(안 제30조제2항 단서 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-07-30",
+  "decision_date": "2018-12-08",
+  "link_id": "PRC_T1R8P0C7J3D0V1I5M3M5C0E8O0R9X0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

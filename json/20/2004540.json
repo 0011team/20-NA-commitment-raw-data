@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004540",
+  "title": "[2004540] 국회운영위원장(정진석) 사임의 건(정진석의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2004540",
+    "2016-12-21",
+    "정진석의원",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','6BE2B6CD-E36C-E774-966A-3914424CEA96','0');",
+  "proposers": [
+    {
+      "name_kr": "정진석",
+      "party": "새누리당",
+      "name_cn": "鄭鎭碩"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-21",
+  "decision_date": "2016-12-29",
+  "link_id": "PRC_V1R6N1O2K2T1X1N6V4W3T2U0Y5H5Y2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

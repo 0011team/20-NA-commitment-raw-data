@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005004",
+  "title": "[2005004] 디자인보호법 일부개정법률안(윤관석의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005004",
+    "2017-01-06",
+    "윤관석의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','84C072DC-DB7C-DEAD-4D26-667F657ACB38','0');",
+  "proposers": [
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "문미옥",
+      "party": "더불어민주당",
+      "name_cn": "文美玉"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박찬대",
+      "party": "더불어민주당",
+      "name_cn": "朴贊大"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "무소속",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "전현희",
+      "party": "더불어민주당",
+      "name_cn": "全賢姬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  고가의 자동차 OEM부품을 대체하여 국민들이 저렴하면서도 성능 및 품질이 좋은 부품을 사용할 수 있도록 \"자동차 대체부품인증제도\"가 도입되어 있음.\n  그러나 완성차제작사들이 대부분의 정비용 부품에 대하여 디자인권을 등록하여 완성차제작사의 OEM부품 중심의 독점적 유통구조를 형성하고 있어, 이로 인하여 자동차 대체부품인증제도가 유명무실한 실정임.\n  이에 자동차의 부품이 디자인권으로 설정등록된 날부터 45개월이 경과된 경우에는 그 효력을 「자동차관리법」 제30조의5에 따른 대체부품에 대하여 제한하려는 것임(안 제94조제3항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-01-06",
+  "decision_date": null,
+  "link_id": "PRC_R1E7G0Y1L0G6V1Q6E0U2B1L3N4K6H2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

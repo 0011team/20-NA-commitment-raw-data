@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015001",
+  "title": "[2015001] 자동차관리법 일부개정법률안(유승민의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2015001",
+    "2018-08-23",
+    "유승민의원 등 10인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제363회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A45BBFE3-A490-DD2A-C696-116585E59D6E','0');",
+  "proposers": [
+    {
+      "name_kr": "유승민",
+      "party": "바른미래당",
+      "name_cn": "劉承旼"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "자유한국당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "바른미래당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "자유한국당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "자유한국당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "바른미래당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "바른미래당",
+      "name_cn": "李鶴宰"
+    },
+    {
+      "name_kr": "정병국",
+      "party": "바른미래당",
+      "name_cn": "鄭柄國"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "바른미래당",
+      "name_cn": "池尙昱"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 폭염이 이어지고 있는 가운데 어린이가 차량 내에 방치되어 사망하는 등 ‘어린이 차량갇힘 사고’가 잇따라 발생하면서 사고 재발방지를 위한 대책마련이 필요하다는 지적이 있음.\n  이에 어린이통학버스의 소유자로 하여금 시동이 꺼진 상태에서 차 문을 닫을 때 뒷좌석에 어린이나 돌봄이 필요한 승객이 남아 있는 경우 이를 알리는 ‘하차확인장치’를 설치하도록 의무화함으로써 자동차 안전사고를 예방하려는 것임(안 제29조의4 및 제84조제4항제2호의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-08-23",
+  "decision_date": null,
+  "link_id": "PRC_D1J8G0L8J2G3X1Z0N5T4R4B7R3M0X6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

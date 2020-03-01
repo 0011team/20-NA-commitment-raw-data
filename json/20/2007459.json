@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2007459",
+  "title": "[2007459] 원자력 손해배상법 일부개정법률안(김상희의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2007459",
+    "2017-06-19",
+    "김상희의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제351회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F475A8B2-C1CE-EED2-7604-54258EF4B303','0');",
+  "proposers": [
+    {
+      "name_kr": "김상희",
+      "party": "더불어민주당",
+      "name_cn": "金相姬"
+    },
+    {
+      "name_kr": "권미혁",
+      "party": "더불어민주당",
+      "name_cn": "權美赫"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "박찬대",
+      "party": "더불어민주당",
+      "name_cn": "朴贊大"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 원자력사고가 났을 경우 원자력사업자의 배상책임한도를  3억 SDR(한화 5,000억원)로 규정하고 있는데, 이는 일본의 1조 5,600억원, 독일의 4조원과 큰 차이를 보임.\n  또한 원자력사업자가 지고 있는 배상책임 이상의 피해는 정부가 지원하고 있어, 원전사고에 따른 피해를 국민의 세금으로 부담하도록 하고 있음.\n  이에 원자력사업자의 배상책임한도를 일본과 비슷한 수준의 9억 SDR로 상향하여 원전사고에 관한 원자력사업자의 책임을 강화하려는 것임(안 제3조의2제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-06-19",
+  "decision_date": null,
+  "link_id": "PRC_T1U7X0F6U1F9P1W5B4M3W5V5Z2V0Y2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

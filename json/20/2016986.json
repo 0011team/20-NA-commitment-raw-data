@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016986",
+  "title": "[2016986] 문화재보호법 일부개정법률안(김영주의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2016986",
+    "2018-12-03",
+    "김영주의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','8CDB1D6D-C2FA-CB7D-9889-C229F34C2C6B','0');",
+  "proposers": [
+    {
+      "name_kr": "김영주",
+      "party": "더불어민주당",
+      "name_cn": "金榮珠"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박용진",
+      "party": "더불어민주당",
+      "name_cn": "朴用鎭"
+    },
+    {
+      "name_kr": "손혜원",
+      "party": "더불어민주당",
+      "name_cn": "孫惠園"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이상헌",
+      "party": "더불어민주당",
+      "name_cn": "李相憲"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "이학영",
+      "party": "더불어민주당",
+      "name_cn": "李學永"
+    },
+    {
+      "name_kr": "정세균",
+      "party": "더불어민주당",
+      "name_cn": "丁世均"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 문화재청장의 허가를 조건으로 국보, 보물, 천연기념물 또는 국가민속문화재(이하 “국보등”이라 함)를 국외로 반출할 수 있도록 하고 있음. \n  그런데 반출된 일부 국보등의 경우 반출허가신청서에 기재된 반출날짜와 실제 국외 반출 날짜가 일치하지 않는 등 문화재의 국외 반출 절차를 개선해야 한다는 의견이 있음.\n  이에 문화재청장이 국보등의 반출을 허가한 경우 그 허가내역을 전자문서의 형태로 관세청장이 운영·관리하는 전산시스템에 통보하도록 함으로써 문화재의 국외 반출 과정에서 발생할 수 있는 문제점을 개선·보완하려는 것임(안 제39조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-12-03",
+  "decision_date": "2019-10-31",
+  "link_id": "PRC_G1Z8W1T2W0M3E0D9J4I4A3C3C3Z6R6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

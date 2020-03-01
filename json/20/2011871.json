@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011871",
+  "title": "[2011871] 지방재정법 일부개정법률안(김기선의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2011871",
+    "2018-02-09",
+    "김기선의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제356회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','67B1C72C-EB5B-9BEB-0A9A-1214A3474387','0');",
+  "proposers": [
+    {
+      "name_kr": "김기선",
+      "party": "자유한국당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "권석창",
+      "party": "자유한국당",
+      "name_cn": "權錫昌"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "이장우",
+      "party": "자유한국당",
+      "name_cn": "李莊雨"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "자유한국당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "최교일",
+      "party": "자유한국당",
+      "name_cn": "崔敎一"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 지방보조금에 관한 사항을 전문적으로 심의하기 위하여 지방자치단체의 장 소속으로 지방보조금심의위원회를 두고 있음. 그런데 지방보조금심의위원회의 위원의 임명 또는 위촉 권한이 지방자치단체의 장에게 부여되어 있고, 지방의회 차원에서 이를 견제할 수 있는 수단이 없어 단체장의 측근으로 위원회가 구성되는 문제가 발생할 수 있음.\n  이에 지방보조금심의위원회의 민간위원 중 3명을 지방의회가 추천하는 사람으로 위촉하도록 함으로써 지방보조금심의위원회 구성에 있어 중립성 및 공정성을 제고하려는 것임(안 제32조의3제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-02-09",
+  "decision_date": null,
+  "link_id": "PRC_S1S8S0L2B0A9Z1U0M5K3K2C4Q9N8M6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

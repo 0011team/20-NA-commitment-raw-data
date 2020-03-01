@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004395",
+  "title": "[2004395] 국회에서의 증언·감정 등에 관한 법률 일부개정법률안(김중로의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004395",
+    "2016-12-15",
+    "김중로의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F90FAE1F-2FF9-776E-1F87-F00AAA5517CB','0');",
+  "proposers": [
+    {
+      "name_kr": "김중로",
+      "party": "국민의당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "송기석",
+      "party": "국민의당",
+      "name_cn": "宋基錫"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "국민의당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "최경환",
+      "party": "국민의당",
+      "name_cn": "崔敬煥"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법에서는 국회가 본회의 또는 국정조사 및 국정감사를 포함한 위원회가 7일 전까지 증인？감정인？참고인의 출석요구를 하고, 출석요구를 받은 증인？감정인？참고인은 국회의 요구에 응하도록 되어 있음. \n  하지만 이번 ‘박근혜 정부의 최순실 등 민간인에 의한 국정농단 의혹 사건 진상규명을 위한 국정조사’에서 조사를 진행하면서 추가되어야 할 긴급한 증인？감정인？참고인이 지속적으로 요구되었음. \n  따라서, 향후 국정감사나 국정조사와 관련한 증언？감정에 있어서 간사 간 합의에 의해 당일 송달 및 출석요구를 가능하도록 함(안 제5조제7항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-15",
+  "decision_date": null,
+  "link_id": "PRC_B1L6R1E2P1L5T1J5B3V5F5P4B9R5O2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

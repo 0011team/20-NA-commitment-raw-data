@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004644",
+  "title": "[2004644] 상법 일부개정법률안(최운열의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004644",
+    "2016-12-27",
+    "최운열의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','73F5EA9D-0AC7-590C-BFBB-289623B31DC5','0');",
+  "proposers": [
+    {
+      "name_kr": "최운열",
+      "party": "더불어민주당",
+      "name_cn": "崔運烈"
+    },
+    {
+      "name_kr": "김병욱",
+      "party": "더불어민주당",
+      "name_cn": "金炳旭"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "새누리당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김영춘",
+      "party": "더불어민주당",
+      "name_cn": "金榮春"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김현미",
+      "party": "더불어민주당",
+      "name_cn": "金賢美"
+    },
+    {
+      "name_kr": "문미옥",
+      "party": "더불어민주당",
+      "name_cn": "文美玉"
+    },
+    {
+      "name_kr": "박용진",
+      "party": "더불어민주당",
+      "name_cn": "朴用鎭"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    }
+  ],
+  "summaries": [
+    "\n현행법상 이사는 정기총회회일 1주간 전에 재무제표 서류와 감사보고서를 비치 및 공시하도록 하고 있음.\n  정기총회에서 가장 중요한 안건은 재무제표와 감사보고서의 승인인데, 주주총회 1주간 전에야 비로소 주주와 회사채권자는 열람을 할 수 있어서 재무제표와 감사보고서를 제대로 검토하는 데는 한계가 있다는 지적이 있음. \n  이에 재무제표 서류와 감사보고서를 비치하고 공시할 수 있는 시점을 정기총회회일 1주간 전에서 2주간 전으로 기간을 앞당기려는 것임(안 제448조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-27",
+  "decision_date": null,
+  "link_id": "PRC_J1B6G1D2S2R7O1C6W4C2P4P3T2S1T0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,126 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016798",
+  "title": "[2016798] 응급의료에 관한 법률 일부개정법률안(박인숙의원 등 10인) 입법예고중",
+  "current_status": "철회",
+  "reception_info": [
+    "2016798",
+    "2018-11-26",
+    "박인숙의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EB270F1D-23C7-2D1F-01AD-BA6AACCFDF83','0');",
+  "proposers": [
+    {
+      "name_kr": "박인숙",
+      "party": "자유한국당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "자유한국당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "자유한국당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "자유한국당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "정진석",
+      "party": "자유한국당",
+      "name_cn": "鄭鎭碩"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 1급 응급구조사 자격시험의 응시 요건을 대학 또는 전문대학에서 응급구조학을 전공하고 졸업한 사람으로 한정하고 있으나, 「평생교육법」에서는 전공과를 설치？운영하는 고등기술학교 중 교육부장관의 인가를 받은 전공대학에 대하여는 전문대학과 동등한 학력？학위를 인정하고 있음.\n  이에 전공대학에서 응급구조학을 전공하고 졸업한 사람도 1급 응급구조사 자격시험에 응시할 수 있도록 함으로써 전공대학이 전문대학과 함께 우수한 보건의료 인력 양성에 기여할 수 있도록 하려는 것임(안 제36조제2항제1호).\n"
+  ],
+  "withdrawers": [
+    {
+      "name_kr": "김상훈",
+      "party": "자유한국당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "자유한국당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "자유한국당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "자유한국당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "정진석",
+      "party": "자유한국당",
+      "name_cn": "鄭鎭碩"
+    }
+  ],
+  "proposed_date": "2018-11-26",
+  "decision_date": "2018-12-03",
+  "link_id": "PRC_Q1O8P1T1Z2I6F1T4S4L2L0U0X5G2J3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

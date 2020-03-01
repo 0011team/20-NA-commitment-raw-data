@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013401",
+  "title": "[2013401] 국회의원(김경수) 사직의 건(김경수의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2013401",
+    "2018-05-03",
+    "김경수의원",
+    "의안원문",
+    "제20대 (2016~2020) 제360회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0EB9CEB3-E2B0-1312-BEB5-A6DFE65B67F1','0');",
+  "proposers": [
+    {
+      "name_kr": "김경수",
+      "party": "더불어민주당",
+      "name_cn": "金慶洙"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-05-03",
+  "decision_date": "2018-05-14",
+  "link_id": "PRC_Z1D8V0D5W0C3G0N9D0X1E1U1O5Z9D6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

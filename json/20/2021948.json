@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021948",
+  "title": "[2021948] 수도법 일부개정법률안(송옥주의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021948",
+    "2019-08-13",
+    "송옥주의원 등 10인",
+    "의안원문\n비용추계서 미첨부 사유서",
+    "제20대 (2016~2020) 제370회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','876B937A-A08A-A19D-4C2E-7A5E802485E2','0');",
+  "proposers": [
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "송갑석",
+      "party": "더불어민주당",
+      "name_cn": "宋甲錫"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 일부 지역에서 발생한 붉은 수돗물 사태는 수도관의 관리가 제대로 되지 않아 발생한 것으로 파악되고 있음.\n  현행법은 환경부장관과 지방자치단체장이 수립하는 수도정비기본계획에 수도관의 현황 조사 및 개량·교체에 관한 사항을 포함하도록 하고 있지만, 현실적으로 수도관 세척을 소홀히 하는 것이 수도관 관리의 가장 큰 문제라는 지적이 있음.\n  이에 수도정비기본계획에 수도관 세척에 관한 사항을 포함하도록 명시하여 국가 및 지방자치단체가 수도관을 청결하게 관리하도록 하려는 것임(안 제4조제7항제8호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-08-13",
+  "decision_date": null,
+  "link_id": "PRC_X1O9E0H8M1R3W1B0X1Q9S0D0W4Q0C8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018622",
+  "title": "[2018622] 전기사업법 일부개정법률안(박맹우의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018622",
+    "2019-02-14",
+    "박맹우의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EDCD0B3A-A315-0CD5-1892-C686F8771CB5','0');",
+  "proposers": [
+    {
+      "name_kr": "박맹우",
+      "party": "자유한국당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "권성동",
+      "party": "자유한국당",
+      "name_cn": "權性東"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "박완수",
+      "party": "자유한국당",
+      "name_cn": "朴完洙"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "자유한국당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  태양광 발전시설의 경우 「산지관리법」에 따라 산지일시사용허가를 받아야 하고, 허가를 받은 자는 산지 복구를 실시하여 완료하는 때에는 복구준공검사를 받도록 하고 있음.\n  그런데 많은 태양광 발전사업자가 복구를 완료하지 아니한 상태에서 발전사업을 진행하고 있어 인접지의 피해 및 안전 관리 문제가 발생하고 있는 실정임. \n  이에 현행법에 따른 사용전검사에서 태양광 발전사업을 하려는 자가 「산지관리법」 제42조에 따른 복구준공검사를 받았는지 여부를 확인하도록 함으로써 미준공 태양광 발전사업자를 규율하려는 것임(안 제63조 후단 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-02-14",
+  "decision_date": null,
+  "link_id": "PRC_R1U9K0S2E1P4O1F0V0G9S1X7Y6B2B7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

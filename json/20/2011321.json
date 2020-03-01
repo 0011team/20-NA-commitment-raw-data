@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011321",
+  "title": "[2011321] 산업안전보건법 일부개정법률안(김삼화의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2011321",
+    "2018-01-09",
+    "김삼화의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A9ADBED4-EA43-5B0A-68AD-6623C7B7A463','0');",
+  "proposers": [
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "국민의당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "이태규",
+      "party": "국민의당",
+      "name_cn": "李泰珪"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른정당",
+      "name_cn": "河泰慶"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  2014년 7월 1일 고용노동부령으로 정하는 보고대상 산업재해가 ‘4일 이상의 요양재해’에서 ‘3일 이상의 휴업재해’로 변경된 후 일부 기업에서 3일 이상의 휴업이라는 조건을 피하기 위해 부상당한 노동자를 출근시키는 등 노동자의 건강권을 침해하는 사례들이 발생하고 있음.\n  이에 보고대상 산업재해를 법률로 정하여 그 요건을 명확히 하고 부상이나 질병의 경우 이전과 같이 ‘4일 이상의 요양재해’ 발생 시 보고하도록 하여 일선 산업현장에서의 부상당한 노동자를 출근시키는 악용사례를 차단하고자 함(안 제10조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-01-09",
+  "decision_date": null,
+  "link_id": "PRC_A1M8D0Z1P0Z9V1F3K3B5R3C7F8X6H8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020288",
+  "title": "[2020288] 화학물질관리법 일부개정법률안(주호영의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020288",
+    "2019-05-09",
+    "주호영의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EBB04CD3-FFB6-D66B-0478-45E0A38A6B9D','0');",
+  "proposers": [
+    {
+      "name_kr": "주호영",
+      "party": "자유한국당",
+      "name_cn": "朱豪英"
+    },
+    {
+      "name_kr": "강석호",
+      "party": "자유한국당",
+      "name_cn": "姜碩鎬"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김무성",
+      "party": "자유한국당",
+      "name_cn": "金武星"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "자유한국당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "자유한국당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "자유한국당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 화학물질사고로 인한 국민적 불안감을 해소하기 위해 유해화학물질 영업허가제도를 도입하고, 유해화학물질 영업을 영위하고자 하는 자로 하여금 사전에 영업허가를 받도록 규정하고 있음\n  그러나 영업허가에 대하여 사업장 등 구체적 단위를 명시하지 않고 있어, 특정 법인 본점이 영업허가를 받은 경우 사업장별로 영업허가를 받지 않아도 된다는 주장이 제기되는 등 혼란이 초래되고 있으며, 이와 관련해서 법제처도 법령정비를 권고한 바 있음.\n  이에 개정안은 유해화학물질의 영업허가 신청의 경우 사업장별 및 영업장별로 하여야 함을 명확히 규정하고자 함(안 제28조제1항 및 제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-09",
+  "decision_date": null,
+  "link_id": "PRC_C1A9L0V5U0L9X1O6N0H2F5C0L1P4N2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

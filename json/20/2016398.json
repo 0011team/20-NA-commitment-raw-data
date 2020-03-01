@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016398",
+  "title": "[2016398] 어음법 일부개정법률안(이찬열의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2016398",
+    "2018-11-07",
+    "이찬열의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FAF12321-E768-29BA-4943-466937DDCB97','0');",
+  "proposers": [
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "오제세",
+      "party": "더불어민주당",
+      "name_cn": "吳濟世"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  법률용어는 간결하고 명확한 용어를 사용하여야 하나, 현행법의 “은혜일(恩惠日)”은 일상생활과 너무 거리감이 있는 용어로 일반 국민이 쉽게 이해하기 어려우므로 이를 쉽게 변경하여야 한다는 의견이 대두되고 있음. ‘은혜일’은 법률적으로 ‘채무자의 이익을 위하여 어음 지급이 유예되는 기간’의 뜻으로 쓰이고 있음.\n  이에 “은혜일(恩惠日)”을 “임의적 지급 유예”로 변경하여 국민이 이를 쉽게 이해하도록 하려는 것임(안 제74조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-11-07",
+  "decision_date": null,
+  "link_id": "PRC_J1F8E1S1Z0V7P1L7P0G4E2S4Y0P8T7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011507",
+  "title": "[2011507] 국회의원(배덕광) 사직의 건(배덕광의원) 입법예고중",
+  "current_status": "접수",
+  "reception_info": [
+    "2011507",
+    "2018-01-23",
+    "배덕광의원",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','83518CDF-5952-6A43-0399-230F3230BFEE','0');",
+  "proposers": [
+    {
+      "name_kr": "배덕광",
+      "party": "자유한국당",
+      "name_cn": "裵德光"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-01-23",
+  "decision_date": "2018-01-29",
+  "link_id": "PRC_A1O8J0G1Y2J3D1Y6V4H6Z4O7R8T0T3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,295 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002603",
+  "title": "[2002603] 현대자동차 노동조합 파업 전면중단 촉구 결의안(하태경의원 등 54인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2002603",
+    "2016-10-10",
+    "하태경의원 등 54인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EAF65D6F-B14E-D0CB-6632-DAEF4BEEE691','0');",
+  "proposers": [
+    {
+      "name_kr": "하태경",
+      "party": "새누리당",
+      "name_cn": "河泰慶"
+    },
+    {
+      "name_kr": "강석진",
+      "party": "새누리당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "강석호",
+      "party": "새누리당",
+      "name_cn": "姜碩鎬"
+    },
+    {
+      "name_kr": "강효상",
+      "party": "새누리당",
+      "name_cn": "姜孝祥"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "새누리당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "새누리당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "권성동",
+      "party": "새누리당",
+      "name_cn": "權性東"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "새누리당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "새누리당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "새누리당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "새누리당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "새누리당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김재경",
+      "party": "새누리당",
+      "name_cn": "金在庚"
+    },
+    {
+      "name_kr": "김종석",
+      "party": "새누리당",
+      "name_cn": "金鍾奭"
+    },
+    {
+      "name_kr": "김종태",
+      "party": "새누리당",
+      "name_cn": "金鍾泰"
+    },
+    {
+      "name_kr": "김학용",
+      "party": "새누리당",
+      "name_cn": "金學容"
+    },
+    {
+      "name_kr": "김한표",
+      "party": "새누리당",
+      "name_cn": "金漢杓"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "새누리당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "새누리당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "새누리당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "새누리당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "새누리당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "새누리당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "배덕광",
+      "party": "새누리당",
+      "name_cn": "裵德光"
+    },
+    {
+      "name_kr": "송석준",
+      "party": "새누리당",
+      "name_cn": "宋錫俊"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "새누리당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "심재철",
+      "party": "새누리당",
+      "name_cn": "沈在哲"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "새누리당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "새누리당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "여상규",
+      "party": "새누리당",
+      "name_cn": "余尙奎"
+    },
+    {
+      "name_kr": "염동열",
+      "party": "새누리당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "유재중",
+      "party": "새누리당",
+      "name_cn": "柳在仲"
+    },
+    {
+      "name_kr": "윤영석",
+      "party": "새누리당",
+      "name_cn": "尹永碩"
+    },
+    {
+      "name_kr": "윤재옥",
+      "party": "새누리당",
+      "name_cn": "尹在玉"
+    },
+    {
+      "name_kr": "윤한홍",
+      "party": "새누리당",
+      "name_cn": "尹漢洪"
+    },
+    {
+      "name_kr": "이만희",
+      "party": "새누리당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "새누리당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "새누리당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이정현",
+      "party": "새누리당",
+      "name_cn": "李貞鉉"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "새누리당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "새누리당",
+      "name_cn": "李鶴宰"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "새누리당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "전희경",
+      "party": "새누리당",
+      "name_cn": "全希卿"
+    },
+    {
+      "name_kr": "정우택",
+      "party": "새누리당",
+      "name_cn": "鄭宇澤"
+    },
+    {
+      "name_kr": "정종섭",
+      "party": "새누리당",
+      "name_cn": "鄭宗燮"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "새누리당",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "조원진",
+      "party": "새누리당",
+      "name_cn": "趙源震"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "새누리당",
+      "name_cn": "池尙昱"
+    },
+    {
+      "name_kr": "최교일",
+      "party": "새누리당",
+      "name_cn": "崔敎一"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "새누리당",
+      "name_cn": "崔然惠"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "새누리당",
+      "name_cn": "秋慶鎬"
+    },
+    {
+      "name_kr": "홍철호",
+      "party": "새누리당",
+      "name_cn": "洪哲鎬"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-10-10",
+  "decision_date": null,
+  "link_id": "PRC_B1V6Z1G0Y1O0K1Q3E2P0R0U3C8P2I7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

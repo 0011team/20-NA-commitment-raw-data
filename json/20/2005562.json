@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005562",
+  "title": "[2005562] 평생교육법 일부개정법률안(최연혜의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2005562",
+    "2017-02-10",
+    "최연혜의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제349회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E64909AC-9D3B-D5EE-10BA-FBDD7B0A9EAA','0');",
+  "proposers": [
+    {
+      "name_kr": "최연혜",
+      "party": "새누리당",
+      "name_cn": "崔然惠"
+    },
+    {
+      "name_kr": "강효상",
+      "party": "새누리당",
+      "name_cn": "姜孝祥"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "새누리당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "새누리당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "새누리당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "새누리당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "새누리당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "새누리당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "바른정당",
+      "name_cn": "鄭雲天"
+    },
+    {
+      "name_kr": "조훈현",
+      "party": "새누리당",
+      "name_cn": "曺薰鉉"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  질서위반행위의 성립과 과태료 처분에 관한 법률관계를 명확히 하고, 개별 법률에 산재되어 있던 과태료 부과·징수 및 재판 등의 절차를 통일적으로 규율하기 위하여 2007년 12월 21일 「질서위반행위규제법」이 제정되었음. \n  그러나 현행법은 「질서위반행위규제법」과 중복·상충되는 과태료의 부과·징수에 관한 절차를 규정하고 있어 이를 정비할 필요가 있음.\n  이에 현행법의 과태료 부과·징수에 관한 절차 규정을 삭제함으로써 「질서위반행위규제법」에 일원화되어 있는 과태료 부과·징수 절차를 따르도록 하려는 것임(제46조제3항부터 제5항까지 삭제).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-02-10",
+  "decision_date": "2018-11-29",
+  "link_id": "PRC_G1A7K0W2M1I0K1O5K4Z4K2W7Z9C5J6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

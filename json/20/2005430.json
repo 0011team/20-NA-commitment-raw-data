@@ -1,0 +1,45 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005430",
+  "title": "[2005430] 국무총리ㆍ국무위원 및 정부위원 출석요구의 건(정치ㆍ외교ㆍ통일ㆍ안보ㆍ교육ㆍ사회ㆍ문화에 관한 질문)(우상호의원 등 4인 외 273인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2005430",
+    "2017-02-03",
+    "우상호의원 등 4인 외 273인",
+    "의안원문",
+    "제20대 (2016~2020) 제349회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C0C675D1-2B0C-23A5-50EB-334D94110517','0');",
+  "proposers": [
+    {
+      "name_kr": "우상호",
+      "party": "더불어민주당",
+      "name_cn": "禹相虎"
+    },
+    {
+      "name_kr": "정우택",
+      "party": "새누리당",
+      "name_cn": "鄭宇澤"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "바른정당",
+      "name_cn": "朱豪英"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-02-03",
+  "decision_date": "2017-02-06",
+  "link_id": "PRC_P1H7F0T2U0U3R1B8D2F5B1G1L5E7L6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

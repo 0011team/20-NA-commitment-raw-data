@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011530",
+  "title": "[2011530] 수도권 대기환경개선에 관한 특별법 일부개정법률안(임이자의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2011530",
+    "2018-01-24",
+    "임이자의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9E0DB7FB-A260-1EF3-BCDF-A1A0E3A65E97','0');",
+  "proposers": [
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金成泰"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 질소산화물, 먼지, 미세먼지(PM-10, PM-2.5) 등 대기오염물질을 줄이기 위한 수도권 대기환경관리 기본계획을 수립하도록 규정하고 있음.\n  그러나 여전히 미세먼지에 대한 국민들의 우려가 증폭되고 있음에도 불구하고 극초미세먼지(PM-1.0)에 대한 계획은 없는 상황임.\n  이에 극초미세먼지(PM-1.0)를 수도권 대기환경관리 기본계획의 대상에 추가하여 대기오염물질에 대한 관리를 강화하려는 것임(안 제8조제1항제7호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-01-24",
+  "decision_date": "2019-03-13",
+  "link_id": "PRC_J1W8L0A1G2L4B1M7O2S7T1P4F5Z2B3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

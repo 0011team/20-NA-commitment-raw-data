@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010499",
+  "title": "[2010499] 방송문화진흥회법 일부개정법률안(고용진의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2010499",
+    "2017-11-30",
+    "고용진의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F163E5DC-B1D1-A2DF-BE42-5D56C2EA8853','0');",
+  "proposers": [
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김성수",
+      "party": "더불어민주당",
+      "name_cn": "金聖洙"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "전해철",
+      "party": "더불어민주당",
+      "name_cn": "全海澈"
+    },
+    {
+      "name_kr": "제윤경",
+      "party": "더불어민주당",
+      "name_cn": "諸閏景"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    },
+    {
+      "name_kr": "최인호",
+      "party": "더불어민주당",
+      "name_cn": "崔仁昊"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 방송문화진흥회의 이사에 결원이 생긴 경우 보궐임원의 임기만 명시되어 있을 뿐, 보궐임원 임명에 대한 기한이 정해져 있지 않음.\n  또한 임원의 임기에 연임을 제한하는 규정이 없어 오랜 기간 임원으로 재직함에 따라 방송사와 정치권과의 유착관계가 형성되는 등 독립성이 저해된다는 지적이 있음.\n  이에 방송문화진흥회의 임원에 결원이 생긴 경우에는 결원된 날부터 30일 이내에 그 보궐임원을 임명하도록 하고, 임원이 한 차례만 연임할 수 있도록 규정하려는 것임(안 제6조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-11-30",
+  "decision_date": null,
+  "link_id": "PRC_I1G7T1I1Z3F0N1B5O5L8E0H2S5J0S5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

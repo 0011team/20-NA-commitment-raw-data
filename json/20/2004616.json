@@ -1,0 +1,100 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004616",
+  "title": "[2004616] 인사청문회법 일부개정법률안(채이배의원 등 15인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004616",
+    "2016-12-26",
+    "채이배의원 등 15인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','1DD2B895-614D-9E99-AA56-6BAAB82C6E96','0');",
+  "proposers": [
+    {
+      "name_kr": "채이배",
+      "party": "국민의당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "국민의당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김종훈",
+      "party": "무소속",
+      "name_cn": "金鍾勳"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "남인순",
+      "party": "더불어민주당",
+      "name_cn": "南仁順"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박선숙",
+      "party": "국민의당",
+      "name_cn": "朴仙淑"
+    },
+    {
+      "name_kr": "박찬대",
+      "party": "더불어민주당",
+      "name_cn": "朴贊大"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행 「인사청문회법」에 따르면 위원회의 의결 또는 요구로 공직후보자의 인사청문과 직접 관련된 자료의 제출을 요구할 수 있음. 그러나 대다수의 공직후보자들은 금융거래에 관한 정보 또는 자료를 「금융실명거래 및 비밀보장에 관한 법률」에 따른 금융거래의 비밀보장을 이유로 제출하지 않고 있는 실정임.\n  이에 해당 인사청문위원회의 의결이 있을 시 공직후보자의 인사청문과 직접 관련된 금융거래에 관한 정보 또는 자료를 법에서 명시하고 있는 기간 안에 반드시 제출하도록 함으로써 내실 있는 인사청문회가 이루어질 수 있도록 하고자 함(안 제12조제2항, 제6항 및 제7항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-26",
+  "decision_date": null,
+  "link_id": "PRC_F1V6I1S2A2F6E1I5S5Z8T4V1V5E5C3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

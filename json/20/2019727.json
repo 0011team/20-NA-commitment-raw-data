@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019727",
+  "title": "[2019727] 국회법 일부개정법률안(주승용의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2019727",
+    "2019-04-10",
+    "주승용의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','35F61D70-D4C5-D3FC-A665-9380C9B4EC42','0');",
+  "proposers": [
+    {
+      "name_kr": "주승용",
+      "party": "바른미래당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "바른미래당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "유의동",
+      "party": "바른미래당",
+      "name_cn": "兪義東"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "임재훈",
+      "party": "바른미래당",
+      "name_cn": "林哉勳"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "정병국",
+      "party": "바른미래당",
+      "name_cn": "鄭柄國"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 위원회에 청원이 회부되면, 회부된 날부터 90일 이내에 심사 결과를 의장에게 보고하여야 하고, 특별한 사유로 그 기간 내에 심사를 마치지 못하였을 때에는 60일의 범위에서 한 차례 연장할 수 있도록 하고 있음.\n  그러나 이와 같은 규정에도 불구하고 위원회에서 청원심사가 제대로 이루어지지 아니하여 임기만료로 폐기되는 경우가 대부분임.\n  이에 청원의 심사기간을 90일에서 60일로 축소하고, 30일의 범위에서 한 차례 연장할 수 있도록 함으로써 청원이 보다 활발하게 심사될 수 있도록 하려는 것임(안 제125조제5항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-04-10",
+  "decision_date": null,
+  "link_id": "PRC_M1M9Q0X4F1D0P1A5T4F6L0R0C5Z5K2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002344",
+  "title": "[2002344] 소득세법 일부개정법률안(배덕광의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2002344",
+    "2016-09-20",
+    "배덕광의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EDE05DA5-F914-1235-CBCC-E066AA7CF657','0');",
+  "proposers": [
+    {
+      "name_kr": "배덕광",
+      "party": "새누리당",
+      "name_cn": "裵德光"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "새누리당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "김재경",
+      "party": "새누리당",
+      "name_cn": "金在庚"
+    },
+    {
+      "name_kr": "김학용",
+      "party": "새누리당",
+      "name_cn": "金學容"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "새누리당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "박대출",
+      "party": "새누리당",
+      "name_cn": "朴大出"
+    },
+    {
+      "name_kr": "박완수",
+      "party": "새누리당",
+      "name_cn": "朴完洙"
+    },
+    {
+      "name_kr": "안상수",
+      "party": "새누리당",
+      "name_cn": "安相洙"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "새누리당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "새누리당",
+      "name_cn": "朱豪英"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  최근 정보통신망을 통하여 국외 컴퓨터프로그램저작물의 저작권을 사용하고 이에 대한 사용료를 지불하는 거래가 활성화되고 있음. 그러나 현행 세법은 국내·외로 다양화？복잡화되는 거래 방식을 반영하지 못하고 있어서 해외 사업자들이 실질적으로 국내에서 사용료소득을 획득하고 있음에도 불구하고 소득세를 부과하지 못하고 있는 실정임.\n  이에 국외 컴퓨터프로그램저작물의 저작권을 국내에서 사용하거나 그 대가를 국내에서 지급하는 경우에 비거주자에게 지급되는 사용료를 비거주자의 국내원천소득으로 보고 과세할 수 있도록 함으로써 다국적 IT 기업에 대한 과세를 강화하려는 것임(안 제119조제10호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-09-20",
+  "decision_date": null,
+  "link_id": "PRC_L1I6U0Q9B2H0A1B5S2V1D1I7X4D0T7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003235",
+  "title": "[2003235] 항로표지법 일부개정법률안(김태흠의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2003235",
+    "2016-11-02",
+    "김태흠의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E1019BF1-1F84-67F4-1892-9E55990E6287','0');",
+  "proposers": [
+    {
+      "name_kr": "김태흠",
+      "party": "새누리당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "새누리당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "권석창",
+      "party": "새누리당",
+      "name_cn": "權錫昌"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "새누리당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "새누리당",
+      "name_cn": "金聖泰"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "새누리당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "새누리당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "새누리당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이완영",
+      "party": "새누리당",
+      "name_cn": "李完永"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "새누리당",
+      "name_cn": "鄭有燮"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 항로표지에 사용되는 일부 장비？용품의 성능에 관한 검사의 업무를 해양수산부령으로 정하는 기준 및 절차에 따라 지정한 검사기관으로 하여금 대행하게 하고 있음.\n  해당 장비 및 용품의 경우 여타 분야에서도 활용하고 있어 검사 및 인증의 중복으로 인한 기업의 부담이 늘어나고 있음.\n  이에 검사제도를 폐지하고 한국산업표준(KS) 인증 제도로 통합운영 하도록 함으로서 항로표지 장비？용품의 품질ㆍ생산효율ㆍ생산기술을 향상시키고 산업경쟁력을 제고하고자 함.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-02",
+  "decision_date": null,
+  "link_id": "PRC_Q1N6W1U1E0F2W1A8N3N3J0T4Q3A1L7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

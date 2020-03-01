@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016115",
+  "title": "[2016115] 국군조직법 일부개정법률안(백승주의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2016115",
+    "2018-10-30",
+    "백승주의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A89988BF-886E-2C63-9B92-10DB02E6FF2C','0');",
+  "proposers": [
+    {
+      "name_kr": "백승주",
+      "party": "자유한국당",
+      "name_cn": "白承周"
+    },
+    {
+      "name_kr": "강효상",
+      "party": "자유한국당",
+      "name_cn": "姜孝祥"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "박대출",
+      "party": "자유한국당",
+      "name_cn": "朴大出"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "윤상직",
+      "party": "자유한국당",
+      "name_cn": "尹相直"
+    },
+    {
+      "name_kr": "윤재옥",
+      "party": "자유한국당",
+      "name_cn": "尹在玉"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "자유한국당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "한선교",
+      "party": "자유한국당",
+      "name_cn": "韓善敎"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행 「국군조직법」은 국군에 군인 외에 군무원을 둔다고 규정하고, 군무원의 자격, 임면, 복무 등 신분에 관한 사항은 별도의 법률로 정하도록 규정하고 있음. \n  그러나 국군의 구성원으로 군인과 군무원 이외의 사람을 복무할 수 있는 지에 대한 논란이 제기되어 불필요한 혼란을 야기하고 있는 상황임. \n  이에 다른 법률에 특별한 규정이 있는 경우를 제외하고는 국군의 구성원을 군인과 군무원으로 명확히 한정하려는 것임(안 제16조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-30",
+  "decision_date": null,
+  "link_id": "PRC_E1T8V1B0G3N0G0F9P5P8P0V5F4F3Y1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018967",
+  "title": "[2018967] 방송문화진흥회법 일부개정법률안(박성중의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018967",
+    "2019-03-05",
+    "박성중의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','77ABF6EA-BF51-D835-CA60-6CEB57CDC8B0','0');",
+  "proposers": [
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金成泰"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김종석",
+      "party": "자유한국당",
+      "name_cn": "金鍾奭"
+    },
+    {
+      "name_kr": "김학용",
+      "party": "자유한국당",
+      "name_cn": "金學容"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "자유한국당",
+      "name_cn": "崔然惠"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "자유한국당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  방송문화진흥회가 최다출자자인 방송사업자(이하 “MBC”라 함)는 실질적으로 공영방송의 성격을 가지고 있으므로 MBC의 공정성과 투명성 확보를 위한 법·제도가 필요함.\n  그런데 MBC에 대한 감독권이 있는 방송문화진흥회는 형식적인 감독권만을 행사하고 있을 뿐이어서, 감사원의 회계검사와 국회의 국정감사를 통하여 MBC의 공정성과 투명성을 확보해야 한다는 지적이 제기됨.\n  이에 MBC로 하여금 감사원의 회계검사를 받도록 하고, 이에 따라 감사원의 감사대상기관이 되는 MBC에 대한 국정감사를 실시할 수 있도록 하려는 것임(안 제15조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-03-05",
+  "decision_date": null,
+  "link_id": "PRC_J1N9I0A3E0U5J1I4T4G5W2B5X0M2I9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

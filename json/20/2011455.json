@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011455",
+  "title": "[2011455] 학교보건법 일부개정법률안(김순례의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2011455",
+    "2018-01-18",
+    "김순례의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','CC5DCFEA-D888-DA71-5ACE-80DAA07AF86D','0');",
+  "proposers": [
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김재경",
+      "party": "자유한국당",
+      "name_cn": "金在庚"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "서청원",
+      "party": "자유한국당",
+      "name_cn": "徐淸源"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "자유한국당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "조훈현",
+      "party": "자유한국당",
+      "name_cn": "曺薰鉉"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "자유한국당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 초등학교와 중학교의 장이 학생이 새로 입학한 날부터 90일 이내에 시장·군수 또는 구청장에게 예방접종증명서를 발급받아 예방접종을 모두 받았는지를 검사한 후 이를 교육정보시스템에 기록하도록 하고 있음.\n  한편, 현행법에 따르면 유치원 입학생에 대하여는 관련 규정을 두고 있지 않으나 소아예방접종의 중요성을 고려할 때 그 기록을 관리하고 예방접종을 받지 않은 유치원생에게 이를 받도록 지도할 필요성이 있음.\n  이에 유치원의 장에게도 예방접종 여부를 검사하여 유아교육정보시스템에 기록하도록 하고, 예방접종을 모두 받지 못한 입학생에게 필요한 예방접종을 받도록 지도함으로써 유아의 질병 확산을 방지하는 데 기여하려는 것임(안 제10조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-01-18",
+  "decision_date": null,
+  "link_id": "PRC_I1P8L0L1G1O8H1S7S0F9F4U1C7H7A2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

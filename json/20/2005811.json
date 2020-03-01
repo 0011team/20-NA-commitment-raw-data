@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005811",
+  "title": "[2005811] 고용보험법 일부개정법률안(문진국의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005811",
+    "2017-02-27",
+    "문진국의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제349회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EB756BAF-24C0-9A95-2FC7-713C76465668','0');",
+  "proposers": [
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "김영춘",
+      "party": "더불어민주당",
+      "name_cn": "金榮春"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "자유한국당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "이만희",
+      "party": "자유한국당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  근로계약서의 작성률을 제고하고 4대 보험 관련 부정신고 및 분쟁을 예방하고자, 피보험자격의 취득에 관한 사항을 신고하고자 하는 사업주로 하여금 근로계약서를 고용노동부장관에게 제출하도록 함(안 제15조제1항 후단 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-02-27",
+  "decision_date": null,
+  "link_id": "PRC_E1T7U0G2F2A7F1D3L3H7G4V8L7X6F0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

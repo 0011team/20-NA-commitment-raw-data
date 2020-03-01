@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021571",
+  "title": "[2021571] 최저임금법 일부개정법률안(곽대훈의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021571",
+    "2019-07-22",
+    "곽대훈의원 등 10인",
+    "의안원문\n비용추계서 미첨부 사유서",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B463A462-BC96-F945-09AA-04C11F32A429','0');",
+  "proposers": [
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김기선",
+      "party": "자유한국당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "윤상직",
+      "party": "자유한국당",
+      "name_cn": "尹相直"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이종구",
+      "party": "자유한국당",
+      "name_cn": "李鍾九"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "자유한국당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최저임금이 지역에 미치는 영향은 각 시·도의 경제·산업 여건, 근로자의 임금·생계비 등 생활여건에 따라 차이가 있으나 현행법은 일률적으로 최저임금을 적용하도록 하고 있어 지역 실정을 반영하지 못한다는 지적이 있음.\n  이에 시·도지사로 하여금 최저임금액의 100분의 80에서 100분의 120까지의 범위에서 지역 경제·산업 및 생활 여건 등을 반영하여 시·도별로 최저임금을 정할 수 있도록 함으로써 지역 경제 발전에 도움이 되도록 하려는 것임(안 제4조, 제8조, 제10조의2 신설, 제23조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-07-22",
+  "decision_date": null,
+  "link_id": "PRC_D1V9F0B7U2D2E0Q9Q4Q8S0W1S3Y2U7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2024243",
+  "title": "[2024243] 동물보호법 일부개정법률안(박홍근의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2024243",
+    "2019-12-10",
+    "박홍근의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','63F5D644-1F5A-05DE-C38E-A87806C94C5F','0');",
+  "proposers": [
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "윤준호",
+      "party": "더불어민주당",
+      "name_cn": "尹俊晧"
+    },
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "이학영",
+      "party": "더불어민주당",
+      "name_cn": "李學永"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    },
+    {
+      "name_kr": "최재성",
+      "party": "더불어민주당",
+      "name_cn": "崔宰誠"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 동물보호센터의 장 또는 운영자는 보호조치 중인 동물에게 질병 등의 사유가 있는 경우 농림축산식품부장관이 정하는 바에 따라 인도적인 방법으로 동물을 처리하되, 인도적인 방법에 따른 처리는 수의사에 의하여 시행하도록 규정하고 있음.\n  그러나 이를 위반하는 경우 처벌규정이 없어 동물의 인도적 처리에 실효성을 담보하기 어려우므로, 수의사에 의하지 아니하고 동물의 인도적인 처리를 한 자에 대하여 처벌할 수 있도록 하려는 것임(안 제46조제4항제4호의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-12-10",
+  "decision_date": null,
+  "link_id": "PRC_Q1H9T1N2H1F0Z1B7Q2N2F5R0O6N5E1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

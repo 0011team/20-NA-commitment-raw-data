@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003629",
+  "title": "[2003629] 농수산물 유통 및 가격안정에 관한 법률 일부개정법률안(정인화의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2003629",
+    "2016-11-16",
+    "정인화의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EDDFE4C8-F474-D8E7-ED55-269219B9091F','0');",
+  "proposers": [
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "박준영",
+      "party": "국민의당",
+      "name_cn": "朴晙瑩"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "진선미",
+      "party": "더불어민주당",
+      "name_cn": "陳善美"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "새누리당",
+      "name_cn": "洪文杓"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법상 중도매업의 업무를 하려는 자는 도매시장 개설자로부터 3년 ～ 10년의 유효기간이 있는 허가를 받아야 하는데, 허가의 갱신에 관한 규정이 없어 유효기간이 도과할 때마다 새로운 허가를 받아야 함.\n  이에 따라 종전의 허가와 새로운 허가 사이에 연속성이 없어 종전의 허가기간 중의 위법행위를 이유로 새로운 허가를 취소할 수 있는지에 대한 논란이 있음.\n  이에 허가 유효기간이 만료된 후 계속하여 중도매업을 하고자 하는 자는 농림축산식품부령으로 정하는 바에 따라 갱신허가를 받아야 함을 명시하고자 함(안 제25조제7항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-16",
+  "decision_date": "2017-03-02",
+  "link_id": "PRC_O1Y6U1H1C1I6A1J7R2I2D2M9A9K3C3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

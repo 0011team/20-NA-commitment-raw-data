@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020227",
+  "title": "[2020227] 군형법 일부개정법률안(김병기의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2020227",
+    "2019-05-07",
+    "김병기의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','CE7172FB-2F5C-619E-D5CF-453BF4616CB7','0');",
+  "proposers": [
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김영진",
+      "party": "더불어민주당",
+      "name_cn": "金榮鎭"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김진표",
+      "party": "더불어민주당",
+      "name_cn": "金振杓"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "이상헌",
+      "party": "더불어민주당",
+      "name_cn": "李相憲"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "표창원",
+      "party": "더불어민주당",
+      "name_cn": "表蒼園"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 근무를 기피할 목적으로 자신의 신체를 상해한 사람에 대하여 3년 이하의 징역으로 처벌하면서, 특별히 적전의 상황에서 같은행위를 한 사람의 경우에는 사형, 무기 또는 5년 이상의 징역으로 처벌하여 훨씬 중하게 처벌하고 있음. \n  그런데 적전이라는 특수성을 감안하더라도, 자해 행위를 한 자에 대하여 사형에 처한다는 조항은 과도하고 사형제도에 대한 국내·외의 폐지 요구에도 부합하지 않는다는 지적이 있음.\n  이에 적전의 상황에서 근무를 기피할 목적으로 신체를 상해한 사람에 대하여 사형을 규정한 조항을 삭제함으로써 사형제도 폐지의 흐름에 기여하려는 것임(제41조제1항제1호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-07",
+  "decision_date": null,
+  "link_id": "PRC_Q1B9M0R5R0L7H1Q7O1J8X1T1E4J4E4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,100 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010210",
+  "title": "[2010210] 수산업법 일부개정법률안(김종회의원 등 15인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2010210",
+    "2017-11-17",
+    "김종회의원 등 15인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EDB81512-859B-7882-A067-70693F2023A3','0');",
+  "proposers": [
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "국민의당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "국민의당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "박준영",
+      "party": "국민의당",
+      "name_cn": "朴晙瑩"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "국민의당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "국민의당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법 제13조는 어업면허의 우선순위를 규정하고 있으나, 제9조제4항의 면허어업은 법 개정(2009. 4. 22.)으로 우선순위 규정의 적용 제외 대상에 포함되어 면허신청이 경합하는 경우 순위 결정기준의 법적 근거가 미비하게 되었음.\n  이에 우선순위에 대한 논란을 해결하고자 제9조제4항의 면허어업이 우선순위 규정에 적용될 수 있도록 하려는 것임(안 제13조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-11-17",
+  "decision_date": null,
+  "link_id": "PRC_U1F7Z1W1G1P7F1B0M5M4R4Z9D6T7K8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2007290",
+  "title": "[2007290] 화학물질관리법 일부개정법률안(백혜련의원 등 10인) 입법예고중",
+  "current_status": "폐기",
+  "reception_info": [
+    "2007290",
+    "2017-06-09",
+    "백혜련의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제351회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','1C5AA133-E036-FED2-1101-3FBD1FEB1E2A','0');",
+  "proposers": [
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "이개호",
+      "party": "더불어민주당",
+      "name_cn": "李介昊"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "최인호",
+      "party": "더불어민주당",
+      "name_cn": "崔仁昊"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 식품첨가물인 아산화질소를 풍선에 넣고 일시적인 흥분을 목적으로 흡입하는 경우가 증가하고 있으나, 아산화질소는 의약품 또는 식품첨가물로 분류되어 「화학물질관리법」의 대상이 되지 아니하므로 이를 규제할 방법이 존재하지 않음.\n  이에 현행법의 적용범위를 수정하여 「약사법」 제2조제4호·제7호에 따른 의약품 및 의약외품과 「식품위생법」 제2조제1호·제2호·제4호·제5호에 따른 식품, 식품첨가물, 기구 및 용기·포장에 대하여서도 환각물질의 흡입 등 금지 조항을 적용하도록 함(안 제3조제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-06-09",
+  "decision_date": "2017-11-30",
+  "link_id": "PRC_G1E7O0V6P0N9A1L1R0X8U1Q8R1Q6W9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

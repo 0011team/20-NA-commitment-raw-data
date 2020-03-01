@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016381",
+  "title": "[2016381] 형법 일부개정법률안(조경태의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2016381",
+    "2018-11-07",
+    "조경태의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5E2EBD4E-DF23-D9CD-562B-CB6CF1BC8FBD','0');",
+  "proposers": [
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "강석호",
+      "party": "자유한국당",
+      "name_cn": "姜碩鎬"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "자유한국당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 심신장애로 인하여 사물을 변별할 능력이 없거나 의사를 결정할 능력이 미약한 자의 행위는 형을 감경하도록 규정하고 있어 피의자들이 형사처벌을 감경받기 위한 목적으로 심신미약을 주장하는 사례가 증가하고 있으며, 최근 강서구 PC방 살인 사건을 계기로 심신미약 감경을 반대하는 국민적 비판여론이 거세지고 있는 실정임.\n  이에 심신미약자에 대한 감경규정을 삭제함으로써 사법부에 대한 국민적 불신을 해소하고 국민의 법감정에 부합하는 적절한 처벌을 도모하고자 함(제10조제2항 삭제).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-11-07",
+  "decision_date": "2018-11-29",
+  "link_id": "PRC_L1P8W1V1K0N7Q1X4G1K1I1E9P9K7A6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

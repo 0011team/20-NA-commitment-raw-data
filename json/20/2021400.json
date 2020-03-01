@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021400",
+  "title": "[2021400] 수도법 일부개정법률안(임이자의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2021400",
+    "2019-07-10",
+    "임이자의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','AB72BB69-9FD9-8012-9360-F9F49BABCB3C','0');",
+  "proposers": [
+    {
+      "name_kr": "임이자",
+      "party": "자유한국당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "김기선",
+      "party": "자유한국당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "윤재옥",
+      "party": "자유한국당",
+      "name_cn": "尹在玉"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "조훈현",
+      "party": "자유한국당",
+      "name_cn": "曺薰鉉"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 붉은색 수돗물이 발생함에도 주민들에게 알리거나 정부에 즉시 보고하지 않는 등 수돗물 사고발생에 대한 체계적인 대응이 미흡하여 장기화되는 사례가 발생함에 따라, 국민이 먹고 마시고 씻는데 쓰는 수돗물을 깨끗하고 안전하게 쓸 수 있도록 수돗물 사고에 대한 대응을 국가에서 체계적으로 확립할 필요가 있음.\n  이에 수돗물 수질사고 발생 시 초기 대응체계를 강화하기 위해 즉시 관계기관에 신고하도록 하고, 현장수습조정관 파견 등을 통해 수돗물 사고에 체계적이고 신속하게 대응하여 국민 모두가 깨끗하고 안전한 물을 마실 수 있도록 하고자 함(안 제27조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-07-10",
+  "decision_date": "2019-10-31",
+  "link_id": "PRC_G1O9O0U7N1L0E0V9Y2K3W3L2K0X9G3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

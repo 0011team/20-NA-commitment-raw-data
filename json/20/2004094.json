@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004094",
+  "title": "[2004094] 형사소송법 일부개정법률안(함진규의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004094",
+    "2016-12-05",
+    "함진규의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','726675FD-120F-DF5B-8007-42A7B2A2289C','0');",
+  "proposers": [
+    {
+      "name_kr": "함진규",
+      "party": "새누리당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "김기선",
+      "party": "새누리당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "새누리당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "새누리당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "박완수",
+      "party": "새누리당",
+      "name_cn": "朴完洙"
+    },
+    {
+      "name_kr": "이장우",
+      "party": "새누리당",
+      "name_cn": "李莊雨"
+    },
+    {
+      "name_kr": "정용기",
+      "party": "새누리당",
+      "name_cn": "鄭容起"
+    },
+    {
+      "name_kr": "정종섭",
+      "party": "새누리당",
+      "name_cn": "鄭宗燮"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 검사가 고소 또는 고발이 있는 사건에 관하여 공소를 제기하지 아니하는 처분을 한 경우에 고소인 또는 고발인의 청구가 있는 때에는 그 이유를 서면으로 설명하도록 하고 있음.\n  그러나 공소가 제기된 경우에는 법원으로부터 진술의 기회를 얻는다고 하더라도 정보의 부족으로 고소 또는 고발의 사실을 진술하는데 한계가 있음.\n  이에 검사가 공소를 제기하는 처분을 한 경우에도 고소인 또는 고발인의 청구가 있는 때에는 그 이유를 서면으로 설명하도록 하고자 함(안 제259조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-05",
+  "decision_date": null,
+  "link_id": "PRC_F1R6T1L2E0S5Z1T0B1M4A2S9M1Z2Y7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

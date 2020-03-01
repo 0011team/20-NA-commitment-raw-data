@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013140",
+  "title": "[2013140] 근로기준법 일부개정법률안(신보라의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2013140",
+    "2018-04-18",
+    "신보라의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제359회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9EB52A74-555D-ED9F-6749-8855F7F5D7AC','0');",
+  "proposers": [
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "곽상도",
+      "party": "자유한국당",
+      "name_cn": "郭尙道"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "자유한국당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "자유한국당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "자유한국당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "자유한국당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "자유한국당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 계절별·월별 업무량의 증폭이 큰 산업의 효율적 인적관리를 위하여 취업규칙에서 정하면 2주, 근로자대표와의 서면 합의를 거친 경우에는 3개월 단위로 탄력적 근로시간제를 적용할 수 있도록 규정하고 있음.\n  그러나 업무량의 변화 주기가 2주보다 긴 경우나 IT 기업, 건설업 등 특정 달에 수요가 몰리는 경우 등에는 활용이 곤란하여 탄력적 근로시간제의 활용도가 떨어지는 문제가 있음. \n  이에 기존 탄력적 근로시간제 단위 기간인 2주와 3개월을 각각 1개월과 1년으로 변경하여 근로시간의 합리적 배분을 통해 인적관리를 효율적으로 하려는 것임(안 제51조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-04-18",
+  "decision_date": null,
+  "link_id": "PRC_I1S8L0A4L1V8F1N7X3Y9L4T9Z9H1Q3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

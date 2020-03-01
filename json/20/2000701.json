@@ -1,0 +1,105 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000701",
+  "title": "[2000701] 국회법 일부개정법률안(변재일의원 등 16인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2000701",
+    "2016-07-06",
+    "변재일의원 등 16인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','639808ED-90B3-13BF-DD92-0D9564BC7104','0');",
+  "proposers": [
+    {
+      "name_kr": "변재일",
+      "party": "더불어민주당",
+      "name_cn": "卞在一"
+    },
+    {
+      "name_kr": "금태섭",
+      "party": "더불어민주당",
+      "name_cn": "琴泰燮"
+    },
+    {
+      "name_kr": "김경수",
+      "party": "더불어민주당",
+      "name_cn": "金慶洙"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "국민의당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "남인순",
+      "party": "더불어민주당",
+      "name_cn": "南仁順"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "심상정",
+      "party": "정의당",
+      "name_cn": "沈相정"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "전혜숙",
+      "party": "더불어민주당",
+      "name_cn": "全惠淑"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  국회에서는 그 동안 법률이나 예산에 담기 어려운 내용의 경우 일반적으로 결의안으로 의결하여 행정부에 이행을 촉구하고 있음. \n  그러나 국회가 결의안으로 채택한 안건에 대하여 행정부가 어떻게 조치하였는지 확인이 되지 않고 있으며, 이행하지 않거나 미흡하게 이행함에 따라 민의의 전당인 국회의 의사가 행정부에 의해 무시당하는 경우도 있음. \n  이에 국회가 채택하는 결의안에 대한 법률적 성격을 명확히 하고, 그 이행여부를 확인하기 위한 법적인 근거를 명확히 하고자 함(안 제127조의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-06",
+  "decision_date": null,
+  "link_id": "PRC_W1Q6S0G7G0M6B1C4D3Z9O2O1J5M9J0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

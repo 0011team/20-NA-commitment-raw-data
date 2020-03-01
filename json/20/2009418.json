@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009418",
+  "title": "[2009418] 국회의원(박주민) 징계안(정우택의원 외 104인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2009418",
+    "2017-09-15",
+    "정우택의원 외 104인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','6D0E9341-9B14-2C7A-3C3D-4FEEA4BD1127','0');",
+  "proposers": [
+    {
+      "name_kr": "정우택",
+      "party": "자유한국당",
+      "name_cn": "鄭宇澤"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-15",
+  "decision_date": null,
+  "link_id": "PRC_M1O7Y0Q9U1I5L1Y5Y4X6B4A4Z3U4R5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

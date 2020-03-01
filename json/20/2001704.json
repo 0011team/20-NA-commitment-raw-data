@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001704",
+  "title": "[2001704] 보험업법 일부개정법률안(박용진의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2001704",
+    "2016-08-19",
+    "박용진의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제345회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','51C5453E-0712-9B5D-3DC7-DF3D4F05369E','0');",
+  "proposers": [
+    {
+      "name_kr": "박용진",
+      "party": "더불어민주당",
+      "name_cn": "朴用鎭"
+    },
+    {
+      "name_kr": "강병원",
+      "party": "더불어민주당",
+      "name_cn": "姜炳遠"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "이철희",
+      "party": "더불어민주당",
+      "name_cn": "李哲熙"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "최명길",
+      "party": "더불어민주당",
+      "name_cn": "崔明吉"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행 「자본시장과 금융투자업에 관한 법률」에서는 금융투자업자가 위탁한 업무를 제3자에게 위탁하는 것을 금지하는 규정을 두고 있으나 이 법에는 관련된 규정이 없음. \n  이로 인해 손해사정업무와 같이 보험업 경영과 밀접한 관련이 있는 업무까지도 제3자에게 위탁하는 경우가 발생하고 있으며, 특히 자회사들이 업무를 재위탁하면서 중간에서 수수료만 챙기는 행태까지 나타나고 있음.\n  이에 보험회사에 대하여 일반적인 업무 위탁 규정을 신설하고 보험회사가 위탁한 업무는 재위탁하지 못하도록 규정함으로써 보험업 경영의 안정성을 도모하고자 함(안 제11조의4 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-19",
+  "decision_date": null,
+  "link_id": "PRC_G1L6R0Z8E1E9X1P7O4I4X5T6K9O1T8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

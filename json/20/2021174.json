@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021174",
+  "title": "[2021174] 지방세특례제한법 일부개정법률안(김태년의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021174",
+    "2019-06-27",
+    "김태년의원 등 11인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','87587BFE-E8CD-074E-DAC1-4C2CAB18ABD6','0');",
+  "proposers": [
+    {
+      "name_kr": "김태년",
+      "party": "더불어민주당",
+      "name_cn": "金太年"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "이학영",
+      "party": "더불어민주당",
+      "name_cn": "李學永"
+    },
+    {
+      "name_kr": "이후삼",
+      "party": "더불어민주당",
+      "name_cn": "李厚三"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    },
+    {
+      "name_kr": "조승래",
+      "party": "더불어민주당",
+      "name_cn": "趙承來"
+    },
+    {
+      "name_kr": "최운열",
+      "party": "더불어민주당",
+      "name_cn": "崔運烈"
+    },
+    {
+      "name_kr": "최인호",
+      "party": "더불어민주당",
+      "name_cn": "崔仁昊"
+    },
+    {
+      "name_kr": "최재성",
+      "party": "더불어민주당",
+      "name_cn": "崔宰誠"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현재 자녀가 3인 이상인 다자녀가구의 자동차취득세를 면제하고 있음. 그러나 현행 제도 하에서는 자녀 중 1인이라도 18세 이상이 되면 자동차취득세 면제 혜택을 받지 못하게 됨.\n  이에 자동차취득세 면제 대상이 되는 자녀의 기준 연령을 현행 18세 미만에서 「청소년 기본법」 제3조제1항 청소년에 해당하는 연령인 25세 미만으로 변경하고자 함(안 제22조의2제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-06-27",
+  "decision_date": null,
+  "link_id": "PRC_H1I9T0Y6C2M7Z1D7K1K1X3L9R9T5F5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

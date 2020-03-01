@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016776",
+  "title": "[2016776] 중소기업은행법 일부개정법률안(김두관의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2016776",
+    "2018-11-23",
+    "김두관의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','20E4293E-A045-9F86-FAD8-3A320A4E2A16','0');",
+  "proposers": [
+    {
+      "name_kr": "김두관",
+      "party": "더불어민주당",
+      "name_cn": "金斗官"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "맹성규",
+      "party": "더불어민주당",
+      "name_cn": "孟聖奎"
+    },
+    {
+      "name_kr": "서삼석",
+      "party": "더불어민주당",
+      "name_cn": "徐參錫"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "윤일규",
+      "party": "더불어민주당",
+      "name_cn": "尹一逵"
+    },
+    {
+      "name_kr": "윤준호",
+      "party": "더불어민주당",
+      "name_cn": "尹俊晧"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 중소기업은행의 본점을 서울특별시에 둘 것을 명시하고 있으나, 법률에서 본점의 소재지를 특정 지역으로 한정하는 것보다는 정관으로 정하도록 하는 것이 바람직하다는 지적이 있음.\n  이에 중소기업은행의 본점을 서울특별시에 두도록 하는 규정을 삭제하고 정관으로 정하는 바에 따라 필요한 곳에 본점을 둘 수 있도록 함(안 제4조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-11-23",
+  "decision_date": null,
+  "link_id": "PRC_H1C8D1Y1H2X3L1Q6Y5X6U5U4U2M1Q0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

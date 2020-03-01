@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010432",
+  "title": "[2010432] 결핵예방법 일부개정법률안(나경원의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2010432",
+    "2017-11-27",
+    "나경원의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','AB07904D-4602-895A-0F37-7FE31FCD38CF','0');",
+  "proposers": [
+    {
+      "name_kr": "나경원",
+      "party": "자유한국당",
+      "name_cn": "羅卿瑗"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김종석",
+      "party": "자유한국당",
+      "name_cn": "金鍾奭"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "유재중",
+      "party": "자유한국당",
+      "name_cn": "柳在仲"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "자유한국당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "주광덕",
+      "party": "자유한국당",
+      "name_cn": "朱光德"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법령에서는 어린이집, 유치원, 학교 등의 장은 종사자 및 교직원 등을 대상으로 정기적으로 결핵검진을 실시하도록 하고 있음.\n  그러나 생활체육시설의 경우 한정된 공간에서 다수의 사람이 체육지도자로부터 지도를 받고 함께 활동하여 결핵감염의 위험성이 다른 시설 못지않게 높음에도 불구하고, 그 종사자가 결핵검진 의무대상에 포함되어 있지 아니한 문제점이 있음.\n  이에 생활체육시설의 종사자를 결핵검진 의무대상에 추가함으로써 결핵감염으로부터 국민의 건강을 지키려는 것임(안 제11조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-11-27",
+  "decision_date": null,
+  "link_id": "PRC_E1X7E1R1H2X7Q1T4A1A2B1H8K3I9J5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

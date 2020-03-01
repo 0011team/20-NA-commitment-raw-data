@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2006583",
+  "title": "[2006583] 공공토지의 비축에 관한 법률 일부개정법률안(이명수의원 등 13인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2006583",
+    "2017-04-04",
+    "이명수의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제350회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','DB5F6CFA-1AE1-46FD-1CBD-AF360D4732DA','0');",
+  "proposers": [
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "자유한국당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "바른정당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "박찬우",
+      "party": "자유한국당",
+      "name_cn": "朴贊佑"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "자유한국당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "바른정당",
+      "name_cn": "洪文杓"
+    },
+    {
+      "name_kr": "홍철호",
+      "party": "바른정당",
+      "name_cn": "洪哲鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법 제21조제1항제1호에서 “「지적법」 제3장에 따른 토지의 이동에 관한 신청”으로 규정되어 있으나, 「지적법」은 2009년에 이미 폐지되었고, 현재는 「공간정보의 구축 및 관리 등에 관한 법률」의 내용에 포함되어 있음. 그러나 여전히 폐지된 법률명이 규정되어 있어 국민들에게 혼란을 줄 우려가 있음.\n  따라서 “「지적법」”을 “「공간정보의 구축 및 관리 등에 관한 법률」”로 개정하여 혼란을 없애고자 함(안 제21조제1항제1호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-04-04",
+  "decision_date": "2017-07-18",
+  "link_id": "PRC_J1D7I0H4A0L4V1P4U5Y8K3I3C6K5H9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

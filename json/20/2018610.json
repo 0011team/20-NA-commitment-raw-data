@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018610",
+  "title": "[2018610] 수산자원관리법 일부개정법률안(강길부의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018610",
+    "2019-02-13",
+    "강길부의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5DAF3DFD-37CE-F83D-05D1-E60B2014A321','0');",
+  "proposers": [
+    {
+      "name_kr": "강길부",
+      "party": "무소속",
+      "name_cn": "姜吉夫"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "민주평화당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "자유한국당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "바른미래당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "자유한국당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "이상헌",
+      "party": "더불어민주당",
+      "name_cn": "李相憲"
+    },
+    {
+      "name_kr": "장석춘",
+      "party": "자유한국당",
+      "name_cn": "張錫春"
+    },
+    {
+      "name_kr": "한정애",
+      "party": "더불어민주당",
+      "name_cn": "韓貞愛"
+    },
+    {
+      "name_kr": "황영철",
+      "party": "자유한국당",
+      "name_cn": "黃永哲"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 수산자원을 효율적으로 관리하기 위하여 어업인이 아닌 자는 해양수산부령으로 정하는 방법을 제외하고는 수산자원을 포획·채취할 수 없도록 규정하고 있음.\n  그런데 스킨스쿠버 등을 행하면서 불법적으로 수산자원을 포획·채취하는 경우가 빈번히 발생하고 있어 어업인들에게 피해를 주고 있는 실정임.\n  이에 어업인이 아닌 자는 해양수산부령으로 정하는 방법을 제외하고는 수산자원을 포획·채취할 수 없도록 한 현행 규정을 위반하여 비어업인으로서 수산자원을 포획·채취한 자는 1년 이하 징역 또는 1천만원 이하의 벌금에 처하도록 벌칙을 강화하려는 것임(안 제64조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-02-13",
+  "decision_date": null,
+  "link_id": "PRC_V1N9G0G2W1G3S1Z4Z4R0F3M4L2P4Z0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

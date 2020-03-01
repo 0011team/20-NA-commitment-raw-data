@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015938",
+  "title": "[2015938] 가등기담보 등에 관한 법률 일부개정법률안(박광온의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2015938",
+    "2018-10-10",
+    "박광온의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FDB55B56-7083-0E64-1230-8507FA368FFB','0');",
+  "proposers": [
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김영주",
+      "party": "더불어민주당",
+      "name_cn": "金榮珠"
+    },
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "김현권",
+      "party": "더불어민주당",
+      "name_cn": "金玄權"
+    },
+    {
+      "name_kr": "송갑석",
+      "party": "더불어민주당",
+      "name_cn": "宋甲錫"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "전현희",
+      "party": "더불어민주당",
+      "name_cn": "全賢姬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  법치국가에서의 법 문장은 일반 국민이 쉽게 읽고 이해함으로써 그 법을 잘 준수할 수 있도록 해야 하고, 국민의 올바른 언어생활을 위한 본보기가 되어야 함에도 우리의 법 문장에는 여전히 일반 국민이 쉽게 이해하기 어려운 법률용어 표현이 많이 남아 있음.\n  특히 일본식 용어는 국민의 일상적인 언어 생활과는 거리가 있으며, 역사·문화적으로도 일제의 잔재가 법문 속에 남아 있는 것은 적절하지 않음.\n  이에 일본식 한자어인 ‘차주’를 보다 알기 쉬운 표현인 ‘차용인’으로 변경하려는 것임(안 제1조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-10",
+  "decision_date": null,
+  "link_id": "PRC_B1Q8S1D0B1K0N1Q1J0S6I5T4L8O7I1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

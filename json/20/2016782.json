@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016782",
+  "title": "[2016782] 한국수출입은행법 일부개정법률안(김두관의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2016782",
+    "2018-11-23",
+    "김두관의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B9C0428B-9998-CF61-9157-12CF96A94EAE','0');",
+  "proposers": [
+    {
+      "name_kr": "김두관",
+      "party": "더불어민주당",
+      "name_cn": "金斗官"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "맹성규",
+      "party": "더불어민주당",
+      "name_cn": "孟聖奎"
+    },
+    {
+      "name_kr": "서삼석",
+      "party": "더불어민주당",
+      "name_cn": "徐參錫"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "윤일규",
+      "party": "더불어민주당",
+      "name_cn": "尹一逵"
+    },
+    {
+      "name_kr": "윤준호",
+      "party": "더불어민주당",
+      "name_cn": "尹俊晧"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법 제5조는 한국수출입은행의 정관에서 본점의 소재지를 정하도록 하고 있으나 현행법 제3조에서 수출입은행의 본점 소재지를 서울특별시로 규정함에 따라 사실상 수출입은행은 정관으로 본점의 소재지를 정할 수 없음.\n  그러나 이와 유사한 기획재정부 소속 공공기관인 한국조폐공사, 한국투자공사, 한국재정정보원의 근거법률은 본사의 소재지를 정관으로 정하도록 위임하고 있는바, 개정안은 한국수출입은행의 경우에도 본점 소재지를 정관으로 정하도록 함으로써 법률 내 불일치를 해소하려는 것임(안 제3조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-11-23",
+  "decision_date": null,
+  "link_id": "PRC_U1F8U1L1I2D3H1M7R3U2R4V3D9O6Q0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,85 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001607",
+  "title": "[2001607] 정치자금법 일부개정법률안(전해철의원 등 12인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2001607",
+    "2016-08-16",
+    "전해철의원 등 12인",
+    "의안원문",
+    "제20대 (2016~2020) 제345회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','3FA7CE80-63F4-EFD2-E1FA-8BD68A5E07CC','0');",
+  "proposers": [
+    {
+      "name_kr": "전해철",
+      "party": "더불어민주당",
+      "name_cn": "全海澈"
+    },
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김병관",
+      "party": "더불어민주당",
+      "name_cn": "金炳官"
+    },
+    {
+      "name_kr": "김철민",
+      "party": "더불어민주당",
+      "name_cn": "金哲玟"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이원욱",
+      "party": "더불어민주당",
+      "name_cn": "李元旭"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    },
+    {
+      "name_kr": "추미애",
+      "party": "더불어민주당",
+      "name_cn": "秋美愛"
+    },
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유\n\n  현행 「정당법」을 개정하여 구·시·군 등에 지역당을 둘 수 있도록 함에 따라 이에 맞추어 지역당의 회계책임을 확보하기 위하여 현행법의 관련 규정을 정비하려는 것임.\n\n\n주요내용\n\n가. 경상보조금의 100분의 10을 시·도당 및 지역당에 배분·지급하도록 함(안 제28조제2항).\n나. 지역당에 회계책임자를 두도록 하고 이에 따라 회계보고 등을 하게 함(안 제34조제1항제1호, 제38조제2항제3호).\n\n\n참고사항\n\n  이 법률안은 전해철의원이 대표발의한 「정당법 일부개정법률안」(의안번호 제1606호)의 의결을 전제로 하는 것이므로 같은 법률안이 의결되지 아니하거나 수정의결되는 경우에는 이에 맞추어 조정되어야 할 것임.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-16",
+  "decision_date": null,
+  "link_id": "PRC_B1E6S0E8J1U6H1I7H0W0T4H8H0K7R3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

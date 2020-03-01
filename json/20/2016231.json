@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016231",
+  "title": "[2016231] 과세자료의 제출 및 관리에 관한 법률 일부개정법률안(송갑석의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2016231",
+    "2018-10-31",
+    "송갑석의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','783098D3-C50A-3895-7C42-0853962E5B77','0');",
+  "proposers": [
+    {
+      "name_kr": "송갑석",
+      "party": "더불어민주당",
+      "name_cn": "宋甲錫"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "이인영",
+      "party": "더불어민주당",
+      "name_cn": "李仁榮"
+    },
+    {
+      "name_kr": "이훈",
+      "party": "더불어민주당",
+      "name_cn": "李薰"
+    },
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    },
+    {
+      "name_kr": "홍익표",
+      "party": "더불어민주당",
+      "name_cn": "洪翼杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  벌금형은 징역형과 함께 형벌의 대표적 수단으로서 누구나 인정할 수 있는 공정성과 합리성을 지니고 있어야 함. 그러나 유사한 위반행위에 대하여 각 법률이 규정하는 법정형 중에는 다른 법률들과 비교할 때에 그 처벌 정도가 과소하거나 과도하여 비합리적인 편차가 존재하고 있는 실정임.\n  이에 현행법의 벌금액을 국회사무처 법제 예규 및 국민권익위원회의 권고안 기준인 징역 1년당 1천만원의 비율로 개정하여 벌금형을 현실화하려는 것임(안 제13조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-10-31",
+  "decision_date": null,
+  "link_id": "PRC_A1I8Z1Y0G3O1E1Z8L0N2T3U5Y4W8R0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2001687",
+  "title": "[2001687] 형법 일부개정법률안(김도읍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2001687",
+    "2016-08-19",
+    "김도읍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제345회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C70A6BF5-FB71-E1B4-4623-2099B6866C44','0');",
+  "proposers": [
+    {
+      "name_kr": "김도읍",
+      "party": "새누리당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "새누리당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "새누리당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김재경",
+      "party": "새누리당",
+      "name_cn": "金在庚"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "새누리당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "유기준",
+      "party": "새누리당",
+      "name_cn": "兪奇濬"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "새누리당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "이헌승",
+      "party": "새누리당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "새누리당",
+      "name_cn": "鄭雲天"
+    },
+    {
+      "name_kr": "조훈현",
+      "party": "새누리당",
+      "name_cn": "曺薰鉉"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  헌법재판소는 외국에서 형의 전부 또는 일부를 집행 받은 자에 대한 임의적 형의 감면 조항이 입법재량의 범위를 일탈하여 신체의 자유를 침해한다는 헌법불합치 결정(2015. 5. 28 선고, 2013헌바129 결정)을 하고, 2016년 12월 31일까지 현행 규정의 개정을 요구하였음.\n 이에 따라 헌법재판소의 결정 취지를 반영하여 외국에서 집행 받은 구금일수와 금액을 형에 산입하려는 것임(안 제57조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-08-19",
+  "decision_date": null,
+  "link_id": "PRC_K1E6R0R8T1H9D1Y6M3K9K1P9K8W2J5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

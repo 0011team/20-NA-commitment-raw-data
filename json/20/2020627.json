@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2020627",
+  "title": "[2020627] 예비군법 일부개정법률안(김종민의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2020627",
+    "2019-05-24",
+    "김종민의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','42EE7C6D-5876-E167-9A0F-20067A00CE96','0');",
+  "proposers": [
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "송갑석",
+      "party": "더불어민주당",
+      "name_cn": "宋甲錫"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "이상민",
+      "party": "더불어민주당",
+      "name_cn": "李相珉"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "바른미래당",
+      "name_cn": "蔡利培"
+    },
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 「병역법」 제65조제1항에 따라 현역병(같은 법 제21조·제24조 및 제25조에 따라 복무 중인 사람을 포함한다), 승선근무예비역 또는 사회복무요원으로서 보충역에 편입되거나 소집이 해제된 사람은 예비군 조직에서 제외한다고 규정되어 있음.\n  하지만 「병역법」 제24조는 2016년에 삭제되었기 때문에 현행법에도 이를 반영하여 법을 정비하고자 함(안 제3조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-05-24",
+  "decision_date": "2019-10-31",
+  "link_id": "PRC_A1H9A0V5X2O4A1Q5Q0B8R4B2J5O0L1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

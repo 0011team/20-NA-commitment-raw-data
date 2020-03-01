@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2024340",
+  "title": "[2024340] 도로교통법 일부개정법률안(오신환의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2024340",
+    "2019-12-23",
+    "오신환의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제372회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A0A0894E-ED30-F15C-4C01-6CA459155EA9','0');",
+  "proposers": [
+    {
+      "name_kr": "오신환",
+      "party": "바른미래당",
+      "name_cn": "吳晨煥"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "바른미래당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "김수민",
+      "party": "바른미래당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "유의동",
+      "party": "바른미래당",
+      "name_cn": "兪義東"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "바른미래당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "정병국",
+      "party": "바른미래당",
+      "name_cn": "鄭柄國"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "바른미래당",
+      "name_cn": "鄭雲天"
+    },
+    {
+      "name_kr": "지상욱",
+      "party": "바른미래당",
+      "name_cn": "池尙昱"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "바른미래당",
+      "name_cn": "河泰慶"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n  현행법은 외국운전면허증을 가진 사람에게 운전면허시험의 일부를 면제하고 국내운전면허증을 발급하는 경우 그 사람의 외국면허증을 필요적으로 회수하도록 하고 있음.\n  그러나 우리나라와 운전면허의 상호인정에 관한 약정의 체결의 전제조건으로 면허증의 본인 반환을 요구하는 경우가 많아 외국면허증회수제도를 개선하여야 한다는 지적이 있음.\n  이에 해당 외국운전면허증을 발급한 국가가 회수를 요청하는 등 대통령령으로 정하는 사유가 있는 경우에 한하여 국내운전면허증의 발급 시 외국면허증을 회수할 수 있도록 개정하고자 하는 것임(안 제84조제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-12-23",
+  "decision_date": null,
+  "link_id": "PRC_N1Q9F1X2D2B3V1Y1B1A4N2W4C0Q6Z8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

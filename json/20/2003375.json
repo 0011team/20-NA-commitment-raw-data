@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003375",
+  "title": "[2003375] 국세징수법 일부개정법률안(이혜훈의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2003375",
+    "2016-11-08",
+    "이혜훈의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','A8BD1B77-EB7D-153F-558C-EA85564934BA','0');",
+  "proposers": [
+    {
+      "name_kr": "이혜훈",
+      "party": "새누리당",
+      "name_cn": "李惠薰"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "새누리당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "박주민",
+      "party": "더불어민주당",
+      "name_cn": "朴柱民"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "이상돈",
+      "party": "국민의당",
+      "name_cn": "李相敦"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "새누리당",
+      "name_cn": "李鶴宰"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    },
+    {
+      "name_kr": "조정식",
+      "party": "더불어민주당",
+      "name_cn": "趙正湜"
+    }
+  ],
+  "summaries": [
+    "\n관세청에서는 관세 체납자의 경우 입국 시 휴대품 및 수입하는 물품에 대한 검사를 실시하고 압류할 재산이 있는 경우 압류하고 있으나, 국세체납 명단공개자의 경우에는 휴대품 검사만 실시하고 있음\n  이에 관세체납자에 대한 체납처분과 동일하게 국세 고액체납자의 경우에도 입국 시 고가의 휴대품이나 수입하는 물품에 대해 관세청에서 체납처분을 할 수 있도록 함으로써 체납징수 업무의 효율성을 제고하려는 것임(안 제30조의2 신설)\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-08",
+  "decision_date": "2016-12-02",
+  "link_id": "PRC_O1E6J1L1U0L8L1Y4G5X8J1W7I4E7N2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

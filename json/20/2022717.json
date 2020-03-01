@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2022717",
+  "title": "[2022717] 소년법 일부개정법률안(송기헌의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2022717",
+    "2019-09-27",
+    "송기헌의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','11F21448-2CC3-9986-156E-E0DDFDB25331','0');",
+  "proposers": [
+    {
+      "name_kr": "송기헌",
+      "party": "더불어민주당",
+      "name_cn": "宋基憲"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "백혜련",
+      "party": "더불어민주당",
+      "name_cn": "白惠蓮"
+    },
+    {
+      "name_kr": "심기준",
+      "party": "더불어민주당",
+      "name_cn": "沈基俊"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "이석현",
+      "party": "더불어민주당",
+      "name_cn": "李錫玄"
+    },
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    },
+    {
+      "name_kr": "조응천",
+      "party": "더불어민주당",
+      "name_cn": "趙應天"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현재 대통령령인 「법무부와 그 소속기관 직제」 제39조의2에 근거하여 전국에 17개 청소년비행예방센터를 설치？운영중이지만, 법률에 근거가 미비하여 설치？운영에 대한 개선이 필요하므로, 청소년비행예방센터의 설치 및 운영 근거를 현행법에 상향 명시하고, 구체적인 사항은 법무부령으로 위임하도록 함(안 제67조의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-09-27",
+  "decision_date": null,
+  "link_id": "PRC_K1I9T0R9W2I7O1V5B0H1S2L1P7K5T5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

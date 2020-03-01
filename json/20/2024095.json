@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2024095",
+  "title": "[2024095] 정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(박대출의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2024095",
+    "2019-11-29",
+    "박대출의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','BDD322C2-B754-396C-1987-A81FFFEC9669','0');",
+  "proposers": [
+    {
+      "name_kr": "박대출",
+      "party": "자유한국당",
+      "name_cn": "朴大出"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "김정재",
+      "party": "자유한국당",
+      "name_cn": "金汀才"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "윤상직",
+      "party": "자유한국당",
+      "name_cn": "尹相直"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "무소속",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "자유한국당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이학재",
+      "party": "자유한국당",
+      "name_cn": "李鶴宰"
+    },
+    {
+      "name_kr": "홍문종",
+      "party": "우리공화당",
+      "name_cn": "洪文鐘"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 인공지능 기술을 이용하여 만든 거짓의 음향·화상 또는 영상 등의 딥페이크(Deep Fake) 정보가 인터넷에 유통되는 사례가 늘어나고 있음.\n  그런데 딥페이크 정보가 정교할수록 이용자가 해당 정보의 거짓 여부를 판별하기 어려워 이를 식별할 수 있는 기술을 개발·보급하는 것이 시급함.\n  이에 과학기술정보통신부장관 또는 방송통신위원회가 마련하는 시책에 정보통신망을 통하여 유통되는 정보 중 인공지능 기술을 이용하여 만든 거짓의 음향·화상 또는 영상 등의 정보를 식별하는 기술의 개발·보급을 포함하도록 함으로써 건전한 정보통신망 이용환경을 조성하려는 것임(안 제4조제2항제7호의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-11-29",
+  "decision_date": null,
+  "link_id": "PRC_N1M9Y1F1W2J9Z1C6V5Z9K5X7B8S9D0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

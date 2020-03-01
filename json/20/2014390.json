@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014390",
+  "title": "[2014390] 광산안전법 일부개정법률안(윤한홍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014390",
+    "2018-07-13",
+    "윤한홍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제362회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D695887B-3188-2C1D-CD10-CF6DA07CD024','0');",
+  "proposers": [
+    {
+      "name_kr": "윤한홍",
+      "party": "자유한국당",
+      "name_cn": "尹漢洪"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "문진국",
+      "party": "자유한국당",
+      "name_cn": "文鎭國"
+    },
+    {
+      "name_kr": "박성중",
+      "party": "자유한국당",
+      "name_cn": "朴成重"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "자유한국당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 국민과 가장 밀접한 민원사무 중 하나인 신고에 대하여 관리기관 등이 신고자에게 그 수리 여부를 통지하는 규정이 없어, 신고인이 해당 내용의 처리여부를 장기간 알 수 없거나, 수리 지연에 따른 시간적 경제적 손해를 입는 등 큰 불편을 초래하고 있음.\n  이에 접수된 신고에 대하여 일정한 기간 내에 수리 여부 또는 처리 지연 사유를 통지하지 않을 경우 신고를 수리한 것으로 간주하도록 하는 규정을 두어, 공무원들의 소극적 업무처리 행태를 방지하고 수요자 중심의 행정 처리를 독려하고자 함(안 제8조제3항·제4항, 제13조제6항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-07-13",
+  "decision_date": null,
+  "link_id": "PRC_Y1G8S0N7O1U3O1U5U0P6Q1B6B9L3P8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2012497",
+  "title": "[2012497] 도로교통법 일부개정법률안(윤후덕의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2012497",
+    "2018-03-16",
+    "윤후덕의원 등 10인",
+    "의안원문\n비용추계서",
+    "제20대 (2016~2020) 제358회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','91AD624F-D070-261B-3FAE-F3F92EBBB615','0');",
+  "proposers": [
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "박찬대",
+      "party": "더불어민주당",
+      "name_cn": "朴贊大"
+    },
+    {
+      "name_kr": "원혜영",
+      "party": "더불어민주당",
+      "name_cn": "元惠榮"
+    },
+    {
+      "name_kr": "유승희",
+      "party": "더불어민주당",
+      "name_cn": "兪承希"
+    },
+    {
+      "name_kr": "임종성",
+      "party": "더불어민주당",
+      "name_cn": "林鍾聲"
+    },
+    {
+      "name_kr": "진선미",
+      "party": "더불어민주당",
+      "name_cn": "陳善美"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  아파트 등으로 이루어진 주택단지 내의 도로는 다수의 사람과 차마가 통행할 수 있는 장소로서, 보행자의 통행과 차마의 진·출입이 빈번하게 이루어지고 있음에도 이 법에 따른 도로에 해당하지 않아 국가의 교통안전시설 설치 의무가 없고, 교통사고 발생 시에도 그 운전자에게 이 법에 따른 행정처분을 부과할 수 없어 불합리한 측면이 있음.\n  이에 아파트 등으로 이루어진 주택단지 내의 다수의 사람 또는 차마가 통행할 수 있는 장소를 이 법에 따른 ‘도로’에 포함함으로써 주택단지 내 도로도 이 법의 적용을 받도록 하려는 것임(안 제2조제1호마목 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-03-16",
+  "decision_date": null,
+  "link_id": "PRC_K1J8D0G3A1Q6Y1B5V0J3D0P0I1O2U1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

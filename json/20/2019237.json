@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019237",
+  "title": "[2019237] 전기공사업법 일부개정법률안(김도읍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2019237",
+    "2019-03-15",
+    "김도읍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제367회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','C52F8083-D7BC-4A27-AFF1-602F3EC55976','0');",
+  "proposers": [
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김기선",
+      "party": "자유한국당",
+      "name_cn": "金起善"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "자유한국당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "자유한국당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "자유한국당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "자유한국당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "유기준",
+      "party": "자유한국당",
+      "name_cn": "兪奇濬"
+    },
+    {
+      "name_kr": "윤재옥",
+      "party": "자유한국당",
+      "name_cn": "尹在玉"
+    },
+    {
+      "name_kr": "이완영",
+      "party": "자유한국당",
+      "name_cn": "李完永"
+    },
+    {
+      "name_kr": "주호영",
+      "party": "자유한국당",
+      "name_cn": "朱豪英"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 전기공사는 다른 업종의 공사와 분리발주하도록 하되 예외적으로 대통령령으로 해당하는 사유가 있으면 분리발주하지 아니할 수 있도록 하고 있음. 그러나 구체적인 예외사유가 모법에 명시되지 않고 하위법령에 포괄적으로 위임되어 있어 예외조항을 명확히 할 필요가 있다는 지적이 있음.\n  이에 시행령에서 정하고 있는 분리발주의 예외사유를 법률에 구체적으로 명시하여 분리발주를 의무화한 법의 본래 취지를 살리고자 하는 것임(안 제11조제3항 신설 등).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-03-15",
+  "decision_date": null,
+  "link_id": "PRC_V1T9G0M3A1R5H1Q5T5W6N2H5D5V2Y5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

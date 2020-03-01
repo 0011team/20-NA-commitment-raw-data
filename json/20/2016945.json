@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2016945",
+  "title": "[2016945] 금융실명거래 및 비밀보장에 관한 법률 일부개정법률안(김종민의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2016945",
+    "2018-11-30",
+    "김종민의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','2626DF93-5CF1-CB5E-1D41-799851004CAF','0');",
+  "proposers": [
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "강훈식",
+      "party": "더불어민주당",
+      "name_cn": "姜勳植"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "윤준호",
+      "party": "더불어민주당",
+      "name_cn": "尹俊晧"
+    },
+    {
+      "name_kr": "이종걸",
+      "party": "더불어민주당",
+      "name_cn": "李鍾杰"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "주승용",
+      "party": "바른미래당",
+      "name_cn": "朱昇鎔"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 금융거래의 정상화 및 경제정의 실현 등을 위한 금융실명거래에 관한 사항을 규율하고 있으나, 실명으로 해야 하는 대상인 금융거래를 정의하면서 일부 총리령으로 위임한 사항에 관하여 총리령에서 규정하는 바가 없음.\n  이러한 총리령 규정의 부재 상태가 1997년 이 법 및 시행규칙이 제정될 당시부터 계속되고 있는 것은 현행법의 정의 규정만으로도 법 적용에 특별한 문제가 없다는 것을 의미한다고 할 수 있으므로, 현행법의 위임규정을 삭제하려는 것임(안 제2조제3호).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-11-30",
+  "decision_date": null,
+  "link_id": "PRC_F1R8J1P1L3L0R1D4V3U6D1S1Z9U9I0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

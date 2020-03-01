@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000836",
+  "title": "[2000836] 국회의원수당 등에 관한 법률 일부개정법률안(정종섭의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2000836",
+    "2016-07-12",
+    "정종섭의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FB1E2C0D-B14B-A3EE-9EB2-E98C26007581','0');",
+  "proposers": [
+    {
+      "name_kr": "정종섭",
+      "party": "새누리당",
+      "name_cn": "鄭宗燮"
+    },
+    {
+      "name_kr": "강효상",
+      "party": "새누리당",
+      "name_cn": "姜孝祥"
+    },
+    {
+      "name_kr": "김삼화",
+      "party": "국민의당",
+      "name_cn": "金三和"
+    },
+    {
+      "name_kr": "서형수",
+      "party": "더불어민주당",
+      "name_cn": "徐炯洙"
+    },
+    {
+      "name_kr": "손금주",
+      "party": "국민의당",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "새누리당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "새누리당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "새누리당",
+      "name_cn": "鄭泰沃"
+    },
+    {
+      "name_kr": "조훈현",
+      "party": "새누리당",
+      "name_cn": "曺薰鉉"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  국회의원이 각종 범죄에 연루되어 구속되는 경우 사실상 그 기간 동안에는 의정활동을 할 수 없음에도 불구하고 수당 등이 아무런 제한 없이 지급됨에 따라 국민의 정서에 부합하지 아니하고, 국회에 대한 국민의 신뢰를 약화시킨다는 비판이 제기되어 왔음.\n  이에 국회의원에게는 높은 윤리적·도덕적 책임성이 요구된다는 점에서 국회의원이 구속되는 경우에는 그 기간만큼 수당 등(수당, 입법활동비, 특별활동비)이 지급되지 아니하도록 하려는 것임(안 제8조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-12",
+  "decision_date": null,
+  "link_id": "PRC_H1H6L0N7T1I2C1H6R2P7A4U4V1J9K6",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005028",
+  "title": "[2005028] 도시철도법 일부개정법률안(박덕흠의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005028",
+    "2017-01-09",
+    "박덕흠의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제348회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5AE15E9D-E52D-4E80-6F3F-177BFE757BFD','0');",
+  "proposers": [
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "새누리당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "새누리당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "새누리당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "새누리당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "새누리당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "새누리당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "새누리당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "새누리당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍철호",
+      "party": "새누리당",
+      "name_cn": "洪哲鎬"
+    },
+    {
+      "name_kr": "황영철",
+      "party": "개혁보수신당",
+      "name_cn": "黃永哲"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  「도시철도법」 전부개정(법률 제12216호, 2014. 1. 7. 공포, 7. 8. 시행) 시 「철도사업법」 준용에 대한 조항이 신설되면서, 도시철도 부가운임 징수에 대한 법적 근거가 약화되어 해석에 논란이 발생할 수 있으므로 이를 보완하고자 함.\n  이에 도시철도 부가운임 징수 근거를 마련할 수 있도록 현행 「도시철도법」 제43조에 「철도사업법」의 부가운임 징수에 대한 규정을 준용하려는 것임(안 제43조 개정).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-01-09",
+  "decision_date": null,
+  "link_id": "PRC_F1X7M0G1N0R9K1T7Y3E8A2U7V6V1B4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

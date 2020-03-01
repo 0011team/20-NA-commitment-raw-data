@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2003934",
+  "title": "[2003934] 국회의원(조원진) 징계안(심재권의원) 입법예고중",
+  "current_status": "심사대상제외",
+  "reception_info": [
+    "2003934",
+    "2016-11-29",
+    "심재권의원",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','7FE64148-C8AB-2C7F-A22A-996EA3E13F4F','0');",
+  "proposers": [
+    {
+      "name_kr": "심재권",
+      "party": "더불어민주당",
+      "name_cn": "沈載權"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-11-29",
+  "decision_date": "2019-03-08",
+  "link_id": "PRC_I1P6S1Y1P2J9I1T4I0U9H3R6Y1G2U2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

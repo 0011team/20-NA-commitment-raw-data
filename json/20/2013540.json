@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013540",
+  "title": "[2013540] 환경노동위원장(홍영표) 사임의 건(홍영표의원) 입법예고중",
+  "current_status": "접수",
+  "reception_info": [
+    "2013540",
+    "2018-05-11",
+    "홍영표의원",
+    "의안원문",
+    "제20대 (2016~2020) 제360회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','9F908D75-282D-DFCB-2EBE-A070BB3E8E9C','0');",
+  "proposers": [
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-05-11",
+  "decision_date": null,
+  "link_id": "PRC_U1W8R0X5G1F1O1D3N4K6M5O6V8I5B7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

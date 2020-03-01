@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011044",
+  "title": "[2011044] 국적법 일부개정법률안(김선동의원 등 11인) 입법예고중",
+  "current_status": "공포",
+  "reception_info": [
+    "2011044",
+    "2017-12-27",
+    "김선동의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','120058F7-8056-F35E-2EA2-1AAA2058CBE8','0');",
+  "proposers": [
+    {
+      "name_kr": "김선동",
+      "party": "자유한국당",
+      "name_cn": "金善東"
+    },
+    {
+      "name_kr": "강석진",
+      "party": "자유한국당",
+      "name_cn": "姜錫振"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김규환",
+      "party": "자유한국당",
+      "name_cn": "金奎煥"
+    },
+    {
+      "name_kr": "나경원",
+      "party": "자유한국당",
+      "name_cn": "羅卿瑗"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "자유한국당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "원유철",
+      "party": "자유한국당",
+      "name_cn": "元裕哲"
+    },
+    {
+      "name_kr": "이철규",
+      "party": "자유한국당",
+      "name_cn": "李喆圭"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정운천",
+      "party": "바른정당",
+      "name_cn": "鄭雲天"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현재 국적업무와 관련된 수수료 징수의 근거는 법률이 아닌 현행법 시행규칙에 규정되어 있음.\n  그러나 수수료 징수가 국민들에게 금전적 부담을 지우는 침익적 행정행위로 국민의 재산권을 제한한다는 점을 고려할 때 국가 등의 사무에 관한 수수료는 법률에서 그 징수의 근거를 마련하여야 할 것임.\n  이에 하위 법령에 규정되어 있는 국적업무와 관련된 각종 허가신청, 신고 및 증명서 등의 발급에 관한 수수료 징수의 근거를 법률로 상향하여 규정하려는 것임(안 제21조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-12-27",
+  "decision_date": "2018-08-30",
+  "link_id": "PRC_E1D7Z1N2V2G7N1N5A0D7R2C5N6X5U4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

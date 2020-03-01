@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004987",
+  "title": "[2004987] 도시농업의 육성 및 지원에 관한 법률 일부개정법률안(정용기의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2004987",
+    "2017-01-06",
+    "정용기의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B7CEA82E-1E76-FC69-A95B-3A495492C364','0');",
+  "proposers": [
+    {
+      "name_kr": "정용기",
+      "party": "새누리당",
+      "name_cn": "鄭容起"
+    },
+    {
+      "name_kr": "강길부",
+      "party": "개혁보수신당",
+      "name_cn": "姜吉夫"
+    },
+    {
+      "name_kr": "강석호",
+      "party": "새누리당",
+      "name_cn": "姜碩鎬"
+    },
+    {
+      "name_kr": "김정훈",
+      "party": "새누리당",
+      "name_cn": "金正薰"
+    },
+    {
+      "name_kr": "이만희",
+      "party": "새누리당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "새누리당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이주영",
+      "party": "새누리당",
+      "name_cn": "李柱榮"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "새누리당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "새누리당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍일표",
+      "party": "개혁보수신당",
+      "name_cn": "洪日杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 자연친화적인 도시환경을 조성하고 도시민의 삶이 건강하고 지속가능하도록 생활양식을 변화시키는데 이바지하기 위하여 도시지역에서 농작물을 경작 또는 재배하는 행위를 도시농업으로 정하고 이를 장려하고 있음.\n  그러나 현행법으로는 도시농업의 개념이 생소한 사람들에게 도시농업을 알릴 수 있는 계기가 부족한 상황이며, 도시농업인 간에도 응집력이 부족하여 도시농업기술 공유 등에 한계가 있음.\n  이에 매년 4월 11일을 도시농업의 날로 정하고자 함(안 제21조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-01-06",
+  "decision_date": "2017-03-02",
+  "link_id": "PRC_C1L7L0I1E0Z6B1P3S2C1M2J1J8D4Q8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

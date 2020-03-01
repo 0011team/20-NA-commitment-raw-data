@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018504",
+  "title": "[2018504] 형법 일부개정법률안(심재권의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018504",
+    "2019-02-01",
+    "심재권의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','6A7DD2FE-4C56-1800-8574-9906030D0D09','0');",
+  "proposers": [
+    {
+      "name_kr": "심재권",
+      "party": "더불어민주당",
+      "name_cn": "沈載權"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "송옥주",
+      "party": "더불어민주당",
+      "name_cn": "宋玉珠"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "원혜영",
+      "party": "더불어민주당",
+      "name_cn": "元惠榮"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "유승희",
+      "party": "더불어민주당",
+      "name_cn": "兪承希"
+    },
+    {
+      "name_kr": "이석현",
+      "party": "더불어민주당",
+      "name_cn": "李錫玄"
+    },
+    {
+      "name_kr": "이인영",
+      "party": "더불어민주당",
+      "name_cn": "李仁榮"
+    },
+    {
+      "name_kr": "추미애",
+      "party": "더불어민주당",
+      "name_cn": "秋美愛"
+    },
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 공무원의 자격을 사칭하여 그 직권을 행사한 경우 처벌하도록 규정하고 있음.\n  그런데 공무원자격 사칭은 오프라인을 통한 사칭뿐만 아니라 직책이나 명함을 SNS 등 온라인에 게재하는 방식으로 이루어지게 되면서 불특정 다수인에게 피해가 발생할 가능성이 높아짐. 이에 정보통신망을 통한 사칭도 ‘공무원자격 사칭’에 포함됨을 명확히 함으로써 그로 인한 피해를 방지하고자 함(안 제118조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-02-01",
+  "decision_date": null,
+  "link_id": "PRC_O1I9P0D2X0K1U1D6U4D1Y4G2O4F9Y5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

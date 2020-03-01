@@ -1,0 +1,230 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000913",
+  "title": "[2000913] 워싱턴 추모벽 건립 지원 촉구 결의안(이헌승의원 등 41인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2000913",
+    "2016-07-15",
+    "이헌승의원 등 41인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FE517426-27FC-BC8B-E0E8-54F98AC43EF4','0');",
+  "proposers": [
+    {
+      "name_kr": "이헌승",
+      "party": "새누리당",
+      "name_cn": "李憲昇"
+    },
+    {
+      "name_kr": "권석창",
+      "party": "새누리당",
+      "name_cn": "權錫昌"
+    },
+    {
+      "name_kr": "권성동",
+      "party": "새누리당",
+      "name_cn": "權性東"
+    },
+    {
+      "name_kr": "김명연",
+      "party": "새누리당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "새누리당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "새누리당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김성원",
+      "party": "새누리당",
+      "name_cn": "金成願"
+    },
+    {
+      "name_kr": "김영춘",
+      "party": "더불어민주당",
+      "name_cn": "金榮春"
+    },
+    {
+      "name_kr": "김용태",
+      "party": "새누리당",
+      "name_cn": "金容兌"
+    },
+    {
+      "name_kr": "김현아",
+      "party": "새누리당",
+      "name_cn": "金炫我"
+    },
+    {
+      "name_kr": "민경욱",
+      "party": "새누리당",
+      "name_cn": "閔庚旭"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "박대출",
+      "party": "새누리당",
+      "name_cn": "朴大出"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "새누리당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "새누리당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "배덕광",
+      "party": "새누리당",
+      "name_cn": "裵德光"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "새누리당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "송희경",
+      "party": "새누리당",
+      "name_cn": "宋喜卿"
+    },
+    {
+      "name_kr": "신보라",
+      "party": "새누리당",
+      "name_cn": "申普羅"
+    },
+    {
+      "name_kr": "심재철",
+      "party": "새누리당",
+      "name_cn": "沈在哲"
+    },
+    {
+      "name_kr": "엄용수",
+      "party": "새누리당",
+      "name_cn": "嚴龍洙"
+    },
+    {
+      "name_kr": "유기준",
+      "party": "새누리당",
+      "name_cn": "兪奇濬"
+    },
+    {
+      "name_kr": "유의동",
+      "party": "새누리당",
+      "name_cn": "兪義東"
+    },
+    {
+      "name_kr": "윤상현",
+      "party": "새누리당",
+      "name_cn": "尹相現"
+    },
+    {
+      "name_kr": "윤영석",
+      "party": "새누리당",
+      "name_cn": "尹永碩"
+    },
+    {
+      "name_kr": "이양수",
+      "party": "새누리당",
+      "name_cn": "李亮壽"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "새누리당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "이종배",
+      "party": "새누리당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "이진복",
+      "party": "새누리당",
+      "name_cn": "李珍福"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "새누리당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "임이자",
+      "party": "새누리당",
+      "name_cn": "林利子"
+    },
+    {
+      "name_kr": "전해철",
+      "party": "더불어민주당",
+      "name_cn": "全海澈"
+    },
+    {
+      "name_kr": "전희경",
+      "party": "새누리당",
+      "name_cn": "全希卿"
+    },
+    {
+      "name_kr": "정용기",
+      "party": "새누리당",
+      "name_cn": "鄭容起"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "새누리당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "조원진",
+      "party": "새누리당",
+      "name_cn": "趙源震"
+    },
+    {
+      "name_kr": "주광덕",
+      "party": "새누리당",
+      "name_cn": "朱光德"
+    },
+    {
+      "name_kr": "최연혜",
+      "party": "새누리당",
+      "name_cn": "崔然惠"
+    },
+    {
+      "name_kr": "하태경",
+      "party": "새누리당",
+      "name_cn": "河泰慶"
+    },
+    {
+      "name_kr": "함진규",
+      "party": "새누리당",
+      "name_cn": "咸珍圭"
+    },
+    {
+      "name_kr": "홍철호",
+      "party": "새누리당",
+      "name_cn": "洪哲鎬"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-15",
+  "decision_date": "2016-11-17",
+  "link_id": "PRC_W1G6G0P7R1V5Y1D4A5W1C2W8C0K3Y5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

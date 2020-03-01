@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004699",
+  "title": "[2004699] 국회법 일부개정법률안(김수민의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004699",
+    "2016-12-29",
+    "김수민의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E3C97E67-B849-CE24-367C-04AB2A3FDD53','0');",
+  "proposers": [
+    {
+      "name_kr": "김수민",
+      "party": "국민의당",
+      "name_cn": "金秀玟"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "국민의당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "손금주",
+      "party": "국민의당",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "국민의당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "무소속",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "국민의당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "국민의당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "국민의당",
+      "name_cn": "趙培淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행 「국회법」 제54조의2제1항에는 “정보위원회의 회의는 공개하지 아니한다”라고 규정되어 있음.\n  이는 정보위원회에 속하는 국가정보원의 업부가 국가 기밀을 요하는 사항이기 때문인데, 최근 국가정보원은 국가 안보를 위한 보안, 방첩, 수사 등 고유의 업무 범위를 벗어나 그 권한을 남용하고 있다는 많은 우려를 낳고 있음.\n  이에 국가 안전보장에 중대한 영향을 미치는 국가 기밀 사항이 아닌 경우에는 국회 정보위원회의 의결로 공개할 수 있도록 하여 국회 차원에서 국정원 활동에 대한 민주적 통제를 강화하고 국정원 업무의 투명성을 높이려는 것임(안 제54조의2제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-29",
+  "decision_date": null,
+  "link_id": "PRC_K1H6K1W2L2E9M1X0K3J0D4E9E1M3S5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

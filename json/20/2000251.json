@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000251",
+  "title": "[2000251] 공직선거법 일부개정법률안(안규백의원 등 13인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2000251",
+    "2016-06-15",
+    "안규백의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','EDD8A5DB-4A1D-61DB-B464-B69C21FD760C','0');",
+  "proposers": [
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "새누리당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김태년",
+      "party": "더불어민주당",
+      "name_cn": "金太年"
+    },
+    {
+      "name_kr": "김현미",
+      "party": "더불어민주당",
+      "name_cn": "金賢美"
+    },
+    {
+      "name_kr": "박남춘",
+      "party": "더불어민주당",
+      "name_cn": "朴南春"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "국민의당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "더불어민주당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "정세균",
+      "party": "무소속",
+      "name_cn": "丁世均"
+    },
+    {
+      "name_kr": "조정식",
+      "party": "더불어민주당",
+      "name_cn": "趙正湜"
+    },
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면, 예비후보자가 후보자로 등록하게 되면 선거기간 개시일까지 예비후보자를 겸하는 것으로 보고 있음.\n  그러나 예비후보자가 후보자로 등록하지 않은 경우 후보자등록기간 이후 예비후보자의 지위를 상실하는지 여부에 대해서는 명확하게 규정하고 있지 아니하여 해석의 논란이 있음. \n  이에, 후보자로 등록하지 않은 예비후보자는 후보자등록기간 다음날부터 예비후보자의 지위를 상실하도록 명확하게 규정하려는 것임(안 제60조의2제12항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-15",
+  "decision_date": "2017-03-02",
+  "link_id": "PRC_Z1D6X0T6V1K5Y1Q0J1K7H1A8H1O2D5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

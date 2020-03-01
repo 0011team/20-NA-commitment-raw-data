@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009955",
+  "title": "[2009955] 수도법 일부개정법률안(주승용의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2009955",
+    "2017-10-30",
+    "주승용의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','2C3AA4DA-1FB9-ACEA-3519-7BA0D56E2135','0');",
+  "proposers": [
+    {
+      "name_kr": "주승용",
+      "party": "국민의당",
+      "name_cn": "朱昇鎔"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "국민의당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "박주현",
+      "party": "국민의당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이개호",
+      "party": "더불어민주당",
+      "name_cn": "李介昊"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "국민의당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 수돗물의 절약과 효율적 이용을 위한 절수설비 설치의 근거를 두고 있으나 관련 표시에 대하여 규정하는 바는 없음.\n  이에 절수설비에 단위시간당 배출되는 물의 양 또는 1회당 배출되는 물의 양을 표시하도록 함으로써 소비자의 선택을 돕고, 나아가 물 사용량 감소에 도움이 되도록 하려는 것임(안 제16조제2항 신설, 제87조제3항제3호의2).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-10-30",
+  "decision_date": "2018-12-07",
+  "link_id": "PRC_T1F7U1H0U3B0Z1Y0O0T5N2D7B9B7U3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

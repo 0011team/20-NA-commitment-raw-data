@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2019975",
+  "title": "[2019975] 소방시설공사업법 일부개정법률안(소병훈의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2019975",
+    "2019-04-23",
+    "소병훈의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제368회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','AE317F0E-9522-05D5-A927-92BFC454C0DD','0');",
+  "proposers": [
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "송갑석",
+      "party": "더불어민주당",
+      "name_cn": "宋甲錫"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "안호영",
+      "party": "더불어민주당",
+      "name_cn": "安浩永"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "윤일규",
+      "party": "더불어민주당",
+      "name_cn": "尹一逵"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "인재근",
+      "party": "더불어민주당",
+      "name_cn": "印在謹"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  현행법에서는 주택건설사업, 건설업, 전기공사업, 정보통신공사업 중 한 사업과 소방시설공사업을 함께 하는 소방시설공사업자가 소방시설공사와 해당 사업의 공사를 함께 도급받은 경우 외에는 소방시설공사의 시공을 하도급할 수 없도록 규정하고 있음.\n  그러나 소방시설공사의 모든 분야가 안전과 밀접하게 연관되어 있기 때문에 하도급 제한이 시공에 대해서만 규정되어 있는 것은 적절하지 않다는 의견이 제기됨.\n  이에 소방시설공사의 설계와 시공, 감리 등에 대해서도 하도급을 제한하여 안전한 소방시설공사 환경을 조성하고자 함(안 제22조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-04-23",
+  "decision_date": null,
+  "link_id": "PRC_M1D9S0K4N2T3Q1P4B5M1J2E4X2V1W2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

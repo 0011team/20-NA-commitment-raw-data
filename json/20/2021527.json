@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021527",
+  "title": "[2021527] 국회입법조사처법 일부개정법률안(황주홍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021527",
+    "2019-07-17",
+    "황주홍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제369회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','E91F870A-1781-840F-0E47-54C1D8B67B22','0');",
+  "proposers": [
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "민주평화당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김정호",
+      "party": "더불어민주당",
+      "name_cn": "金禎鎬"
+    },
+    {
+      "name_kr": "위성곤",
+      "party": "더불어민주당",
+      "name_cn": "魏聖坤"
+    },
+    {
+      "name_kr": "이종걸",
+      "party": "더불어민주당",
+      "name_cn": "李鍾杰"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "민주평화당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "민주평화당",
+      "name_cn": "趙培淑"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현재 국회입법조사처의 사무는 「전자정부법」 및 「국회사무관리규정」에 따라 국회종합입법지원시스템 등 전자적 방식으로 처리되고 있으나 현행법에는 이에 대한 근거규정이 없는 실정임.\n  이에 전자적 방식을 활용한 사무 처리에 대한 근거를 마련하고, 그 밖에 사무 처리의 방법 및 절차에 관한 사항은 규칙으로 정하도록 위임하려는 것임(안 제3조제2항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-07-17",
+  "decision_date": null,
+  "link_id": "PRC_O1P9H0T7W1W7V1C7G2E0J1J1A7J8X7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

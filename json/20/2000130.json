@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000130",
+  "title": "[2000130] 지방재정법 일부개정법률안(권칠승의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2000130",
+    "2016-06-07",
+    "권칠승의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','B140BD5F-EFF6-3255-4902-F455FB517ABE','0');",
+  "proposers": [
+    {
+      "name_kr": "권칠승",
+      "party": "더불어민주당",
+      "name_cn": "權七勝"
+    },
+    {
+      "name_kr": "김경협",
+      "party": "더불어민주당",
+      "name_cn": "金炅俠"
+    },
+    {
+      "name_kr": "김병관",
+      "party": "더불어민주당",
+      "name_cn": "金炳官"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "박주선",
+      "party": "국민의당",
+      "name_cn": "朴柱宣"
+    },
+    {
+      "name_kr": "신경민",
+      "party": "더불어민주당",
+      "name_cn": "辛京珉"
+    },
+    {
+      "name_kr": "신동근",
+      "party": "더불어민주당",
+      "name_cn": "申東根"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "더불어민주당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "황희",
+      "party": "더불어민주당",
+      "name_cn": "黃熙"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  「지방재정법」에 명시된 부분과 시행령에서 해석하는 부분이 달라 시행령에서는 무상보육에 대한 부분을 의무지출 경비로 지정하고 있는 바, 이에 대한 규정을 명확하게 하여 「지방재정법」에서 정의하고 있는 지방자치단체의 부담비율에 대한 해석문제로 혼란이 일어나는 상황을 방지하고 이에 따라 매년 되풀이되는 중앙정부와 지방정부와의 갈등을 종식시키려는데 그 목적이 있음.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-07",
+  "decision_date": null,
+  "link_id": "PRC_N1X6E0W6P0G7L1G8W1K1T4G5O7D0F0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

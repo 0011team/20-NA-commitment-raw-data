@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2010310",
+  "title": "[2010310] 약사법 일부개정법률안(김명연의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2010310",
+    "2017-11-22",
+    "김명연의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','647CD149-9090-C64A-D9DD-58E770C562EF','0');",
+  "proposers": [
+    {
+      "name_kr": "김명연",
+      "party": "자유한국당",
+      "name_cn": "金明淵"
+    },
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김상훈",
+      "party": "자유한국당",
+      "name_cn": "金相勳"
+    },
+    {
+      "name_kr": "김재원",
+      "party": "자유한국당",
+      "name_cn": "金在原"
+    },
+    {
+      "name_kr": "박명재",
+      "party": "자유한국당",
+      "name_cn": "朴明在"
+    },
+    {
+      "name_kr": "신상진",
+      "party": "자유한국당",
+      "name_cn": "申相珍"
+    },
+    {
+      "name_kr": "염동열",
+      "party": "자유한국당",
+      "name_cn": "廉東烈"
+    },
+    {
+      "name_kr": "윤종필",
+      "party": "자유한국당",
+      "name_cn": "尹鍾畢"
+    },
+    {
+      "name_kr": "이완영",
+      "party": "자유한국당",
+      "name_cn": "李完永"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "자유한국당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "정태옥",
+      "party": "자유한국당",
+      "name_cn": "鄭泰沃"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  법치국가에서의 법 문장은 일반 국민이 쉽게 읽고 이해해서 잘 지킬 수 있도록 해야 함은 물론이고 국민의 올바른 언어생활을 위한 본보기가 되어야 하는데, 우리의 법 문장은 용어 등이 어려워 이해하기 힘든 경우가 많고 문장 구조도 어문(語文) 규범에 맞지 않아 국민의 일상적인 언어생활과 거리가 있다는 지적이 많음.\n  이에 법률의 내용을 바꾸지 않는 범위에서 “계리(計理)하다”를 “회계처리하다”로 하는 등 법 문장에 쓰는 일본식 한자어를 쉬운 한자어로 순화하여 국민이 법 문장을 이해하기 쉽게 정비하려는 것임(안 제86조의 2 제4항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-11-22",
+  "decision_date": "2018-11-23",
+  "link_id": "PRC_F1W7Y1U1V2K2R1T1X1G5E4Q8V9J7R9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

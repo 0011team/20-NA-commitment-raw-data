@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2024293",
+  "title": "[2024293] KTX와 SRT 통합을 통한 철도 공공성 강화 촉구 결의안(여영국의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2024293",
+    "2019-12-16",
+    "여영국의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제372회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','1306C78A-E7E5-6780-59F7-2A4306824B4F','0');",
+  "proposers": [
+    {
+      "name_kr": "여영국",
+      "party": "정의당",
+      "name_cn": "余永國"
+    },
+    {
+      "name_kr": "김두관",
+      "party": "더불어민주당",
+      "name_cn": "金斗官"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "심상정",
+      "party": "정의당",
+      "name_cn": "沈相정"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "이용득",
+      "party": "더불어민주당",
+      "name_cn": "李龍得"
+    },
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "민주평화당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-12-16",
+  "decision_date": null,
+  "link_id": "PRC_E1P9K1Q2W1U6C1Y5O4B7R2N1S5U1Z1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

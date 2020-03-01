@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2009603",
+  "title": "[2009603] 검찰청법 일부개정법률안(정종섭의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2009603",
+    "2017-09-26",
+    "정종섭의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제354회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','81B5388C-B509-659F-AE8F-3E212E0A6EB4','0');",
+  "proposers": [
+    {
+      "name_kr": "정종섭",
+      "party": "자유한국당",
+      "name_cn": "鄭宗燮"
+    },
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "성일종",
+      "party": "자유한국당",
+      "name_cn": "成一鍾"
+    },
+    {
+      "name_kr": "이우현",
+      "party": "자유한국당",
+      "name_cn": "李愚鉉"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "자유한국당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "이주영",
+      "party": "자유한국당",
+      "name_cn": "李柱榮"
+    },
+    {
+      "name_kr": "이철우",
+      "party": "자유한국당",
+      "name_cn": "李喆雨"
+    },
+    {
+      "name_kr": "최교일",
+      "party": "자유한국당",
+      "name_cn": "崔敎一"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 검사로서 퇴직 후 1년이 지나지 아니한 사람은 대통령비서실의 직위에 임용될 수 없으며, 대통령비서실 소속의 공무원으로서 퇴직 후 2년이 지나지 아니한 사람은 검사로 임용될 수 없도록 규정하고 있음. 이를 각 5년으로 강화하여, 검사의 편법적인 대통령비서실 파견 가능성을 방지하고 검찰의 정치적 중립성 및 독립성을 더욱 제고하고자 함.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-09-26",
+  "decision_date": null,
+  "link_id": "PRC_R1O7T0M9Q2M6A1W6L2B4C3N1B7Z6N2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

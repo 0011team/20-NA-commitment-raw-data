@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011908",
+  "title": "[2011908] 건축법 일부개정법률안(박병석의원 등 13인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2011908",
+    "2018-02-12",
+    "박병석의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제356회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','279D74DF-C30E-B5E5-CD5C-B4A3F2540AD6','0');",
+  "proposers": [
+    {
+      "name_kr": "박병석",
+      "party": "더불어민주당",
+      "name_cn": "朴炳錫"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "김영호",
+      "party": "더불어민주당",
+      "name_cn": "金映豪"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "국민의당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "박경미",
+      "party": "더불어민주당",
+      "name_cn": "朴炅美"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "박찬대",
+      "party": "더불어민주당",
+      "name_cn": "朴贊大"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "원혜영",
+      "party": "더불어민주당",
+      "name_cn": "元惠榮"
+    },
+    {
+      "name_kr": "윤관석",
+      "party": "더불어민주당",
+      "name_cn": "尹官石"
+    },
+    {
+      "name_kr": "전재수",
+      "party": "더불어민주당",
+      "name_cn": "田載秀"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 충북 제천 화재, 밀양 병원 화재 등 화재 발생으로 인한 대규모 인명피해가 발생함에 따라 화재 발생 시 피난의 중요성이 부각되고 있음.\n  이와 관련하여, 건축물에 강화유리 등으로 창문을 설치할 경우 화재나 긴급상황 발생 시 창문을 통한 구조나 피난이 용이하지 않다는 문제점이 지적되었음.\n  이에 대통령령으로 정하는 용도 및 규모의 건축물의 창문을 강화유리 등 국토교통부령으로 정하는 재료로 설치하는 경우 비상용출입창을 설치하고, 비상용출입창임을 표시하도록 함으로써 화재나 긴급상황 발생 시 창문을 통한 구조나 피난을 용이하게 하려는 것임(안 제50조의3 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-02-12",
+  "decision_date": "2019-04-05",
+  "link_id": "PRC_I1F8A0I2H1E2E1U0Z5I8U3Y8G5M9R1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

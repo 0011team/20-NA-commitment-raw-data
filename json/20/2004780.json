@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2004780",
+  "title": "[2004780] 세무사법 일부개정법률안(김도읍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2004780",
+    "2016-12-29",
+    "김도읍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제347회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','3BE4E049-70A9-1A3F-69C0-60DAEDBC020B','0');",
+  "proposers": [
+    {
+      "name_kr": "김도읍",
+      "party": "새누리당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김석기",
+      "party": "새누리당",
+      "name_cn": "金碩基"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "새누리당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "박찬우",
+      "party": "새누리당",
+      "name_cn": "朴贊佑"
+    },
+    {
+      "name_kr": "이은권",
+      "party": "새누리당",
+      "name_cn": "李殷權"
+    },
+    {
+      "name_kr": "이채익",
+      "party": "새누리당",
+      "name_cn": "李埰益"
+    },
+    {
+      "name_kr": "이현재",
+      "party": "새누리당",
+      "name_cn": "李賢在"
+    },
+    {
+      "name_kr": "전희경",
+      "party": "새누리당",
+      "name_cn": "全希卿"
+    },
+    {
+      "name_kr": "정갑윤",
+      "party": "새누리당",
+      "name_cn": "鄭甲潤"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "새누리당",
+      "name_cn": "趙慶泰"
+    }
+  ],
+  "summaries": [
+    "\n현행 「변호사법」에서는 변호사의 범죄행위에 따른 경제적 이익에 대한 필요적 몰수를 규정하고 있으나, 현행 「세무사법」에는 세무사의 범죄행위에 따른 경제적 이익에 대한 필요적 몰수 규정이 없어 「형법」 제48조에 따른 몰수·추징 규정을 적용하고 있음.\n  그런데 「형법」 제48조는 임의적 몰수를 규정하여 법관의 재량에 따라 몰수·추징 여부가 결정되고 있으므로 「세무사법」상 세무사의 명의 대여 금지 등의 의무 위반에 따른 경제적 이익의 박탈에 한계가 있는 실정임.\n  이에 「세무사법」상 명의 대여 금지 등의 의무를 위반한 자에 대한 필요적 몰수·추징 규정을 신설함으로써 세무사의 불법적 명의 대여 에 따른 이득을 박탈하려는 것임(안 제25조 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-12-29",
+  "decision_date": null,
+  "link_id": "PRC_N1P6T1R2C2F9G1A7Q2C9O2Z1X0S8V3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

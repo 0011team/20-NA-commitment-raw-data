@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015303",
+  "title": "[2015303] 공직선거법 일부개정법률안(이재정의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2015303",
+    "2018-09-04",
+    "이재정의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','5A1A794A-9001-E5AE-F53D-BD30BCD7DEF2','0');",
+  "proposers": [
+    {
+      "name_kr": "이재정",
+      "party": "더불어민주당",
+      "name_cn": "李在汀"
+    },
+    {
+      "name_kr": "김민기",
+      "party": "더불어민주당",
+      "name_cn": "金敏基"
+    },
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "김정우",
+      "party": "더불어민주당",
+      "name_cn": "金政祐"
+    },
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "박찬대",
+      "party": "더불어민주당",
+      "name_cn": "朴贊大"
+    },
+    {
+      "name_kr": "이상헌",
+      "party": "더불어민주당",
+      "name_cn": "李相憲"
+    },
+    {
+      "name_kr": "조정식",
+      "party": "더불어민주당",
+      "name_cn": "趙正湜"
+    },
+    {
+      "name_kr": "추미애",
+      "party": "더불어민주당",
+      "name_cn": "秋美愛"
+    },
+    {
+      "name_kr": "홍의락",
+      "party": "더불어민주당",
+      "name_cn": "洪宜洛"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 사전투표소나 투표소에 가서 투표할 수 없는 일정한 사람들에 대하여 사전에 거소투표신고 또는 선상투표신고를 하면 거소투표 또는 선상투표를 할 수 있도록 하고 있음.\n  그런데 거소투표 또는 선상투표에 관한 사항을 제대로 안내받지 못하여 사전에 신고를 하지 못함으로써 거소투표 또는 선상투표를 하지 못하는 사례가 발생하고 있음.\n  이에 거소투표신고 또는 선상투표신고를 하려는 사람의 신고서 기재사항을 확인하고 있는 기관·시설 등의 장은 해당 기관이나 시설 등에 있는 사람에게 거소투표신고 또는 선상투표신고에 관한 사항을 안내하도록 의무화하려는 것임(안 제38조제3항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-09-04",
+  "decision_date": null,
+  "link_id": "PRC_K1Z8T0A9F0O4I1R1I4W3B5R0P1I1O3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

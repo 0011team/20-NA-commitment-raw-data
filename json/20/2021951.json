@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2021951",
+  "title": "[2021951] 장애인복지법 일부개정법률안(장정숙의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2021951",
+    "2019-08-13",
+    "장정숙의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제370회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','BDBF3990-82F4-42AB-9163-0A1E106BC137','0');",
+  "proposers": [
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "민주평화당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "박찬대",
+      "party": "더불어민주당",
+      "name_cn": "朴贊大"
+    },
+    {
+      "name_kr": "손금주",
+      "party": "무소속",
+      "name_cn": "孫今柱"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "민주평화당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "무소속",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "임재훈",
+      "party": "바른미래당",
+      "name_cn": "林哉勳"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "민주평화당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "천정배",
+      "party": "민주평화당",
+      "name_cn": "千正培"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법령은 장애인복지시설의 종류로 장애인 거주시설, 장애인 지역사회재활시설, 장애인 직업재활시설, 장애인 의료재활시설, 장애인 생산품판매시설을 규정하고 있음. \n  그러나 장애인 직업재활시설이나 생산품판매시설은 장애인의 일자리 및 소득 보장과 관련된 시설로서 다른 장애인복지시설과 성격이 다르므로 구분하여 규정할 필요가 있다는 지적이 있음.\n  이에 장애인복지시설의 성격에 따라 장애인 거주·일상생활·의료 등 지원시설과 장애인 경제활동 지원시설로 구분하고자 함(안 제58조제1항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-08-13",
+  "decision_date": null,
+  "link_id": "PRC_H1A9I0P8O1C3C1I1V1L5E0C2S4N0U2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

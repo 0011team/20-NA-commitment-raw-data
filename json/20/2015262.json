@@ -1,0 +1,40 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015262",
+  "title": "[2015262] 국무총리ㆍ국무위원 및 정부위원 출석요구의 건(경제에 관한 질문)(홍영표의원 등 3인 외 263인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2015262",
+    "2018-09-03",
+    "홍영표의원 등 3인 외 263인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','DD6EA12E-BEA1-3CE6-966E-E4A525094B47','0');",
+  "proposers": [
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "바른미래당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金聖泰"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-09-03",
+  "decision_date": "2018-09-03",
+  "link_id": "PRC_Q1A8X0G9A0Q3J1W1B5S0L1G6R5V2K9",
+  "proposer_type": "의원",
+  "status": "처리"
+}

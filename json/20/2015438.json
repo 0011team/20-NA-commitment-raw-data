@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2015438",
+  "title": "[2015438] 국회입법조사처법 일부개정법률안(황주홍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2015438",
+    "2018-09-11",
+    "황주홍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제364회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','1B654631-79F5-C4BD-9171-C7DB190C1168','0');",
+  "proposers": [
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    },
+    {
+      "name_kr": "김광수",
+      "party": "민주평화당",
+      "name_cn": "金光守"
+    },
+    {
+      "name_kr": "김종회",
+      "party": "민주평화당",
+      "name_cn": "金鍾懷"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "바른미래당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "박주현",
+      "party": "바른미래당",
+      "name_cn": "朴珠賢"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "이언주",
+      "party": "바른미래당",
+      "name_cn": "李彦周"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "바른미래당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 국회입법조사처의 직무에 관한 독립성을 명시하면서 입법조사처의 장에 대해서만 사무를 처리함에 있어 전문성을 확보하고 중립성을 유지하도록 의무화하고 있음.\n  그러나 날로 증대되고 있는 국회입법조사처 업무의 중요성을 고려할 때, 입법조사처장 뿐만 아니라 모든 소속원들이 객관적이고 중립적으로 업무를 수행하도록 규정할 필요성이 있음. \n  이에 국회입법조사처가 사무를 처리할 때 중립성과 객관성을 유지하도록 명시하려는 것임(안 제3조제2항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-09-11",
+  "decision_date": null,
+  "link_id": "PRC_L1U8I0V9V1W1K1D7C0Q3J5R1N4J8S7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

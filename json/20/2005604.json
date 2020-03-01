@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005604",
+  "title": "[2005604] 근로기준법 일부개정법률안(김관영의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005604",
+    "2017-02-13",
+    "김관영의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제349회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','F2B1D529-0C80-E708-2B16-43D43192F4C9','0');",
+  "proposers": [
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김중로",
+      "party": "국민의당",
+      "name_cn": "金中魯"
+    },
+    {
+      "name_kr": "송기석",
+      "party": "국민의당",
+      "name_cn": "宋基錫"
+    },
+    {
+      "name_kr": "윤영일",
+      "party": "국민의당",
+      "name_cn": "尹英壹"
+    },
+    {
+      "name_kr": "이동섭",
+      "party": "국민의당",
+      "name_cn": "李銅燮"
+    },
+    {
+      "name_kr": "이용주",
+      "party": "국민의당",
+      "name_cn": "李勇周"
+    },
+    {
+      "name_kr": "이용호",
+      "party": "국민의당",
+      "name_cn": "李容鎬"
+    },
+    {
+      "name_kr": "이춘석",
+      "party": "더불어민주당",
+      "name_cn": "李春錫"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "국민의당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "최도자",
+      "party": "국민의당",
+      "name_cn": "崔道子"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용\n\n  현행법은 임신한 여성근로자가 임산부 정기건강진단을 받는데 필요한 시간을 청구하는 경우 이를 허용하여 주도록 규정하고 있음.\n  그런데 임신한 여성의 대다수가 배우자 등 보호자를 동반하여 건강진단을 실시하고 있다는 점에서 임신한 여성근로자 뿐만 아니라 보호자에 대하여도 필요한 시간을 청구할 수 있도록 보장할 필요가 있음.\n  이에 임신한 여성의 배우자 등 대통령령으로 정하는 보호자인 근로자의 경우에도 태아검진 시간을 허용하도록 하려는 것임(안 제74조의2제1항 후단 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-02-13",
+  "decision_date": null,
+  "link_id": "PRC_S1U7P0C2C1Y3K1J6B2P4G2U7C6C2S2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

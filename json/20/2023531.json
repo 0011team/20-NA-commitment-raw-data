@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023531",
+  "title": "[2023531] 형사소송법 일부개정법률안(김병기의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023531",
+    "2019-10-31",
+    "김병기의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','FFC06F4D-5214-6A95-9D0A-7A5B08214BB3','0');",
+  "proposers": [
+    {
+      "name_kr": "김병기",
+      "party": "더불어민주당",
+      "name_cn": "金炳基"
+    },
+    {
+      "name_kr": "강병원",
+      "party": "더불어민주당",
+      "name_cn": "姜炳遠"
+    },
+    {
+      "name_kr": "기동민",
+      "party": "더불어민주당",
+      "name_cn": "奇東旻"
+    },
+    {
+      "name_kr": "김진표",
+      "party": "더불어민주당",
+      "name_cn": "金振杓"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "송갑석",
+      "party": "더불어민주당",
+      "name_cn": "宋甲錫"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "윤일규",
+      "party": "더불어민주당",
+      "name_cn": "尹一逵"
+    },
+    {
+      "name_kr": "장정숙",
+      "party": "바른미래당",
+      "name_cn": "張貞淑"
+    },
+    {
+      "name_kr": "홍영표",
+      "party": "더불어민주당",
+      "name_cn": "洪永杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  현행법에 따라 누구든지 범죄가 있다고 생각하는 때에는 고발할 수 있음. 하지만 최근 인터넷과 SNS가 활성화되면서 무분별하게 고발이 남용되어 수사인력과 자원이 낭비되고 국민 불편이 초래되는 등 사회적 비용의 손실이 발생하고 있으므로 이에 대한 대책이 필요하다는 지적이 있음.\n  이에 고발을 하는 자는 피고발인 1인당 1만원의 범위에서 대법원규칙으로 정하는 바에 따라 수수료로 내도록 하고, 이를 내지 아니하는 경우에는 고발하지 아니한 것으로 보며, 고발인이 수급권자 및 차상위계층인 경우에는 수수료를 면제함으로써 무분별한 고발의 남용을 방지하려는 것임(안 제237조제3항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-10-31",
+  "decision_date": null,
+  "link_id": "PRC_I1X9I1L0C3O1L2O1N5Y4Y2C3I4U4Q4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

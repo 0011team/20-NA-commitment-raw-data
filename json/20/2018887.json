@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018887",
+  "title": "[2018887] 상훈법 일부개정법률안(황주홍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2018887",
+    "2019-02-27",
+    "황주홍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','15A6CA1A-11CF-0CBD-26CC-CE76673460B3','0');",
+  "proposers": [
+    {
+      "name_kr": "황주홍",
+      "party": "민주평화당",
+      "name_cn": "黃柱洪"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "바른미래당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "신용현",
+      "party": "바른미래당",
+      "name_cn": "申容賢"
+    },
+    {
+      "name_kr": "안민석",
+      "party": "더불어민주당",
+      "name_cn": "安敏錫"
+    },
+    {
+      "name_kr": "이종걸",
+      "party": "더불어민주당",
+      "name_cn": "李鍾杰"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "바른미래당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "민주평화당",
+      "name_cn": "張秉浣"
+    },
+    {
+      "name_kr": "정동영",
+      "party": "민주평화당",
+      "name_cn": "鄭東泳"
+    },
+    {
+      "name_kr": "정인화",
+      "party": "민주평화당",
+      "name_cn": "鄭仁和"
+    },
+    {
+      "name_kr": "조배숙",
+      "party": "민주평화당",
+      "name_cn": "趙培淑"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용 \n\n  현행법은 동일한 공적에 대하여 훈장 또는 포장을 거듭 수여하지 않도록 중복 수여를 금지하고 있음.\n  한편 2008년 독립운동가 여운형 선생, 2019년 유관순 열사의 사례와 같이 기존에 알려지지 않은 역사적 공훈이 있을 경우 국무회의 의결을 거쳐 추가서훈을 실시하고 있음.\n  따라서 현행법에는 추가서훈에 대한 법적 근거가 없어 향후 다른 서훈 대상자들에 대한 추가서훈 요구가 있을 경우 혼선과 형평성 논란이 우려되는 바, 추가서훈 수여에 필요한 최소한의 요건을 규정하고자 함(안 제4조 단서 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-02-27",
+  "decision_date": null,
+  "link_id": "PRC_D1Z9L0E2J2P7Y1D7D5N4Q3O4C6G0L7",
+  "proposer_type": "의원",
+  "status": "처리"
+}

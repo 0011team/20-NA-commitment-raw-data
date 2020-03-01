@@ -1,0 +1,90 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000722",
+  "title": "[2000722] 형법 일부개정법률안(이석현의원 등 13인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2000722",
+    "2016-07-07",
+    "이석현의원 등 13인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','0C6E54DC-C9FD-5B46-0D6F-327B676B9F83','0');",
+  "proposers": [
+    {
+      "name_kr": "이석현",
+      "party": "더불어민주당",
+      "name_cn": "李錫玄"
+    },
+    {
+      "name_kr": "김관영",
+      "party": "국민의당",
+      "name_cn": "金寬永"
+    },
+    {
+      "name_kr": "김병관",
+      "party": "더불어민주당",
+      "name_cn": "金炳官"
+    },
+    {
+      "name_kr": "김해영",
+      "party": "더불어민주당",
+      "name_cn": "金海永"
+    },
+    {
+      "name_kr": "김현미",
+      "party": "더불어민주당",
+      "name_cn": "金賢美"
+    },
+    {
+      "name_kr": "박경미",
+      "party": "더불어민주당",
+      "name_cn": "朴炅美"
+    },
+    {
+      "name_kr": "박광온",
+      "party": "더불어민주당",
+      "name_cn": "朴洸瑥"
+    },
+    {
+      "name_kr": "박홍근",
+      "party": "더불어민주당",
+      "name_cn": "朴洪根"
+    },
+    {
+      "name_kr": "백재현",
+      "party": "더불어민주당",
+      "name_cn": "白在鉉"
+    },
+    {
+      "name_kr": "변재일",
+      "party": "더불어민주당",
+      "name_cn": "卞在一"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "조정식",
+      "party": "더불어민주당",
+      "name_cn": "趙正湜"
+    }
+  ],
+  "summaries": [
+    "\n■ 제안이유 및 주요내용 \n\n  현행법에 따르면 선고받은 벌금 또는 과료를 납입하지 아니한 자는 노역장에 유치되어 작업을 하게 됨. 그런데 노역장 유치 기간을 벌금의 경우 최장 3년으로 정해, 벌금액이 고액인 경우 일당 벌금액이 지나치게 고액으로 산출됨에 따라 소액 일당 벌금액에 비교할 때 그 불균형이 심하고, 자칫 노역장 유치 환형 처분이 벌금을 회피하는 수단으로 이용될 우려가 있음.\n 이에 노역장 유치기간을 현행 3년에서 6년으로 늘려 다른 벌금형의 처벌을 받은 사람과의 형평성 및 범죄에 따른 책임주의에 부합하도록 하고, 벌금형의 납입을 촉구하고자 함(안 제69조제2항).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-07-07",
+  "decision_date": null,
+  "link_id": "PRC_P1N6Q0G7I0A7M0O9K4I2P3N2C7G3T8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

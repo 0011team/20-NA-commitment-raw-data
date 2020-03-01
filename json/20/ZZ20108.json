@@ -1,0 +1,40 @@
+{
+  "assembly_id": 20,
+  "bill_id": "ZZ20108",
+  "title": "[ZZ20108] 더불어민주당원 등의 대통령선거 댓글공작 및 여론조작 사건과 관련된 진상규명을 위한 국정조사 요구(김성태의원 등 3인 외 154인) 입법예고중",
+  "current_status": "접수",
+  "reception_info": [
+    "ZZ20108",
+    "2018-04-23",
+    "김성태의원 등 3인 외 154인",
+    "의안원문",
+    "제20대 (2016~2020) 제359회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','59323C15-1145-B333-7BDC-EB3146926B63','0');",
+  "proposers": [
+    {
+      "name_kr": "김성태",
+      "party": "자유한국당",
+      "name_cn": "金聖泰"
+    },
+    {
+      "name_kr": "김동철",
+      "party": "바른미래당",
+      "name_cn": "金東喆"
+    },
+    {
+      "name_kr": "장병완",
+      "party": "민주평화당",
+      "name_cn": "張秉浣"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-04-23",
+  "decision_date": null,
+  "link_id": "PRC_K1R8H0X4I2F3J1R7M4P4O5G1R5V8T0",
+  "proposer_type": "의원",
+  "status": "처리"
+}

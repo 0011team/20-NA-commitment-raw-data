@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2013296",
+  "title": "[2013296] 항만법 일부개정법률안(김도읍의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2013296",
+    "2018-04-27",
+    "김도읍의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제359회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','04C2A56A-FC2C-238E-07B8-36B6A81D0D9E','0');",
+  "proposers": [
+    {
+      "name_kr": "김도읍",
+      "party": "자유한국당",
+      "name_cn": "金度邑"
+    },
+    {
+      "name_kr": "김광림",
+      "party": "자유한국당",
+      "name_cn": "金光琳"
+    },
+    {
+      "name_kr": "김무성",
+      "party": "자유한국당",
+      "name_cn": "金武星"
+    },
+    {
+      "name_kr": "김세연",
+      "party": "자유한국당",
+      "name_cn": "金世淵"
+    },
+    {
+      "name_kr": "김진태",
+      "party": "자유한국당",
+      "name_cn": "金鎭台"
+    },
+    {
+      "name_kr": "김태흠",
+      "party": "자유한국당",
+      "name_cn": "金泰欽"
+    },
+    {
+      "name_kr": "유기준",
+      "party": "자유한국당",
+      "name_cn": "兪奇濬"
+    },
+    {
+      "name_kr": "장제원",
+      "party": "자유한국당",
+      "name_cn": "張濟元"
+    },
+    {
+      "name_kr": "정유섭",
+      "party": "자유한국당",
+      "name_cn": "鄭有燮"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 항만구역에서 사업을 영위하는 자는 온실가스와 오염물질 배출을 줄이도록 노력하고 정부는 항만사업자에게 온실가스 등의 배출을 방지하거나 감축하기 위하여 필요한 설비의 설치 등을 권고할 수 있다고 규정하고 있음.\n  그런데 최근 항만도시에서는 선박이 배출하는 미세먼지 등으로 대기오염이 심각함에도 국내 항만에는 미세먼지를 많이 배출하는 대형선박용 고압 육상전원공급설비가 설치된 곳이 없어 이에 대한 개선이 필요한 것으로 보임.\n  이에 항만시설의 소유자에게 미세먼지의 배출을 방지하거나 감축하기 위한 육상전원공급설비를 설치할 수 있도록 하는 규정을 마련하려는 것임.\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-04-27",
+  "decision_date": null,
+  "link_id": "PRC_L1G8F0O4L2L7E1V7A5F5C5E9D4X7T2",
+  "proposer_type": "의원",
+  "status": "처리"
+}

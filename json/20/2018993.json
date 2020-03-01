@@ -1,0 +1,30 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2018993",
+  "title": "[2018993] 외교통일위원장(강석호) 사임의 건(강석호의원) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2018993",
+    "2019-03-06",
+    "강석호의원",
+    "의안원문",
+    "제20대 (2016~2020) 제366회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','4E2371FC-13F3-8D0B-7D2B-909DD7DE527B','0');",
+  "proposers": [
+    {
+      "name_kr": "강석호",
+      "party": "자유한국당",
+      "name_cn": "姜碩鎬"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-03-06",
+  "decision_date": "2019-03-07",
+  "link_id": "PRC_T1J9X0E3A0Y6J1M5I4O2J4X6W4Y0E4",
+  "proposer_type": "의원",
+  "status": "처리"
+}

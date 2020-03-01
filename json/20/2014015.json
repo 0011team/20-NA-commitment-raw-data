@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2014015",
+  "title": "[2014015] 교통사고처리 특례법 일부개정법률안(이종배의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2014015",
+    "2018-06-26",
+    "이종배의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제361회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','3551CBB2-08C4-1AA1-9555-B18BA2BCCAD5','0');",
+  "proposers": [
+    {
+      "name_kr": "이종배",
+      "party": "자유한국당",
+      "name_cn": "李鍾培"
+    },
+    {
+      "name_kr": "곽대훈",
+      "party": "자유한국당",
+      "name_cn": "郭大勳"
+    },
+    {
+      "name_kr": "김순례",
+      "party": "자유한국당",
+      "name_cn": "金順禮"
+    },
+    {
+      "name_kr": "박순자",
+      "party": "자유한국당",
+      "name_cn": "朴順子"
+    },
+    {
+      "name_kr": "박인숙",
+      "party": "자유한국당",
+      "name_cn": "朴仁淑"
+    },
+    {
+      "name_kr": "백승주",
+      "party": "자유한국당",
+      "name_cn": "白承周"
+    },
+    {
+      "name_kr": "이만희",
+      "party": "자유한국당",
+      "name_cn": "李晩熙"
+    },
+    {
+      "name_kr": "이은재",
+      "party": "자유한국당",
+      "name_cn": "李恩宰"
+    },
+    {
+      "name_kr": "이장우",
+      "party": "자유한국당",
+      "name_cn": "李莊雨"
+    },
+    {
+      "name_kr": "추경호",
+      "party": "자유한국당",
+      "name_cn": "秋慶鎬"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에 따르면 아파트 등 주택단지, 교정, 주차장 등은 자동차의 운전이 가능한 지역이나 운전자의 위험운전으로 인해 사고가 발생해도 도로 외 구역으로 분류되어 해당 구역에서 교통사고가 발생하였을 때 가해운전자는 12대 중과실의 책임이 없음.\n  도로 외 구역이라 하더라도 자동차의 통행이 가능한 경우 사고의 가능성이 있고, 중과실을 범한 경우에 그에 상응한 책임을 부여해야 할 필요가 있음.\n  이에 도로 외의 곳에서 차의 교통으로 사람의 생명에 대한 위험이 발생하거나 불구 또는 불치나 난치의 질병에 이르게 한 경우에는 공소를 제기할 수 있도록 하려는 것임(안 제3조제2항제13호 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-06-26",
+  "decision_date": null,
+  "link_id": "PRC_R1A8R0H6W2H6W1G3U4R6M4I8O1Z0Q1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

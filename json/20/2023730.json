@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2023730",
+  "title": "[2023730] 하도급거래 공정화에 관한 법률 일부개정법률안(추혜선의원 등 10인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2023730",
+    "2019-11-12",
+    "추혜선의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제371회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','1436ADF9-7D89-9898-5130-658D92DEF9DB','0');",
+  "proposers": [
+    {
+      "name_kr": "추혜선",
+      "party": "정의당",
+      "name_cn": "秋惠仙"
+    },
+    {
+      "name_kr": "고용진",
+      "party": "더불어민주당",
+      "name_cn": "高榕禛"
+    },
+    {
+      "name_kr": "김종대",
+      "party": "정의당",
+      "name_cn": "金鍾大"
+    },
+    {
+      "name_kr": "심상정",
+      "party": "정의당",
+      "name_cn": "沈相정"
+    },
+    {
+      "name_kr": "여영국",
+      "party": "정의당",
+      "name_cn": "余永國"
+    },
+    {
+      "name_kr": "유동수",
+      "party": "더불어민주당",
+      "name_cn": "柳東秀"
+    },
+    {
+      "name_kr": "윤소하",
+      "party": "정의당",
+      "name_cn": "尹昭夏"
+    },
+    {
+      "name_kr": "이정미",
+      "party": "정의당",
+      "name_cn": "李貞味"
+    },
+    {
+      "name_kr": "진선미",
+      "party": "더불어민주당",
+      "name_cn": "陳善美"
+    },
+    {
+      "name_kr": "채이배",
+      "party": "바른미래당",
+      "name_cn": "蔡利培"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 건설하도급거래의 원사업자가 하도급대금 지급을 보증하도록 하고 있으나 발급받은 지급보증서 또는 그 사본을 수급사업자에게 교부하도록 하는 규정을 두지 않고 있음. 이로 인해 수급사업자는 지급보증서를 교부받지 못하는 경우가 많아 원사업자의 지급보증 의무 이행 여부를 확인하는 데 어려움을 겪고 있음. \n  이에 원사업자가 지급보증서 또는 그 사본을 수급사업자에게 교부하도록 의무화함으로써 수급사업자들이 원사업자의 지급보증 의무 이행 여부를 알 수 있도록 하려는 것임(안 제13조의2제11항 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2019-11-12",
+  "decision_date": null,
+  "link_id": "PRC_S1N9O1B1O1G2I1U0M4D6G3O3Y7T5Z5",
+  "proposer_type": "의원",
+  "status": "처리"
+}

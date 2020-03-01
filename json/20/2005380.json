@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2005380",
+  "title": "[2005380] 근로기준법 일부개정법률안(이종걸의원 등 11인) 입법예고중",
+  "current_status": "위원회 심사",
+  "reception_info": [
+    "2005380",
+    "2017-02-02",
+    "이종걸의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제349회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','1F3481F6-F01A-BA5E-B7B2-E41C79F18BFF','0');",
+  "proposers": [
+    {
+      "name_kr": "이종걸",
+      "party": "더불어민주당",
+      "name_cn": "李鍾杰"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "김경진",
+      "party": "국민의당",
+      "name_cn": "金京鎭"
+    },
+    {
+      "name_kr": "김종민",
+      "party": "더불어민주당",
+      "name_cn": "金鍾民"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "민병두",
+      "party": "더불어민주당",
+      "name_cn": "閔丙두"
+    },
+    {
+      "name_kr": "박용진",
+      "party": "더불어민주당",
+      "name_cn": "朴用鎭"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "심재권",
+      "party": "더불어민주당",
+      "name_cn": "沈載權"
+    },
+    {
+      "name_kr": "유성엽",
+      "party": "국민의당",
+      "name_cn": "柳成葉"
+    },
+    {
+      "name_kr": "정재호",
+      "party": "더불어민주당",
+      "name_cn": "鄭在浩"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법은 사용자로 하여금 근로자의 의사에 반하는 강제근로를 금지하고 있으며 근로자에게 정당한 이유 없이 해고, 휴직, 정직 등의 부당해고 등을 금지하고 있으나 사용자가 이를 위반하는 경우 발생하는 손해배상에 관하여는 명확하게 규정하고 있지 않음.\n  이에 해당 규정을 위반한 사업주에게는 징벌적 손해배상을 하도록 하여 근로자의 권리침해에 대한 실효적인 구제수단을 마련하고 법위반 행위의 재발방지에 기여하려는 것임(안 제92조의2 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-02-02",
+  "decision_date": null,
+  "link_id": "PRC_E1X7R0L2X0P2P1Q1B0X2W2D6U7Y2M3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

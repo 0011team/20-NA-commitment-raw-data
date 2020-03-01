@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2000121",
+  "title": "[2000121] 공공주택 특별법 일부개정법률안(조정식의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2000121",
+    "2016-06-07",
+    "조정식의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제343회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','20B0F602-02D3-88DF-45FA-797E528CE85E','0');",
+  "proposers": [
+    {
+      "name_kr": "조정식",
+      "party": "더불어민주당",
+      "name_cn": "趙正湜"
+    },
+    {
+      "name_kr": "강창일",
+      "party": "더불어민주당",
+      "name_cn": "姜昌一"
+    },
+    {
+      "name_kr": "김태년",
+      "party": "더불어민주당",
+      "name_cn": "金太年"
+    },
+    {
+      "name_kr": "박재호",
+      "party": "더불어민주당",
+      "name_cn": "朴在昊"
+    },
+    {
+      "name_kr": "설훈",
+      "party": "더불어민주당",
+      "name_cn": "薛勳"
+    },
+    {
+      "name_kr": "신창현",
+      "party": "더불어민주당",
+      "name_cn": "申昌賢"
+    },
+    {
+      "name_kr": "안규백",
+      "party": "더불어민주당",
+      "name_cn": "安圭伯"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "진선미",
+      "party": "더불어민주당",
+      "name_cn": "陳善美"
+    },
+    {
+      "name_kr": "황주홍",
+      "party": "국민의당",
+      "name_cn": "黃柱洪"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  최근 20ㆍ30대 청년층이 과도한 주거비 부담 때문에 쪽방이나 시설이 열악한 일부 고시원ㆍ원룸 등에 거주하게 되어 청년 1인가구의 주거불안정을 심화시키고 삶의 질을 저하시키고 있음.\n  이에 국가ㆍ지방자치단체 등 공공주택사업자가 대통령령으로 정하는 청년 중 대통령령으로 정하는 소득ㆍ자산 기준 이하를 충족하는 단독 세대주인 청년 1인가구에게 공공주택 및 공공준주택을 우선적으로 공급하도록 함으로써 청년층의 주거안정과 삶의 질 향상을 도모하려는 것임(안 제2조의2제1항 및 안 제48조의8 신설).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-06-07",
+  "decision_date": "2016-11-17",
+  "link_id": "PRC_F1T6M0X6W0D7C1P7J0C5I1D9V9K0T3",
+  "proposer_type": "의원",
+  "status": "처리"
+}

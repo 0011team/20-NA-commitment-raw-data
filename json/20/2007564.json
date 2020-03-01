@@ -1,0 +1,80 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2007564",
+  "title": "[2007564] 인신보호법 일부개정법률안(박정의원 등 11인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2007564",
+    "2017-06-23",
+    "박정의원 등 11인",
+    "의안원문",
+    "제20대 (2016~2020) 제351회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','D9BC3C49-97E4-02AD-2138-C6EEB1138FDF','0');",
+  "proposers": [
+    {
+      "name_kr": "박정",
+      "party": "더불어민주당",
+      "name_cn": "朴釘"
+    },
+    {
+      "name_kr": "김병관",
+      "party": "더불어민주당",
+      "name_cn": "金炳官"
+    },
+    {
+      "name_kr": "노웅래",
+      "party": "더불어민주당",
+      "name_cn": "盧雄來"
+    },
+    {
+      "name_kr": "민홍철",
+      "party": "더불어민주당",
+      "name_cn": "閔洪喆"
+    },
+    {
+      "name_kr": "서영교",
+      "party": "무소속",
+      "name_cn": "徐瑛敎"
+    },
+    {
+      "name_kr": "서형수",
+      "party": "더불어민주당",
+      "name_cn": "徐炯洙"
+    },
+    {
+      "name_kr": "소병훈",
+      "party": "더불어민주당",
+      "name_cn": "蘇秉勳"
+    },
+    {
+      "name_kr": "손혜원",
+      "party": "더불어민주당",
+      "name_cn": "孫惠園"
+    },
+    {
+      "name_kr": "윤후덕",
+      "party": "더불어민주당",
+      "name_cn": "尹厚德"
+    },
+    {
+      "name_kr": "이찬열",
+      "party": "국민의당",
+      "name_cn": "李燦烈"
+    },
+    {
+      "name_kr": "정성호",
+      "party": "더불어민주당",
+      "name_cn": "鄭成湖"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서 구제청구에 관한 결정에 대하여 즉시항고 제기기간을 3일로 정한 것에 대해 헌법재판소는 제기기간을 지나치게 짧게 정하여 항고제기를 매우 어렵게 하고 있어 헌법상 재판청구권을 침해한다는 위헌 결정을 선고하였음(2015.9.24.선고, 2013헌가21 결정).\n  이에 구제청구에 관한 결정에 대한 피수용자인 구제청구자의 즉시항고 제기기간을 10일로 연장하여 인신의 자유를 제한당하고 있는 개인에 대한 구제절차를 강화하려는 것임(안 제15조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2017-06-23",
+  "decision_date": "2017-09-28",
+  "link_id": "PRC_N1E7R0A6A2A3P1H7C2O7Q0A1M5K2U1",
+  "proposer_type": "의원",
+  "status": "처리"
+}

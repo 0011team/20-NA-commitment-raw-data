@@ -1,0 +1,40 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2002003",
+  "title": "[2002003] 국무총리 및 국무위원 출석요구의 건(외교ㆍ통일ㆍ안보에 관한 질문)(정진석의원 등 3인 외 281인) 입법예고중",
+  "current_status": "의결",
+  "reception_info": [
+    "2002003",
+    "2016-09-01",
+    "정진석의원 등 3인 외 281인",
+    "의안원문",
+    "제20대 (2016~2020) 제346회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','6D48651A-CE7C-F414-88DB-5FC89B27259F','0');",
+  "proposers": [
+    {
+      "name_kr": "정진석",
+      "party": "새누리당",
+      "name_cn": "鄭鎭碩"
+    },
+    {
+      "name_kr": "박지원",
+      "party": "국민의당",
+      "name_cn": "朴智元"
+    },
+    {
+      "name_kr": "우상호",
+      "party": "더불어민주당",
+      "name_cn": "禹相虎"
+    }
+  ],
+  "summaries": [
+    "\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2016-09-01",
+  "decision_date": "2016-09-02",
+  "link_id": "PRC_Z1B6H0T9G0B1G1N1L3I1U0E1K6P6I8",
+  "proposer_type": "의원",
+  "status": "처리"
+}

@@ -1,0 +1,75 @@
+{
+  "assembly_id": 20,
+  "bill_id": "2011536",
+  "title": "[2011536] 항만공사법 일부개정법률안(김성찬의원 등 10인) 입법예고중",
+  "current_status": "대안반영폐기",
+  "reception_info": [
+    "2011536",
+    "2018-01-25",
+    "김성찬의원 등 10인",
+    "의안원문",
+    "제20대 (2016~2020) 제355회"
+  ],
+  "reception_file_link": "javascript:openBillFile('http://likms.assembly.go.kr/filegate/servlet/FileGate','1DDBDE30-2BBF-A61F-26EB-40CE6FDEB064','0');",
+  "proposers": [
+    {
+      "name_kr": "김성찬",
+      "party": "자유한국당",
+      "name_cn": "金盛贊"
+    },
+    {
+      "name_kr": "경대수",
+      "party": "자유한국당",
+      "name_cn": "慶大秀"
+    },
+    {
+      "name_kr": "김승희",
+      "party": "자유한국당",
+      "name_cn": "金承禧"
+    },
+    {
+      "name_kr": "김재경",
+      "party": "자유한국당",
+      "name_cn": "金在庚"
+    },
+    {
+      "name_kr": "박덕흠",
+      "party": "자유한국당",
+      "name_cn": "朴德欽"
+    },
+    {
+      "name_kr": "박맹우",
+      "party": "자유한국당",
+      "name_cn": "朴孟雨"
+    },
+    {
+      "name_kr": "이명수",
+      "party": "자유한국당",
+      "name_cn": "李明洙"
+    },
+    {
+      "name_kr": "이종명",
+      "party": "자유한국당",
+      "name_cn": "李鍾明"
+    },
+    {
+      "name_kr": "조경태",
+      "party": "자유한국당",
+      "name_cn": "趙慶泰"
+    },
+    {
+      "name_kr": "홍문표",
+      "party": "자유한국당",
+      "name_cn": "洪文杓"
+    }
+  ],
+  "summaries": [
+    "\n제안이유 및 주요내용\n\n  현행법에서는 항만공사의 사업범위 중 하나로「마리나항만의 조성 및 관리 등에 관한 법률」에 따른 마리나항만시설의 조성사업을 수행할 수 있도록 하고 있으나, 마리나항만시설의 관리·운영에 대해서는 규정하고 있지 않아 항만공사가 직접 조성한 마리나항만시설을 관리·운영할 수 없음.\n  이에 항만공사가 마리나항만시설의 조성사업 뿐만 아니라 관리·운영할 수 있도록 하고, 이 경우 「마리나항만의 조성 및 관리 등에 관한 법률」에 따른 마리나항만에 대한 기본계획을 따르도록 하여 마리나항만사업의 추진 효과를 제고하고자 하는 것임(안 제8조제1항 및 제21조).\n"
+  ],
+  "withdrawers": [],
+  "proposed_date": "2018-01-25",
+  "decision_date": "2018-12-07",
+  "link_id": "PRC_E1J8K0G1Y2S5F1R0B0V8N4J4X6H1U8",
+  "proposer_type": "의원",
+  "status": "처리"
+}
